@@ -46,6 +46,19 @@
       ]
     },
     {
+      "context": "Homepage, collections index and collection headings",
+      "use": "Linked thumbnails: the homepage \"Start here\" shelf, three thumbnails per collection tile and up to four in a collection page heading, each linking directly to that film's review. The three larger homepage images are limited to public-domain and openly licensed posters.",
+      "strengths": [
+        "Each image links to the film's review, so it still serves to identify the reviewed work.",
+        "The largest homepage images carry no copyright risk (public domain or open licence).",
+        "Thumbnails are small and shown whole or cropped only at the edge for layout; the full image and credit are on the profile."
+      ],
+      "weaknesses": [
+        "On the homepage and collection tiles the images also make the page more attractive, which weighs against the criticism-and-review purpose; this is the weakest context for copyrighted items and should be reconsidered if a rights holder objects.",
+        "Collection-tile and heading thumbnails are cropped to a common shape (object-fit: cover, top-aligned)."
+      ]
+    },
+    {
       "context": "Image-credits page",
       "use": "Lists each image with creator, rights holder, source and rights category; thumbnails, if shown, are small.",
       "strengths": [
@@ -77,7 +90,7 @@
       ]
     }
   ],
-  "notUsed": "Posters are not used as homepage decoration, hero art or social-preview images.",
+  "notUsed": "Posters are not used as backgrounds, banners, page decoration or social-preview images. Every poster on the site links to the review of its film.",
   "assets": [
     {
       "id": "the-passion-of-the-christ",

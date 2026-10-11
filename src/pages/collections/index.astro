@@ -1,11 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import {
-  collections,
-  groupOrder,
-  collectionCount,
-  url,
-} from '../../data/catalogue';
+import TopicTile from '../../components/TopicTile.astro';
+import { collections, groupOrder } from '../../data/catalogue';
 const intros: Record<string, string> = {
   Subjects: 'Christ, Our Lady, the saints and the people who serve the Church.',
   Histories: 'Particular persecutions and the people who lived through them.',
@@ -37,19 +33,7 @@ const groups = groupOrder
           <h2 id={`group-${gi}`}>{g.name}</h2>
           {intros[g.name] && <p>{intros[g.name]}</p>}
           <div class="topic-grid">
-            {g.items.map((c) => {
-              const count = collectionCount(c.id);
-              return (
-                <a
-                  class:list={['topic', { 'is-empty': !count }]}
-                  href={url(`collections/${c.id}/`)}
-                >
-                  <h3>{c.title}</h3>
-                  <p>{c.description}</p>
-                  <span class="count">{count || 'Under review'}</span>
-                </a>
-              );
-            })}
+            {g.items.map((c) => <TopicTile collection={c} />)}
           </div>
         </section>
       ))

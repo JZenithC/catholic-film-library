@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import FilmCard from '../../components/FilmCard.astro';
+import { posterFor } from '../../data/posters';
 import {
   collections,
   filmsIn,
@@ -23,17 +24,41 @@ const selection = featured.filter((f) => ids.has(f.id));
 const greyIds = new Set(greyIn(collection.id).map((f) => f.id));
 const greySelection = publicInOrder.filter((f) => greyIds.has(f.id));
 const count = collectionCount(collection.id);
+// Heading strip: up to four recommended films with posters, each linking to its review.
+const strip = selection
+  .map((f) => ({ film: f, poster: posterFor(f.id) }))
+  .filter((t) => t.poster)
+  .slice(0, 4);
 ---
 
 <Layout title={collection.title} description={collection.description}>
   <div class="wrap">
-    <div class="page-heading">
-      <nav class="breadcrumbs" aria-label="Breadcrumb">
-        <a href={url('collections/')}>Collections</a> / {collection.group}
-      </nav>
-      <h1>{collection.title}</h1>
-      <p class="lead">{collection.description}</p>
-      {count && <p class="muted">{count}</p>}
+    <div class:list={['page-heading', { 'has-strip': strip.length >= 2 }]}>
+      <div>
+        <nav class="breadcrumbs" aria-label="Breadcrumb">
+          <a href={url('collections/')}>Collections</a> / {collection.group}
+        </nav>
+        <h1>{collection.title}</h1>
+        <p class="lead">{collection.description}</p>
+        {count && <p class="muted">{count}</p>}
+      </div>
+      {
+        strip.length >= 2 && (
+          <div class="heading-strip" aria-hidden="true">
+            {strip.map(({ film, poster }) => (
+              <a href={url(`films/${film.slug}/`)} tabindex="-1">
+                <img
+                  src={url(poster!.src)}
+                  width={poster!.width}
+                  height={poster!.height}
+                  alt=""
+                  decoding="async"
+                />
+              </a>
+            ))}
+          </div>
+        )
+      }
     </div>
     {
       collection.gap && (

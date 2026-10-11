@@ -444,3 +444,117 @@ html:not(.js) .library { grid-template-columns: minmax(0, 1fr); }
   .site-header .wrap { gap: 12px; }
   .brand { white-space: normal; font-size: 20px; line-height: 1.15; }
 }
+
+/* Visual pass: posters on the homepage, collections and collection pages.
+   Every poster here is a link to that film's review; the large hero images
+   are public-domain or openly licensed (see research/poster-rights-review.json). */
+.hero-band {
+  background:
+    radial-gradient(ellipse at 85% 30%, rgb(118 85 32 / 0.10), transparent 60%),
+    linear-gradient(180deg, var(--panel), var(--paper));
+  border-bottom: 1px solid var(--line);
+}
+.home-hero { align-items: center; }
+.hero-posters {
+  list-style: none; margin: 0; padding: 12px 0 28px;
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px;
+  align-items: end;
+}
+.hero-posters li { min-width: 0; }
+.hero-posters a { display: block; text-decoration: none; color: inherit; }
+.hero-posters .poster-art,
+.hero-posters .title-card {
+  box-shadow: 0 1px 2px rgb(31 35 29 / 0.18), 0 14px 32px -12px rgb(31 35 29 / 0.45);
+  transition: transform 0.25s ease;
+}
+.hero-posters .hp1 { transform: translateY(-26px); }
+.hero-posters .hp0 .poster-art, .hero-posters .hp0 .title-card { transform: rotate(-2deg); }
+.hero-posters .hp2 .poster-art, .hero-posters .hp2 .title-card { transform: rotate(2deg); }
+.hero-posters a:hover .poster-art, .hero-posters a:hover .title-card { transform: translateY(-4px) rotate(0); }
+.hp-caption {
+  display: block; margin-top: 12px; font: 500 17px/1.2 var(--serif); color: var(--ink);
+}
+.hp-caption span { font: 400 13px var(--sans); color: var(--muted); margin-left: 4px; }
+.hero-posters a:hover .hp-caption { text-decoration: underline; }
+
+/* Start-here shelf */
+.shelf {
+  list-style: none; margin: 0; padding: 0;
+  display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 22px;
+}
+.shelf a { display: flex; flex-direction: column; text-decoration: none; color: inherit; }
+.shelf .poster-art, .shelf .title-card {
+  margin-bottom: 10px; box-shadow: 0 10px 22px -14px rgb(31 35 29 / 0.55);
+  transition: transform 0.2s ease;
+}
+.shelf a:hover .poster-art, .shelf a:hover .title-card { transform: translateY(-3px); }
+.shelf-title { font: 500 19px/1.15 var(--serif); }
+.shelf a:hover .shelf-title { text-decoration: underline; }
+.shelf-meta { font-size: 13px; color: var(--muted); margin-top: 3px; }
+
+/* Collection tiles with poster thumbnails */
+.topic { padding: 0; gap: 0; min-height: 0; }
+.topic:hover { background: var(--paper); }
+.band .topic:hover { background: #f3eee2; }
+.topic-thumbs {
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px;
+  padding: 16px 22px 0; height: 132px; overflow: hidden; align-items: start;
+}
+.topic-thumbs a { display: block; min-width: 0; }
+.topic-thumbs img {
+  width: 100%; aspect-ratio: 2 / 3; object-fit: cover; object-position: top;
+  display: block; background: var(--panel);
+  box-shadow: 0 6px 14px -8px rgb(31 35 29 / 0.5);
+}
+.topic-thumbs.is-blank {
+  display: flex; align-items: end; margin: 16px 22px 0; padding: 14px 16px; height: 116px;
+  background: var(--accent); color: var(--accent-ink);
+  font: 500 22px/1.1 var(--serif); position: relative;
+}
+.topic-thumbs.is-blank::before {
+  content: ''; position: absolute; inset: 5px; border: 1px solid rgb(245 241 232 / 0.25);
+}
+.topic.is-empty .topic-thumbs.is-blank { background: #3b3a33; }
+.topic-body {
+  display: flex; flex-direction: column; gap: 6px; flex: 1;
+  padding: 16px 22px 22px; text-decoration: none; color: inherit;
+}
+.topic-body:hover { background: #fffdf8; color: inherit; }
+.topic-body:hover h3 { text-decoration: underline; }
+
+/* Collection page heading with a poster strip */
+.page-heading.has-strip {
+  max-width: none; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 0.9fr);
+  gap: clamp(24px, 5vw, 64px); align-items: center;
+}
+.page-heading.has-strip > div:first-child { max-width: 52em; }
+.heading-strip {
+  display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; align-items: end;
+}
+.heading-strip a { display: block; }
+.heading-strip a:nth-child(even) { transform: translateY(-14px); }
+.heading-strip img {
+  width: 100%; aspect-ratio: 2 / 3; object-fit: cover; object-position: top; display: block;
+  background: var(--panel); box-shadow: 0 10px 22px -12px rgb(31 35 29 / 0.55);
+}
+
+@media (max-width: 1080px) {
+  .shelf { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 26px 18px; }
+}
+@media (max-width: 900px) {
+  .hero-posters { max-width: 520px; padding-top: 32px; }
+  .page-heading.has-strip { grid-template-columns: minmax(0, 1fr); }
+  .heading-strip { max-width: 420px; }
+}
+@media (max-width: 640px) {
+  .shelf { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 14px; }
+  .hero-posters { gap: 10px; }
+  .hero-posters .hp1 { transform: translateY(-14px); }
+  .hp-caption { font-size: 15px; }
+  .topic-thumbs { height: 112px; padding: 14px 16px 0; }
+  .topic-thumbs.is-blank { margin: 14px 16px 0; height: 96px; }
+  .topic-body { padding: 14px 16px 18px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-posters .poster-art, .hero-posters .title-card, .shelf .poster-art, .shelf .title-card { transition: none; }
+}

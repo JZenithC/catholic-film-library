@@ -1,0 +1,53 @@
+---
+import { posterFor } from '../data/posters';
+import {
+  featured,
+  filmsIn,
+  collectionCount,
+  url,
+  type Collection,
+} from '../data/catalogue';
+interface Props {
+  collection: Collection;
+}
+const { collection: c } = Astro.props;
+const count = collectionCount(c.id);
+// Up to three recommended films from the collection that have a poster. Each
+// thumbnail links to that film's own review (see research/poster-rights-review.json).
+const ids = new Set(filmsIn(c.id).map((f) => f.id));
+const thumbs = featured
+  .filter((f) => ids.has(f.id))
+  .map((f) => ({ film: f, poster: posterFor(f.id) }))
+  .filter((t) => t.poster)
+  .slice(0, 3);
+---
+
+<div class:list={['topic', { 'is-empty': !count }]}>
+  {
+    thumbs.length > 0 ? (
+      <div class="topic-thumbs" aria-hidden="true">
+        {thumbs.map(({ film, poster }) => (
+          <a href={url(`films/${film.slug}/`)} tabindex="-1">
+            <img
+              src={url(poster!.src)}
+              width={poster!.width}
+              height={poster!.height}
+              alt=""
+              loading="lazy"
+              decoding="async"
+            />
+          </a>
+        ))}
+      </div>
+    ) : (
+      <div class="topic-thumbs is-blank" aria-hidden="true">
+        <span>{c.title}</span>
+      </div>
+    )
+  }
+  <a class="topic-body" href={url(`collections/${c.id}/`)}>
+    <h3>{c.title}</h3>
+    <p>{c.description}</p>
+    <span class="count">{count || 'Under review'}</span>
+  </a>
+</div>

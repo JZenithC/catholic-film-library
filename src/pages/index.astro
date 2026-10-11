@@ -1,13 +1,22 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import Artwork from '../components/Artwork.astro';
+import TopicTile from '../components/TopicTile.astro';
+import { posterFor } from '../data/posters';
 import {
   films,
   featured,
   collections,
-  collectionCount,
   plural,
   url,
 } from '../data/catalogue';
+// The large hero images are limited to public-domain and openly licensed
+// posters; each still links to its film's review.
+const FREE = new Set(['public-domain-us', 'public-domain-worldwide', 'open-licence']);
+const heroFilms = featured
+  .map((f) => ({ film: f, poster: posterFor(f.id) }))
+  .filter((t) => FREE.has(t.poster?.rightsCategory ?? ''))
+  .slice(0, 3);
 const starters = featured.slice(0, 6);
 const subjects = collections.filter((c) => c.group === 'Subjects');
 const decadeCounts = new Map<number, number>();
@@ -19,53 +28,90 @@ const decades = [...decadeCounts.entries()].sort((a, b) => a[0] - b[0]);
 ---
 
 <Layout title="Home">
-  <div class="wrap home-hero">
-    <div>
-      <span class="eyebrow">A guide to Catholic film</span>
-      <h1>Catholic films worth your time, from the silent era to now.</h1>
-      <p class="lead">
-        {films.length} films about saints, priests, martyrs, monks and nuns, and
-        the life of Christ. Each profile says what the film is, what it does
-        well, what it invents and what to know before watching, judged from a
-        traditional Catholic standpoint.
-      </p>
-      <form class="hero-search" action={url('library/')} method="get" role="search">
-        <label class="visually-hidden" for="home-q">Search films</label>
-        <input
-          id="home-q"
-          name="q"
-          type="search"
-          placeholder="Search titles, saints, directors…"
-          autocomplete="off"
-        />
-        <button class="button" type="submit">Search</button>
-      </form>
-      <p class="hero-links">
-        <a class="text-link" href={url('library/')}>Browse all films</a>
-        <a class="text-link" href={url('essentials/')}>Start here</a>
-        <a class="text-link" href={url('principles/')}>How films are chosen</a>
-      </p>
+  <div class="hero-band">
+    <div class="wrap home-hero">
+      <div>
+        <span class="eyebrow">A guide to Catholic film</span>
+        <h1>Catholic films worth your time, from the silent era to now.</h1>
+        <p class="lead">
+          {films.length} films about saints, priests, martyrs, monks and nuns,
+          and the life of Christ. Each profile says what the film is, what it
+          does well, what it invents and what to know before watching, judged
+          from a traditional Catholic standpoint.
+        </p>
+        <form class="hero-search" action={url('library/')} method="get" role="search">
+          <label class="visually-hidden" for="home-q">Search films</label>
+          <input
+            id="home-q"
+            name="q"
+            type="search"
+            placeholder="Search titles, saints, directors…"
+            autocomplete="off"
+          />
+          <button class="button" type="submit">Search</button>
+        </form>
+        <p class="hero-links">
+          <a class="text-link" href={url('library/')}>Browse all films</a>
+          <a class="text-link" href={url('essentials/')}>Start here</a>
+          <a class="text-link" href={url('principles/')}>How films are chosen</a>
+        </p>
+      </div>
+      {
+        heroFilms.length > 0 && (
+          <ul class="hero-posters" aria-label="Featured films">
+            {heroFilms.map(({ film }, i) => (
+              <li class={`hp${i}`}>
+                <a href={url(`films/${film.slug}/`)}>
+                  <Artwork
+                    filmId={film.id}
+                    title={film.title}
+                    year={film.year}
+                    director={film.directors[0]}
+                    priority={i === 0}
+                    decorative
+                  />
+                  <span class="hp-caption">
+                    {film.title} <span>{film.year}</span>
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        )
+      }
     </div>
-    <div class="contents">
-      <h2>Start here</h2>
-      <ol>
-        {
-          starters.map((f) => (
-            <li>
-              <a href={url(`films/${f.slug}/`)}>{f.title}</a>
-              <span class="yr">{f.year}</span>
-              <span class="by">
-                {[f.directors[0], f.countries[0]].filter(Boolean).join(' · ')}
-              </span>
-            </li>
-          ))
-        }
-      </ol>
+  </div>
+
+  <section class="wrap" aria-labelledby="start-here"><div class="section">
+    <div class="section-head">
+      <h2 id="start-here">Start here</h2>
       <a class="text-link" href={url('essentials/')}>
         Twelve films to start with <span aria-hidden="true">→</span>
       </a>
     </div>
-  </div>
+    <ol class="shelf">
+      {
+        starters.map((f, i) => (
+          <li>
+            <a href={url(`films/${f.slug}/`)}>
+              <Artwork
+                filmId={f.id}
+                title={f.title}
+                year={f.year}
+                director={f.directors[0]}
+                variant={i}
+                decorative
+              />
+              <span class="shelf-title">{f.title}</span>
+              <span class="shelf-meta">
+                {[f.year, f.directors[0]].filter(Boolean).join(' · ')}
+              </span>
+            </a>
+          </li>
+        ))
+      }
+    </ol>
+  </div></section>
 
   <section class="band" aria-labelledby="by-subject">
     <div class="wrap"><div class="section">
@@ -76,21 +122,7 @@ const decades = [...decadeCounts.entries()].sort((a, b) => a[0] - b[0]);
         </a>
       </div>
       <div class="topic-grid">
-        {
-          subjects.map((c) => {
-            const count = collectionCount(c.id);
-            return (
-              <a
-                class:list={['topic', { 'is-empty': !count }]}
-                href={url(`collections/${c.id}/`)}
-              >
-                <h3>{c.title}</h3>
-                <p>{c.description}</p>
-                <span class="count">{count || 'Under review'}</span>
-              </a>
-            );
-          })
-        }
+        {subjects.map((c) => <TopicTile collection={c} />)}
       </div>
     </div></div>
   </section>

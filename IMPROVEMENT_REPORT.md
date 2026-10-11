@@ -50,7 +50,7 @@ Every public record was rewritten in a plain critic's voice. Film pages now use 
 ### Design
 
 - New design system in `src/styles/global.css`: Cormorant Garamond and Source Sans 3 on a paper-and-ink palette.
-- The homepage has no images. Posters appear only on film pages and cards.
+- Visual pass (at the Founder's request, 12 October): the homepage now opens with three public-domain or openly licensed posters and a "Start here" poster shelf, collection tiles show three linked thumbnails, and collection pages have a poster strip in the heading. Every poster on the site links to its film's review. The three large images at the top of the homepage are limited to public-domain and openly licensed posters; the homepage "Start here" shelf, collection tiles and collection headings use linked thumbnails. Posters are never used as backgrounds, banners or social-preview images.
 - New library sidebar filters and related-film scoring.
 - New pages: A–Z, Start here and the grey area.
 - The header fits at 320 px.

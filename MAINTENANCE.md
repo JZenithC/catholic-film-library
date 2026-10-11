@@ -61,7 +61,7 @@ The poster manifest is `src/data/posters.json`; the files are in `public/posters
 
 A Wikipedia fair-use rationale is not permission for this site. Put the contextual use assessment in `research/poster-rights-review.json` and update IMAGE_CREDITS.md.
 
-Images must be WebP, no larger than 600 × 900 px, with the full composition preserved and never upscaled. Validation reads the WebP header and checks that the dimensions match the manifest. Run `npm run catalogue` after adding or removing a poster so that the film's `imageRights` text matches. Validation fails if they disagree. A film with no poster gets the typographic title card. Posters are never used on the homepage.
+Images must be WebP, no larger than 600 × 900 px, with the full composition preserved and never upscaled. Validation reads the WebP header and checks that the dimensions match the manifest. Run `npm run catalogue` after adding or removing a poster so that the film's `imageRights` text matches. Validation fails if they disagree. A film with no poster gets the typographic title card. Every poster on the site links to its film's review. The three large images at the top of the homepage are limited to public-domain and openly licensed posters; the homepage "Start here" shelf, collection tiles and collection headings use linked thumbnails. Posters are never used as backgrounds, banners or social-preview images.
 
 For a collection, add a stable id, a title, an introduction, a selection rule and one of the three groups (Subjects, Histories, Kinds of film) in `src/data/collections.json`. A collection with no recommended film needs a `gap` note explaining what is missing and why. Do not list HOLD titles as recommendations.
 

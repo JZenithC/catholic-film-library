@@ -45,7 +45,7 @@ Current counts are in `src/data/research-summary.json`.
 - Search runs locally in the browser. It ignores accents, folds ß, æ and œ, and matches word prefixes. You can filter by period, decade, country, subject, format, language and collection, and the query URLs can be shared.
 - The schema enforces controlled vocabularies for format, historical period and collection group.
 - There is a public metadata export at `catalogue.json` (recommended and grey-area records only).
-- The design system is in `src/styles/global.css`. It uses Cormorant Garamond and Source Sans 3 (self-hosted, SIL OFL) and a paper-and-ink palette. The homepage carries no images. Posters appear only on film pages and cards, and a film without a poster gets a typographic title card.
+- The design system is in `src/styles/global.css`. It uses Cormorant Garamond and Source Sans 3 (self-hosted, SIL OFL) and a paper-and-ink palette. Every poster on the site links to its film's review. The three large images at the top of the homepage are limited to public-domain and openly licensed posters; the homepage "Start here" shelf, collection tiles and collection headings use linked thumbnails. Posters are never used as backgrounds, banners or social-preview images. A film without a poster gets a typographic title card.
 - Posters and release covers are local WebP files, each with its own credit and rights category. See `IMAGE_CREDITS.md`, `research/poster-rights-review.json` and `/image-credits/`.
 
 ## Licence

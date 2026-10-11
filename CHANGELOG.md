@@ -4,6 +4,10 @@
 
 See IMPROVEMENT_REPORT.md for the full account, counts and film lists.
 
+### Design (12 October)
+
+- Homepage: hero with three public-domain or openly licensed posters, a "Start here" poster shelf in place of the numbered list, and collection tiles with three linked poster thumbnails. Collections index uses the same tiles; collection pages show up to four posters beside the heading. Every poster on the site links to its film's review. The three large images at the top of the homepage are limited to public-domain and openly licensed posters; the homepage "Start here" shelf, collection tiles and collection headings use linked thumbnails. Posters are never used as backgrounds, banners or social-preview images. Rights assessment updated in research/poster-rights-review.json.
+
 ### Editorial
 
 - Stated the Founder's position publicly: the site does not accept the Second Vatican Council or the reforms after it, and judges films by pre-conciliar Catholic teaching. Added two exclusion rules (Founder rulings): (a) subjects recognised as saint or blessed only by a canonisation or beatification after 1965; (b) films whose Catholic content is the post-conciliar Church presented as normal or exemplary.

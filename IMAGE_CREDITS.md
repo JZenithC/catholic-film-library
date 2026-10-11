@@ -1,6 +1,6 @@
 # Image credits and permissions inventory
 
-Film posters and release covers illustrate the film pages and catalogue cards; they are never used as homepage decoration. Films without a suitable correct-edition image show a typographic title card. A religious subject or historic release date does not establish image reuse rights.
+Film posters and release covers illustrate the film pages and the cards and thumbnails that link to them. Every poster on the site links to its film's review. The three large images at the top of the homepage are limited to public-domain and openly licensed posters; the homepage "Start here" shelf, collection tiles and collection headings use linked thumbnails. Posters are never used as backgrounds, banners or social-preview images. Films without a suitable correct-edition image show a typographic title card. A religious subject or historic release date does not establish image reuse rights.
 
 ## Poster and release-cover records
 
