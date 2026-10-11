@@ -2,10 +2,10 @@
   "initial": 121,
   "candidates": 147,
   "additional": 26,
-  "recommended": 48,
-  "grey": 20,
-  "hold": 41,
-  "reject": 38,
+  "recommended": 59,
+  "grey": 36,
+  "hold": 2,
+  "reject": 50,
   "countries": [
     "Czech Republic",
     "France",
@@ -13,14 +13,16 @@
     "Italy",
     "Luxembourg",
     "Mexico",
+    "Philippines",
+    "South Korea",
     "Spain",
     "Switzerland",
     "United Kingdom",
-    "United States"
+    "United States",
+    "West Germany"
   ],
   "emptyCollections": [
     "The Cristero War",
-    "The Spanish Civil War",
-    "Documentaries"
+    "The Spanish Civil War"
   ]
 }

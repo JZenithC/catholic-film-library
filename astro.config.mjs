@@ -19,6 +19,8 @@ const redirects = Object.fromEntries(
     '/films/into-great-silence': '/library/',
     '/films/no-greater-love': '/library/',
     '/films/two-crowns': '/library/',
+    // Withdrawn after the subtitle review (2026-10-11).
+    '/films/leon-morin-priest': '/library/',
   }).map(([from, to]) => [from, `${base}${to}`]),
 );
 
