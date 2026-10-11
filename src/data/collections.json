@@ -42,6 +42,12 @@
     "description": "Priests, religious and lay Catholics carrying the faith abroad."
   },
   {
+    "id": "conversion",
+    "group": "Subjects",
+    "title": "Conversion",
+    "description": "Sinners, sceptics and the lukewarm turned to God: converts, penitents and the slow work of grace."
+  },
+  {
     "id": "vendee",
     "group": "Histories",
     "title": "The French Revolution",

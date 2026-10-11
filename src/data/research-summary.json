@@ -1,12 +1,14 @@
 {
   "initial": 121,
-  "candidates": 202,
-  "additional": 81,
-  "recommended": 71,
-  "grey": 56,
-  "hold": 2,
-  "reject": 73,
+  "candidates": 339,
+  "additional": 218,
+  "recommended": 96,
+  "grey": 118,
+  "hold": 3,
+  "reject": 122,
   "countries": [
+    "Austria",
+    "Canada",
     "Czech Republic",
     "France",
     "Germany",
@@ -15,6 +17,7 @@
     "Luxembourg",
     "Mexico",
     "Philippines",
+    "Portugal",
     "South Korea",
     "Spain",
     "Switzerland",
@@ -23,7 +26,6 @@
     "West Germany"
   ],
   "emptyCollections": [
-    "The Cristero War",
     "The Spanish Civil War"
   ]
 }
