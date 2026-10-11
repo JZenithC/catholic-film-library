@@ -1,5 +1,7 @@
 # Poster update — 11 October 2026
 
+> **Superseded, 11 October 2026.** This note records the first poster revision. The later editorial and design pass replaced many of these images (including watermarked and wrong-type files), withdrew others, removed posters from the homepage and added a `rightsCategory` to every poster. Not every public film now has a poster; films without one show a typographic title card. See `IMPROVEMENT_REPORT.md`, `IMAGE_CREDITS.md` and `research/poster-rights-review.json` for the current state. The counts and sizes below are historical.
+
 All 38 published film profiles now have an actual release poster or video-release cover. The same artwork appears on the homepage, library, essentials, collections and related-film cards. Original title cards remain a future fallback. No film decisions or editorial text were changed.
 
 All 38 source images were downloaded and visually checked against their film titles and identities. They are locally hosted WebP files, at most 500×750 pixels, preserving the complete image without cropping or upscaling. The entire set is 965,184 bytes. Main images load eagerly; catalogue images load lazily with intrinsic dimensions to reserve layout space.

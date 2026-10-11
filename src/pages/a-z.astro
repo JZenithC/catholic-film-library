@@ -1,7 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { films, url } from '../data/catalogue';
-const entries = films
+import { publicFilms, url } from '../data/catalogue';
+const entries = publicFilms
   .flatMap((f) =>
     [
       ...new Set(
@@ -19,39 +19,42 @@ const letter = (s: string) =>
 const letters = [...new Set(entries.map((e) => letter(e.title)))].sort();
 ---
 
-<Layout title="A–Z Index">
+<Layout
+  title="A–Z"
+  description="Every film by English title, original title and other release titles."
+>
   <div class="wrap">
     <div class="page-heading">
-      <span class="eyebrow">Titles and their translations</span>
-      <h1>The A–Z Index</h1>
+      <h1>A–Z</h1>
       <p class="lead">
-        English titles, original titles and verified release alternatives, all
-        leading to the same permanent profile.
+        Every film by English title, original title and other release titles.
+        Each one leads to the same film page. Films in the grey area are marked.
       </p>
     </div>
-    <nav class="index-nav" aria-label="Index letters">
-      {letters.map((l) => (
-        <a href={`#letter-${l}`}>{l}</a>
-      ))}
+    <nav class="index-nav" aria-label="Letters">
+      {letters.map((l) => <a href={`#letter-${l}`}>{l}</a>)}
     </nav>
-    {letters.map((l) => (
-      <section class="index-group" id={`letter-${l}`}>
-        <h2>{l}</h2>
-        <ul>
-          {entries
-            .filter((e) => letter(e.title) === l)
-            .map((e) => (
-              <li>
-                <a href={url(`films/${e.film.slug}/`)}>{e.title}</a>
-                <small>
-                  {e.film.year}
-                  {e.title !== e.film.title ? ` · ${e.film.title}` : ''}
-                </small>
-              </li>
-            ))}
-        </ul>
-      </section>
-    ))}
+    {
+      letters.map((l) => (
+        <section class="index-group" id={`letter-${l}`}>
+          <h2>{l}</h2>
+          <ul>
+            {entries
+              .filter((e) => letter(e.title) === l)
+              .map((e) => (
+                <li>
+                  <a href={url(`films/${e.film.slug}/`)}>{e.title}</a>
+                  {e.film.grey && <span class="grey-tag">Grey area</span>}
+                  <small>
+                    {e.film.year}
+                    {e.title !== e.film.title ? ` · see ${e.film.title}` : ''}
+                  </small>
+                </li>
+              ))}
+          </ul>
+        </section>
+      ))
+    }
     <div class="section"></div>
   </div>
 </Layout>

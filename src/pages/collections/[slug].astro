@@ -1,7 +1,15 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import FilmCard from '../../components/FilmCard.astro';
-import { collections, films, url } from '../../data/catalogue';
+import {
+  collections,
+  filmsIn,
+  greyIn,
+  featured,
+  publicInOrder,
+  collectionCount,
+  url,
+} from '../../data/catalogue';
 export function getStaticPaths() {
   return collections.map((collection) => ({
     params: { slug: collection.id },
@@ -9,39 +17,90 @@ export function getStaticPaths() {
   }));
 }
 const { collection } = Astro.props;
-const selection = films.filter((f) => f.collections.includes(collection.id));
+const ids = new Set(filmsIn(collection.id).map((f) => f.id));
+const selection = featured.filter((f) => ids.has(f.id));
+// Grey-area films follow the recommendations in their own sub-list.
+const greyIds = new Set(greyIn(collection.id).map((f) => f.id));
+const greySelection = publicInOrder.filter((f) => greyIds.has(f.id));
+const count = collectionCount(collection.id);
 ---
 
 <Layout title={collection.title} description={collection.description}>
   <div class="wrap">
     <div class="page-heading">
-      <div class="breadcrumbs">
-        <a href={url('collections/')}>Collections</a> / {selection.length} films
-      </div>
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href={url('collections/')}>Collections</a> / {collection.group}
+      </nav>
       <h1>{collection.title}</h1>
       <p class="lead">{collection.description}</p>
+      {count && <p class="muted">{count}</p>}
     </div>
-    {selection.length ? (
-      <div>
-        <h2 class="visually-hidden">Films in this collection</h2>
-        <div class="film-grid">
-          {selection.map((f, i) => (
-            <FilmCard film={f} index={i} />
-          ))}
+    {
+      collection.gap && (
+        <div class="collection-gap">
+          {selection.length === 0 && (
+            <p>
+              <strong>
+                {greySelection.length
+                  ? 'No recommended films here yet.'
+                  : 'No films here yet.'}
+              </strong>
+            </p>
+          )}
+          <p>{collection.gap}</p>
+          <p>
+            <a class="text-link" href={url('corrections/')}>
+              Suggest a film
+            </a>
+          </p>
         </div>
-      </div>
-    ) : (
-      <div class="empty">
-        <h2>A subject still under research</h2>
-        <p>
-          No film in this collection has yet met the Library’s publication
-          evidence threshold.
-        </p>
-        <a class="text-link" href={url('corrections/')}>
-          Suggest a well-documented film →
-        </a>
-      </div>
-    )}
+      )
+    }
+    {
+      selection.length > 0 && (
+        <section aria-labelledby="films-heading">
+          <h2 id="films-heading" class="visually-hidden">
+            Films
+          </h2>
+          <div class="film-grid">
+            {selection.map((f, i) => (
+              <FilmCard film={f} index={i} />
+            ))}
+          </div>
+        </section>
+      )
+    }
+    {
+      greySelection.length > 0 && (
+        <section class="grey-sublist" aria-labelledby="grey-heading">
+          <h2 id="grey-heading">In the grey area</h2>
+          <p class="muted">
+            Films in this collection that are not recommended without
+            qualification. Each page sets out the question.{' '}
+            <a href={url('grey-area/')}>About the grey area</a>
+          </p>
+          <div class="film-grid">
+            {greySelection.map((f, i) => (
+              <FilmCard film={f} index={selection.length + i} />
+            ))}
+          </div>
+        </section>
+      )
+    }
+    {
+      selection.length === 0 && greySelection.length === 0 && !collection.gap && (
+        <div class="empty">
+          <h2>No films here yet</h2>
+          <p>
+            Films for this collection are still being researched. If you know
+            one that belongs here, suggest it.
+          </p>
+          <a class="text-link" href={url('corrections/')}>
+            Suggest a film
+          </a>
+        </div>
+      )
+    }
     <div class="section"></div>
   </div>
 </Layout>

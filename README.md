@@ -1,6 +1,6 @@
 # The Catholic Film Library
 
-A Traditional Catholic Guide to Cinema. An independent static reference library with a pre-conciliar Catholic editorial perspective, film posters and release covers, and research-backed film profiles.
+An independent static guide to films about the Catholic faith. The site does not accept the Second Vatican Council or the reforms that followed it, and judges films by Catholic teaching as it stood before the Council. See `EDITORIAL_POLICY.md`.
 
 Repository: https://github.com/JZenithC/catholic-film-library
 
@@ -10,35 +10,71 @@ Use Node.js 24 LTS and npm. Install the exact dependency set with `npm ci`. Set 
 
 ```sh
 npm ci
-npm run check
+npm run catalogue      # regenerate public data from research/inventory.json
+npm run check          # astro check, then content, poster and rights validation
+npm run lint
 npm test
 npm run build
-node scripts/check-links.mjs
+npm run check:build    # internal links, then the unpublished-record leak check
 ```
 
-The public site is generated in `dist/`. No runtime API, database, analytics or remote font service is needed. `src/data/films.json` contains only accepted films. `research/inventory.json` preserves accepted, held and rejected candidates. Never copy the research inventory into a client script.
+The public site is generated in `dist/`. No runtime API, database, analytics or remote font service is needed.
+
+## Data
+
+- `research/inventory.json` is the canonical record of every candidate. Each has a status (PUBLISH, GREY, HOLD or REJECT) and a decision text.
+- `npm run catalogue` writes `src/data/films.json` (PUBLISH and GREY records only), `src/data/research-summary.json`, `research/source-registry.json` and the status column of `research/starting-inventory-crosswalk.json`. Do not edit those files by hand. The deploy workflow fails if they are stale.
+- `src/data/featured.json` lists the homepage's featured films (recommended films only). `src/data/collections.json` holds the collections, `src/data/grey-area.json` the text of the grey-area page and `src/data/editorial-pages.json` the principles, about, sources and corrections pages.
+- `research/editorial-notes.json` holds the editor's evidence notes and poster leads for each record. It is not published on the site.
+- Never copy the research inventory into a client script. HOLD and REJECT records must not reach the build, and `scripts/check-leak.mjs` enforces this.
+
+## What the site shows
+
+There are three public outcomes:
+
+- **Recommended** (PUBLISH).
+- **Grey area** (GREY). This is a full film page that opens with a box stating the open question. The record carries `grey: {kind, question}`, where `kind` is either `reservations` (a real doctrinal, moral or historical question) or `unverified` (Catholic-centred, but not yet independently reviewed). Grey films are left out of the default library view, featured films, Start here and the homepage. You can find them through search with the grey-area toggle, the A–Z page, collection sub-lists and `/grey-area/`.
+- HOLD and REJECT records are not published.
+
+Current counts are in `src/data/research-summary.json`.
 
 ## Content and architecture
 
-- Astro 7 static generation, TypeScript and Zod validation.
-- Home, catalogue, essentials, 17 collections, film profiles, title index, selection principles, about, research, corrections and 404 pages.
-- Browser-local accent-insensitive search; filters for period, decade, country, subject, format, language and collection; deterministic sorting and shareable query URLs.
-- Public metadata export at `catalogue.json`; no internal rejected or pending records in it.
-- Individually attributed source claims and last-review dates on profiles.
-- Locally hosted, compressed posters and release covers with individual credits; original title-art fallback; local SIL OFL fonts. See `IMAGE_CREDITS.md` and `/image-credits/`.
+- Astro 7 static generation, TypeScript and Zod validation (`scripts/schema.mjs`, `scripts/validate.mjs`).
+- Pages: home, library (with sidebar filters), Start here (`/essentials/`), collections in three groups, film pages, A–Z, grey area, how films are chosen, about, sources, corrections, image credits and a custom 404. Withdrawn film and collection URLs redirect to `/library/` (see `astro.config.mjs`).
+- Search runs locally in the browser. It ignores accents, folds ß, æ and œ, and matches word prefixes. You can filter by period, decade, country, subject, format, language and collection, and the query URLs can be shared.
+- The schema enforces controlled vocabularies for format, historical period and collection group.
+- There is a public metadata export at `catalogue.json` (recommended and grey-area records only).
+- The design system is in `src/styles/global.css`. It uses Cormorant Garamond and Source Sans 3 (self-hosted, SIL OFL) and a paper-and-ink palette. The homepage carries no images. Posters appear only on film pages and cards, and a film without a poster gets a typographic title card.
+- Posters and release covers are local WebP files, each with its own credit and rights category. See `IMAGE_CREDITS.md`, `research/poster-rights-review.json` and `/image-credits/`.
+
+## Licence
+
+Code and original design are under MIT. Research data and original editorial text are under CC BY 4.0. Film posters and other film imagery are excluded from both. See `LICENSE`.
 
 ## Editorial integrity
 
-Read `EDITORIAL_POLICY.md` before changing a recommendation. A synopsis, studio endorsement or film's reputation alone is insufficient. A publication decision is the Library's judgment, not ecclesiastical approval. No compiler claims to have personally watched every film. The Founder retains final authority.
+Read `EDITORIAL_POLICY.md` before changing a decision. The film pages are written from published criticism, histories, archive records and release details; no film was watched for this site. A recommendation is an editorial judgment, not ecclesiastical approval. The Founder has the final say.
 
-The scope is a systematic research programme, not a claim of exhaustive coverage. See `RESEARCH_METHODOLOGY.md`, `research/*-notes.md`, `research/INDEPENDENT_REVIEW.md` and `DELIVERY_REPORT.md` for actual coverage, gaps and verification limits. The larger requested research programme must not be represented as complete merely because the application builds.
+The research is selective, not exhaustive. See `RESEARCH_METHODOLOGY.md`, `IMPROVEMENT_REPORT.md` and the gap notes on each collection.
 
 ## Browser checks
 
-Install Chromium using `npx playwright install chromium`, then run `node scripts/browser-qa.mjs`. This launches a temporary local server with the production base path, tests desktop/tablet/phone, runs axe WCAG checks, tests search and filters, and records screenshots. The script defaults to `../../work` for local QA artifacts. Set `PLAYWRIGHT_BROWSERS_PATH` if browsers were installed outside Playwright's default directory. See the script for the checked viewports and interactions. Automation is not a complete accessibility certification.
+Run `npm run build`, then `npm run test:browser` (`scripts/browser-qa.mjs`). The script serves `dist/` locally under the production base path, checks desktop, tablet and phone layouts and runs axe WCAG scans. It also exercises search and filters and decodes every poster. Screenshots and `browser-report.json` go to `test-results/browser-qa/`, or to `$BROWSER_QA_OUT` if set. It needs a local Chromium: either run `npx playwright install chromium` or set `PLAYWRIGHT_CHROMIUM_EXECUTABLE` to an installed Chromium or Chrome. Automated checks do not amount to an accessibility certification.
 
 ## Deployment
 
-The workflow in `.github/workflows/deploy.yml` follows the current official Astro GitHub Pages guide, checked on 11 October 2026: https://docs.astro.build/en/guides/deploy/github/ . It validates content, checks types, runs unit tests, builds and checks internal links before deployment. Use GitHub Actions as the Pages source. Only pushes to `main` deploy; pull requests validate without deploying.
+`.github/workflows/deploy.yml` builds on every push and pull request and deploys to GitHub Pages only from `main`. The actions are pinned to commit SHAs. The workflow is read-only by default, and only the deploy job gets Pages and OIDC permissions. The build step runs these in order:
 
-Production origin and base path are in `astro.config.mjs`, `sitemap.xml.ts` and `robots.txt.ts`. If the domain changes, update all three and the source links. See `MAINTENANCE.md` for safe content and dependency changes.
+1. `npm run catalogue`
+2. `git diff --exit-code -- src/data research` (fails if the generated data is stale)
+3. `npm run check`
+4. `npm run lint`
+5. `npm test`
+6. `npm run build`
+7. `check-links`
+8. `check-leak`
+
+Dependabot (`.github/dependabot.yml`) proposes monthly updates to the pinned actions. Use GitHub Actions as the Pages source.
+
+The production origin and base path are set in `astro.config.mjs`, `src/pages/sitemap.xml.ts`, `src/pages/robots.txt.ts` and `scripts/check-leak.mjs`. If the domain changes, update all of them. See `MAINTENANCE.md` for content and dependency changes.

@@ -1,109 +1,173 @@
 {
   "principles": {
-    "title": "Our Selection Principles",
-    "lead": "A Catholic subject is the beginning of an inquiry, not the conclusion of one.",
+    "title": "How films are chosen",
+    "lead": "The standard films are judged by, what counts as a Catholic film, and what each profile looks at.",
     "sections": [
       {
-        "heading": "A traditional Catholic perspective",
-        "text": "The Library is guided by Catholic doctrine and moral teaching as understood before the Second Vatican Council. We seek films that treat the faith with substance, reverence and artistic distinction. This is a guide to cinema, not a forum for contemporary ecclesiastical disputes. Films made after 1965 are eligible; a film's date alone neither recommends nor disqualifies it."
+        "heading": "The standard",
+        "text": "This site does not accept the Second Vatican Council or the reforms that followed it. Films are judged by Catholic doctrine and moral teaching as the Church taught them before the Council.\n\nThat is a standard, not a cut-off date. A film made in 2004 can meet it, and a film made in 1950 can fail it. Two rules follow from it:",
+        "items": [
+          {
+            "term": "Saints",
+            "text": "A film is not included if its subject is honoured as a saint or blessed only through a canonisation or beatification made after the Council."
+          },
+          {
+            "term": "The Church after the Council",
+            "text": "A film is not included if its Catholic content is the post-conciliar Church presented as normal or exemplary: the new liturgy, religious life as reformed after the Council, or interreligious dialogue."
+          }
+        ]
       },
       {
-        "heading": "What we ask of a film",
-        "text": "We consider Catholic substance, doctrinal compatibility, reverence for sacred persons and things, historical integrity, artistic achievement, significant reinterpretations, documented controversy and the reasonableness of a recommendation to a cautious traditional Catholic audience. Generic spirituality, a sympathetic priest or a famous saint's name is not enough. Artistic prestige does not resolve a religious objection."
+        "heading": "What counts as a Catholic film",
+        "text": "The Catholic faith has to be central to the film: the Mass and the sacraments, the life of a saint, a priest's or a nun's vocation, Our Lady and her apparitions, or a persecution of the Church. A sympathetic priest in a supporting role, a church wedding or a vaguely spiritual mood is not enough.\n\nThat leaves out some well-loved films that simply have Catholic characters in them."
       },
       {
-        "heading": "Evidence before endorsement",
-        "text": "Identity, religious treatment and historical accuracy are different questions. We use filmographic records to identify a work, substantive criticism to investigate its treatment, and historical or doctrinal sources for relevant claims. A promotional synopsis cannot establish fidelity. Where material evidence is missing or a substantial concern remains unresolved, a candidate stays out of the recommended catalogue."
+        "heading": "What each film is judged on",
+        "text": "Every profile answers the same questions, with sources. There is no score.",
+        "items": [
+          {
+            "term": "Catholic substance",
+            "text": "Is the faith central, or only the setting?"
+          },
+          {
+            "term": "Doctrine",
+            "text": "Does the film's own outlook fit traditional teaching? A character's errors are not the film's."
+          },
+          {
+            "term": "Reverence",
+            "text": "How does it treat Our Lord, Our Lady, the saints, the sacraments, priests and religious? Humour and flawed priests are not irreverent in themselves."
+          },
+          {
+            "term": "History",
+            "text": "What is documented and what is invented, and do the inventions change the religious meaning?"
+          },
+          {
+            "term": "Craft",
+            "text": "What is good about the acting, images, writing, editing or music? Reputation alone does not count."
+          },
+          {
+            "term": "Reinterpretation",
+            "text": "Does it reduce the supernatural to psychology, treat all religions as interchangeable, or recast doctrine? This has to be shown from the film, not assumed from who made it or when."
+          },
+          {
+            "term": "Controversy",
+            "text": "Is there a documented dispute about its religion or history? If so, it is described fairly."
+          },
+          {
+            "term": "Audience",
+            "text": "Who is it for? Violence, sexual content and frightening scenes are noted separately, and a film that suits adults is not assumed to suit children."
+          }
+        ]
       },
       {
-        "heading": "Drama, history and interpretation",
-        "text": "A film may compress events or invent dialogue without destroying their meaning. We identify substantiated liberties and distinguish a film's portrayal from the historical record. A flawed character does not necessarily express the film's judgment; a moving scene does not make its account historically true. Our critical interpretations are editorial judgments, not facts concealed as certainty."
+        "heading": "Recommended, grey area or on hold",
+        "text": "A film that qualifies ends up in one of three places. Putting a film in the grey area or on hold does not mean nobody should watch it, and nothing here is a list of forbidden films.",
+        "items": [
+          {
+            "term": "Recommended",
+            "text": "The faith is central, the treatment meets the standard above, and independent sources support that. These are the films in the main list."
+          },
+          {
+            "term": "Grey area, with reservations",
+            "text": "The film has real merit, but there is a definite doctrinal, moral or historical question about it, such as a Legion of Decency reservation or an invented episode that changes the religious meaning. Its page states the question so you can judge."
+          },
+          {
+            "term": "Grey area, not yet verified",
+            "text": "The film looks sound, but no independent review of how it treats the faith or the history has been found. Its page says what is known and where that comes from."
+          },
+          {
+            "term": "On hold",
+            "text": "There is not yet enough reliable information to say what the film is or how it handles the faith. It is not listed until there is."
+          }
+        ],
+        "after": "New evidence can move a film either way. A grey-area film can become a recommendation, and any recommendation can be withdrawn.",
+        "link": { "href": "grey-area/", "label": "The grey-area films" }
       },
       {
-        "heading": "Recommendations with limits",
-        "text": "The Library does not exercise ecclesiastical authority. Inclusion is neither an imprimatur nor a guarantee that every scene is suitable for every viewer. Content advisories and notes on audience suitability remain important, especially for children. We do not give numerical orthodoxy scores. The Founder retains final editorial authority, and recommendations can change when better evidence becomes available."
+        "heading": "Reference texts",
+        "text": "These Church documents shape the standard. They say nothing about individual films.",
+        "include": "references"
       },
       {
-        "heading": "An older tradition of discernment",
-        "text": "Pius XI's Vigilanti cura (1936) and Pius XII's Miranda prorsus (1957) provide historical foundations for responsible engagement with cinema. Relevant doctrinal questions may also call for texts such as Mediator Dei (1947) or the Council of Trent. These works inform our principles; they do not confer approval on our catalogue or on any individual film. The Sources and Research page identifies the primary texts."
+        "heading": "How judgments are made",
+        "text": "Profiles are written from published criticism, histories and biographies, archive and production records, and the films' release details. They do not claim that every film, or every cut of every film, has been watched for this site. Each profile lists its sources and what each one supports, and where critics disagree it says who thinks what."
+      },
+      {
+        "heading": "Who decides",
+        "text": "The Founder has the final say on what is included. Corrections and suggestions are always welcome.",
+        "link": { "href": "corrections/", "label": "Send a correction or suggestion" }
       }
     ]
   },
   "about": {
-    "title": "About the Library",
-    "lead": "A lasting reference for the meeting of Catholic faith and the art of cinema.",
+    "title": "About",
+    "lead": "An independent guide to films about the Catholic faith.",
     "sections": [
       {
-        "heading": "Why this collection exists",
-        "text": "Catholic cinema reaches beyond a single country, genre or period. It includes stories of prayer and sacrifice, comedy and ordinary charity, persecution and perseverance. The Catholic Film Library brings carefully supported recommendations into one readable, searchable collection, with attention to films that can be difficult to discover through English-language lists alone."
+        "heading": "What this is",
+        "text": "A selective guide to feature films, documentaries and television about the Catholic faith, from the silent era to the present. Each film has a page that says what it is, what it does well, what it invents, how it treats the faith and what to know before watching, with the sources used."
       },
       {
-        "heading": "A reference, not an exhaustive canon",
-        "text": "The research programme extends from silent cinema to 2026 and includes features, television films, miniseries, documentaries and animation. Coverage is selective. Some important national traditions and obscure productions remain under-researched, and some promising candidates cannot yet be recommended on the available evidence. An empty collection or omitted title is not a declaration that no worthwhile film exists."
+        "heading": "Who it is for",
+        "text": "Catholics looking for something worth watching; parents choosing films for their children; teachers and parish groups planning a screening; and anyone curious about how cinema has treated the Church."
       },
       {
-        "heading": "Independent and accountable",
-        "text": "This is an independent editorial project with a traditional Catholic perspective. It is not an official publication of the Church, a film studio or a distributor. Recommendations are supported by cited research and remain open to correction. There are no advertisements, affiliate recommendations or mandatory visitor accounts in this edition."
+        "heading": "The point of view",
+        "text": "Films are judged from a traditional Catholic standpoint. The site does not accept the Second Vatican Council or its reforms, and judges films by the Church's teaching as it stood before the Council. How that works in practice is set out on a separate page.",
+        "link": { "href": "principles/", "label": "How films are chosen" }
       },
       {
-        "heading": "How the pages were prepared",
-        "text": "Profiles draw on the published sources identified with each film. Research-based assessments should not be mistaken for claims that the compiler personally watched every work or every available cut. We distinguish filmographic facts, attributed criticism and our editorial interpretation. Source-check dates describe the evidence reviewed at that time; they are not guarantees of present streaming availability."
+        "heading": "What it isn't",
+        "text": "It is not an official publication of the Church, a diocese or a religious order, and it has no connection with any studio or distributor.\n\nIt is not complete. Many good films have not been researched yet, and some national cinemas are thinly covered. A missing film is more likely to be unresearched than rejected."
       },
       {
-        "heading": "Designed to remain useful",
-        "text": "The Library uses stable film addresses, structured records and static pages. Its design works with original typographic title artwork where film-poster rights are uncertain. These cards are identifiers made for the Library, not official posters or scenes from the films. The underlying research decisions and maintenance instructions are preserved with the source code."
+        "heading": "No ads, no tracking",
+        "text": "There is no advertising, no affiliate links, no sign-up and no tracking. The site is a set of static pages. The research behind it and the full catalogue data are public.",
+        "link": { "href": "sources/", "label": "Sources and research" }
       }
     ]
   },
   "sources": {
-    "title": "Sources and Research",
-    "lead": "A citation should explain what we know, how we know it, and where uncertainty remains.",
+    "title": "Sources and research",
+    "lead": "Where the information on each film page comes from, and how much ground the research has covered.",
     "sections": [
       {
-        "heading": "Different questions need different sources",
-        "text": "National film institutes, archives and official production records help establish identity. Detailed criticism helps us assess treatment and artistic achievement. Historical scholarship and primary documents help distinguish events from dramatization. Doctrinal texts provide a reference for a relevant Catholic teaching. One generic source cannot settle all four questions."
+        "heading": "The research so far",
+        "include": "research"
       },
       {
-        "heading": "Reading a film's references",
-        "text": "Each published profile identifies its research sources and the claims they support. Source records preserve a title, publisher, URL and date checked. A distributor is an interested source; a critic's conclusion is an attributed interpretation. Neither becomes ecclesiastical authority simply by appearing here. Access to a source can change, so we retain bibliographic information alongside links."
+        "heading": "Different questions, different sources",
+        "text": "Film institutes, archives and catalogues such as the BFI and the AFI Catalog establish the basic facts: title, year, director, country. Detailed reviews and essays show how a film treats its subject and how good it is. Histories and biographies show what actually happened. Church documents are the reference for doctrine. No single source answers all four questions."
       },
       {
-        "heading": "Primary reference: cinema and responsibility",
-        "text": "Pius XI, Vigilanti cura, 29 June 1936, considers cinema's moral influence. Pius XII, Miranda prorsus, 8 September 1957, addresses motion pictures, radio and television and the responsibilities of criticism. Both are available in English in the Holy See's online document archive. Their relevance is to editorial principles, not a retrospective approval of these films."
+        "heading": "Reading a film's sources",
+        "text": "Each film page ends with a numbered list of sources. Every entry gives the publisher, the date it was consulted and the specific points it supports. Sources with an interest in the film, such as its distributor or a religious order that helped make it, are identified as such. Links break, so the title and publisher are always recorded as well."
       },
       {
-        "heading": "Primary reference: worship and sacred representation",
-        "text": "Pius XII's Mediator Dei, 20 November 1947, is relevant to the representation of liturgy, Eucharistic sacrifice and priesthood. The Council of Trent's Session XXV decree on saints, relics and sacred images supplies a historical doctrinal reference for sacred representation. Applying that decree to cinema is our editorial analogy, not a film classification issued by the council. English primary-text editions are linked in the repository's editorial policy."
-      },
-      {
-        "heading": "Uncertainty is part of the record",
-        "text": "Candidates with unresolved identity, insufficient treatment evidence or substantial religious concerns remain on hold. An adverse decision needs a documented reason; absence of evidence is not condemnation. The internal inventory distinguishes publication, hold and rejection decisions and preserves the next research question. Only accepted films appear in the recommended catalogue."
-      },
-      {
-        "heading": "What this research does not claim",
-        "text": "We do not claim exhaustive international coverage, personal viewing of every film, independent confirmation of every promotional statement, or a definitive answer to every critical disagreement. We do not infer worldwide availability from one retailer's page. Original-language and regional research, lesser-known productions and disputed versions remain continuing areas of work."
+        "heading": "What the research does not claim",
+        "text": "It does not claim to cover every country, to have viewed every film or every cut, or to settle every disagreement between critics. Availability changes: a retailer listing found during research is not a promise that a film can be bought where you live."
       }
     ]
   },
   "corrections": {
-    "title": "Corrections and Suggestions",
-    "lead": "A useful library must be willing to correct its record.",
+    "title": "Corrections",
+    "lead": "Found a mistake, or know a film that should be here? Please say so.",
     "sections": [
       {
-        "heading": "Make a correction precise",
-        "text": "Identify the film and the page, quote the short statement that needs attention, propose the correction and provide a reliable source. Explain which claim the source supports. If different versions are involved, include the edition, language, release territory and runtime where known. A concrete reference is more useful than an unsupported assurance."
+        "heading": "Reporting a mistake",
+        "text": "Say which film and which statement is wrong, what it should say, and give a reliable source. If the problem only affects one version of the film, give the edition, language and running time."
       },
       {
-        "heading": "Suggest a film for research",
-        "text": "Include the original title, English title if one exists, year, director and a source establishing the work's identity. Then explain its Catholic substance and provide substantive evidence about its treatment. A suggestion enters research; it does not automatically become a recommendation. Obscure international productions are welcome, especially when original-language sources are available."
+        "heading": "Suggesting a film",
+        "text": "Give the original title, any English title, the year, the director and a source that identifies the film. Then explain why the Catholic faith is central to it, ideally with a review or essay that discusses how it handles the subject. A suggestion starts research; films are not added automatically."
       },
       {
-        "heading": "A sustainable correction channel",
-        "text": "Corrections and film suggestions are received through the Library’s GitHub Issues page, using the linked forms. A free GitHub account is required to submit an issue. This website itself has no contact database and collects no visitor details. Please do not include personal information in public issues."
+        "heading": "Images and rights",
+        "text": "If you hold the rights to a poster or cover shown here and want it removed or credited differently, open an issue using the “Image or rights request” form. Images are removed promptly."
       },
       {
-        "heading": "How corrections are handled",
-        "text": "Factual changes require evidence; editorial disagreements require a fair account of the disputed point. Material concerns may move a recommendation back to review while the evidence is assessed. Substantive changes are preserved in version control. Please avoid personal information, pirated film links, copied copyrighted material and accusations about people that the evidence does not support."
+        "heading": "How reports are handled",
+        "text": "Reports go through GitHub Issues, which needs a free GitHub account. Issues are public, so please leave out personal details, and don't post links to pirated copies or paste copyrighted text.\n\nFactual changes need a source. If a report raises a serious problem with a recommended film, the film may be taken down while it is checked. Every change is kept in the site's version history."
       }
     ]
   }

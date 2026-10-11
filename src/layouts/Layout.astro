@@ -15,24 +15,41 @@ interface Props {
   title: string;
   description?: string;
   movie?: Record<string, unknown>;
+  noindex?: boolean;
 }
 const {
   title,
-  description = 'A Traditional Catholic Guide to Cinema. An independent, carefully researched library of films, saints, history and the sacramental imagination.',
+  description = 'A guide to Catholic films, from silent classics to recent work: what each film is, what it does well, what it invents and what to know before watching.',
   movie,
+  noindex = false,
 } = Astro.props;
+const siteName = 'The Catholic Film Library';
+const isHome = title === 'Home';
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const links = [
-  ['library/', 'The Film Library'],
-  ['essentials/', 'Essential Films'],
+  ['library/', 'Films'],
+  ['essentials/', 'Start here'],
   ['collections/', 'Collections'],
-  ['a-z/', 'A–Z Index'],
+  ['grey-area/', 'Grey area'],
+  ['a-z/', 'A–Z'],
+  ['about/', 'About'],
 ];
+const path = Astro.url.pathname;
+const current = (href: string) => {
+  const target = url(href);
+  if (href === 'library/' && path.startsWith(url('films/'))) return 'page';
+  return path.startsWith(target) ? 'page' : undefined;
+};
 ---
 
 <!doctype html>
 <html lang="en">
   <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <script is:inline>
+      document.documentElement.classList.add('js');
+    </script>
     {[serifRegular, serifMedium, serifItalic, bodyRegular].map((href) => (
       <link
         rel="preload"
@@ -42,19 +59,16 @@ const links = [
         crossorigin="anonymous"
       />
     ))}
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>{title === 'Home' ? 'The Catholic Film Library' : `${title} · The Catholic Film Library`}</title>
+    <title>{isHome ? siteName : `${title} · ${siteName}`}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex" />}
+    {!noindex && <link rel="canonical" href={canonical} />}
     <link rel="icon" type="image/svg+xml" href={url('favicon.svg')} />
-    <meta
-      property="og:title"
-      content={title === 'Home' ? 'The Catholic Film Library' : title}
-    />
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:title" content={isHome ? siteName : title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content={movie ? 'video.movie' : 'website'} />
-    <meta property="og:url" content={canonical} />
+    {!noindex && <meta property="og:url" content={canonical} />}
     <meta
       property="og:image"
       content={new URL(url('social.png'), Astro.site)}
@@ -63,87 +77,96 @@ const links = [
     {movie && (
       <script
         type="application/ld+json"
-        set:html={JSON.stringify(movie).replace(/</g, '\\u003c')}
+        set:html={JSON.stringify(movie).replace(/</g, '\u003c')}
       />
     )}
   </head>
   <body>
-    <a class="skip" href="#main">
-      Skip to content
-    </a>
+    <a class="skip" href="#main">Skip to content</a>
     <header class="site-header">
-      <a class="brand" href={url()} aria-label="The Catholic Film Library home">
-        <span class="brand-mark" aria-hidden="true">
-          ✣
-        </span>
-        <span>
-          The Catholic
-          <br />
-          <b>Film Library</b>
-        </span>
-      </a>
-      <nav class="desktop-nav" aria-label="Main navigation">
-        {links.map(([href, label]) => (
-          <a
-            href={url(href)}
-            aria-current={
-              Astro.url.pathname.startsWith(url(href)) ? 'page' : undefined
-            }
-          >
-            {label}
-          </a>
-        ))}
-      </nav>
-      <a class="header-about" href={url('principles/')}>
-        Our principles <span aria-hidden="true">↗</span>
-      </a>
-      <details class="mobile-nav">
-        <summary>
-          Menu <span aria-hidden="true">☰</span>
-        </summary>
-        <nav aria-label="Mobile navigation">
+      <div class="wrap">
+        <a class="brand" href={url()}>
+          <svg viewBox="0 0 20 20" aria-hidden="true" focusable="false">
+            <path d="M8.5 1h3v5.5H17v3h-5.5V19h-3V9.5H3v-3h5.5z" fill="currentColor" />
+          </svg>
+          <span>{siteName}</span>
+        </a>
+        <nav class="main-nav" aria-label="Main">
           {links.map(([href, label]) => (
-            <a href={url(href)}>{label}</a>
+            <a href={url(href)} aria-current={current(href)}>
+              {label}
+            </a>
           ))}
-          <a href={url('principles/')}>Our Selection Principles</a>
         </nav>
-      </details>
+        <details class="mobile-nav">
+          <summary>
+            Menu
+            <svg width="16" height="12" viewBox="0 0 16 12" aria-hidden="true" focusable="false">
+              <path d="M0 1h16M0 6h16M0 11h16" stroke="currentColor" stroke-width="1.6" />
+            </svg>
+          </summary>
+          <nav aria-label="Main (mobile)">
+            {links.map(([href, label]) => (
+              <a href={url(href)} aria-current={current(href)}>
+                {label}
+              </a>
+            ))}
+          </nav>
+        </details>
+      </div>
     </header>
     <main id="main">
       <slot />
     </main>
     <footer class="site-footer">
-      <div>
-        <a class="footer-title" href={url()}>
-          The Catholic Film Library
-        </a>
-        <p>A Traditional Catholic Guide to Cinema</p>
-        <p class="small">
-          An independent editorial project.
-          <br />A recommendation is an editorial judgment, not ecclesiastical
-          approval.
-        </p>
-      </div>
-      <nav aria-label="Information">
-        <a href={url('about/')}>About the Library</a>
-        <a href={url('principles/')}>Our Selection Principles</a>
-        <a href={url('sources/')}>Sources & Research</a>
-        <a href={url('image-credits/')}>Poster credits</a>
-        <a href={url('corrections/')}>Corrections & Suggestions</a>
-        <a href={url('catalogue.json')}>Download catalogue data</a>
-      </nav>
-      <div class="footer-note">
-        <span class="eyebrow">Truth · Beauty · Faith</span>
-        <p>
-          For the love of good cinema.
-          <br />
-          For the life of the soul.
-        </p>
-      </div>
-      <div class="footer-bottom">
-        © 2026 The Catholic Film Library{' '}
-        <span>No advertising. No tracking. No subscriptions.</span>
+      <div class="wrap">
+        <div>
+          <a class="footer-title" href={url()}>{siteName}</a>
+          <p>
+            An independent guide to films about the Catholic faith, with notes
+            on each film's history, treatment of the faith and suitability.
+          </p>
+          <p>
+            Recommendations are editorial judgments, not statements of the
+            Church.
+          </p>
+        </div>
+        <nav aria-labelledby="footer-browse">
+          <h2 id="footer-browse">Browse</h2>
+          <a href={url('library/')}>Films</a>
+          <a href={url('essentials/')}>Start here</a>
+          <a href={url('collections/')}>Collections</a>
+          <a href={url('grey-area/')}>Grey area</a>
+          <a href={url('a-z/')}>A–Z</a>
+        </nav>
+        <nav aria-labelledby="footer-about">
+          <h2 id="footer-about">About</h2>
+          <a href={url('principles/')}>How films are chosen</a>
+          <a href={url('about/')}>About</a>
+          <a href={url('sources/')}>Sources and research</a>
+          <a href={url('image-credits/')}>Image credits</a>
+          <a href={url('corrections/')}>Corrections</a>
+          <a href={url('catalogue.json')}>Catalogue data</a>
+        </nav>
       </div>
     </footer>
+    <script is:inline>
+      (function () {
+        var menu = document.querySelector('.mobile-nav');
+        if (!menu) return;
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape' && menu.open) {
+            menu.open = false;
+            menu.querySelector('summary').focus();
+          }
+        });
+        menu.addEventListener('click', function (e) {
+          if (e.target.closest('nav a')) menu.open = false;
+        });
+        document.addEventListener('click', function (e) {
+          if (menu.open && !menu.contains(e.target)) menu.open = false;
+        });
+      })();
+    </script>
   </body>
 </html>

@@ -1,5 +1,7 @@
 # Delivery and verification record
 
+> **Superseded, 11 October 2026.** This report describes the first delivery (38 recommended films, 17 collections). The editorial and design pass on branch `improve/editorial-pass` changed the policy, catalogue, collections, posters, design and checks. See `IMPROVEMENT_REPORT.md` for the current state. The counts, coverage, design description and check results below are historical and are no longer accurate for the current catalogue.
+
 11 October 2026. Independent editorial judgments are research-based; they are not ecclesiastical approvals or claims that every compiler personally viewed every film.
 
 Poster revision: all 38 published films now have a sourced poster or video-release cover. The site now has 66 HTML pages including public image credits. See `POSTER_UPDATE.md` for the current revision's checks; the original publication and Lighthouse results below are retained as the initial release baseline.

@@ -1,42 +1,62 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Artwork from '../components/Artwork.astro';
-import { featured, url } from '../data/catalogue';
+import { featured, paragraphs, url } from '../data/catalogue';
+const picks = featured.slice(0, 12);
 ---
 
-<Layout title="Essential Films">
+<Layout
+  title="Start here"
+  description="Twelve films to start with: silent classics, Hollywood, European art cinema and recent work about the Catholic faith."
+>
   <div class="wrap">
     <div class="page-heading">
-      <span class="eyebrow">Where to begin</span>
-      <h1>Essential Films</h1>
+      <h1>Start here</h1>
       <p class="lead">
-        A considered introduction to the collection: distinctive approaches to
-        sanctity, suffering, vocation and grace.
+        If you are new to these films, begin with these {picks.length}. They mix
+        silent classics, Hollywood studio pictures, European art cinema and
+        recent work, so you can see the range before going further.
       </p>
       <p>
-        These are starting points, not a ranking of holiness or a claim that one
-        film can speak for the whole tradition. Read each profile’s viewer
-        advisories before choosing.
+        If you are watching with children, read each film's “Before you watch”
+        notes first.
       </p>
     </div>
-    {featured.slice(0, 12).map((f, i) => (
-      <article class="feature-row">
-        <Artwork filmId={f.id} title={f.title} year={f.year} variant={i} />
-        <div>
-          <span class="eyebrow">
-            {String(i + 1).padStart(2, '0')} · {f.year} ·{' '}
-            {f.countries.join(' / ')}
-          </span>
-          <h2>
-            <a href={url(`films/${f.slug}/`)}>{f.title}</a>
-          </h2>
-          <p>{f.inclusion}</p>
-          <a class="text-link" href={url(`films/${f.slug}/`)}>
-            Read the film profile →
+    {
+      picks.map((f, i) => (
+        <article class="feature-row">
+          <a
+            href={url(`films/${f.slug}/`)}
+            tabindex="-1"
+            aria-hidden="true"
+          >
+            <Artwork
+              filmId={f.id}
+              title={f.title}
+              year={f.year}
+              director={f.directors[0]}
+              variant={i}
+              priority={i < 2}
+            />
           </a>
-        </div>
-      </article>
-    ))}
+          <div>
+            <span class="eyebrow">
+              {f.year} · {f.countries.join(' / ')}
+            </span>
+            <h2>
+              <a href={url(`films/${f.slug}/`)}>{f.title}</a>
+            </h2>
+            <p>{f.summary}</p>
+            {paragraphs(f.inclusion)[0] && (
+              <p class="muted">{paragraphs(f.inclusion)[0]}</p>
+            )}
+            <a class="text-link" href={url(`films/${f.slug}/`)}>
+              Read more<span class="visually-hidden"> about {f.title}</span>
+            </a>
+          </div>
+        </article>
+      ))
+    }
     <div class="section"></div>
   </div>
 </Layout>

@@ -3,23 +3,31 @@ import Layout from '../layouts/Layout.astro';
 import { url } from '../data/catalogue';
 ---
 
-<Layout title="Page not found">
-  <div class="wrap section">
+<Layout title="Page not found" noindex>
+  <div class="wrap">
     <div class="page-heading">
-      <span class="eyebrow">404 · A missing page</span>
-      <h1>Let’s find your film.</h1>
+      <h1>Page not found</h1>
       <p class="lead">
-        This address does not lead to a page in the Library. A title may have
-        changed, or the link may be incomplete.
+        There is no page at this address. The link may be mistyped, or the page
+        may have moved.
       </p>
-      <a class="button" href={url('library/')}>
-        Search the library →
-      </a>
-      <p>
-        <a class="text-link" href={url('a-z/')}>
-          Browse the A–Z index
-        </a>
+      <form class="hero-search" action={url('library/')} method="get" role="search">
+        <label class="visually-hidden" for="nf-q">Search films</label>
+        <input
+          id="nf-q"
+          name="q"
+          type="search"
+          placeholder="Search titles, saints, directors…"
+          autocomplete="off"
+        />
+        <button class="button" type="submit">Search</button>
+      </form>
+      <p class="hero-links">
+        <a class="text-link" href={url('library/')}>All films</a>
+        <a class="text-link" href={url('a-z/')}>A–Z</a>
+        <a class="text-link" href={url()}>Home</a>
       </p>
     </div>
+    <div class="section"></div>
   </div>
 </Layout>

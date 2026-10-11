@@ -4,31 +4,46 @@ on:
     branches: [main]
   pull_request:
   workflow_dispatch:
+# Least privilege: every job gets read-only contents by default. Only the
+# deploy job, which never runs for pull requests, receives Pages and OIDC scope.
 permissions:
   contents: read
-  pages: write
-  id-token: write
 concurrency:
   group: pages-${{ github.ref }}
-  cancel-in-progress: true
+  # Never cancel an in-flight Pages deployment; superseded PR builds may be cancelled.
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 env:
   ASTRO_TELEMETRY_DISABLED: '1'
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
-      - uses: withastro/action@v6
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+      - uses: withastro/action@3eafd002e65cc31b4f0eae0bb05450d521562247 # v6
         with:
           node-version: '24'
-          build-cmd: npm run check && npm run lint && npm test && npm run build && node scripts/check-links.mjs
+          # 1. Regenerate data from research/inventory.json and fail if the committed files are stale.
+          # 2. Validate, lint and unit-test. 3. Build. 4. Check links and scan the build for unpublished records.
+          build-cmd: >-
+            npm run catalogue &&
+            git diff --exit-code -- src/data research &&
+            npm run check &&
+            npm run lint &&
+            npm test &&
+            npm run build &&
+            node scripts/check-links.mjs &&
+            node scripts/check-leak.mjs
   deploy:
-    if: github.event_name != 'pull_request'
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/deploy-pages@v5
+      - uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5
         id: deployment

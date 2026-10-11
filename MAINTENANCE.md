@@ -1,62 +1,85 @@
 # Maintenance
 
-The source repository is the durable record. The site is built as static HTML with Astro and TypeScript; no movie API or hosted database is required at runtime. Read README.md for the exact supported Node version, scripts and deployment variables in this checkout. Keep the lockfile committed.
+The source repository is the durable record. The site is static HTML built with Astro and TypeScript, and no movie API or hosted database is needed at runtime. README.md gives the supported Node version, the scripts and the deployment settings. Keep the lockfile committed.
 
 ## Run and verify
 
-From the repository root, install the pinned dependency graph with `npm ci`. Use `npm run dev` for local editing. Before committing, run:
+From the repository root, install the pinned dependency graph with `npm ci` and use `npm run dev` for local editing. Before committing, run the same sequence as the deploy workflow:
 
 ```sh
+npm run catalogue
+git diff --exit-code -- src/data research   # after committing your inventory change: nothing should be stale
 npm run check
 npm run lint
-npm run build
 npm test
-node scripts/check-links.mjs
+npm run build
+npm run check:build                          # check-links, then check-leak
 ```
 
-Check package.json for any additional browser or lint commands delivered with the project. Passing a build does not prove the research, licensing or accessibility is correct. Inspect the generated site on phone, tablet and desktop sizes; check keyboard navigation, focus, search, combined filters, reset, sorting, an empty result and direct film URLs. Review screenshots after a visual change. Repeat targeted checks after a relevant correction.
+`npm run check` runs `astro check` and `scripts/validate.mjs`. Validation fails on schema errors, broken poster or rights consistency and invalid WebP files. It prints warnings for disliked phrases (the style lint) and for posters narrower than 300 px. `check-leak` fails if any HOLD or REJECT id or slug appears in the build, if a public record has no page, or if the sitemap and pages disagree. It skips Astro's redirect stubs.
+
+A passing build does not prove that the research, licensing or accessibility is right. After a visual change, run `npm run test:browser` (see README.md; it needs a local Chromium or `PLAYWRIGHT_CHROMIUM_EXECUTABLE`) and look at the screenshots. Check phone (down to 320 px), tablet and desktop widths, keyboard navigation and focus, search with and without the grey-area toggle, combined filters, reset, an empty result and direct film URLs.
 
 ## Add or update a film
 
-1. Add a candidate to the structured research inventory first. Verify identity and distinguish remakes or television recuts. Use a stable ID; never reuse a removed film's ID for another work.
-2. `research/inventory.json` is the canonical decision inventory. Copy the shape of a current record, not its claims or editorial decision. Start at HOLD and supply source records, access dates, supported claims and unresolved questions. Unknown identifying fields are permitted on internal HOLD records; `scripts/schema.mjs` enforces the stricter public profile contract.
-3. Apply EDITORIAL_POLICY.md. Write original, specific summary and editorial text from substantive evidence. Omit unknown optional values. Preserve original-language and alternative titles, including accents.
-4. Use existing collection identifiers. Distinguish production country, historical setting, release decade, language, subject and format. Do not turn every keyword into a new collection.
-5. Record the decision and last genuine editorial review date. PUBLISH requires evidence, not simply completion of fields. Run `npm run catalogue` to regenerate `src/data/films.json` and `research/source-registry.json` from the canonical inventory. It selects only PUBLISH records and normalizes public facet labels. Do not edit generated public data independently. The initial batch JSON files are historical research snapshots, not live inputs. Ordinary maintenance uses only the canonical inventory.
-6. Run validation, build and tests. Inspect the rendered film page, source list, search result, collection membership, related titles and public export before committing.
+1. Add the candidate to `research/inventory.json` first. Verify its identity and distinguish remakes and television recuts. Use a stable id and never reuse a removed film's id.
+2. Copy the shape of a current record, not its claims or decision. Start at HOLD, with sources, access dates, the claims each source supports and the open questions. Record evidence notes and poster leads in `research/editorial-notes.json`.
+3. Apply EDITORIAL_POLICY.md, including the two exclusion rules. Check every saint's or blessed's canonisation or beatification date. Write original, specific text in a plain critic's voice. Omit unknown optional values, and keep original-language and alternative titles with their accents.
+4. Use the controlled vocabularies in `scripts/schema.mjs`:
+   - format: Feature film, Silent feature, Documentary, Television film or Miniseries;
+   - historical period: Biblical antiquity, Early Church, Middle Ages, 16th century to 21st century (the depicted setting, not the release date);
+   - subjects: reuse an existing subject label where one fits.
 
-For a metadata correction, change only the verified value and record the reason and source. For an alternative title, append it to the relevant field; do not make a duplicate film record. For a new citation, include an exact URL, publisher, title, checked date and supported claims. Recheck the gate when new evidence affects suitability.
+   `npm run catalogue` maps a few legacy spellings onto these values and warns about any period it cannot map.
+5. Use existing collection ids. Do not turn keywords into new collections.
+6. Set the status:
+   - PUBLISH for a recommendation;
+   - GREY with `grey: {kind: "reservations" | "unverified", question}` and a decision beginning `GREY:` (the question must be 40–120 words and say what would settle it);
+   - HOLD or REJECT, with the reason in the decision.
+7. Run `npm run catalogue` to regenerate `src/data/films.json`, `src/data/research-summary.json`, `research/source-registry.json` and the crosswalk statuses. Never edit generated data by hand.
+8. Run the checks above. Look at the rendered film page, its sources, search, collection membership, related films and `catalogue.json` before committing.
+
+For a metadata correction, change only the verified value and record the reason and source. For a new citation, give the exact URL, publisher, title, access date and the claims it supports. Recheck the gate when new evidence affects the decision.
+
+## Featured films
+
+`src/data/featured.json` is an ordered list of film ids for the homepage and Start here. It may list only PUBLISH films, and `npm run catalogue` stops with an error otherwise.
 
 ## Preserve links
 
-Keep existing slugs when correcting display titles. If a slug must change, add a static redirect or equivalent compatibility page supported by the deployment and verify the old URL. GitHub Pages has no application server to resolve arbitrary server-side redirects. If a recommendation is withdrawn, preserve the research record, remove it from all recommendation surfaces, and decide explicitly whether the old route should show a neutral withdrawal notice or a useful 404. Do not silently redirect to a different film.
+Keep existing slugs when correcting display titles. When a film leaves the site (moved to HOLD or REJECT), add its old path to the `redirects` map in `astro.config.mjs` so that it redirects to `/library/`, then build and confirm that the redirect stub exists in `dist/`. Do not redirect to a different film. A film moved between PUBLISH and GREY keeps its page and needs no redirect.
 
-## Images and collections
+## Posters and collections
 
-Use the designed title-card system unless a new asset has documented rights. Update IMAGE_CREDITS.md and the film's image record together; optimize dimensions and file size; add suitable alt text and check the fallback. Bundling a font also requires a license record.
+The poster manifest is `src/data/posters.json`; the files are in `public/posters/`. Before adding an image, verify it against the exact film, year, cast and director, and prefer the original release poster of the right edition. Prefer public-domain and openly licensed images. Record the source page, image URL, creator or rights holder, credit, kind (poster, DVD or VHS cover), identity evidence and rights statement. Every poster needs a `rightsCategory`:
 
-For a collection, add one stable identifier and a useful title, introduction and selection rule in the collection registry. Connect eligible films using that ID, then validate references and navigation. An empty collection should disclose the research gap without displaying HOLD titles as recommendations.
+- `public-domain-worldwide`;
+- `public-domain-us`;
+- `open-licence`;
+- `copyrighted-distributor`;
+- `copyrighted-nonfree-source`.
+
+A Wikipedia fair-use rationale is not permission for this site. Put the contextual use assessment in `research/poster-rights-review.json` and update IMAGE_CREDITS.md.
+
+Images must be WebP, no larger than 600 × 900 px, with the full composition preserved and never upscaled. Validation reads the WebP header and checks that the dimensions match the manifest. Run `npm run catalogue` after adding or removing a poster so that the film's `imageRights` text matches. Validation fails if they disagree. A film with no poster gets the typographic title card. Posters are never used on the homepage.
+
+For a collection, add a stable id, a title, an introduction, a selection rule and one of the three groups (Subjects, Histories, Kinds of film) in `src/data/collections.json`. A collection with no recommended film needs a `gap` note explaining what is missing and why. Do not list HOLD titles as recommendations.
 
 ## Deploy safely
 
-The user authorized a new, isolated `catholic-film-library` repository under the Founder's authenticated account. Confirm the account before creating or pushing a remote. Do not change unrelated repositories, workflows or runners.
+Deployment is from `main` only. Work on a branch, open a pull request so the workflow validates it, and merge to `main` to deploy. Confirm the GitHub account before pushing, and do not change unrelated repositories, workflows or runners.
 
-Use the included GitHub Actions workflow and current official [Astro deployment documentation](https://docs.astro.build/en/guides/deploy/github/) and [GitHub Pages documentation](https://docs.github.com/en/pages). Set the actual site origin and repository base path as described in README.md. A project site must resolve its links, styles, images and search under that base path. A custom domain or root site requires a deliberate configuration change.
+Use the included workflow, the official [Astro deployment documentation](https://docs.astro.build/en/guides/deploy/github/) and the [GitHub Pages documentation](https://docs.github.com/en/pages). The actions are pinned to commit SHAs, and Dependabot proposes updates monthly. Review each update's release notes before merging it. A custom domain or root site needs a deliberate change to the base path in `astro.config.mjs`, the sitemap, robots and `scripts/check-leak.mjs`.
 
-When authentication is unavailable, complete local checks and commits, report the exact blocker, and leave deployment unclaimed. Never invent a public URL. After deployment succeeds, open the actual site and test a direct film URL, a filtered catalogue URL, assets, navigation, refresh, 404, canonical metadata and sitemap. Record the URL and observed result. A green upload workflow alone does not prove the hosted application works.
+When authentication is unavailable, finish the local checks, report the blocker and do not claim a deployment. After a deployment succeeds, open the live site and test a direct film URL, a grey-area film, a filtered library URL, a redirected old film URL, assets, navigation, 404, canonical metadata and the sitemap. A green workflow alone does not prove the site works.
 
 ## Routine care
 
-- Review incoming evidence promptly; move a film to HOLD when a material unresolved concern warrants it.
-- Recheck external links periodically and before asserting availability. Replace dead URLs with verified equivalents without erasing bibliographic provenance.
-- Rotate reviews of older entries. Update a film's verification date only after an actual review, not because a new build ran.
-- Review dependencies and security advisories at a sustainable interval, and promptly for relevant serious advisories. Update in a branch, inspect release notes, regenerate the lockfile, run checks and review the build. Do not apply breaking upgrades blindly.
-- Keep research JSON, source records, asset credits and the lockfile in Git. Retain local backups or a second repository clone; a hosted site is not the source backup.
-- Public JSON metadata is a reusable catalogue export, not a license to third-party artwork. Internal research exports must retain status and uncertainty so HOLD records cannot be mistaken for recommendations.
-- Record substantial data, policy and behavior changes in CHANGELOG.md. Document remaining research and hosting limitations honestly.
-
-## Posters and release covers
-
-The asset manifest is `src/data/posters.json`; local files are in `public/posters/`. Verify a source image against the exact film, year, cast and director before adding it. Record the source page, image URL, artist/distributor credit, accurate poster/DVD/VHS kind, identity evidence and rights statement. Never describe a source's Wikipedia fair-use rationale as permission for this site. Preserve a separate contextual use assessment in `research/poster-rights-review.json`.
-
-Serve a compressed image no larger than 500×750 pixels, preserve the full composition and never upscale. Run `npm run catalogue` after adding or removing a manifest record so the film's image-rights description remains consistent. Validation checks path safety, metadata, dimensions and asset existence; browser QA decodes every catalogue poster. Inspect a contact sheet for mismatched remakes, stills, icons and local screening overprints. Current poster coverage is 38/38; intentionally removing an image requires updating that coverage assertion in the browser check. A removed manifest entry automatically selects the title-card fallback.
+- Review incoming evidence promptly. Move a film to GREY or HOLD when a material concern warrants it, and work through the open verification items in `research/editorial-notes.json`.
+- Recheck external links periodically (`scripts/check-external.mjs`). Replace dead URLs with verified equivalents and keep the bibliographic details.
+- Update a film's review date only after an actual review, not because a new build ran.
+- Review npm dependencies and security advisories at a sustainable interval, and promptly for serious advisories. Dependabot covers GitHub Actions only, so check npm dependencies by hand: update in a branch, read the release notes, regenerate the lockfile and run all checks.
+- Keep research JSON, source records, poster credits and the lockfile in Git. A hosted site is not a backup.
+- `catalogue.json` is a metadata export, not a licence to film artwork (see LICENSE).
+- Record substantial data, policy and behaviour changes in CHANGELOG.md.
+- Rights holders can use the "Image or rights request" issue template. Act on removal requests promptly.

@@ -14,7 +14,10 @@
     "preview": "astro preview --host 127.0.0.1",
     "lint": "eslint scripts src/scripts astro.config.mjs eslint.config.mjs",
     "test:browser": "node scripts/browser-qa.mjs",
-    "catalogue": "node scripts/catalogue.mjs"
+    "catalogue": "node scripts/catalogue.mjs",
+    "check:links": "node scripts/check-links.mjs",
+    "check:leak": "node scripts/check-leak.mjs",
+    "check:build": "node scripts/check-links.mjs && node scripts/check-leak.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.10",

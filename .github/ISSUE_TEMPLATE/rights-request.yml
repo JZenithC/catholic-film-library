@@ -1,0 +1,71 @@
+name: Image or rights request
+description: 'Rights holders and their agents can ask us to remove, credit or correct an image or quoted text.'
+title: '[Rights] '
+labels: ['rights']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Issues on this repository are public.** Do not include private information such as a home address, telephone number, contract terms or identity documents. If you need to share anything confidential, say so below and choose "Contact me privately"; we will reply here with a private channel.
+
+        We act on rights requests promptly. Where you ask for removal, we normally take the image down first and discuss afterwards.
+  - type: input
+    id: page
+    attributes:
+      label: Film and page
+      description: The film title and the page URL on this site where the material appears.
+      placeholder: The Song of Bernadette — https://jzenithc.github.io/catholic-film-library/films/the-song-of-bernadette/
+    validations:
+      required: true
+  - type: dropdown
+    id: material
+    attributes:
+      label: Material concerned
+      options:
+        - Poster or release-cover image
+        - Quoted or paraphrased text
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: image
+    attributes:
+      label: Which image or text
+      description: Describe the image (e.g. "1943 US theatrical poster") or quote the passage, so we can identify it exactly.
+    validations:
+      required: true
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your relationship to the rights
+      options:
+        - I own the copyright
+        - I act for the copyright owner (agent, distributor, estate)
+        - I am the artist or photographer
+        - Other (explain below)
+    validations:
+      required: true
+  - type: dropdown
+    id: request
+    attributes:
+      label: What would you like us to do?
+      options:
+        - Remove the material
+        - Add or change the credit
+        - Correct other information (e.g. edition, date, source)
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: The credit wording you want, the correction, or anything else we should know. Public information only.
+  - type: dropdown
+    id: contact
+    attributes:
+      label: Contact preference
+      options:
+        - Reply in this issue
+        - Contact me privately (we will reply here with a private channel)
+    validations:
+      required: true

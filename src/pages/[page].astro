@@ -2,99 +2,169 @@
 import Layout from '../layouts/Layout.astro';
 import pages from '../data/editorial-pages.json';
 import summary from '../data/research-summary.json';
+import { films, paragraphs, url } from '../data/catalogue';
+interface Section {
+  heading: string;
+  text?: string;
+  items?: { term: string; text: string }[];
+  /** Text shown after the list of items. */
+  after?: string;
+  include?: 'references' | 'research';
+  link?: { href: string; label: string };
+}
+interface Page {
+  title: string;
+  lead: string;
+  sections: Section[];
+}
 export function getStaticPaths() {
   return Object.entries(pages).map(([page, content]) => ({
     params: { page },
-    props: { content, page },
+    props: { content: content as Page, page },
   }));
 }
-const { content, page } = Astro.props;
+const { content, page } = Astro.props as { content: Page; page: string };
+const repo = 'https://github.com/JZenithC/catholic-film-library';
 const refs = [
   [
-    'Vigilanti cura (1936)',
+    'Pius XI, Vigilanti cura',
+    '1936',
+    'on the moral influence of cinema and the duty of audiences and critics.',
     'https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html',
   ],
   [
-    'Miranda prorsus (1957)',
-    'https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html',
-  ],
-  [
-    'Mediator Dei (1947)',
+    'Pius XII, Mediator Dei',
+    '1947',
+    'on the liturgy and the Eucharistic sacrifice; relevant when a film shows the Mass or the priesthood.',
     'https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html',
   ],
   [
+    'Pius XII, Miranda prorsus',
+    '1957',
+    'on film, radio and television, and on responsible film criticism.',
+    'https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html',
+  ],
+  [
+    'Pius XI, Mortalium animos',
+    '1928',
+    'on religious unity; the measure for films that treat other religions.',
+    'https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html',
+  ],
+  [
+    'Catechism of the Council of Trent',
+    '1566',
+    'the Roman Catechism, cited on the Passion and the sacraments (English translation, Internet Archive).',
+    'https://archive.org/details/catechismofcounc00cath',
+  ],
+  [
     'Council of Trent, Session XXV',
+    '1563',
+    'on the saints, relics and sacred images (English translation, Hanover Historical Texts Project).',
     'https://history.hanover.edu/texts/trent/ct25.html',
   ],
 ];
+const stats: [number, string][] = [
+  [summary.candidates, 'films researched'],
+  [films.length, 'recommended'],
+  [summary.grey, 'in the grey area'],
+  [summary.hold, 'on hold'],
+  [summary.reject, 'left out'],
+];
+const listCountries = (list: string[]) =>
+  list.length > 1
+    ? `${list.slice(0, -1).join(', ')} and ${list.at(-1)}`
+    : (list[0] ?? '');
 ---
 
 <Layout title={content.title} description={content.lead}>
   <div class="wrap">
     <article class="reading">
       <div class="page-heading">
-        <span class="eyebrow">The Library & its work</span>
         <h1>{content.title}</h1>
         <p class="lead">{content.lead}</p>
+        {
+          page === 'corrections' && (
+            <p>
+              <a class="button" href={`${repo}/issues/new/choose`}>
+                Open a correction or suggestion
+              </a>
+            </p>
+          )
+        }
       </div>
       <div class="prose">
-        {page === 'sources' && (
-          <section>
-            <h2>This edition’s research scope</h2>
-            <p>
-              The starting inventory of {summary.initial} candidates has a
-              recorded decision for every title. A further {summary.additional}{' '}
-              distinct productions were investigated. This edition recommends{' '}
-              {summary.publish} films; {summary.hold} candidates remain on hold
-              and {summary.reject} are excluded. A hold often records an
-              unanswered question rather than a negative verdict.
-            </p>
-            <p>
-              Published production origins include{' '}
-              {summary.countries.join(', ')}. Research also investigated
-              Japanese, Portuguese, Mexican and Latin American leads. African
-              production, animation and several regional traditions remain
-              coverage gaps. Collections without accepted films:{' '}
-              {summary.emptyCollections.join('; ')}.
-            </p>
-            <p>
-              <a href="https://github.com/JZenithC/catholic-film-library/tree/main/research">
-                Read the versioned research inventory, source registry and audit
-                records
-              </a>
-              .
-            </p>
-          </section>
-        )}
-        {page === 'corrections' && (
-          <p>
-            <a
-              class="button"
-              href="https://github.com/JZenithC/catholic-film-library/issues/new/choose"
-            >
-              Submit a correction or suggestion →
-            </a>
-          </p>
-        )}
-        {content.sections.map((s) => (
-          <section>
-            <h2>{s.heading}</h2>
-            <p>{s.text}</p>
-          </section>
-        ))}
-        {page === 'sources' && (
-          <section>
-            <h2>Primary reference texts</h2>
-            <ul>
-              {refs.map(([label, href]) => (
-                <li>
-                  <a href={href}>{label}</a>
-                </li>
+        {
+          content.sections.map((s) => (
+            <section>
+              <h2>{s.heading}</h2>
+              {s.include === 'research' && (
+                <>
+                  <div class="stat-row">
+                    {stats.map(([n, label]) => (
+                      <div>
+                        <b>{n}</b>
+                        {label}
+                      </div>
+                    ))}
+                  </div>
+                  <p>
+                    Every candidate film has a recorded decision and the reason
+                    for it. A film in the grey area has a stated reservation, or
+                    has not yet been independently reviewed; its page sets out
+                    the question. A film on hold lacks the evidence to judge it
+                    at all, which is not a verdict against it.
+                  </p>
+                  {summary.countries.length > 0 && (
+                    <p>
+                      The recommended films were made in{' '}
+                      {listCountries(summary.countries)}. Coverage of Latin
+                      American, Asian and African cinema, and of animation, is
+                      still thin.
+                    </p>
+                  )}
+                  <p>
+                    <a class="text-link" href={`${repo}/tree/main/research`}>
+                      The full research records on GitHub
+                    </a>
+                  </p>
+                </>
+              )}
+              {paragraphs(s.text).map((p) => (
+                <p>{p}</p>
               ))}
-            </ul>
-          </section>
-        )}
+              {s.items && (
+                <ul>
+                  {s.items.map((item) => (
+                    <li>
+                      <strong>{item.term}.</strong> {item.text}
+                    </li>
+                  ))}
+                </ul>
+              )}
+              {paragraphs(s.after).map((p) => (
+                <p>{p}</p>
+              ))}
+              {s.include === 'references' && (
+                <ul>
+                  {refs.map(([name, year, note, href]) => (
+                    <li>
+                      <a href={href}>{name}</a> ({year}), {note}
+                    </li>
+                  ))}
+                </ul>
+              )}
+              {s.link && (
+                <p>
+                  <a class="text-link" href={url(s.link.href)}>
+                    {s.link.label}
+                  </a>
+                </p>
+              )}
+            </section>
+          ))
+        }
       </div>
     </article>
+    <div class="section"></div>
   </div>
 </Layout>

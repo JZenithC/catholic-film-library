@@ -27,12 +27,12 @@
   {
     "originalCandidate": "La Señora de Fátima (1951)",
     "recordId": "la-senora-de-fatima",
-    "status": "HOLD"
+    "status": "PUBLISH"
   },
   {
     "originalCandidate": "Aparição (1991)",
     "recordId": "aparicao",
-    "status": "HOLD"
+    "status": "GREY"
   },
   {
     "originalCandidate": "The 13th Day (2009)",
@@ -47,7 +47,7 @@
   {
     "originalCandidate": "Mary of Nazareth (2012)",
     "recordId": "mary-of-nazareth",
-    "status": "HOLD"
+    "status": "GREY"
   },
   {
     "originalCandidate": "The Passion of Joan of Arc (1928)",
@@ -57,7 +57,7 @@
   {
     "originalCandidate": "Joan of Arc (1948)",
     "recordId": "joan-of-arc",
-    "status": "HOLD"
+    "status": "PUBLISH"
   },
   {
     "originalCandidate": "The Trial of Joan of Arc (1962)",
@@ -72,7 +72,7 @@
   {
     "originalCandidate": "Francis of Assisi (1961)",
     "recordId": "francis-of-assisi",
-    "status": "HOLD"
+    "status": "PUBLISH"
   },
   {
     "originalCandidate": "Monsieur Vincent (1947)",
@@ -92,7 +92,7 @@
   {
     "originalCandidate": "Thérèse: The Story of Saint Thérèse of Lisieux (2004)",
     "recordId": "therese-the-story-of-saint-therese-of-lisieux",
-    "status": "HOLD"
+    "status": "PUBLISH"
   },
   {
     "originalCandidate": "Fray Escoba (1961)",
@@ -102,17 +102,17 @@
   {
     "originalCandidate": "Un mulato llamado Martín (1974)",
     "recordId": "un-mulato-llamado-martin",
-    "status": "HOLD"
+    "status": "GREY"
   },
   {
     "originalCandidate": "St. John Baptist de La Salle (1964)",
     "recordId": "st-john-baptist-de-la-salle",
-    "status": "HOLD"
+    "status": "GREY"
   },
   {
     "originalCandidate": "Don Bosco (1988)",
     "recordId": "don-bosco",
-    "status": "HOLD"
+    "status": "GREY"
   },
   {
     "originalCandidate": "Ignatius of Loyola (2016)",
@@ -122,22 +122,22 @@
   {
     "originalCandidate": "Edith Stein: The Seventh Chamber (1995)",
     "recordId": "edith-stein-the-seventh-chamber",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Life for Life: Maximilian Kolbe (1991)",
     "recordId": "life-for-life-maximilian-kolbe",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Molokai: The Story of Father Damien (1999)",
     "recordId": "molokai-the-story-of-father-damien",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Poveda (2016)",
     "recordId": "poveda",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Claret (2020)",
@@ -147,47 +147,47 @@
   {
     "originalCandidate": "Our God's Brother (1997)",
     "recordId": "our-god-s-brother",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "A Man for All Seasons (1966)",
     "recordId": "a-man-for-all-seasons",
-    "status": "HOLD"
+    "status": "PUBLISH"
   },
   {
     "originalCandidate": "Becket (1964)",
     "recordId": "becket",
-    "status": "HOLD"
+    "status": "PUBLISH"
   },
   {
     "originalCandidate": "Le Dialogue des Carmélites (1960)",
     "recordId": "le-dialogue-des-carmelites",
-    "status": "HOLD"
+    "status": "PUBLISH"
   },
   {
     "originalCandidate": "Vaincre ou mourir (2023)",
     "recordId": "vaincre-ou-mourir",
-    "status": "HOLD"
+    "status": "GREY"
   },
   {
     "originalCandidate": "The War of the Vendée (2012)",
     "recordId": "the-war-of-the-vendee",
-    "status": "PUBLISH"
+    "status": "GREY"
   },
   {
     "originalCandidate": "Un Dios prohibido / A Forbidden God (2013)",
     "recordId": "un-dios-prohibido",
-    "status": "PUBLISH"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "For Greater Glory / Cristiada (2012)",
     "recordId": "for-greater-glory",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "The Scarlet and the Black (1983)",
     "recordId": "the-scarlet-and-the-black",
-    "status": "HOLD"
+    "status": "PUBLISH"
   },
   {
     "originalCandidate": "The Assisi Underground (1985)",
@@ -197,22 +197,22 @@
   {
     "originalCandidate": "The Ninth Day (2004)",
     "recordId": "the-ninth-day",
-    "status": "HOLD"
+    "status": "PUBLISH"
   },
   {
     "originalCandidate": "A Hidden Life (2019)",
     "recordId": "a-hidden-life",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Triumph of the Heart (2025)",
     "recordId": "triumph-of-the-heart",
-    "status": "PUBLISH"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Rome, Open City (1945)",
     "recordId": "rome-open-city",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Network of Freedom / Red de libertad (2017)",
@@ -222,12 +222,12 @@
   {
     "originalCandidate": "Quo Vadis (1951)",
     "recordId": "quo-vadis",
-    "status": "HOLD"
+    "status": "PUBLISH"
   },
   {
     "originalCandidate": "Fabiola (1949)",
     "recordId": "fabiola",
-    "status": "HOLD"
+    "status": "GREY"
   },
   {
     "originalCandidate": "Diary of a Country Priest (1951)",
@@ -252,27 +252,27 @@
   {
     "originalCandidate": "Balarrasa (1951)",
     "recordId": "balarrasa",
-    "status": "HOLD"
+    "status": "PUBLISH"
   },
   {
     "originalCandidate": "The Fugitive (1947)",
     "recordId": "the-fugitive",
-    "status": "HOLD"
+    "status": "PUBLISH"
   },
   {
     "originalCandidate": "Léon Morin, Priest (1961)",
     "recordId": "leon-morin-priest",
-    "status": "HOLD"
+    "status": "GREY"
   },
   {
     "originalCandidate": "Going My Way (1944)",
     "recordId": "going-my-way",
-    "status": "HOLD"
+    "status": "PUBLISH"
   },
   {
     "originalCandidate": "The Bells of St. Mary's (1945)",
     "recordId": "the-bells-of-st-mary-s",
-    "status": "HOLD"
+    "status": "PUBLISH"
   },
   {
     "originalCandidate": "Boys Town (1938)",
@@ -317,7 +317,7 @@
   {
     "originalCandidate": "Of Gods and Men (2010)",
     "recordId": "of-gods-and-men",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "The Little World of Don Camillo (1952)",
@@ -347,7 +347,7 @@
   {
     "originalCandidate": "On the Waterfront (1954)",
     "recordId": "on-the-waterfront",
-    "status": "PUBLISH"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "The Agony and the Ecstasy (1965)",
@@ -357,7 +357,7 @@
   {
     "originalCandidate": "The Sound of Music (1965)",
     "recordId": "the-sound-of-music",
-    "status": "PUBLISH"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Angels with Dirty Faces (1938)",
@@ -372,17 +372,17 @@
   {
     "originalCandidate": "The Miracle of the Bells (1948)",
     "recordId": "the-miracle-of-the-bells",
-    "status": "HOLD"
+    "status": "GREY"
   },
   {
     "originalCandidate": "The Keys of the Kingdom (1944)",
     "recordId": "the-keys-of-the-kingdom",
-    "status": "HOLD"
+    "status": "GREY"
   },
   {
     "originalCandidate": "Jesus of Nazareth (1977)",
     "recordId": "jesus-of-nazareth",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Teresa de Jesús (1984)",
@@ -392,7 +392,7 @@
   {
     "originalCandidate": "Saint Teresa of the Andes (1989)",
     "recordId": "saint-teresa-of-the-andes",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Clare and Francis (2007)",
@@ -402,17 +402,17 @@
   {
     "originalCandidate": "Saint Rita (2004)",
     "recordId": "saint-rita",
-    "status": "HOLD"
+    "status": "GREY"
   },
   {
     "originalCandidate": "Padre Pio: Miracle Man (2000)",
     "recordId": "padre-pio-miracle-man",
-    "status": "PUBLISH"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Padre Pio: Between Heaven and Earth (2000)",
     "recordId": "padre-pio-between-heaven-and-earth",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Saint Philip Neri: I Prefer Heaven (2010)",
@@ -432,12 +432,12 @@
   {
     "originalCandidate": "St. Giuseppe Moscati: Doctor to the Poor (2007)",
     "recordId": "giuseppe-moscati",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Bakhita: From Slave to Saint (2009)",
     "recordId": "bakhita",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Maria Goretti (2003)",
@@ -472,27 +472,27 @@
   {
     "originalCandidate": "Blessed Duns Scotus (2010)",
     "recordId": "blessed-duns-scotus",
-    "status": "PUBLISH"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Mother Teresa (2003)",
     "recordId": "mother-teresa-2003",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Into Great Silence (2005)",
     "recordId": "into-great-silence",
-    "status": "PUBLISH"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "No Greater Love (2009)",
     "recordId": "no-greater-love",
-    "status": "PUBLISH"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Two Crowns (2017)",
     "recordId": "two-crowns",
-    "status": "PUBLISH"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Faith of Our Fathers: The English Martyrs",
@@ -527,12 +527,12 @@
   {
     "originalCandidate": "Saint Pio of Pietrelcina: Man of Hope and Healing",
     "recordId": "saint-pio-hope-healing",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Silence (2016)",
     "recordId": "silence",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "The Two Popes (2019)",
@@ -547,12 +547,12 @@
   {
     "originalCandidate": "Brother Sun, Sister Moon (1972)",
     "recordId": "brother-sun-sister-moon",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Cabrini (2024)",
     "recordId": "cabrini",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "Fátima (2020)",
@@ -562,17 +562,17 @@
   {
     "originalCandidate": "Thérèse (1986)",
     "recordId": "therese-1986",
-    "status": "HOLD"
+    "status": "GREY"
   },
   {
     "originalCandidate": "The Mission (1986)",
     "recordId": "mission-1986",
-    "status": "HOLD"
+    "status": "GREY"
   },
   {
     "originalCandidate": "The Exorcist (1973)",
     "recordId": "exorcist",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "The Day of the Siege: September Eleven 1683 (2012)",
@@ -582,7 +582,7 @@
   {
     "originalCandidate": "Calvary (2014)",
     "recordId": "calvary",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "The Tree of Life (2011)",
@@ -592,7 +592,7 @@
   {
     "originalCandidate": "Au Revoir les Enfants (1987)",
     "recordId": "au-revoir-les-enfants",
-    "status": "HOLD"
+    "status": "REJECT"
   },
   {
     "originalCandidate": "The Innocents (2016)",
@@ -602,6 +602,6 @@
   {
     "originalCandidate": "Romero (1989)",
     "recordId": "romero",
-    "status": "HOLD"
+    "status": "REJECT"
   }
 ]

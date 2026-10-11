@@ -27,6 +27,7 @@ export const server = http.createServer(async (req, res) => {
       '.xml': 'application/xml',
       '.txt': 'text/plain',
       '.png': 'image/png',
+      '.webp': 'image/webp',
     };
     res.setHeader(
       'Content-Type',

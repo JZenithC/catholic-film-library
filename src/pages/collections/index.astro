@@ -1,38 +1,59 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { collections, films, url } from '../../data/catalogue';
+import {
+  collections,
+  groupOrder,
+  collectionCount,
+  url,
+} from '../../data/catalogue';
+const intros: Record<string, string> = {
+  Subjects: 'Christ, Our Lady, the saints and the people who serve the Church.',
+  Histories: 'Particular persecutions and the people who lived through them.',
+  'Kinds of film': 'Comedies, documentaries, television, and films for families.',
+};
+const groups = groupOrder
+  .map((name) => ({
+    name,
+    items: collections.filter((c) => c.group === name),
+  }))
+  .filter((g) => g.items.length > 0);
 ---
 
-<Layout title="Collections">
+<Layout
+  title="Collections"
+  description="Catholic films grouped by subject, by period of history and by kind of film."
+>
   <div class="wrap">
     <div class="page-heading">
-      <span class="eyebrow">Find your path</span>
-      <h1>The Collections</h1>
+      <h1>Collections</h1>
       <p class="lead">
-        Explore cinema through its subjects, histories and forms. Each film may
-        open more than one door.
+        The films grouped by subject, by history and by kind. A film can belong
+        to several collections.
       </p>
     </div>
-    <div class="collection-grid">
-      {collections.map((c, i) => (
-        <a class="collection-card" href={url(`collections/${c.id}/`)}>
-          <span class="number">{String(i + 1).padStart(2, '0')}</span>
-          <div>
-            <h3>{c.title}</h3>
-            <p>{c.description}</p>
-            <span class="count">
-              {films.filter((f) => f.collections.includes(c.id)).length}{' '}
-              recommended films
-            </span>
+    {
+      groups.map((g, gi) => (
+        <section class="group" aria-labelledby={`group-${gi}`}>
+          <h2 id={`group-${gi}`}>{g.name}</h2>
+          {intros[g.name] && <p>{intros[g.name]}</p>}
+          <div class="topic-grid">
+            {g.items.map((c) => {
+              const count = collectionCount(c.id);
+              return (
+                <a
+                  class:list={['topic', { 'is-empty': !count }]}
+                  href={url(`collections/${c.id}/`)}
+                >
+                  <h3>{c.title}</h3>
+                  <p>{c.description}</p>
+                  <span class="count">{count || 'Under review'}</span>
+                </a>
+              );
+            })}
           </div>
-          <span aria-hidden="true">↗</span>
-        </a>
-      ))}
-    </div>
-    <p class="edition-note">
-      Collections with no accepted films identify a research gap. They do not
-      imply that no suitable production exists.
-    </p>
+        </section>
+      ))
+    }
     <div class="section"></div>
   </div>
 </Layout>

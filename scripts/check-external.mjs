@@ -1,5 +1,6 @@
 import { readFile, writeFile } from 'node:fs/promises';
 const films = JSON.parse(await readFile('src/data/films.json', 'utf8'));
+const checked = new Date().toISOString().slice(0, 10);
 const urls = [...new Set(films.flatMap((f) => f.sources.map((s) => s.url)))];
 const results = [];
 let cursor = 0;
@@ -17,14 +18,14 @@ async function worker() {
         url,
         status: response.status,
         finalURL: response.url,
-        checked: '2026-10-11',
+        checked,
       });
     } catch (e) {
       results.push({
         url,
         status: 'unresolved',
         error: e.message,
-        checked: '2026-10-11',
+        checked,
       });
     }
   }

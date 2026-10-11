@@ -1,11 +1,16 @@
+const ligatures = { ß: 'ss', ẞ: 'ss', æ: 'ae', Æ: 'ae', œ: 'oe', Œ: 'oe' };
 export const normalize = (value) =>
   String(value ?? '')
+    .replace(/[ßẞæÆœŒ]/g, (c) => ligatures[c])
     .normalize('NFD')
     .replace(/\p{Diacritic}/gu, '')
     .toLowerCase()
     .replace(/[’']/g, '')
     .replace(/[^\p{L}\p{N}]+/gu, ' ')
     .trim();
+/** True when every query token is the start of some word in `words`. */
+export const matchesTokens = (words, tokens) =>
+  tokens.every((t) => words.some((w) => w.startsWith(t)));
 export function selectFilms(films, query = {}) {
   const tokens = normalize(query.q).split(' ').filter(Boolean);
   const fields = {
@@ -18,21 +23,25 @@ export function selectFilms(films, query = {}) {
   };
   return films
     .filter((f) => {
-      const searchable = normalize(
-        [
-          f.title,
-          f.originalTitle,
-          ...(f.alternateTitles ?? []),
-          ...(f.directors ?? []),
-          ...(f.countries ?? []),
-          ...(f.languages ?? []),
-          ...(f.subjects ?? []),
-          ...(f.collections ?? []),
-          f.themes ?? '',
-          f.historicalPeriod,
-        ].join(' '),
-      );
-      if (!tokens.every((t) => searchable.includes(t))) return false;
+      // Grey-area films are shown only when asked for (`grey=1`).
+      if (f.grey && !query.grey) return false;
+      if (tokens.length) {
+        const words = normalize(
+          [
+            f.title,
+            f.originalTitle,
+            ...(f.alternateTitles ?? []),
+            ...(f.directors ?? []),
+            ...(f.countries ?? []),
+            ...(f.languages ?? []),
+            ...(f.subjects ?? []),
+            ...(f.collections ?? []),
+            f.themes ?? '',
+            f.historicalPeriod,
+          ].join(' '),
+        ).split(' ');
+        if (!matchesTokens(words, tokens)) return false;
+      }
       if (query.decade && Math.floor(f.year / 10) * 10 !== Number(query.decade))
         return false;
       return Object.entries(fields).every(

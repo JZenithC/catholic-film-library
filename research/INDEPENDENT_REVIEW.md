@@ -116,3 +116,21 @@ The inspected workflow runs check, lint, tests, build and local link verificatio
 Normalize the public facet to Biblical antiquity, Middle Ages, Early modern era, 19th century, 20th century, 19th–20th centuries, and 21st century where the represented period is established. Preserve detailed original wording in research records or profile prose. Use 19th–20th centuries only when the portrayed events span that boundary (for example the Maria Goretti narrative), not merely because a subject lived across it. Into Great Silence's observed modern monastery can use 21st century; the unstable word Contemporary should not stand in for a permanent date. The facet concerns depicted setting, not film release, and biblical/medieval divisions are broad discovery aids rather than new historical findings. Where an event span is uncertain, preserve the uncertainty instead of manufacturing a narrower date.
 
 The two reproduced schema defects are resolved in the inspected version. The import hazard remains the material engineering finding at the time of this addendum. An expanded catalogue and an independently observed production release are outside the evidence asserted by these local checks.
+
+## Status addendum — editorial and design pass, 11 October 2026
+
+The findings above are left as written. This addendum records how the later editorial pass (branch `improve/editorial-pass`; see `IMPROVEMENT_REPORT.md`) bears on them. It was written by the documentation editor of that pass, not by the original reviewer, and it is not an independent re-review.
+
+- **Passion of the Christ controversy (P1).** Still addressed. The decision now also cites the Roman Catechism on the guilt of the Passion.
+- **Breadth (P1).** Still open. Coverage grew, and the countries of the public films are listed in `src/data/research-summary.json` (recommended) and on the site. Africa, animation and most Asian and Latin American cinema remain thin, and three collections are empty, with gap notes.
+- **Font inventory (P2).** IMAGE_CREDITS.md is maintained separately and was not reviewed for this addendum.
+- **Format and period vocabulary (P2).** Resolved. The schema now enforces a format enum (Feature film, Silent feature, Documentary, Television film, Miniseries) and a period enum: Biblical antiquity, Early Church, Middle Ages, 16th century to 21st century. This differs from the vocabulary proposed above: centuries replace "Early modern era", and spans such as "19th–20th centuries" map to 20th century. `npm run catalogue` maps legacy values and warns about unmapped ones.
+- **Theme search (P2).** Still in place. Search now also folds ß, æ and œ and matches word prefixes.
+- **Single-source profiles (P2).** Moot for On the Waterfront, The Sound of Music and Triumph of the Heart, which left the site. The schema requires at least two sources from two different hosts.
+- **Generic decision text (P2).** Every public record's decision was rewritten to be specific to its film. Grey records begin "GREY:" and name the evidence that would settle them.
+- **Screenshot consistency (P2).** Not re-established for this pass. The browser QA script was updated, but no full run against the final build is recorded here.
+- **1965 boundary (P3).** Moot. The before-1965 and after-1965 collections were removed.
+- **Tablet essentials grid (P3).** Superseded by the new design. Not re-verified in screenshots here.
+- **Research import hazard (engineering).** Resolved. `scripts/import-research.mjs` no longer exists. `npm run catalogue` reads only committed files.
+- **Deployment configuration.** The workflow now pins actions to commit SHAs, grants Pages and OIDC permissions only to the deploy job, deploys only from `main`, fails on stale generated data and runs `check-leak` after `check-links`.
+- **Historical-period advice.** Into Great Silence, cited above as a 21st-century example, has been rejected under the Founder's rule on the post-conciliar Church.

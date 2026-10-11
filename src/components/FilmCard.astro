@@ -4,25 +4,28 @@ import { url, type Film } from '../data/catalogue';
 interface Props {
   film: Film;
   index?: number;
+  headingLevel?: 2 | 3;
 }
-const { film, index = 0 } = Astro.props;
+const { film, index = 0, headingLevel = 3 } = Astro.props;
+const Heading = headingLevel === 2 ? 'h2' : 'h3';
+const href = url(`films/${film.slug}/`);
+const director = film.directors[0];
 ---
 
 <article class="film-card">
-  <a
-    class="art-link"
-    href={url(`films/${film.slug}/`)}
-    tabindex="-1"
-    aria-hidden="true"
-  >
-    <Artwork filmId={film.id} title={film.title} year={film.year} variant={index} />
+  <a class="art-link" href={href} tabindex="-1" aria-hidden="true">
+    <Artwork
+      filmId={film.id}
+      title={film.title}
+      year={film.year}
+      director={director}
+      variant={index}
+    />
   </a>
-  <div class="card-meta">
-    {film.year} <span>·</span> {film.countries.join(' / ')}
-  </div>
-  <h3>
-    <a href={url(`films/${film.slug}/`)}>{film.title}</a>
-  </h3>
-  <p class="card-director">{film.directors.join(' & ')}</p>
-  <p>{film.summary}</p>
+  {film.grey && <p class="grey-tag">Grey area</p>}
+  <Heading><a href={href}>{film.title}</a></Heading>
+  <p class="card-meta">
+    {film.year}{director ? ` · ${director}` : ''}
+  </p>
+  <p class="card-summary">{film.summary}</p>
 </article>

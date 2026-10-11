@@ -11,6 +11,9 @@ export interface Poster {
   sourceRightsStatement: string;
   usageBasis: string;
   reviewed: string;
+  rightsCategory?: string;
+  creator?: string;
+  rightsHolder?: string;
 }
 export const posters = records as Poster[];
 export const posterFor = (id?: string) => posters.find((p) => p.id === id);

@@ -1,16 +1,18 @@
 {
   "initial": 121,
-  "candidates": 142,
-  "additional": 21,
-  "publish": 38,
-  "hold": 101,
-  "reject": 3,
+  "candidates": 147,
+  "additional": 26,
+  "recommended": 48,
+  "grey": 20,
+  "hold": 41,
+  "reject": 38,
   "countries": [
+    "Czech Republic",
     "France",
     "Germany",
     "Italy",
     "Luxembourg",
-    "Poland",
+    "Mexico",
     "Spain",
     "Switzerland",
     "United Kingdom",
@@ -18,6 +20,7 @@
   ],
   "emptyCollections": [
     "The Cristero War",
-    "The English Martyrs"
+    "The Spanish Civil War",
+    "Documentaries"
   ]
 }

@@ -1,8 +1,9 @@
-import { films } from '../data/catalogue';
+import { publicFilms } from '../data/catalogue';
+// Grey-area films are included; `grey` is null for recommended films.
 export const GET = () =>
   new Response(
     JSON.stringify(
-      films.map(
+      publicFilms.map(
         ({
           id,
           slug,
@@ -18,6 +19,7 @@ export const GET = () =>
           collections,
           historicalPeriod,
           reviewed,
+          grey,
         }) => ({
           id,
           slug,
@@ -33,6 +35,7 @@ export const GET = () =>
           collections,
           historicalPeriod,
           reviewed,
+          grey,
         }),
       ),
       null,

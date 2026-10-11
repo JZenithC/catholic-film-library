@@ -27,3 +27,17 @@ The independent reports record findings against intermediate snapshots. This fil
 - Added sequential heading structure on catalogue/collection pages and a PNG social card.
 
 Final command results, screenshots, hosted verification and remaining limitations are recorded in DELIVERY_REPORT.md and the JSON audit reports. Neither automated accessibility tools nor a research-only editorial assessment constitutes universal certification.
+
+## Addendum — editorial and design pass, 11 October 2026
+
+The text above is left as written. The later editorial pass (branch `improve/editorial-pass`; see `IMPROVEMENT_REPORT.md`) supersedes several of the resolutions:
+
+- **Policy.** The site now states the Founder's pre-conciliar position publicly and applies two exclusion rules: subjects canonised or beatified only after 1965, and the post-conciliar Church presented as normal or exemplary. Post-conciliar bodies and publications are cited for facts only.
+- **Films resolved above and later removed.** Blessed Duns Scotus, No Greater Love, Into Great Silence, Un Dios prohibido, Triumph of the Heart, Padre Pio: Miracle Man and Two Crowns are now REJECT under those rules. The Sound of Music and On the Waterfront left the site as out of scope. Their URLs redirect to `/library/`. The metadata and caveat work recorded above for these films no longer appears on the site; it is kept in `research/inventory.json`.
+- **The War of the Vendée** moved from recommended to grey area ("not yet verified"): no independent critic has assessed its history. Don Bosco (1935) also moved to the grey area.
+- **Quo Vadis** is now PUBLISH. The moral-framing question was resolved against the AFI Catalog synopsis and two substantive essays.
+- **Counts.** The inventory now holds 147 candidates; the current status counts are in `src/data/research-summary.json`. The duplicate Bells of Nagasaki record (`the-bells-of-nagasaki-1950`) was merged into `bells-of-nagasaki`. The English Martyrs collection now has one recommended film (A Man for All Seasons). The Cristero War, Spanish Civil War and Documentaries collections are empty, with gap notes.
+- **The 1965 boundary.** The before-1965 and after-1965 collections were removed, and their URLs redirect to `/library/`.
+- **Engineering and design.** The title-card typography and the tablet layout described above were replaced by a new design system. The homepage carries no images, and posters appear only on film pages and cards. The deploy workflow now also regenerates the catalogue, fails on stale generated data and runs `check-leak`.
+
+The Passion of the Christ resolution stands. Its decision now cites the Roman Catechism on who bears the guilt of the Passion.

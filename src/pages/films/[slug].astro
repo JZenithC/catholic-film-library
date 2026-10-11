@@ -3,9 +3,19 @@ import Layout from '../../layouts/Layout.astro';
 import Artwork from '../../components/Artwork.astro';
 import FilmCard from '../../components/FilmCard.astro';
 import { posterFor } from '../../data/posters';
-import { films, collections, url, type Film } from '../../data/catalogue';
+import {
+  films,
+  publicFilms,
+  collections,
+  greyLabels,
+  url,
+  paragraphs,
+  kindLabel,
+  creditShort,
+  type Film,
+} from '../../data/catalogue';
 export function getStaticPaths() {
-  return films.map((film) => ({
+  return publicFilms.map((film) => ({
     params: { slug: film.slug },
     props: { film },
   }));
@@ -15,25 +25,76 @@ interface Props {
 }
 const { film } = Astro.props;
 const poster = posterFor(film.id);
-const related = films
+const filmCollections = film.collections
+  .map((id) => collections.find((c) => c.id === id))
+  .filter((c) => c !== undefined);
+const firstCollection = filmCollections[0];
+
+// Related films: shared subjects weigh most; broad collections count less.
+// A recommended film's page suggests only recommended films.
+const broad = new Set([
+  'saints',
+  'religious-life',
+  'priesthood',
+  'families',
+  'television',
+  'documentaries',
+]);
+const related = (film.grey ? publicFilms : films)
   .filter((f) => f.id !== film.id)
-  .map((f) => ({
-    f,
-    score: f.collections.filter(
-      (c) =>
-        film.collections.includes(c) &&
-        !['before-1965', 'after-1965'].includes(c),
-    ).length,
-  }))
-  .filter((x) => x.score > 0)
-  .sort((a, b) => b.score - a.score)
+  .map((f) => {
+    const subjects = f.subjects.filter((s) => film.subjects.includes(s));
+    const shared = f.collections.filter((c) => film.collections.includes(c));
+    const score =
+      3 * subjects.length +
+      shared.reduce((n, c) => n + (broad.has(c) ? 1 : 2), 0) +
+      (Math.abs(f.year - film.year) <= 15 ? 1 : 0);
+    return { f, score };
+  })
+  .filter((x) => x.score >= 3)
+  .sort(
+    (a, b) =>
+      b.score - a.score ||
+      (a.f.featured ?? 999) - (b.f.featured ?? 999) ||
+      a.f.title.localeCompare(b.f.title, 'en'),
+  )
   .slice(0, 4)
   .map((x) => x.f);
-const movie = {
+
+const alsoKnownAs = [
+  ...new Set(
+    film.alternateTitles.filter(
+      (t) => t && t !== film.title && t !== film.originalTitle,
+    ),
+  ),
+];
+const language =
+  film.languages.length > 0
+    ? film.languages.join(', ')
+    : film.format === 'Silent feature'
+      ? 'Silent'
+      : '';
+const facts: [string, string][] = [
+  [film.directors.length > 1 ? 'Directors' : 'Director', film.directors.join(', ')],
+  ['Year', String(film.year)],
+  [film.countries.length > 1 ? 'Countries' : 'Country', film.countries.join(', ')],
+  [film.languages.length > 1 ? 'Languages' : 'Language', language],
+  ['Format', film.runtime ? `${film.format}, ${film.runtime} min` : film.format],
+  ['Also known as', alsoKnownAs.join('; ')],
+];
+
+const alternateName = [
+  ...new Set(
+    [film.originalTitle, ...film.alternateTitles].filter(
+      (t): t is string => Boolean(t) && t !== film.title,
+    ),
+  ),
+];
+const movie: Record<string, unknown> = {
   '@context': 'https://schema.org',
   '@type': 'Movie',
   name: film.title,
-  alternateName: [film.originalTitle, ...film.alternateTitles].filter(Boolean),
+  alternateName,
   dateCreated: String(film.year),
   director: film.directors.map((name) => ({ '@type': 'Person', name })),
   countryOfOrigin: film.countries.map((name) => ({ '@type': 'Country', name })),
@@ -42,178 +103,191 @@ const movie = {
   image: poster ? new URL(url(poster.src), Astro.site).href : undefined,
   url: new URL(url(`films/${film.slug}/`), Astro.site).href,
 };
+for (const [key, value] of Object.entries(movie))
+  if (value === undefined || (Array.isArray(value) && value.length === 0))
+    delete movie[key];
+const claims = (c: string[] | string) => (Array.isArray(c) ? c.join('; ') : c);
 ---
 
-<Layout title={film.title} description={film.summary} movie={movie}>
+<Layout title={`${film.title} (${film.year})`} description={film.summary} movie={movie}>
   <div class="wrap">
-    <section class="article-hero">
+    <div class="film-head">
+      <div class="poster-col">
+        <Artwork
+          filmId={film.id}
+          priority
+          title={film.title}
+          year={film.year}
+          director={film.directors[0]}
+          variant={publicFilms.indexOf(film)}
+        />
+        {
+          poster && (
+            <p class="poster-credit">
+              {kindLabel(poster.kind)} · {creditShort(poster.credit)} ·{' '}
+              <a href={url(`image-credits/#${film.id}`)}>credits</a>
+            </p>
+          )
+        }
+      </div>
       <div>
-        <div class="breadcrumbs">
-          <a href={url('library/')}>The Film Library</a> / {film.year}
-        </div>
-        <span class="eyebrow">
-          {film.format} · {film.countries.join(' / ')}
-        </span>
+        <nav class="breadcrumbs" aria-label="Breadcrumb">
+          <a href={url(film.grey ? 'library/?grey=1' : 'library/')}>Films</a>
+          {
+            film.grey ? (
+              <>
+                {' / '}
+                <a href={url('grey-area/')}>Grey area</a>
+              </>
+            ) : firstCollection && (
+              <>
+                {' / '}
+                <a href={url(`collections/${firstCollection.id}/`)}>
+                  {firstCollection.title}
+                </a>
+              </>
+            )
+          }
+        </nav>
         <h1>{film.title}</h1>
-        {film.originalTitle && film.originalTitle !== film.title && (
-          <p class="original-title">{film.originalTitle}</p>
-        )}
+        {
+          film.originalTitle && film.originalTitle !== film.title && (
+            <p class="original-title">{film.originalTitle}</p>
+          )
+        }
+        <p class="film-meta">
+          <span>{film.year}</span>
+          {film.countries.length > 0 && <span>{film.countries.join(' / ')}</span>}
+          {film.directors.length > 0 && <span>{film.directors.join(' & ')}</span>}
+          {film.runtime && <span>{film.runtime} min</span>}
+          {film.format !== 'Feature film' && <span>{film.format}</span>}
+        </p>
         <p class="lead">{film.summary}</p>
-        <div class="chips">
-          {film.subjects.map((s) => (
-            <a href={url(`library/?subject=${encodeURIComponent(s)}`)}>{s}</a>
-          ))}
-        </div>
+        {
+          film.grey && (
+            <section class="grey-note" aria-labelledby="grey-note-heading">
+              <h2 id="grey-note-heading">
+                Grey area: {greyLabels[film.grey.kind].toLowerCase()}
+              </h2>
+              <p>{film.grey.question}</p>
+              <a class="text-link" href={url(`grey-area/#${film.grey.kind}`)}>
+                What the grey area means
+              </a>
+            </section>
+          )
+        }
+        {
+          film.subjects.length > 0 && (
+            <div class="chips">
+              {film.subjects.map((s) => (
+                <a href={url(`library/?subject=${encodeURIComponent(s)}`)}>
+                  {s}
+                </a>
+              ))}
+            </div>
+          )
+        }
+        <dl class="facts">
+          {
+            facts
+              .filter(([, value]) => value)
+              .map(([term, value]) => (
+                <div>
+                  <dt>{term}</dt>
+                  <dd>{value}</dd>
+                </div>
+              ))
+          }
+        </dl>
       </div>
-      <Artwork
-        filmId={film.id}
-        priority
-        title={film.title}
-        year={film.year}
-        variant={films.indexOf(film)}
-      />
-    </section>
-    <dl class="facts">
-      <div>
-        <dt>Director</dt>
-        <dd>{film.directors.join(' & ')}</dd>
-      </div>
-      <div>
-        <dt>Year</dt>
-        <dd>{film.year}</dd>
-      </div>
-      <div>
-        <dt>Original language</dt>
-        <dd>{film.languages.join(' / ') || 'Not established'}</dd>
-      </div>
-      <div>
-        <dt>Format</dt>
-        <dd>
-          {film.format}
-          {film.runtime ? ` · ${film.runtime} minutes` : ''}
-        </dd>
-      </div>
-    </dl>
-    <div class="article-body">
+    </div>
+
+    <div class="film-body">
       <article class="prose">
-        <h2>Why it belongs in the Library</h2>
-        <p>{film.inclusion}</p>
+        <h2>{film.grey ? 'Why it is worth knowing about' : 'Why watch it'}</h2>
+        {paragraphs(film.inclusion).map((p) => <p>{p}</p>)}
         <details>
-          <summary>
-            The story <small>— contains plot details</small>
-          </summary>
-          <p>{film.synopsis}</p>
+          <summary>The story <small>contains spoilers</small></summary>
+          {paragraphs(film.synopsis).map((p) => <p>{p}</p>)}
         </details>
-        <h2>Catholic themes</h2>
-        <p>{film.themes}</p>
-        {film.history && (
-          <>
-            <h2>History and background</h2>
-            <p>{film.history}</p>
-          </>
-        )}
-        {film.liberties && (
-          <>
-            <h2>Film and historical record</h2>
-            <p>{film.liberties}</p>
-          </>
-        )}
+        <h2>The faith in the film</h2>
+        {paragraphs(film.themes).map((p) => <p>{p}</p>)}
+        {
+          film.history && (
+            <>
+              <h2>The history</h2>
+              {paragraphs(film.history).map((p) => <p>{p}</p>)}
+            </>
+          )
+        }
+        {
+          film.liberties && (
+            <>
+              <h2>What the film changes</h2>
+              {paragraphs(film.liberties).map((p) => <p>{p}</p>)}
+            </>
+          )
+        }
         <div class="advisory">
           <h2>Before you watch</h2>
-          <p>{film.advisories}</p>
+          {paragraphs(film.advisories).map((p) => <p>{p}</p>)}
         </div>
-        <h2>Sources and further reading</h2>
-        <p class="edition-note">
-          These references support the research-based assessment. Inclusion is
-          an editorial judgment, not ecclesiastical approval.
-        </p>
-        <ol class="sources-list">
-          {film.sources.map((s) => (
-            <li>
-              <a href={s.url} rel="noopener noreferrer">
-                {s.title}
-              </a>
-              <small>
-                {s.publisher} · checked {s.accessed}
-              </small>
-              <span>
-                {Array.isArray(s.claims) ? s.claims.join('; ') : s.claims}
-              </span>
-            </li>
-          ))}
+        <h2>Sources</h2>
+        <ol class="sources">
+          {
+            film.sources.map((s) => (
+              <li>
+                <a href={s.url} rel="noopener noreferrer">
+                  {s.title}
+                </a>
+                <small>
+                  {s.publisher} · consulted {s.accessed}
+                </small>
+                {claims(s.claims) && <small>{claims(s.claims)}</small>}
+              </li>
+            ))
+          }
         </ol>
       </article>
-      <aside>
-        <div class="aside-block">
-          <span class="eyebrow">In this library</span>
-          <h2>Explore the collections</h2>
-          <div class="chips">
-            {film.collections
-              .map((id) => collections.find((c) => c.id === id))
-              .filter(Boolean)
-              .map((c) => (
-                <a href={url(`collections/${c!.id}/`)}>{c!.title}</a>
-              ))}
-          </div>
-        </div>
-        {film.alternateTitles.length > 0 && (
-          <div class="aside-block">
-            <h2>Also known as</h2>
-            <p>{film.alternateTitles.join(' · ')}</p>
-          </div>
-        )}
-        <div class="aside-block">
-          <h2>About this profile</h2>
-          <p>
-            Last editorial verification:
-            <br />
-            {film.reviewed}
-          </p>
-          {poster ? (
-            <div class="poster-credit">
-              <p>
-                {poster.kind}: {poster.credit}
-              </p>
-              <a
-                href={poster.filePage || poster.sourcePage}
-                rel="noopener noreferrer"
-              >
-                Image source
-              </a>
-              <span aria-hidden="true"> · </span>
-              <a href={url(`image-credits/#${film.id}`)}>
-                Image credits &amp; use
-              </a>
+      <aside class="side" aria-label="About this film">
+        {
+          filmCollections.length > 0 && (
+            <div>
+              <h2>Collections</h2>
+              <ul>
+                {filmCollections.map((c) => (
+                  <li>
+                    <a href={url(`collections/${c.id}/`)}>{c.title}</a>
+                  </li>
+                ))}
+              </ul>
             </div>
-          ) : (
-            <p>Original Library title artwork.</p>
-          )}
-          <a href={url('corrections/')}>Suggest a correction →</a>
+          )
+        }
+        <div>
+          <h2>Reviewed</h2>
+          <p><time datetime={film.reviewed}>{film.reviewed}</time></p>
         </div>
-        <div class="aside-block">
-          <h2>Finding a copy</h2>
+        <div>
+          <h2>Spotted an error?</h2>
           <p>
-            Consult the legitimate publishers and distributors identified in the
-            references. Editions, subtitles and availability vary by territory;
-            no current streaming availability is promised.
+            <a href={url('corrections/')}>Send a correction</a>
           </p>
         </div>
       </aside>
     </div>
-    {related.length > 0 && (
-      <section class="section">
-        <div class="section-head">
-          <div>
-            <span class="eyebrow">Continue exploring</span>
-            <h2>Related films</h2>
+
+    {
+      related.length > 0 && (
+        <section class="related section" aria-labelledby="related-films">
+          <h2 id="related-films">Related films</h2>
+          <div class="film-grid">
+            {related.map((f, i) => (
+              <FilmCard film={f} index={i + 1} headingLevel={3} />
+            ))}
           </div>
-        </div>
-        <div class="film-grid">
-          {related.map((f, i) => (
-            <FilmCard film={f} index={i} />
-          ))}
-        </div>
-      </section>
-    )}
+        </section>
+      )
+    }
   </div>
 </Layout>

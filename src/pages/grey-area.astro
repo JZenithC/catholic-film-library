@@ -1,0 +1,43 @@
+---
+import Layout from '../layouts/Layout.astro';
+import FilmCard from '../components/FilmCard.astro';
+import page from '../data/grey-area.json';
+import { publicInOrder, paragraphs, plural } from '../data/catalogue';
+const groups = page.groups.map((g) => ({
+  ...g,
+  films: publicInOrder.filter((f) => f.grey?.kind === g.kind),
+}));
+---
+
+<Layout title={page.title} description={page.lead}>
+  <div class="wrap">
+    <div class="page-heading">
+      <h1>{page.title}</h1>
+      <p class="lead">{page.lead}</p>
+      <div class="grey-intro">
+        {paragraphs(page.intro).map((p) => <p>{p}</p>)}
+      </div>
+    </div>
+    {
+      groups.map((g) => (
+        <section class="group grey-group" id={g.kind} aria-labelledby={`${g.kind}-heading`}>
+          <h2 id={`${g.kind}-heading`}>{g.heading}</h2>
+          <p>{g.text}</p>
+          {g.films.length > 0 ? (
+            <>
+              <p class="muted small">{plural(g.films.length, 'film')}</p>
+              <div class="film-grid">
+                {g.films.map((f, i) => (
+                  <FilmCard film={f} index={i} />
+                ))}
+              </div>
+            </>
+          ) : (
+            <p class="empty">{g.empty}</p>
+          )}
+        </section>
+      ))
+    }
+    <div class="section"></div>
+  </div>
+</Layout>

@@ -1,0 +1,19 @@
+{
+  "title": "Grey area",
+  "lead": "Catholic films that are worth knowing about but are not recommended without qualification.",
+  "intro": "Each film here is centred on the Catholic faith and has something real to offer, but each comes with a question attached. None of them is recommended without qualification. Every film page opens by setting out the question, so you can weigh it and decide for yourself.\n\nThe films fall into two groups. Some have a definite reservation about their doctrine, morals or history. Others look sound, but nobody independent has yet reviewed how they treat the faith or the history. When a question is settled, the film moves to the recommendations or leaves the site.",
+  "groups": [
+    {
+      "kind": "reservations",
+      "heading": "With reservations",
+      "text": "Films with a real doctrinal, moral or historical question: a Legion of Decency reservation, an invented episode that changes the religious meaning, or an ambiguous treatment of a priest's failure. Each page states the problem plainly.",
+      "empty": "There are no films in this group at the moment."
+    },
+    {
+      "kind": "unverified",
+      "heading": "Not yet verified",
+      "text": "Films that look sound but have no independent critical review of how they treat the faith or the history. What is known comes from the producers, the distributor, a religious order with an interest in the film, or Catholic press listings, and each page says which.",
+      "empty": "There are no films in this group at the moment."
+    }
+  ]
+}

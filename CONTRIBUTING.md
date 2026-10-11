@@ -1,22 +1,24 @@
 # Contributing
 
-Contributions should improve evidence, clarity or access. Read EDITORIAL_POLICY.md before proposing a recommendation. The Founder retains final editorial authority.
+Contributions should improve evidence, clarity or access. Read EDITORIAL_POLICY.md before proposing a recommendation, especially the pre-conciliar standard, the scope rule and the two exclusion rules. The Founder has final editorial authority.
 
 ## Report an error or suggest a film
 
-Use the repository's correction or film-suggestion issue template when a GitHub remote and Issues are enabled. Until that channel is configured, prepare the same report as a local research record; the site must not imply that a nonexistent contact endpoint will deliver it.
+Use the repository's "Correct a film record" or "Suggest a film" issue template. Rights holders should use the "Image or rights request" template. Blank issues are disabled.
 
-Include the film title, year if known, the affected page or stable identifier, the exact statement at issue, the proposed correction, and a credible source URL or full bibliographic reference. Explain what the source establishes. For a suggestion, distinguish existence and metadata from evidence about religious treatment. Mention the edition, language, region and runtime if the issue concerns a different cut.
+Include the film title, the year if known, the affected page or id, the exact statement at issue, the proposed correction, and a credible source URL or full bibliographic reference. Explain what the source establishes. For a suggestion, separate evidence about the film's identity from evidence about how it treats the faith. Before suggesting a film about a saint or blessed, check the date of the canonisation or beatification: a subject raised to the altars only after 1965 is excluded. Mention the edition, language, region and running time if the issue concerns a particular cut.
 
-Do not include private personal information, copyrighted films, pirated links, large copied passages, or unsupported accusations. A source-led disagreement is welcome. A suggestion is not a promise of inclusion.
+Pre-1965 Catholic film-office ratings (such as the Legion of Decency) are welcome evidence. Reviews from post-conciliar Catholic outlets can establish what a film contains, but they cannot by themselves support a recommendation.
+
+Do not include private personal information, copyrighted films, pirated links, long copied passages or unsupported accusations. Source-led disagreement is welcome. A suggestion is not a promise of inclusion.
 
 ## Make a repository change
 
-1. Create a focused branch. Edit the structured film data, research record and source details together; keep layout changes separate when practical.
-2. New candidates start on HOLD. Apply the documented gates before changing to PUBLISH. Preserve the reasons for previous decisions.
-3. Write original text, distinguish facts from interpretation, and add specific advisories supported by evidence. Do not claim to have watched a film unless you did.
-4. Keep stable IDs and URLs. Add an alternate title rather than duplicating the film. Follow MAINTENANCE.md for image and collection changes.
-5. Run `npm run check`, `npm run build` and `npm test`. Review affected pages in a browser, including mobile and keyboard use. Record what you actually tested.
-6. Submit a focused pull request explaining the changed claim or behavior, evidence, editorial impact and validation. Do not mark unperformed checks complete.
+1. Create a focused branch. Edit `research/inventory.json` (and `research/editorial-notes.json` where useful), then run `npm run catalogue`. Do not edit the generated files in `src/data/` by hand. Keep layout changes separate where practical.
+2. New candidates start on HOLD. Apply the documented gates before changing a record to PUBLISH or GREY, and keep the reasons for earlier decisions.
+3. Write original text in a plain critic's voice, separate fact from interpretation, and add specific advisories supported by evidence. Do not claim to have watched a film unless you did.
+4. Keep stable ids and URLs. Add an alternate title rather than duplicating a film. If a film leaves the site, add a redirect (see MAINTENANCE.md). Follow MAINTENANCE.md for posters and collections.
+5. Run `npm run check`, `npm run lint`, `npm test`, `npm run build` and `npm run check:build`. Review the affected pages in a browser, including at phone width and with the keyboard. Record what you actually tested.
+6. Open a focused pull request explaining the changed claim or behaviour, the evidence, the editorial effect and the checks run. Do not mark unperformed checks as done.
 
-Source material remains under its original rights. Supply licensing evidence for contributed images and fonts. A citation is not permission to reuse artwork. Do not assume an issue submission grants ownership of third-party material.
+Code is under MIT and research text under CC BY 4.0 (see LICENSE). Source material keeps its original rights. Supply licensing evidence for contributed images and fonts. A citation is not permission to reuse artwork.

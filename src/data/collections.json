@@ -1,87 +1,97 @@
 [
   {
     "id": "christ",
-    "title": "Our Lord Jesus Christ",
-    "description": "The life, Passion and Resurrection of Christ, approached with reverence."
+    "group": "Subjects",
+    "title": "The Life of Christ",
+    "description": "The Gospels on screen: the Nativity, the public ministry, the Passion and the Resurrection."
   },
   {
     "id": "mary",
-    "title": "Our Lady & Marian Apparitions",
-    "description": "Marian devotion, Lourdes, Fátima, and the lives shaped by them."
+    "group": "Subjects",
+    "title": "Our Lady",
+    "description": "Films about the Blessed Virgin, and about Lourdes, Fátima and the people who saw her."
   },
   {
     "id": "saints",
-    "title": "Saints & Their Lives",
-    "description": "Lives of prayer, charity and heroic virtue, translated to the screen."
+    "group": "Subjects",
+    "title": "Lives of the Saints",
+    "description": "Biographical films about canonised saints and the beatified, from the Middle Ages to the twentieth century."
   },
   {
     "id": "martyrs",
-    "title": "Martyrs & Persecution",
-    "description": "Witness to the Faith in the face of suffering and death."
-  },
-  {
-    "id": "vendee",
-    "title": "The French Revolution & the Vendée",
-    "description": "Revolution, religious persecution and the wars of western France."
-  },
-  {
-    "id": "cristeros",
-    "title": "The Cristero War",
-    "description": "The persecution of Catholics and resistance in Mexico."
-  },
-  {
-    "id": "spanish-civil-war",
-    "title": "The Spanish Civil War",
-    "description": "Religious persecution and martyrdom in twentieth-century Spain."
-  },
-  {
-    "id": "english-martyrs",
-    "title": "The English Martyrs",
-    "description": "Catholic witness through the English Reformation and its aftermath."
+    "group": "Subjects",
+    "title": "Martyrs and Persecution",
+    "description": "Catholics who died for the faith, and the regimes and mobs that killed them."
   },
   {
     "id": "priesthood",
-    "title": "Priesthood & the Sacraments",
-    "description": "Vocation, pastoral charity, confession and the sacramental life."
+    "group": "Subjects",
+    "title": "Priests",
+    "description": "Parish priests, confessors and missionaries: the priest at the altar, in the confessional and in trouble."
   },
   {
     "id": "religious-life",
-    "title": "Monastic & Religious Life",
-    "description": "The cloister, contemplation and the many forms of consecrated life."
+    "group": "Subjects",
+    "title": "Monks, Nuns and Friars",
+    "description": "The cloister, the convent and the friary: vows, community and contemplative prayer."
   },
   {
     "id": "missionaries",
+    "group": "Subjects",
     "title": "Missionaries",
-    "description": "The encounter of missionary vocation, charity and history."
+    "description": "Priests, religious and lay Catholics carrying the faith abroad."
+  },
+  {
+    "id": "vendee",
+    "group": "Histories",
+    "title": "The French Revolution",
+    "description": "The persecution of the Church in revolutionary France, including the Vendée and the Carmelites of Compiègne.",
+    "gap": "The War of the Vendée (2012) and Vaincre ou mourir (2023) are in the grey area: the first has no independent review yet, and historians fault the second for its partisan framing."
+  },
+  {
+    "id": "cristeros",
+    "group": "Histories",
+    "title": "The Cristero War",
+    "description": "Mexico's persecution of the Church in the 1920s and the Catholic uprising against it.",
+    "gap": "No film yet. For Greater Glory (2012) is not included because its boy martyr, José Sánchez del Río, was canonised after the Council, and no older feature about the war has yet been found with enough criticism behind it."
+  },
+  {
+    "id": "spanish-civil-war",
+    "group": "Histories",
+    "title": "The Spanish Civil War",
+    "description": "The killing of priests, religious and laity in Spain between 1936 and 1939.",
+    "gap": "No film yet. Un Dios prohibido (2013), about the Claretian martyrs of Barbastro, is not included because they were beatified after the Council. Older Spanish films are still under review."
+  },
+  {
+    "id": "english-martyrs",
+    "group": "Histories",
+    "title": "The English Martyrs",
+    "description": "Catholics put to death under the Tudors and Stuarts, from Thomas More to the seminary priests.",
+    "gap": "Still under review: the documentary Faith of Our Fathers and a film about St John Houghton."
   },
   {
     "id": "families",
-    "title": "Catholic Families & Children",
-    "description": "Stories to consider for family viewing, with individual advisories."
+    "group": "Kinds of film",
+    "title": "For Families",
+    "description": "Films suitable for watching with children. Read the notes on each film first."
   },
   {
     "id": "comedy",
-    "title": "Catholic Comedy",
-    "description": "Humour, human weakness and the everyday work of grace."
-  },
-  {
-    "id": "before-1965",
-    "title": "Great Catholic Cinema Before 1965",
-    "description": "The silent era and the classical cinema tradition through 1964."
-  },
-  {
-    "id": "after-1965",
-    "title": "Catholic Cinema from 1965",
-    "description": "Later works evaluated by the same traditional editorial standard."
+    "group": "Kinds of film",
+    "title": "Comedies",
+    "description": "Catholic comedy: stubborn priests, unworldly friars and nuns who will not take no for an answer."
   },
   {
     "id": "documentaries",
+    "group": "Kinds of film",
     "title": "Documentaries",
-    "description": "Nonfiction encounters with Catholic history, places and religious life."
+    "description": "Non-fiction films about Catholic history, places and religious life.",
+    "gap": "No film yet. Into Great Silence and No Greater Love show religious life as it is lived after the Council and are not included. The Portuguese Fátima documentaries of the 1940s are still under review."
   },
   {
     "id": "television",
-    "title": "Television & Miniseries",
-    "description": "Longer narratives and productions originally made for television."
+    "group": "Kinds of film",
+    "title": "Television and Miniseries",
+    "description": "Longer stories made for television, mostly European saints' lives."
   }
 ]
