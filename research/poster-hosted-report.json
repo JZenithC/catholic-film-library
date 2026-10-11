@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-11T18:55:13.423Z",
+  "root": "https://jzenithc.github.io/catholic-film-library/",
+  "assets": [
+    {
+      "id": "the-passion-of-the-christ",
+      "status": 200,
+      "bytes": 18976
+    },
+    {
+      "id": "the-song-of-bernadette",
+      "status": 200,
+      "bytes": 62204
+    },
+    {
+      "id": "the-miracle-of-our-lady-of-fatima",
+      "status": 200,
+      "bytes": 20830
+    },
+    {
+      "id": "the-miracle-of-marcelino",
+      "status": 200,
+      "bytes": 28390
+    },
+    {
+      "id": "the-passion-of-joan-of-arc",
+      "status": 200,
+      "bytes": 26412
+    },
+    {
+      "id": "the-trial-of-joan-of-arc",
+      "status": 200,
+      "bytes": 11434
+    },
+    {
+      "id": "the-flowers-of-st-francis",
+      "status": 200,
+      "bytes": 19758
+    },
+    {
+      "id": "monsieur-vincent",
+      "status": 200,
+      "bytes": 18040
+    },
+    {
+      "id": "the-reluctant-saint",
+      "status": 200,
+      "bytes": 18072
+    },
+    {
+      "id": "heaven-over-the-marshes",
+      "status": 200,
+      "bytes": 22018
+    },
+    {
+      "id": "diary-of-a-country-priest",
+      "status": 200,
+      "bytes": 18240
+    },
+    {
+      "id": "i-confess",
+      "status": 200,
+      "bytes": 20394
+    },
+    {
+      "id": "angels-of-sin",
+      "status": 200,
+      "bytes": 15542
+    },
+    {
+      "id": "come-to-the-stable",
+      "status": 200,
+      "bytes": 26992
+    },
+    {
+      "id": "the-little-world-of-don-camillo",
+      "status": 200,
+      "bytes": 45506
+    },
+    {
+      "id": "the-return-of-don-camillo",
+      "status": 200,
+      "bytes": 5920
+    },
+    {
+      "id": "on-the-waterfront",
+      "status": 200,
+      "bytes": 24910
+    },
+    {
+      "id": "the-sound-of-music",
+      "status": 200,
+      "bytes": 32634
+    },
+    {
+      "id": "teresa-de-jesus",
+      "status": 200,
+      "bytes": 25606
+    },
+    {
+      "id": "clare-and-francis",
+      "status": 200,
+      "bytes": 39758
+    },
+    {
+      "id": "padre-pio-miracle-man",
+      "status": 200,
+      "bytes": 15236
+    },
+    {
+      "id": "saint-philip-neri",
+      "status": 200,
+      "bytes": 7216
+    },
+    {
+      "id": "john-bosco-mission-to-love",
+      "status": 200,
+      "bytes": 14704
+    },
+    {
+      "id": "blessed-duns-scotus",
+      "status": 200,
+      "bytes": 6452
+    },
+    {
+      "id": "into-great-silence",
+      "status": 200,
+      "bytes": 22944
+    },
+    {
+      "id": "no-greater-love",
+      "status": 200,
+      "bytes": 6772
+    },
+    {
+      "id": "two-crowns",
+      "status": 200,
+      "bytes": 15824
+    },
+    {
+      "id": "all-that-remains",
+      "status": 200,
+      "bytes": 36886
+    },
+    {
+      "id": "the-war-of-the-vendee",
+      "status": 200,
+      "bytes": 36096
+    },
+    {
+      "id": "un-dios-prohibido",
+      "status": 200,
+      "bytes": 25918
+    },
+    {
+      "id": "bernadette",
+      "status": 200,
+      "bytes": 28452
+    },
+    {
+      "id": "the-passion-of-bernadette",
+      "status": 200,
+      "bytes": 19156
+    },
+    {
+      "id": "the-13th-day",
+      "status": 200,
+      "bytes": 23506
+    },
+    {
+      "id": "fray-escoba",
+      "status": 200,
+      "bytes": 65648
+    },
+    {
+      "id": "don-bosco-1935",
+      "status": 200,
+      "bytes": 11978
+    },
+    {
+      "id": "la-mies-es-mucha",
+      "status": 200,
+      "bytes": 41524
+    },
+    {
+      "id": "la-guerra-de-dios",
+      "status": 200,
+      "bytes": 66996
+    },
+    {
+      "id": "triumph-of-the-heart",
+      "status": 200,
+      "bytes": 18240
+    }
+  ],
+  "views": [
+    {
+      "name": "desktop",
+      "route": "",
+      "posters": 5,
+      "violations": 0
+    },
+    {
+      "name": "desktop",
+      "route": "library/",
+      "posters": 38,
+      "violations": 0
+    },
+    {
+      "name": "desktop",
+      "route": "films/the-song-of-bernadette/",
+      "posters": 5,
+      "violations": 0
+    },
+    {
+      "name": "desktop",
+      "route": "image-credits/",
+      "posters": 0,
+      "violations": 0
+    },
+    {
+      "name": "mobile",
+      "route": "",
+      "posters": 5,
+      "violations": 0
+    },
+    {
+      "name": "mobile",
+      "route": "library/",
+      "posters": 38,
+      "violations": 0
+    },
+    {
+      "name": "mobile",
+      "route": "films/the-song-of-bernadette/",
+      "posters": 5,
+      "violations": 0
+    },
+    {
+      "name": "mobile",
+      "route": "image-credits/",
+      "posters": 0,
+      "violations": 0
+    }
+  ],
+  "errors": []
+}

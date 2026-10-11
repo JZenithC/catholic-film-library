@@ -8,4 +8,12 @@ Each image has its source, accurate poster/cover label, available credit, source
 
 Validation: Astro/TypeScript (32 files) zero errors/warnings/hints; content/asset validation passed; ESLint passed; six unit tests passed; 66-page production build passed. The internal link/asset check passed. Twenty-one desktop/tablet/phone page scans, including the new credits page, found zero automated accessibility violations, broken poster images or overflow. All 38 catalogue images decoded at every tested viewport. Search, filters, query refresh, reset, sorting, navigation and no-JavaScript readability still passed. See `research/poster-browser-report.json`.
 
-Hosted verification will be appended after the GitHub Pages deployment. Previous performance measurements in DELIVERY_REPORT.md describe the original release and are not a claim about this image update.
+Previous performance measurements in DELIVERY_REPORT.md describe the original release. The current image update was verified separately below.
+
+## Verified public deployment
+
+Product commit: `b8406c5266c29241808271ef14a86da61c150344`. GitHub Actions build and deployment succeeded: https://github.com/JZenithC/catholic-film-library/actions/runs/38165748390 . Public site: https://jzenithc.github.io/catholic-film-library/ .
+
+All 38 hosted poster URLs returned HTTP 200 with WebP content. Eight additional live desktop/phone views (homepage, catalogue, film profile, credits) passed image decoding and accessibility checks with no page errors or overflow. Both catalogue views contained all 38 real images. The profile source-credit link was verified. See `research/poster-hosted-report.json`.
+
+A fresh hosted simulated-mobile Lighthouse sample scored 100 for performance, accessibility, best practices and SEO on both home and catalogue. LCP was 1.7 seconds and 1.5 seconds respectively; CLS was zero. These are lab samples, not guarantees for all devices or networks. See `research/poster-performance.json`. No Founder action is required.

@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-11T18:55:38.314Z",
+  "environment": "Public GitHub Pages deployment; Lighthouse simulated mobile lab sample, not a field metric.",
+  "results": [
+    {
+      "page": "home",
+      "scores": {
+        "performance": 1,
+        "accessibility": 1,
+        "best-practices": 1,
+        "seo": 1
+      },
+      "metrics": {
+        "FCP": "0.9 s",
+        "LCP": "1.7 s",
+        "CLS": "0"
+      },
+      "issues": [
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "displayValue": "1.7 s"
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "displayValue": "Est savings of 224 KiB"
+        },
+        {
+          "id": "image-delivery-insight",
+          "title": "Improve image delivery",
+          "displayValue": "Est savings of 17 KiB"
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree"
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render-blocking requests"
+        }
+      ]
+    },
+    {
+      "page": "library/",
+      "scores": {
+        "performance": 1,
+        "accessibility": 1,
+        "best-practices": 1,
+        "seo": 1
+      },
+      "metrics": {
+        "FCP": "0.9 s",
+        "LCP": "1.5 s",
+        "CLS": "0"
+      },
+      "issues": [
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "displayValue": "Est savings of 384 KiB"
+        },
+        {
+          "id": "image-delivery-insight",
+          "title": "Improve image delivery",
+          "displayValue": "Est savings of 91 KiB"
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree"
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render-blocking requests"
+        }
+      ]
+    }
+  ]
+}
