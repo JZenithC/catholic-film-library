@@ -1,0 +1,16 @@
+name: Correct a film record
+description: Report a factual or editorial issue with supporting evidence.
+body:
+  - type: input
+    id: film
+    attributes:
+      label: Film title and page URL
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Statement, proposed correction, and supporting sources
+      description: Include edition or cut where relevant. Do not include personal information or pirated copies.
+    validations:
+      required: true

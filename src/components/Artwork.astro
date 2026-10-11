@@ -1,0 +1,28 @@
+---
+interface Props {
+  title: string;
+  year?: number;
+  variant?: number;
+  large?: boolean;
+}
+const { title, year, variant = 0, large = false } = Astro.props;
+---
+
+<div
+  class:list={[
+    'artwork',
+    `art-${variant % 5}`,
+    { large, dense: title.length > 28 },
+  ]}
+  aria-hidden="true"
+>
+  <div class="art-frame"></div>
+  <div class="art-arch"></div>
+  <span class="art-star">✦</span>
+  <div class="art-type">
+    <span class="art-label">The Catholic Film Library</span>
+    <span class="art-title">{title}</span>
+    <span class="art-year">{year}</span>
+  </div>
+  <span class="art-foot">A study in faith & cinema</span>
+</div>

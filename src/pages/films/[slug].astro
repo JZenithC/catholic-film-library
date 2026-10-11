@@ -1,0 +1,199 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Artwork from '../../components/Artwork.astro';
+import FilmCard from '../../components/FilmCard.astro';
+import { films, collections, url, type Film } from '../../data/catalogue';
+export function getStaticPaths() {
+  return films.map((film) => ({
+    params: { slug: film.slug },
+    props: { film },
+  }));
+}
+interface Props {
+  film: Film;
+}
+const { film } = Astro.props;
+const related = films
+  .filter((f) => f.id !== film.id)
+  .map((f) => ({
+    f,
+    score: f.collections.filter(
+      (c) =>
+        film.collections.includes(c) &&
+        !['before-1965', 'after-1965'].includes(c),
+    ).length,
+  }))
+  .filter((x) => x.score > 0)
+  .sort((a, b) => b.score - a.score)
+  .slice(0, 4)
+  .map((x) => x.f);
+const movie = {
+  '@context': 'https://schema.org',
+  '@type': 'Movie',
+  name: film.title,
+  alternateName: [film.originalTitle, ...film.alternateTitles].filter(Boolean),
+  dateCreated: String(film.year),
+  director: film.directors.map((name) => ({ '@type': 'Person', name })),
+  countryOfOrigin: film.countries.map((name) => ({ '@type': 'Country', name })),
+  inLanguage: film.languages,
+  description: film.summary,
+  url: new URL(url(`films/${film.slug}/`), Astro.site).href,
+};
+---
+
+<Layout title={film.title} description={film.summary} movie={movie}>
+  <div class="wrap">
+    <section class="article-hero">
+      <div>
+        <div class="breadcrumbs">
+          <a href={url('library/')}>The Film Library</a> / {film.year}
+        </div>
+        <span class="eyebrow">
+          {film.format} · {film.countries.join(' / ')}
+        </span>
+        <h1>{film.title}</h1>
+        {film.originalTitle && film.originalTitle !== film.title && (
+          <p class="original-title">{film.originalTitle}</p>
+        )}
+        <p class="lead">{film.summary}</p>
+        <div class="chips">
+          {film.subjects.map((s) => (
+            <a href={url(`library/?subject=${encodeURIComponent(s)}`)}>{s}</a>
+          ))}
+        </div>
+      </div>
+      <Artwork
+        title={film.title}
+        year={film.year}
+        variant={films.indexOf(film)}
+      />
+    </section>
+    <dl class="facts">
+      <div>
+        <dt>Director</dt>
+        <dd>{film.directors.join(' & ')}</dd>
+      </div>
+      <div>
+        <dt>Year</dt>
+        <dd>{film.year}</dd>
+      </div>
+      <div>
+        <dt>Original language</dt>
+        <dd>{film.languages.join(' / ') || 'Not established'}</dd>
+      </div>
+      <div>
+        <dt>Format</dt>
+        <dd>
+          {film.format}
+          {film.runtime ? ` · ${film.runtime} minutes` : ''}
+        </dd>
+      </div>
+    </dl>
+    <div class="article-body">
+      <article class="prose">
+        <h2>Why it belongs in the Library</h2>
+        <p>{film.inclusion}</p>
+        <details>
+          <summary>
+            The story <small>— contains plot details</small>
+          </summary>
+          <p>{film.synopsis}</p>
+        </details>
+        <h2>Catholic themes</h2>
+        <p>{film.themes}</p>
+        {film.history && (
+          <>
+            <h2>History and background</h2>
+            <p>{film.history}</p>
+          </>
+        )}
+        {film.liberties && (
+          <>
+            <h2>Film and historical record</h2>
+            <p>{film.liberties}</p>
+          </>
+        )}
+        <div class="advisory">
+          <h2>Before you watch</h2>
+          <p>{film.advisories}</p>
+        </div>
+        <h2>Sources and further reading</h2>
+        <p class="edition-note">
+          These references support the research-based assessment. Inclusion is
+          an editorial judgment, not ecclesiastical approval.
+        </p>
+        <ol class="sources-list">
+          {film.sources.map((s) => (
+            <li>
+              <a href={s.url} rel="noopener noreferrer">
+                {s.title}
+              </a>
+              <small>
+                {s.publisher} · checked {s.accessed}
+              </small>
+              <span>
+                {Array.isArray(s.claims) ? s.claims.join('; ') : s.claims}
+              </span>
+            </li>
+          ))}
+        </ol>
+      </article>
+      <aside>
+        <div class="aside-block">
+          <span class="eyebrow">In this library</span>
+          <h2>Explore the collections</h2>
+          <div class="chips">
+            {film.collections
+              .map((id) => collections.find((c) => c.id === id))
+              .filter(Boolean)
+              .map((c) => (
+                <a href={url(`collections/${c!.id}/`)}>{c!.title}</a>
+              ))}
+          </div>
+        </div>
+        {film.alternateTitles.length > 0 && (
+          <div class="aside-block">
+            <h2>Also known as</h2>
+            <p>{film.alternateTitles.join(' · ')}</p>
+          </div>
+        )}
+        <div class="aside-block">
+          <h2>About this profile</h2>
+          <p>
+            Last editorial verification:
+            <br />
+            {film.reviewed}
+          </p>
+          <p>
+            Artwork: original Library title design. It is not an official film
+            poster.
+          </p>
+          <a href={url('corrections/')}>Suggest a correction →</a>
+        </div>
+        <div class="aside-block">
+          <h2>Finding a copy</h2>
+          <p>
+            Consult the legitimate publishers and distributors identified in the
+            references. Editions, subtitles and availability vary by territory;
+            no current streaming availability is promised.
+          </p>
+        </div>
+      </aside>
+    </div>
+    {related.length > 0 && (
+      <section class="section">
+        <div class="section-head">
+          <div>
+            <span class="eyebrow">Continue exploring</span>
+            <h2>Related films</h2>
+          </div>
+        </div>
+        <div class="film-grid">
+          {related.map((f, i) => (
+            <FilmCard film={f} index={i} />
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</Layout>

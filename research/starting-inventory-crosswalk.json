@@ -1,0 +1,607 @@
+[
+  {
+    "originalCandidate": "The Passion of the Christ (2004)",
+    "recordId": "the-passion-of-the-christ",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "The Song of Bernadette (1943)",
+    "recordId": "the-song-of-bernadette",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Bernadette (1988)",
+    "recordId": "bernadette",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "The Passion of Bernadette (1989)",
+    "recordId": "the-passion-of-bernadette",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "The Miracle of Our Lady of Fatima (1952)",
+    "recordId": "the-miracle-of-our-lady-of-fatima",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "La Señora de Fátima (1951)",
+    "recordId": "la-senora-de-fatima",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Aparição (1991)",
+    "recordId": "aparicao",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The 13th Day (2009)",
+    "recordId": "the-13th-day",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "The Miracle of Marcelino (1955)",
+    "recordId": "the-miracle-of-marcelino",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Mary of Nazareth (2012)",
+    "recordId": "mary-of-nazareth",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Passion of Joan of Arc (1928)",
+    "recordId": "the-passion-of-joan-of-arc",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Joan of Arc (1948)",
+    "recordId": "joan-of-arc",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Trial of Joan of Arc (1962)",
+    "recordId": "the-trial-of-joan-of-arc",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "The Flowers of St. Francis (1950)",
+    "recordId": "the-flowers-of-st-francis",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Francis of Assisi (1961)",
+    "recordId": "francis-of-assisi",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Monsieur Vincent (1947)",
+    "recordId": "monsieur-vincent",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "The Reluctant Saint (1962)",
+    "recordId": "the-reluctant-saint",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Heaven over the Marshes (1949)",
+    "recordId": "heaven-over-the-marshes",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Thérèse: The Story of Saint Thérèse of Lisieux (2004)",
+    "recordId": "therese-the-story-of-saint-therese-of-lisieux",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Fray Escoba (1961)",
+    "recordId": "fray-escoba",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Un mulato llamado Martín (1974)",
+    "recordId": "un-mulato-llamado-martin",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "St. John Baptist de La Salle (1964)",
+    "recordId": "st-john-baptist-de-la-salle",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Don Bosco (1988)",
+    "recordId": "don-bosco",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Ignatius of Loyola (2016)",
+    "recordId": "ignatius-of-loyola",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Edith Stein: The Seventh Chamber (1995)",
+    "recordId": "edith-stein-the-seventh-chamber",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Life for Life: Maximilian Kolbe (1991)",
+    "recordId": "life-for-life-maximilian-kolbe",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Molokai: The Story of Father Damien (1999)",
+    "recordId": "molokai-the-story-of-father-damien",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Poveda (2016)",
+    "recordId": "poveda",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Claret (2020)",
+    "recordId": "claret",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Our God's Brother (1997)",
+    "recordId": "our-god-s-brother",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "A Man for All Seasons (1966)",
+    "recordId": "a-man-for-all-seasons",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Becket (1964)",
+    "recordId": "becket",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Le Dialogue des Carmélites (1960)",
+    "recordId": "le-dialogue-des-carmelites",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Vaincre ou mourir (2023)",
+    "recordId": "vaincre-ou-mourir",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The War of the Vendée (2012)",
+    "recordId": "the-war-of-the-vendee",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Un Dios prohibido / A Forbidden God (2013)",
+    "recordId": "un-dios-prohibido",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "For Greater Glory / Cristiada (2012)",
+    "recordId": "for-greater-glory",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Scarlet and the Black (1983)",
+    "recordId": "the-scarlet-and-the-black",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Assisi Underground (1985)",
+    "recordId": "the-assisi-underground",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Ninth Day (2004)",
+    "recordId": "the-ninth-day",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "A Hidden Life (2019)",
+    "recordId": "a-hidden-life",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Triumph of the Heart (2025)",
+    "recordId": "triumph-of-the-heart",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Rome, Open City (1945)",
+    "recordId": "rome-open-city",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Network of Freedom / Red de libertad (2017)",
+    "recordId": "network-of-freedom",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Quo Vadis (1951)",
+    "recordId": "quo-vadis",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Fabiola (1949)",
+    "recordId": "fabiola",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Diary of a Country Priest (1951)",
+    "recordId": "diary-of-a-country-priest",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "I Confess (1953)",
+    "recordId": "i-confess",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Angels of Sin (1943)",
+    "recordId": "angels-of-sin",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "La guerra de Dios / I Was a Parish Priest (1953)",
+    "recordId": "la-guerra-de-dios",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Balarrasa (1951)",
+    "recordId": "balarrasa",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Fugitive (1947)",
+    "recordId": "the-fugitive",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Léon Morin, Priest (1961)",
+    "recordId": "leon-morin-priest",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Going My Way (1944)",
+    "recordId": "going-my-way",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Bells of St. Mary's (1945)",
+    "recordId": "the-bells-of-st-mary-s",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Boys Town (1938)",
+    "recordId": "boys-town",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Men of Boys Town (1941)",
+    "recordId": "men-of-boys-town",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Come to the Stable (1949)",
+    "recordId": "come-to-the-stable",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Heaven Knows, Mr. Allison (1957)",
+    "recordId": "heaven-knows-mr-allison",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Lilies of the Field (1963)",
+    "recordId": "lilies-of-the-field",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Fighting Father Dunne (1948)",
+    "recordId": "the-fighting-father-dunne",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Father Brown / The Detective (1954)",
+    "recordId": "father-brown",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "El padrecito (1964)",
+    "recordId": "el-padrecito",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Of Gods and Men (2010)",
+    "recordId": "of-gods-and-men",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Little World of Don Camillo (1952)",
+    "recordId": "the-little-world-of-don-camillo",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "The Return of Don Camillo (1953)",
+    "recordId": "the-return-of-don-camillo",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Don Camillo's Last Round (1955)",
+    "recordId": "don-camillo-s-last-round",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Don Camillo: Monsignor (1961)",
+    "recordId": "don-camillo-monsignor",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Don Camillo in Moscow (1965)",
+    "recordId": "don-camillo-in-moscow",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "On the Waterfront (1954)",
+    "recordId": "on-the-waterfront",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "The Agony and the Ecstasy (1965)",
+    "recordId": "the-agony-and-the-ecstasy",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Sound of Music (1965)",
+    "recordId": "the-sound-of-music",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Angels with Dirty Faces (1938)",
+    "recordId": "angels-with-dirty-faces",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Brother Orchid (1940)",
+    "recordId": "brother-orchid",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Miracle of the Bells (1948)",
+    "recordId": "the-miracle-of-the-bells",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Keys of the Kingdom (1944)",
+    "recordId": "the-keys-of-the-kingdom",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Jesus of Nazareth (1977)",
+    "recordId": "jesus-of-nazareth",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Teresa de Jesús (1984)",
+    "recordId": "teresa-de-jesus",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Saint Teresa of the Andes (1989)",
+    "recordId": "saint-teresa-of-the-andes",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Clare and Francis (2007)",
+    "recordId": "clare-and-francis",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Saint Rita (2004)",
+    "recordId": "saint-rita",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Padre Pio: Miracle Man (2000)",
+    "recordId": "padre-pio-miracle-man",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Padre Pio: Between Heaven and Earth (2000)",
+    "recordId": "padre-pio-between-heaven-and-earth",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Saint Philip Neri: I Prefer Heaven (2010)",
+    "recordId": "saint-philip-neri",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Saint Anthony: The Miracle Worker of Padua (2002)",
+    "recordId": "saint-anthony-padua",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Saint John Bosco: Mission to Love (2004)",
+    "recordId": "john-bosco-mission-to-love",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "St. Giuseppe Moscati: Doctor to the Poor (2007)",
+    "recordId": "giuseppe-moscati",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Bakhita: From Slave to Saint (2009)",
+    "recordId": "bakhita",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Maria Goretti (2003)",
+    "recordId": "maria-goretti-2003",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Restless Heart: The Confessions of Augustine (2010)",
+    "recordId": "restless-heart",
+    "status": "REJECT"
+  },
+  {
+    "originalCandidate": "Joseph of Nazareth (2000)",
+    "recordId": "joseph-of-nazareth",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Saint Peter (2005)",
+    "recordId": "saint-peter",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Pius XII: Under the Roman Sky (2010)",
+    "recordId": "pius-xii-under-roman-sky",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "God's Mighty Servant: Sister Pascalina Lehnert (2011)",
+    "recordId": "gods-mighty-servant",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Blessed Duns Scotus (2010)",
+    "recordId": "blessed-duns-scotus",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Mother Teresa (2003)",
+    "recordId": "mother-teresa-2003",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Into Great Silence (2005)",
+    "recordId": "into-great-silence",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "No Greater Love (2009)",
+    "recordId": "no-greater-love",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Two Crowns (2017)",
+    "recordId": "two-crowns",
+    "status": "PUBLISH"
+  },
+  {
+    "originalCandidate": "Faith of Our Fathers: The English Martyrs",
+    "recordId": "faith-of-our-fathers",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Finding Fátima",
+    "recordId": "finding-fatima",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Miracle of Father Kapaun",
+    "recordId": "miracle-father-kapaun",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Blood & the Rose",
+    "recordId": "blood-and-rose",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Guadalupe: Mother of Humanity (2024)",
+    "recordId": "guadalupe-mother-humanity",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Day the Sun Danced (1988)",
+    "recordId": "day-the-sun-danced",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Saint Pio of Pietrelcina: Man of Hope and Healing",
+    "recordId": "saint-pio-hope-healing",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Silence (2016)",
+    "recordId": "silence",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Two Popes (2019)",
+    "recordId": "two-popes",
+    "status": "REJECT"
+  },
+  {
+    "originalCandidate": "Conclave (2024)",
+    "recordId": "conclave",
+    "status": "REJECT"
+  },
+  {
+    "originalCandidate": "Brother Sun, Sister Moon (1972)",
+    "recordId": "brother-sun-sister-moon",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Cabrini (2024)",
+    "recordId": "cabrini",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Fátima (2020)",
+    "recordId": "fatima-2020",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Thérèse (1986)",
+    "recordId": "therese-1986",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Mission (1986)",
+    "recordId": "mission-1986",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Exorcist (1973)",
+    "recordId": "exorcist",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Day of the Siege: September Eleven 1683 (2012)",
+    "recordId": "day-of-the-siege",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Calvary (2014)",
+    "recordId": "calvary",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Tree of Life (2011)",
+    "recordId": "tree-of-life",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Au Revoir les Enfants (1987)",
+    "recordId": "au-revoir-les-enfants",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "The Innocents (2016)",
+    "recordId": "innocents-2016",
+    "status": "HOLD"
+  },
+  {
+    "originalCandidate": "Romero (1989)",
+    "recordId": "romero",
+    "status": "HOLD"
+  }
+]

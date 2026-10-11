@@ -1,0 +1,100 @@
+---
+import Layout from '../layouts/Layout.astro';
+import pages from '../data/editorial-pages.json';
+import summary from '../data/research-summary.json';
+export function getStaticPaths() {
+  return Object.entries(pages).map(([page, content]) => ({
+    params: { page },
+    props: { content, page },
+  }));
+}
+const { content, page } = Astro.props;
+const refs = [
+  [
+    'Vigilanti cura (1936)',
+    'https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html',
+  ],
+  [
+    'Miranda prorsus (1957)',
+    'https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html',
+  ],
+  [
+    'Mediator Dei (1947)',
+    'https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html',
+  ],
+  [
+    'Council of Trent, Session XXV',
+    'https://history.hanover.edu/texts/trent/ct25.html',
+  ],
+];
+---
+
+<Layout title={content.title} description={content.lead}>
+  <div class="wrap">
+    <article class="reading">
+      <div class="page-heading">
+        <span class="eyebrow">The Library & its work</span>
+        <h1>{content.title}</h1>
+        <p class="lead">{content.lead}</p>
+      </div>
+      <div class="prose">
+        {page === 'sources' && (
+          <section>
+            <h2>This edition’s research scope</h2>
+            <p>
+              The starting inventory of {summary.initial} candidates has a
+              recorded decision for every title. A further {summary.additional}{' '}
+              distinct productions were investigated. This edition recommends{' '}
+              {summary.publish} films; {summary.hold} candidates remain on hold
+              and {summary.reject} are excluded. A hold often records an
+              unanswered question rather than a negative verdict.
+            </p>
+            <p>
+              Published production origins include{' '}
+              {summary.countries.join(', ')}. Research also investigated
+              Japanese, Portuguese, Mexican and Latin American leads. African
+              production, animation and several regional traditions remain
+              coverage gaps. Collections without accepted films:{' '}
+              {summary.emptyCollections.join('; ')}.
+            </p>
+            <p>
+              <a href="https://github.com/JZenithC/catholic-film-library/tree/main/research">
+                Read the versioned research inventory, source registry and audit
+                records
+              </a>
+              .
+            </p>
+          </section>
+        )}
+        {page === 'corrections' && (
+          <p>
+            <a
+              class="button"
+              href="https://github.com/JZenithC/catholic-film-library/issues/new/choose"
+            >
+              Submit a correction or suggestion →
+            </a>
+          </p>
+        )}
+        {content.sections.map((s) => (
+          <section>
+            <h2>{s.heading}</h2>
+            <p>{s.text}</p>
+          </section>
+        ))}
+        {page === 'sources' && (
+          <section>
+            <h2>Primary reference texts</h2>
+            <ul>
+              {refs.map(([label, href]) => (
+                <li>
+                  <a href={href}>{label}</a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+      </div>
+    </article>
+  </div>
+</Layout>

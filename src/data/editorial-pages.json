@@ -1,0 +1,110 @@
+{
+  "principles": {
+    "title": "Our Selection Principles",
+    "lead": "A Catholic subject is the beginning of an inquiry, not the conclusion of one.",
+    "sections": [
+      {
+        "heading": "A traditional Catholic perspective",
+        "text": "The Library is guided by Catholic doctrine and moral teaching as understood before the Second Vatican Council. We seek films that treat the faith with substance, reverence and artistic distinction. This is a guide to cinema, not a forum for contemporary ecclesiastical disputes. Films made after 1965 are eligible; a film's date alone neither recommends nor disqualifies it."
+      },
+      {
+        "heading": "What we ask of a film",
+        "text": "We consider Catholic substance, doctrinal compatibility, reverence for sacred persons and things, historical integrity, artistic achievement, significant reinterpretations, documented controversy and the reasonableness of a recommendation to a cautious traditional Catholic audience. Generic spirituality, a sympathetic priest or a famous saint's name is not enough. Artistic prestige does not resolve a religious objection."
+      },
+      {
+        "heading": "Evidence before endorsement",
+        "text": "Identity, religious treatment and historical accuracy are different questions. We use filmographic records to identify a work, substantive criticism to investigate its treatment, and historical or doctrinal sources for relevant claims. A promotional synopsis cannot establish fidelity. Where material evidence is missing or a substantial concern remains unresolved, a candidate stays out of the recommended catalogue."
+      },
+      {
+        "heading": "Drama, history and interpretation",
+        "text": "A film may compress events or invent dialogue without destroying their meaning. We identify substantiated liberties and distinguish a film's portrayal from the historical record. A flawed character does not necessarily express the film's judgment; a moving scene does not make its account historically true. Our critical interpretations are editorial judgments, not facts concealed as certainty."
+      },
+      {
+        "heading": "Recommendations with limits",
+        "text": "The Library does not exercise ecclesiastical authority. Inclusion is neither an imprimatur nor a guarantee that every scene is suitable for every viewer. Content advisories and notes on audience suitability remain important, especially for children. We do not give numerical orthodoxy scores. The Founder retains final editorial authority, and recommendations can change when better evidence becomes available."
+      },
+      {
+        "heading": "An older tradition of discernment",
+        "text": "Pius XI's Vigilanti cura (1936) and Pius XII's Miranda prorsus (1957) provide historical foundations for responsible engagement with cinema. Relevant doctrinal questions may also call for texts such as Mediator Dei (1947) or the Council of Trent. These works inform our principles; they do not confer approval on our catalogue or on any individual film. The Sources and Research page identifies the primary texts."
+      }
+    ]
+  },
+  "about": {
+    "title": "About the Library",
+    "lead": "A lasting reference for the meeting of Catholic faith and the art of cinema.",
+    "sections": [
+      {
+        "heading": "Why this collection exists",
+        "text": "Catholic cinema reaches beyond a single country, genre or period. It includes stories of prayer and sacrifice, comedy and ordinary charity, persecution and perseverance. The Catholic Film Library brings carefully supported recommendations into one readable, searchable collection, with attention to films that can be difficult to discover through English-language lists alone."
+      },
+      {
+        "heading": "A reference, not an exhaustive canon",
+        "text": "The research programme extends from silent cinema to 2026 and includes features, television films, miniseries, documentaries and animation. Coverage is selective. Some important national traditions and obscure productions remain under-researched, and some promising candidates cannot yet be recommended on the available evidence. An empty collection or omitted title is not a declaration that no worthwhile film exists."
+      },
+      {
+        "heading": "Independent and accountable",
+        "text": "This is an independent editorial project with a traditional Catholic perspective. It is not an official publication of the Church, a film studio or a distributor. Recommendations are supported by cited research and remain open to correction. There are no advertisements, affiliate recommendations or mandatory visitor accounts in this edition."
+      },
+      {
+        "heading": "How the pages were prepared",
+        "text": "Profiles draw on the published sources identified with each film. Research-based assessments should not be mistaken for claims that the compiler personally watched every work or every available cut. We distinguish filmographic facts, attributed criticism and our editorial interpretation. Source-check dates describe the evidence reviewed at that time; they are not guarantees of present streaming availability."
+      },
+      {
+        "heading": "Designed to remain useful",
+        "text": "The Library uses stable film addresses, structured records and static pages. Its design works with original typographic title artwork where film-poster rights are uncertain. These cards are identifiers made for the Library, not official posters or scenes from the films. The underlying research decisions and maintenance instructions are preserved with the source code."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources and Research",
+    "lead": "A citation should explain what we know, how we know it, and where uncertainty remains.",
+    "sections": [
+      {
+        "heading": "Different questions need different sources",
+        "text": "National film institutes, archives and official production records help establish identity. Detailed criticism helps us assess treatment and artistic achievement. Historical scholarship and primary documents help distinguish events from dramatization. Doctrinal texts provide a reference for a relevant Catholic teaching. One generic source cannot settle all four questions."
+      },
+      {
+        "heading": "Reading a film's references",
+        "text": "Each published profile identifies its research sources and the claims they support. Source records preserve a title, publisher, URL and date checked. A distributor is an interested source; a critic's conclusion is an attributed interpretation. Neither becomes ecclesiastical authority simply by appearing here. Access to a source can change, so we retain bibliographic information alongside links."
+      },
+      {
+        "heading": "Primary reference: cinema and responsibility",
+        "text": "Pius XI, Vigilanti cura, 29 June 1936, considers cinema's moral influence. Pius XII, Miranda prorsus, 8 September 1957, addresses motion pictures, radio and television and the responsibilities of criticism. Both are available in English in the Holy See's online document archive. Their relevance is to editorial principles, not a retrospective approval of these films."
+      },
+      {
+        "heading": "Primary reference: worship and sacred representation",
+        "text": "Pius XII's Mediator Dei, 20 November 1947, is relevant to the representation of liturgy, Eucharistic sacrifice and priesthood. The Council of Trent's Session XXV decree on saints, relics and sacred images supplies a historical doctrinal reference for sacred representation. Applying that decree to cinema is our editorial analogy, not a film classification issued by the council. English primary-text editions are linked in the repository's editorial policy."
+      },
+      {
+        "heading": "Uncertainty is part of the record",
+        "text": "Candidates with unresolved identity, insufficient treatment evidence or substantial religious concerns remain on hold. An adverse decision needs a documented reason; absence of evidence is not condemnation. The internal inventory distinguishes publication, hold and rejection decisions and preserves the next research question. Only accepted films appear in the recommended catalogue."
+      },
+      {
+        "heading": "What this research does not claim",
+        "text": "We do not claim exhaustive international coverage, personal viewing of every film, independent confirmation of every promotional statement, or a definitive answer to every critical disagreement. We do not infer worldwide availability from one retailer's page. Original-language and regional research, lesser-known productions and disputed versions remain continuing areas of work."
+      }
+    ]
+  },
+  "corrections": {
+    "title": "Corrections and Suggestions",
+    "lead": "A useful library must be willing to correct its record.",
+    "sections": [
+      {
+        "heading": "Make a correction precise",
+        "text": "Identify the film and the page, quote the short statement that needs attention, propose the correction and provide a reliable source. Explain which claim the source supports. If different versions are involved, include the edition, language, release territory and runtime where known. A concrete reference is more useful than an unsupported assurance."
+      },
+      {
+        "heading": "Suggest a film for research",
+        "text": "Include the original title, English title if one exists, year, director and a source establishing the work's identity. Then explain its Catholic substance and provide substantive evidence about its treatment. A suggestion enters research; it does not automatically become a recommendation. Obscure international productions are welcome, especially when original-language sources are available."
+      },
+      {
+        "heading": "A sustainable correction channel",
+        "text": "Corrections and film suggestions are received through the Library’s GitHub Issues page, using the linked forms. A free GitHub account is required to submit an issue. This website itself has no contact database and collects no visitor details. Please do not include personal information in public issues."
+      },
+      {
+        "heading": "How corrections are handled",
+        "text": "Factual changes require evidence; editorial disagreements require a fair account of the disputed point. Material concerns may move a recommendation back to review while the evidence is assessed. Substantive changes are preserved in version control. Please avoid personal information, pirated film links, copied copyrighted material and accusations about people that the evidence does not support."
+      }
+    ]
+  }
+}

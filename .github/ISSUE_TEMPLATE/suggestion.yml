@@ -1,0 +1,15 @@
+name: Suggest a film
+description: Nominate a film for research, without implying acceptance.
+body:
+  - type: input
+    id: identity
+    attributes:
+      label: Original title, year, director
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Identity sources, Catholic substance, and detailed treatment evidence
+    validations:
+      required: true

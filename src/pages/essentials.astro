@@ -1,0 +1,42 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Artwork from '../components/Artwork.astro';
+import { featured, url } from '../data/catalogue';
+---
+
+<Layout title="Essential Films">
+  <div class="wrap">
+    <div class="page-heading">
+      <span class="eyebrow">Where to begin</span>
+      <h1>Essential Films</h1>
+      <p class="lead">
+        A considered introduction to the collection: distinctive approaches to
+        sanctity, suffering, vocation and grace.
+      </p>
+      <p>
+        These are starting points, not a ranking of holiness or a claim that one
+        film can speak for the whole tradition. Read each profile’s viewer
+        advisories before choosing.
+      </p>
+    </div>
+    {featured.slice(0, 12).map((f, i) => (
+      <article class="feature-row">
+        <Artwork title={f.title} year={f.year} variant={i} />
+        <div>
+          <span class="eyebrow">
+            {String(i + 1).padStart(2, '0')} · {f.year} ·{' '}
+            {f.countries.join(' / ')}
+          </span>
+          <h2>
+            <a href={url(`films/${f.slug}/`)}>{f.title}</a>
+          </h2>
+          <p>{f.inclusion}</p>
+          <a class="text-link" href={url(`films/${f.slug}/`)}>
+            Read the film profile →
+          </a>
+        </div>
+      </article>
+    ))}
+    <div class="section"></div>
+  </div>
+</Layout>

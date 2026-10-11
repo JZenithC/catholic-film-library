@@ -1,0 +1,38 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { collections, films, url } from '../../data/catalogue';
+---
+
+<Layout title="Collections">
+  <div class="wrap">
+    <div class="page-heading">
+      <span class="eyebrow">Find your path</span>
+      <h1>The Collections</h1>
+      <p class="lead">
+        Explore cinema through its subjects, histories and forms. Each film may
+        open more than one door.
+      </p>
+    </div>
+    <div class="collection-grid">
+      {collections.map((c, i) => (
+        <a class="collection-card" href={url(`collections/${c.id}/`)}>
+          <span class="number">{String(i + 1).padStart(2, '0')}</span>
+          <div>
+            <h3>{c.title}</h3>
+            <p>{c.description}</p>
+            <span class="count">
+              {films.filter((f) => f.collections.includes(c.id)).length}{' '}
+              recommended films
+            </span>
+          </div>
+          <span aria-hidden="true">↗</span>
+        </a>
+      ))}
+    </div>
+    <p class="edition-note">
+      Collections with no accepted films identify a research gap. They do not
+      imply that no suitable production exists.
+    </p>
+    <div class="section"></div>
+  </div>
+</Layout>

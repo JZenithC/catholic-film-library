@@ -1,0 +1,496 @@
+{
+  "films": [
+    {
+      "id": "don-bosco-1935",
+      "slug": "don-bosco-1935",
+      "title": "Don Bosco",
+      "year": 1935,
+      "status": "PUBLISH",
+      "decision": "Archive identity, restoration records and substantive historical Catholic criticism support inclusion as a reverent life of the Salesian founder. The recommendation concerns the film, not the politics of its production era. A contemporary Salesian source is interested testimony, balanced by independent archival identification.",
+      "sources": [
+        {
+          "title": "Don Bosco (1935)",
+          "publisher": "Archivio del Cinema Italiano / ANICA",
+          "url": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=SV+188",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Director, production, 1935 censorship record and biographical narrative."
+          ]
+        },
+        {
+          "title": "Don Bosco — 39° Torino Film Festival",
+          "publisher": "Torino Film Festival",
+          "url": "https://www.torinofilmfest.org/it/39-torino-film-festival/film/don-bosco/46500/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Italy; 1935; 90-minute restored version; episode sequence; restoration partners."
+          ]
+        },
+        {
+          "title": "Getting to know Don Bosco: the 1935 film by Goffredo Alessandrini",
+          "publisher": "ANS — Salesian News Agency",
+          "url": "https://www.infoans.org/en/sections/special-reports/item/17075-rmg-getting-to-know-don-bosco-the-1935-film-by-goffredo-alessandrini",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Substantive account of hagiographic form, amateur Salesian participants and canonization footage; quotes 1934–35 Segnalazioni cinematografiche and 1935 Cinema Illustrazione. Search-indexed article text accessible; direct open failed."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "originalTitle": "Don Bosco",
+      "alternateTitles": [],
+      "directors": [
+        "Goffredo Alessandrini"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "languages": [
+        "Italian"
+      ],
+      "format": "Feature",
+      "subjects": [
+        "John Bosco",
+        "Salesians",
+        "Catholic education",
+        "Religious vocation"
+      ],
+      "collections": [
+        "saints",
+        "priesthood",
+        "missionaries",
+        "before-1965"
+      ],
+      "historicalPeriod": "19th century",
+      "summary": "An early sound portrait of John Bosco, tracing the growth of a priestly vocation into a work of education and charity.",
+      "synopsis": "Giovanni Bosco begins far from the institutions that will bear his name. The film follows his path from a rural family and early schooling to the seminary and the young people of Turin. Encounters with poverty and resistance give his vocation a practical field of action.\n\nThe story develops through the first oratory, schools and the formation of a religious congregation. Its later movement extends beyond one neighborhood toward missionary work and the question of succession. This is a dramatized saint's life, organized around the emergence of a lasting apostolate.",
+      "inclusion": "The combination of national archive records, a modern restoration programme and historical Catholic criticism makes this a well-supported rediscovery. The Salesian account cites contemporary recognition of the film's union of art and educational purpose, while also describing the dramatic power found in its treatment of Bosco's death.\n\nIts Catholic substance lies in vocation taking institutional form: prayer and charity become the sustained work of teaching and caring for neglected young people. The Library's recommendation is an editorial assessment of those documented qualities. It does not infer religious value merely from the presence of Salesians among the performers.",
+      "themes": [
+        "Priestly vocation",
+        "Education",
+        "Charity",
+        "Perseverance"
+      ],
+      "history": "The Torino restoration profile places the action across Bosco's life and identifies the later canonization material. ANICA records a 1935 censorship authorization. The restored screening is credited to CSC–Archivio nazionale del cinema d'impresa with museum and archive partners; restoration is evidence of preservation, not religious approval.",
+      "liberties": "The narrative is a dramatized biography rather than a complete historical record. Its canonization coda incorporates period newsreel material, according to the Salesian account. No scene-by-scene historical audit or personal viewing is claimed here.",
+      "advisories": "Poverty, the death of a friend and the death of the central figure are part of the narrative documented by the restoration programme. No comprehensive age classification was established in this research."
+    },
+    {
+      "id": "la-mies-es-mucha",
+      "slug": "la-mies-es-mucha",
+      "title": "La mies es mucha",
+      "year": 1949,
+      "status": "PUBLISH",
+      "decision": "Detailed contemporary Catholic criticism supports its missionary meaning and explicitly addresses a potentially irreverent musical gag. RTVE supplies narrative and audience guidance; historical scholarship distinguishes 1948 production from the 1949 premiere. Recommend as religious drama, without endorsing colonial stereotypes or claiming documentary history.",
+      "sources": [
+        {
+          "title": "Historia de nuestro cine: La mies es mucha",
+          "publisher": "RTVE",
+          "url": "https://www.rtve.es/play/videos/historia-de-nuestro-cine/historia-nuestro-cine-mies-mucha/3467518/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Spanish-language programme synopsis: mission, exploitative debt and epidemic; not recommended under 12. Page's director credits refer to television presentation, not the film. Expired availability is not a viewing offer."
+          ]
+        },
+        {
+          "title": "Ante dos películas de fondo religioso",
+          "publisher": "Cristiandad, 1 July 1949",
+          "url": "https://cristiandad.orlandis.org/wp-content/uploads/2024/05/13-CRISTIANDA-1-JULIO-1949.pdf",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Contemporary detailed Catholic criticism praises missionary charity, formal restraint and humor; addresses record substitution at Christmas Mass. Indexed article text read; direct PDF open returned error."
+          ]
+        },
+        {
+          "title": "Historia de los rodajes cinematográficos en la provincia de Málaga",
+          "publisher": "Isla de Arriarán / Fernando Ventajas Dote, via Dialnet",
+          "url": "https://dialnet.unirioja.es/descarga/articulo/2543120.pdf",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Production 1948; José Luis Sáenz de Heredia; Spain; feature; Madrid premiere 28 March 1949; synopsis context."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "originalTitle": "La mies es mucha",
+      "alternateTitles": [],
+      "directors": [
+        "José Luis Sáenz de Heredia"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "format": "Feature",
+      "subjects": [
+        "Missionaries",
+        "Charity",
+        "India",
+        "Priesthood"
+      ],
+      "collections": [
+        "missionaries",
+        "priesthood",
+        "before-1965"
+      ],
+      "historicalPeriod": "20th century",
+      "summary": "A Spanish missionary drama in which pastoral responsibility becomes a costly commitment to people trapped by exploitation and disease.",
+      "synopsis": "Father Santiago Hernández arrives at a mission in India to replace an ailing priest. His work soon involves more than maintaining the mission: local people are caught in debts that expose them to forced labor, and Santiago places himself under an obligation he cannot easily meet.\n\nAn epidemic brings another demand on the community. The story connects religious service to concrete responsibility for people whose poverty makes them vulnerable. Its Indian setting is presented through a Spanish production of the late 1940s, a perspective readers should keep in mind.",
+      "inclusion": "The contemporary Cristiandad review offers unusually direct evidence about this film's religious treatment. It praises missionary charity, restrained direction and the balance of humor with serious religious purpose. It also notices, rather than conceals, a comic interruption associated with Christmas Mass and judges its intention innocent.\n\nThe Library recommends the work on that documented basis as a drama of missionary self-giving. The period critic's national rhetoric is not adopted as an editorial standard. Nor should the film be used as an unqualified picture of Indian society: the distinction between a religious drama and an ethnographic account matters.",
+      "themes": [
+        "Missionary service",
+        "Sacrifice",
+        "Debt and exploitation",
+        "Charity"
+      ],
+      "history": "The historical production study labels the film a 1948 production but records its Madrid premiere on 28 March 1949. This profile uses 1949 as the release year. It is a Spanish feature set in India; a setting should not be mistaken for a production country.",
+      "liberties": "This is a fictional missionary narrative, not a verified biography. Runtime figures vary markedly between a television presentation and historical cataloguing, so a universal runtime is omitted. The contemporary critic discusses a comic record substitution at Christmas Mass; viewers sensitive to humor around worship should know that it is present.",
+      "advisories": "RTVE labels its presentation unsuitable for children under 12. Exploitative debt, illness and death are central. The expired broadcaster page is cited for research, not as a claim that the film can presently be streamed."
+    },
+    {
+      "id": "le-sorcier-du-ciel",
+      "slug": "le-sorcier-du-ciel",
+      "title": "Le Sorcier du ciel",
+      "year": 1949,
+      "status": "HOLD",
+      "decision": "CNC verifies 1949 theatrical identity and Marcel Blistène. Cinematografo supplies a detailed narrative of Vianney's ministry but lists 1948 and a shorter runtime. The miracle episodes require historical comparison, and a synopsis does not establish reverent dramatic treatment. Resolve edition discrepancies and obtain substantive criticism or documented viewing.",
+      "sources": [
+        {
+          "title": "Le Sorcier du ciel — Visa 8067",
+          "publisher": "Centre national du cinéma et de l’image animée",
+          "url": "https://www.cnc.fr/professionnels/visas-et-classification/8067",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Director, France, theatrical release 12 July 1949, 116 minutes, general-audience classification."
+          ]
+        },
+        {
+          "title": "Il paese senza Dio / Le Sorcier du ciel",
+          "publisher": "Cinematografo",
+          "url": "https://www.cinematografo.it/film/il-paese-senza-dio-k6wvidtc",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Vianney narrative, demonic harassment and conversions; competing 1948 year and 100-minute duration."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Marcel Blistène"
+      ],
+      "countries": [
+        "France"
+      ],
+      "languages": [
+        "French"
+      ],
+      "format": "Feature",
+      "subjects": [
+        "Jean-Marie Vianney"
+      ],
+      "alternateTitles": [
+        "Il paese senza Dio"
+      ]
+    },
+    {
+      "id": "gli-uomini-non-guardano-il-cielo",
+      "slug": "gli-uomini-non-guardano-il-cielo",
+      "title": "The Secret Conclave",
+      "year": 1952,
+      "status": "HOLD",
+      "decision": "The Diocese of Treviso study gives unusually valuable production history and resolves 1951 shooting versus second-half-1952 circulation. Its account of Pius X's final months and flashbacks supports authentic subject matter, but institutional commemoration and a historian's favorable reminiscence do not independently settle treatment throughout the film. Obtain detailed critical assessment and verify the surviving edition.",
+      "sources": [
+        {
+          "title": "Note sul film",
+          "publisher": "Diocese of Treviso — Centro Studi San Pio X",
+          "url": "https://www.diocesitv.it/centenariopiox/note-sul-film/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "1951 production documents, 1952 release, Pius X subject, English title, dramatic final-months frame and flashbacks, 94-minute videotape, historical consultant."
+          ]
+        },
+        {
+          "title": "Sandro Ruffini filmography",
+          "publisher": "Cinematografo",
+          "url": "https://www.cinematografo.it/cast/sandro-ruffini-seyc37ry",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Lists the title under 1951, illustrating production/release date discrepancy."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "originalTitle": "Gli uomini non guardano il cielo",
+      "directors": [
+        "Umberto Scarpelli"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "languages": [
+        "Italian"
+      ],
+      "format": "Feature",
+      "subjects": [
+        "Pius X"
+      ]
+    },
+    {
+      "id": "caterina-da-siena-1947",
+      "slug": "caterina-da-siena-1947",
+      "title": "Caterina da Siena",
+      "year": 1947,
+      "status": "HOLD",
+      "decision": "ANICA identifies Oreste Palella's 1947 film and Film Atlas documents censorship that year. This resolves the work's existence, not the quality or fidelity of its mystical portrayal. Obtain detailed criticism and a verified edition; distinguish Palella's later Io, Caterina rather than merging them.",
+      "sources": [
+        {
+          "title": "Caterina da Siena (1947)",
+          "publisher": "Archivio del Cinema Italiano / ANICA",
+          "url": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=DC5511",
+          "accessed": "2026-10-11",
+          "claims": [
+            "1947 film, Oreste Palella, Cigno Film and principal credits."
+          ]
+        },
+        {
+          "title": "Caterina da Siena",
+          "publisher": "Film Atlas",
+          "url": "https://www.filmatlas.com/entry/660",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Italy; 1947; censorship for 35mm and 16mm distribution on 12 September 1947."
+          ]
+        },
+        {
+          "title": "Caterina da Siena",
+          "publisher": "Comingsoon.it",
+          "url": "https://www.comingsoon.it/film/caterina-da-siena/22048/scheda/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Synopsis of vocation and Dominican affiliation; reference to life and letters. Synopsis only, not a treatment audit."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Oreste Palella"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "languages": [
+        "Italian"
+      ],
+      "format": "Feature",
+      "subjects": [
+        "Catherine of Siena"
+      ]
+    },
+    {
+      "id": "john-of-the-cross-1997",
+      "slug": "john-of-the-cross-1997",
+      "title": "John of the Cross",
+      "year": 1997,
+      "status": "HOLD",
+      "decision": "A substantive review describes Carmelite reform, imprisonment and poetry, and Saint Luke confirms the film. Identity details remain inconsistent: the review and Polish distributor name K. C. Lynch while IMDb credits Leonardo Defilippis; 56 versus 60 minutes may reflect rounding or editions. Resolve screen credits and the framing of the Carmelite conflict before publication.",
+      "sources": [
+        {
+          "title": "John of the Cross",
+          "publisher": "Spirituality & Practice / Frederic and Mary Ann Brussat",
+          "url": "https://www.spiritualityandpractice.com/films/reviews/view/2654?id=2654",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Detailed interpretation, K. C. Lynch directing, 60-minute drama, narrative through a patron, poetry and Carmelite reform."
+          ]
+        },
+        {
+          "title": "Jan od Krzyża",
+          "publisher": "Katoflix",
+          "url": "https://katoflix.pl/film/jan-od-krzyza",
+          "accessed": "2026-10-11",
+          "claims": [
+            "USA 1997; K.C. Lynch; 56-minute Saint Luke production."
+          ]
+        },
+        {
+          "title": "John of the Cross (1997)",
+          "publisher": "IMDb",
+          "url": "https://www.imdb.com/title/tt14450612/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Conflicting directing credit: Leonardo Defilippis; 1997 US English-language television film."
+          ]
+        },
+        {
+          "title": "Films",
+          "publisher": "Saint Luke Productions",
+          "url": "https://home.stlukeproductions.com/films",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Producer confirms John of the Cross among its films."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "countries": [
+        "United States"
+      ],
+      "languages": [
+        "English"
+      ],
+      "format": "Television film",
+      "subjects": [
+        "John of the Cross",
+        "Teresa of Ávila"
+      ]
+    },
+    {
+      "id": "la-noche-oscura",
+      "slug": "la-noche-oscura",
+      "title": "The Dark Night",
+      "year": 1989,
+      "status": "HOLD",
+      "decision": "The Cinémathèque's substantive description raises a specific concern: Julie Delpy is described both as Mary and as the face of temptation within Saura's dreamlike mystical treatment. This is sufficient to require scene-level review, not sufficient to assert blasphemy as fact. Clarify the film's actual framing and its relation to John's writings before recommending.",
+      "sources": [
+        {
+          "title": "La NOCHE OSCURA (1989)",
+          "publisher": "British Film Institute",
+          "url": "https://www.bfi.org.uk/film/da649dd8-4ad3-5e02-a7b9-a1ea5c067eda/la-noche-oscura",
+          "accessed": "2026-10-11",
+          "claims": [
+            "1989; Carlos Saura; Spain; principal cast."
+          ]
+        },
+        {
+          "title": "La Nuit obscure / La Noche oscura",
+          "publisher": "La Cinémathèque française",
+          "url": "https://www.cinematheque.fr/film/43010.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Spain-France; 1989; 93 minutes; substantive critical description of mystical imprisonment, dreamlike representation and Delpy's dual associations."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "originalTitle": "La noche oscura",
+      "alternateTitles": [
+        "La Nuit obscure"
+      ],
+      "directors": [
+        "Carlos Saura"
+      ],
+      "countries": [
+        "Spain",
+        "France"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "format": "Feature",
+      "subjects": [
+        "John of the Cross"
+      ]
+    },
+    {
+      "id": "jesus-living-in-mary-life-of-montfort",
+      "slug": "jesus-living-in-mary-life-of-montfort",
+      "title": "Jesus Living in Mary: The Life of St. Louis Marie de Montfort",
+      "status": "HOLD",
+      "decision": "The Montfortian publisher confirms a documentary and its content, but no verified release year, directing credit or independent treatment review was found. Preserve this real lead without inventing missing metadata or confusing it with the companion spirituality documentary.",
+      "sources": [
+        {
+          "title": "Montfort Press price list",
+          "publisher": "Company of Mary — Great Britain and Ireland",
+          "url": "https://montfort.org.uk/mp-pricelist.php",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distinct 90-minute life documentary, filmed in France with Montfortian interviews; separate 100-minute spirituality film. No date/director established."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Documentary",
+      "subjects": [
+        "Louis-Marie Grignion de Montfort"
+      ]
+    },
+    {
+      "id": "saint-john-houghton-marys-dowry",
+      "slug": "saint-john-houghton-marys-dowry",
+      "title": "Saint John Houghton",
+      "status": "HOLD",
+      "decision": "A producer page establishes a devotional film about the English Carthusian martyr. The accessible indexed description is promotional, the direct page failed to open, and release date, credits and substantive independent treatment evidence remain unverified. Do not fill the English Martyrs collection merely from the saint's identity.",
+      "sources": [
+        {
+          "title": "Saint John Houghton — English Martyr",
+          "publisher": "Mary's Dowry Productions",
+          "url": "https://www.marysdowryproductions.org/john-houghton-saint-29-p.asp",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Producer's indexed listing identifies a film about John Houghton; direct page retrieval failed. Discovery evidence only."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "subjects": [
+        "John Houghton",
+        "English Martyrs"
+      ]
+    },
+    {
+      "id": "the-bells-of-nagasaki-1950",
+      "slug": "the-bells-of-nagasaki-1950",
+      "title": "The Bells of Nagasaki",
+      "year": 1950,
+      "status": "HOLD",
+      "decision": "Scholarship identifies the film adaptation and occupation-era constraints, but the detailed Catholic interpretation found was an individual audience review rather than sufficiently strong treatment evidence. Investigate the film's theology of suffering independently from Nagai's book and compare its adaptation before recommendation.",
+      "sources": [
+        {
+          "title": "Scholarly excerpt on The Bells of Nagasaki (Kitamura.pdf)",
+          "publisher": "Hiroshi Kitamura / University of Warwick course copy",
+          "url": "https://warwick.ac.uk/fac/arts/history/students/modules/hi3h6/seminars/13/Kitamura.pdf",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Indexed scholarly text identifies commercial release on 22 September 1950 and occupation censorship context."
+          ]
+        },
+        {
+          "title": "Transnational Images of Hiroshima and Nagasaki: Knowledge Production and the Politics of Representation",
+          "publisher": "Cornell University repository",
+          "url": "https://ecommons.cornell.edu/server/api/core/bitstreams/86ac5cb4-0eb6-4683-b165-98239519e176/content",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Identifies Hideo Oba's 1950 adaptation and fictionalization; further full-text contextual reading required."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "originalTitle": "Nagasaki no kane",
+      "directors": [
+        "Hideo Ōba"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "format": "Feature",
+      "subjects": [
+        "Takashi Nagai",
+        "Nagasaki",
+        "Atomic bombing"
+      ]
+    }
+  ],
+  "gaps": [
+    "Montfort: a real life documentary was identified, but date and substantive review remain unverified; the gap is evidence, not known absence of films.",
+    "English martyrs: John Houghton producer lead needs identity and critical verification. No invented Campion film was substituted; a search match concerning musician Edmund Campion was excluded as a namesake.",
+    "Pius X, Vianney and Catherine of Siena have verified historical film candidates on HOLD. Their existence should not be reported as an unfilled film-discovery gap.",
+    "Asian Catholic cinema remains under-evidenced: Nagasaki's 1950 adaptation requires direct scholarly treatment review. No African candidate was substantiated in this bounded follow-up.",
+    "The Miracle of Father Malachia (1961) surfaced as a lead but was not fully evaluated here; a discovered reviewer explicitly lacked subtitles, so that review cannot resolve doctrinal interpretation."
+  ],
+  "researchScope": "Targeted original-language and institutional searches for the Founder's requested saint gaps and overlooked early cinema. Sources were read at the access level stated; a checked date is not a personal viewing or proof of full-text access. Ten evaluated additional candidates, two recommended and eight held."
+}

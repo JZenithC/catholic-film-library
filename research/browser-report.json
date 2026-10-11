@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-11",
+  "pages": [
+    {
+      "viewport": "desktop",
+      "page": "home",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "desktop",
+      "page": "library",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "desktop",
+      "page": "collection",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "desktop",
+      "page": "film",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "desktop",
+      "page": "film-second",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "desktop",
+      "page": "principles",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "tablet",
+      "page": "home",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "tablet",
+      "page": "library",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "tablet",
+      "page": "collection",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "tablet",
+      "page": "film",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "tablet",
+      "page": "film-second",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "tablet",
+      "page": "principles",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "mobile",
+      "page": "home",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "mobile",
+      "page": "library",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "mobile",
+      "page": "collection",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "mobile",
+      "page": "film",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "mobile",
+      "page": "film-second",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "viewport": "mobile",
+      "page": "principles",
+      "overflow": false,
+      "violations": []
+    }
+  ],
+  "failures": [],
+  "interactions": [
+    "desktop: all seven filter dimensions compose and survive refresh",
+    "desktop: search, shared URL reload, empty state, reset, sort, collection filter passed",
+    "tablet: all seven filter dimensions compose and survive refresh",
+    "tablet: search, shared URL reload, empty state, reset, sort, collection filter passed",
+    "mobile: all seven filter dimensions compose and survive refresh",
+    "mobile: search, shared URL reload, empty state, reset, sort, collection filter passed",
+    "Mobile menu navigation passed",
+    "No-JavaScript catalogue remains readable"
+  ]
+}

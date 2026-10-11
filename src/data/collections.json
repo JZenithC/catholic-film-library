@@ -1,0 +1,87 @@
+[
+  {
+    "id": "christ",
+    "title": "Our Lord Jesus Christ",
+    "description": "The life, Passion and Resurrection of Christ, approached with reverence."
+  },
+  {
+    "id": "mary",
+    "title": "Our Lady & Marian Apparitions",
+    "description": "Marian devotion, Lourdes, Fátima, and the lives shaped by them."
+  },
+  {
+    "id": "saints",
+    "title": "Saints & Their Lives",
+    "description": "Lives of prayer, charity and heroic virtue, translated to the screen."
+  },
+  {
+    "id": "martyrs",
+    "title": "Martyrs & Persecution",
+    "description": "Witness to the Faith in the face of suffering and death."
+  },
+  {
+    "id": "vendee",
+    "title": "The French Revolution & the Vendée",
+    "description": "Revolution, religious persecution and the wars of western France."
+  },
+  {
+    "id": "cristeros",
+    "title": "The Cristero War",
+    "description": "The persecution of Catholics and resistance in Mexico."
+  },
+  {
+    "id": "spanish-civil-war",
+    "title": "The Spanish Civil War",
+    "description": "Religious persecution and martyrdom in twentieth-century Spain."
+  },
+  {
+    "id": "english-martyrs",
+    "title": "The English Martyrs",
+    "description": "Catholic witness through the English Reformation and its aftermath."
+  },
+  {
+    "id": "priesthood",
+    "title": "Priesthood & the Sacraments",
+    "description": "Vocation, pastoral charity, confession and the sacramental life."
+  },
+  {
+    "id": "religious-life",
+    "title": "Monastic & Religious Life",
+    "description": "The cloister, contemplation and the many forms of consecrated life."
+  },
+  {
+    "id": "missionaries",
+    "title": "Missionaries",
+    "description": "The encounter of missionary vocation, charity and history."
+  },
+  {
+    "id": "families",
+    "title": "Catholic Families & Children",
+    "description": "Stories to consider for family viewing, with individual advisories."
+  },
+  {
+    "id": "comedy",
+    "title": "Catholic Comedy",
+    "description": "Humour, human weakness and the everyday work of grace."
+  },
+  {
+    "id": "before-1965",
+    "title": "Great Catholic Cinema Before 1965",
+    "description": "The silent era and the classical cinema tradition through 1964."
+  },
+  {
+    "id": "after-1965",
+    "title": "Catholic Cinema from 1965",
+    "description": "Later works evaluated by the same traditional editorial standard."
+  },
+  {
+    "id": "documentaries",
+    "title": "Documentaries",
+    "description": "Nonfiction encounters with Catholic history, places and religious life."
+  },
+  {
+    "id": "television",
+    "title": "Television & Miniseries",
+    "description": "Longer narratives and productions originally made for television."
+  }
+]

@@ -1,0 +1,2360 @@
+{
+  "films": [
+    {
+      "id": "jesus-of-nazareth",
+      "slug": "jesus-of-nazareth",
+      "title": "Jesus of Nazareth",
+      "year": 1977,
+      "status": "HOLD",
+      "decision": "Reverence and miracle scenes are well documented, but the detailed review identifies a substantially softened Judas and Gospel departures. These require a scene-level doctrinal and adaptation review; acclaim and later ecclesiastical endorsements do not resolve the specified traditional rubric.",
+      "sources": [
+        {
+          "title": "Gesù di Nazareth (1977)",
+          "publisher": "Franco Zeffirelli Foundation",
+          "url": "https://archiviofondazionefrancozeffirelli.com/v2/web/evento_v2.php?id=129&lang=en",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Identity; Anglo-Italian television coproduction."
+          ]
+        },
+        {
+          "title": "Jesus of Nazareth (1977)",
+          "publisher": "Decent Films / Steven D. Greydanus",
+          "url": "https://decentfilms.com/reviews/Jesusofnazareth",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Detailed criticism: reverent miracles; altered Judas motivation; compressed resurrection; violence advisory."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Franco Zeffirelli"
+      ],
+      "format": "Miniseries",
+      "countries": [
+        "Italy",
+        "United Kingdom"
+      ],
+      "languages": [
+        "English"
+      ],
+      "collections": [
+        "christ",
+        "television",
+        "after-1965"
+      ]
+    },
+    {
+      "slug": "teresa-de-jesus",
+      "title": "Teresa de Jesús",
+      "year": 1984,
+      "sources": [
+        {
+          "title": "Teresa de Jesús",
+          "publisher": "RTVE",
+          "url": "https://www.rtve.es/play/videos/teresa-de-jesus/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "1984 Spanish eight-episode series; Carmelite reform."
+          ]
+        },
+        {
+          "title": "Santa Teresa de Jesús en el Cine",
+          "publisher": "Universidad de Navarra",
+          "url": "https://www.unav.edu/web/catedra-patrimonio/actividades/ciclos-y-conferencias/2014/santa-teresa-de-jesus-en-el-cine",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Josefina Molina; historical literary consultant; source biographies; series identity distinct from 1961 film."
+          ]
+        },
+        {
+          "title": "St. Teresa of Avila",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/st-teresa-of-avila.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor describes Teresa’s conversion, union with Christ, Carmelite reform and John of the Cross."
+          ]
+        },
+        {
+          "title": "Concha Velasco y Teresa de Jesús",
+          "publisher": "Fundación Joaquín Díaz / Eduardo Alonso Franch, Revista de Folklore 522 (2025)",
+          "url": "https://funjdiaz.net/folklore/07ficha.php?ID=5226&NUM=522",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Discussion of the 1984 series' visual handling of ecstasy, interior doubt and bodily gestures; director and production background."
+          ]
+        },
+        {
+          "title": "Diccionario teresiano: Cine",
+          "publisher": "Teresa de Ávila / E. T. Gil de Muro",
+          "url": "https://teresavila.com/diccionario-teresiano/?letra=C",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Specialist discussion praises fidelity to Teresa's literary voice and convent setting, identifies the eight episodes and their Church-centered conclusion, and acknowledges scholarly reservations."
+          ]
+        },
+        {
+          "title": "Muere Josefina Molina, directora de la serie magistral donde Concha Velasco encarnó a Santa Teresa",
+          "publisher": "Religión en Libertad",
+          "url": "https://www.religionenlibertad.com/personajes/260530/muere-josefina-molina-directora-serie-concha-velasco-teresa_118426.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Search-indexed article assesses the series as faithful to Teresa's life and religious circumstances and fair in depicting her supporters, opponents and ecclesiastical investigations; direct page fetch failed."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Josefina Molina"
+      ],
+      "format": "Miniseries",
+      "countries": [
+        "Spain"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "subjects": [
+        "Teresa of Ávila",
+        "John of the Cross"
+      ],
+      "collections": [
+        "saints",
+        "religious-life",
+        "television",
+        "after-1965"
+      ],
+      "id": "teresa-de-jesus",
+      "status": "PUBLISH",
+      "summary": "An unusually sustained Spanish portrait of Teresa's prayer, foundations and fidelity through the trials of Carmelite reform.",
+      "decision": "Publish the eight-episode 1984 series. Specialist Carmelite analysis of its fidelity to Teresa's writings and a separate Spanish Catholic assessment of its treatment of ecclesiastical scrutiny resolve the earlier concern sufficiently. Bodily representation of ecstasy is an interpretive limitation, not demonstrated denial of the supernatural.",
+      "synopsis": "Concha Velasco plays Teresa as a woman learning to answer a demanding vocation over time. The series follows the growth of her interior life alongside the practical burdens of founding reformed Carmels. Illness, misunderstanding and opposition make the work costly; correspondence, conversation and the routines of convent life keep it rooted in a particular human and historical world. The long television form gives these struggles room to develop, culminating in Teresa's death as a daughter of the Church.",
+      "inclusion": "The decisive reason for inclusion is the relationship between reform, prayer and ecclesial fidelity. A saint's conflicts with individual churchmen do not themselves make a drama anti-Catholic. Here, the detailed Spanish criticism consulted finds neither a simple division between enlightened women and wicked men nor a wholesale indictment of the Church. The series can introduce adult viewers to a demanding spiritual life whose destination is union with God. Its patient attention to character rewards sustained viewing more than casual sampling.",
+      "themes": [
+        "Mental prayer",
+        "Carmelite reform",
+        "Obedience",
+        "Perseverance",
+        "Mystical life"
+      ],
+      "historicalPeriod": "Sixteenth-century Spain",
+      "history": "The Carmelite Diccionario teresiano describes careful consultation of Teresa's own writing and reconstruction of her convent surroundings. Its account identifies the project with the early-1980s centenary; RTVE supplies the 1984 broadcast identity. This is Josefina Molina's television series, distinct from the earlier Juan de Orduña film.",
+      "liberties": "Interior prayer must become visible performance, and the bodily representation of ecstasy admits differing critical readings. The specialist source also acknowledges limitations noted by Teresian scholar Tomás Álvarez. Neither observation establishes that the series teaches a medical explanation for mystical grace. Use the drama alongside Teresa's writings rather than treating gesture, invented conversation or dramatic compression as documentary evidence.",
+      "advisories": [
+        "Illness, spiritual distress and opposition to religious foundations.",
+        "Long, dialogue-led historical series best suited to attentive older viewers."
+      ]
+    },
+    {
+      "slug": "saint-teresa-of-the-andes",
+      "title": "Saint Teresa of the Andes",
+      "status": "HOLD",
+      "sources": [
+        {
+          "title": "Saint Teresa of the Andes",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/st-teresa-of-the-andes.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Chilean miniseries; Pauline Urrutia; Spanish soundtrack; Juanita’s family and Carmelite vocation."
+          ]
+        },
+        {
+          "title": "Informe cultural abril 2025",
+          "publisher": "Consejo Nacional de Televisión, Chile",
+          "url": "https://cntv.cl/wp-content/uploads/2025/08/04_INFORME-CULTURAL-ABRIL-2025-1.pdf",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Official programme description: TVN 1989 miniseries directed Vicente Sabatini; biography and devotion."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Miniseries",
+      "countries": [
+        "Chile"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "collections": [
+        "saints",
+        "religious-life",
+        "television"
+      ],
+      "id": "saint-teresa-of-the-andes",
+      "year": 1989,
+      "directors": [
+        "Vicente Sabatini"
+      ],
+      "originalTitle": "Teresa de los Andes",
+      "decision": "Chilean regulatory cultural-programme report now independently confirms 1989 TVN series and director Vicente Sabatini. Religious subject is clear, but no sufficiently detailed whole-series treatment of mystical experience and sacrifice has been secured for the traditional rubric."
+    },
+    {
+      "slug": "clare-and-francis",
+      "title": "Clare and Francis",
+      "sources": [
+        {
+          "title": "Clare and Francis",
+          "publisher": "FremantleMedia Italy",
+          "url": "https://catalog.fremantlemediaitalygroup.it/clare-and-francis/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Production identity and subject."
+          ]
+        },
+        {
+          "title": "Clare and Francis",
+          "publisher": "Ignatius Press",
+          "url": "https://ignatius.com/clare-and-francis-cfm/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor claims historicity and Franciscan piety."
+          ]
+        },
+        {
+          "title": "Clare and Francis",
+          "publisher": "Wikipedia (discovery lead)",
+          "url": "https://en.wikipedia.org/wiki/Clare_and_Francis",
+          "accessed": "2026-10-11",
+          "claims": [
+            "2007 Fabrizio Costa television identity; cites divided Franciscan reception."
+          ]
+        },
+        {
+          "title": "DVD Picks & Passes 11.23.2008",
+          "publisher": "National Catholic Register / Steven D. Greydanus",
+          "url": "https://www.ncregister.com/features/dvd-picks-passes-11-23-2008-uie10gii",
+          "claims": [
+            "Church devotion, humility, Clare's piety; weaker pre-conversion portrayal; mild violence and leprosy advisory."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "I frati di Assisi e la fiction su Francesco",
+          "publisher": "Orazio La Rocca / La Repubblica, article reproduced by Notizie gay",
+          "url": "https://notiziegay.blogspot.com/2007/10/i-frati-di-assisi-e-la-fiction-su.html",
+          "claims": [
+            "Accessible reproduction of 9 October 2007 report; friars disagree about depth and production; Coli praises spiritual rather than romantic friendship. Original newspaper URL failed to open."
+          ],
+          "accessed": "2026-10-11"
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "id": "clare-and-francis",
+      "status": "PUBLISH",
+      "originalTitle": "Chiara e Francesco",
+      "year": 2007,
+      "directors": [
+        "Fabrizio Costa"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "languages": [
+        "Italian"
+      ],
+      "format": "Miniseries",
+      "subjects": [
+        "Francis of Assisi",
+        "Clare of Assisi"
+      ],
+      "collections": [
+        "saints",
+        "religious-life",
+        "television",
+        "after-1965"
+      ],
+      "historicalPeriod": "Medieval Assisi",
+      "decision": "Publish after examining the divided Franciscan reception: objections concern artistic and theological depth, not a documented doctrinal reversal. Producer evidence of vows and independent criticism of Church devotion support the positive judgment.",
+      "summary": "Two vocations take shape in medieval Assisi through poverty, prayer and devotion to Christ.",
+      "synopsis": "Social conflict divides Assisi as Francis and Clare begin lives their families cannot have anticipated. Francis leaves the future offered by his wealthy background; Clare eventually follows a religious calling of her own. Their relationship develops through a shared dedication to God. Clare’s departure from home and profession of poverty, chastity and obedience make explicit the nature of that commitment. The drama gives her a place alongside Francis rather than treating her as a minor figure in his story.",
+      "inclusion": "The evidence supports a portrayal of consecrated life and spiritual friendship. Steven Greydanus identifies Francis’s loyalty to the Church and the humility and joy of his converted life; he also finds the youthful Francis less convincing. The reported Assisi reception is useful precisely because it is mixed: some friars praised the absence of a romantic invention, while others wanted greater theological depth. For this catalogue, a limitation of dramatic depth is distinguishable from a distortion of the saints’ vocation.",
+      "themes": [
+        "Evangelical poverty",
+        "Consecrated chastity",
+        "Spiritual friendship",
+        "Conversion"
+      ],
+      "history": "Set in medieval Assisi, the miniseries belongs to the long screen tradition of Franciscan biography. Its focus on both founders makes it useful for considering distinct male and female religious vocations together. It should accompany, rather than substitute for, the saints’ writings and historical biographies.",
+      "liberties": "This is a scripted reconstruction. Contemporary Franciscan responses were divided over its depth and visual authenticity. The early-life characterisation should not be mistaken for a comprehensive account of Francis before conversion.",
+      "advisories": [
+        "Mild violence and distressing images of leprosy.",
+        "Long television format; younger viewers may benefit from viewing in parts."
+      ]
+    },
+    {
+      "slug": "saint-rita",
+      "title": "Saint Rita",
+      "status": "HOLD",
+      "sources": [
+        {
+          "title": "Saint Rita",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/saint-rita.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor identity and religious subject; catalogue page checked."
+          ]
+        },
+        {
+          "title": "DVD Picks & Passes",
+          "publisher": "National Catholic Register / Steven D. Greydanus",
+          "url": "https://www.ncregister.com/features/dvd-picks-passes-u4xf6gja",
+          "accessed": "2026-10-11",
+          "claims": [
+            "2004 Lux Vide film; historically sparse life elaborated; arranged-marriage liberty and threats/violence advisory."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Television production",
+      "collections": [
+        "television"
+      ],
+      "id": "saint-rita",
+      "year": 2004,
+      "decision": "Independent Greydanus review supports an edifying religious drama but explicitly flags liberties concerning Rita's arranged marriage against her wish for the convent. Hold pending historical comparison of that vocational alteration, not because the film contains violence."
+    },
+    {
+      "slug": "padre-pio-miracle-man",
+      "title": "Padre Pio: Miracle Man",
+      "sources": [
+        {
+          "title": "Padre Pio: Miracle Man",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/padre-pio-miracle-man.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor identity and religious subject; catalogue page checked."
+          ]
+        },
+        {
+          "title": "Video Picks & Passes",
+          "publisher": "National Catholic Register / Steven D. Greydanus",
+          "url": "https://www.ncregister.com/features/video-picks-passes-tz0b30by",
+          "claims": [
+            "Detailed vocation, confession, Marian reverence and supernatural-content analysis; advisory. Printed 1941 header is an apparent error and is not used."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "Padre Pio",
+          "publisher": "Mediaset Infinity",
+          "url": "https://mediasetinfinity.mediaset.it/fiction/padrepio_SE000000001446",
+          "claims": [
+            "Original 17 and 19 April 2000 episodes; broadcaster's authority-rejection marketing recorded but not accepted as history."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "Padre Pio, Miracle Man",
+          "publisher": "DVD Talk / Svet Atanasov",
+          "url": "https://www.dvdtalk.com/reviews/review/22039",
+          "claims": [
+            "2000 Carlo Carlei production; Castellitto performance, flashback structure and Italian-language DVD."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "The Obedience of St. Padre Pio",
+          "publisher": "Unam Sanctam Catholicam / Boniface",
+          "url": "https://unamsanctamcatholicam.blogspot.com/2023/07/the-obedience-of-st-padre-pio.html",
+          "claims": [
+            "Author of Wounds of Love identifies mayor-rebuke scene and its altered physical action; contextual argument about Pio's obedience."
+          ],
+          "accessed": "2026-10-11"
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "id": "padre-pio-miracle-man",
+      "year": 2000,
+      "status": "PUBLISH",
+      "originalTitle": "Padre Pio",
+      "directors": [
+        "Carlo Carlei"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "languages": [
+        "Italian"
+      ],
+      "format": "Miniseries",
+      "subjects": [
+        "Pio of Pietrelcina"
+      ],
+      "collections": [
+        "saints",
+        "priesthood",
+        "religious-life",
+        "television",
+        "after-1965"
+      ],
+      "historicalPeriod": "Twentieth-century Italy",
+      "decision": "Publish on detailed independent criticism documenting vocation, confession, supernatural events and Marian reverence. The historical commentary also documents the film's defence of episcopal authority against a lay critic, qualifying the broadcaster's overbroad rebellious-priest marketing.",
+      "summary": "An examination of a Capuchin’s extraordinary life becomes a drama of vocation, suffering and confession.",
+      "synopsis": "Near the end of his life, Padre Pio faces a visitor who doubts the extraordinary claims surrounding him. Questions lead into memories of Francesco Forgione’s childhood and his determination to become a friar. Mystical experiences and spiritual attacks accompany the unfolding vocation. The framing conversation changes as the sceptical interrogation gives way to confession. Sergio Castellitto’s performance allows a severe, sometimes abrasive personality to remain recognisably human.",
+      "inclusion": "The film’s religious world includes grace, evil, prayer and priestly vocation as realities. Greydanus’s detailed review records both its reverence for Mary and its presentation of perseverance through diabolical opposition. A separate historical discussion identifies a scene in which Pio rebukes a mayor for attacking a bishop: the presence of institutional conflict should therefore not be flattened into a message that rebellion is sanctity. The editorial recommendation concerns this specific 2000 Carlei production, which must not be confused with Giulio Base’s television film or Abel Ferrara’s later feature.",
+      "themes": [
+        "Priestly vocation",
+        "Confession",
+        "Marian reverence",
+        "Suffering and perseverance"
+      ],
+      "history": "The action follows the Italian Capuchin through a life ending in 1968. Mediaset’s episode record establishes the April 2000 television broadcast. Later home-video editions have different reported runtimes; the catalogue does not treat them as separate productions.",
+      "liberties": "The interrogation supplies a dramatic framework rather than a documentary transcript. A historical commentator notes that the film substitutes a slap for the recorded physical rebuke of the mayor. The broadcaster’s promotional description of rejection of Church authority is too sweeping to use as a historical description of Padre Pio.",
+      "advisories": [
+        "Disturbing supernatural imagery and spiritual attacks.",
+        "References to clerical misconduct and a briefly depicted apparent instance.",
+        "For mature viewers; intense material is not suitable for an unprepared child."
+      ]
+    },
+    {
+      "slug": "saint-philip-neri",
+      "title": "Saint Philip Neri: I Prefer Heaven",
+      "sources": [
+        {
+          "title": "Saint Philip Neri: I Prefer Heaven",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/saint-philip-neri-prefer-heaven.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor identity and religious subject; catalogue page checked."
+          ]
+        },
+        {
+          "title": "Ancora sul nuovo film Preferisco il Paradiso",
+          "publisher": "Edoardo Aldo Cerrato / Oratorian General Procurator's article reproduced by Gli Scritti",
+          "url": "https://www.gliscritti.it/blog/entry/529",
+          "claims": [
+            "Detailed first-view assessment of authentic prayer, confession, Church fidelity and invented episodes; identifies exact historical alterations."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "Preferisco il Paradiso: Gigi Proietti e la storia vera di San Filippo Neri",
+          "publisher": "ComingSoon.it / Domenico Misciagna",
+          "url": "https://www.comingsoon.it/tv/anticipazioni/preferisco-il-paradiso-gigi-proietti-e-la-storia-vera-di-san-filippo-neri/n113444/",
+          "claims": [
+            "2010 Campiotti miniseries; distinguishes historical freedom from spiritual portrait."
+          ],
+          "accessed": "2026-10-11"
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "id": "saint-philip-neri",
+      "year": 2010,
+      "originalTitle": "Preferisco il paradiso",
+      "alternateTitles": [
+        "Saint Philip Neri: I Prefer Heaven"
+      ],
+      "format": "Miniseries",
+      "directors": [
+        "Giacomo Campiotti"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "languages": [
+        "Italian"
+      ],
+      "subjects": [
+        "Philip Neri",
+        "Oratorians"
+      ],
+      "collections": [
+        "saints",
+        "priesthood",
+        "religious-life",
+        "television",
+        "after-1965"
+      ],
+      "historicalPeriod": "Sixteenth-century Rome",
+      "status": "PUBLISH",
+      "decision": "Publish as an openly fictionalised devotional portrait, on Oratorian specialist Edoardo Aldo Cerrato's detailed evidence of confession, grace, ecclesiastical fidelity and prayer. Extensive chronological changes are prominently disclosed rather than presented as reliable biography.",
+      "summary": "A warm, extensively fictionalised portrait of Philip Neri’s priesthood, prayer and desire for heaven.",
+      "synopsis": "Philip arrives in Rome with missionary hopes, only to find an immediate field of work among those around him. Children, families and aspiring priests come within the circle of his pastoral care. The drama joins comic incidents to sorrow, opposition and the patient demands of spiritual fatherhood. Its Rome is populated by invented or heavily adapted relationships through which the saint’s religious outlook is expressed.",
+      "inclusion": "Oratorian writer Edoardo Aldo Cerrato’s detailed assessment provides the strongest reason for inclusion. He identifies a priest who both hears confessions and confesses himself, remains faithful to ecclesiastical authority under trial, and joins action to contemplation. He also recognises authentic short prayers of Philip within the dialogue. The resulting recommendation concerns a dramatic expression of priestly holiness. It does not convert the imagined plot into a historical account.",
+      "themes": [
+        "Priestly joy",
+        "Confession",
+        "Prayer and charity",
+        "Desire for heaven"
+      ],
+      "history": "Philip Neri’s apostolate belongs to sixteenth-century Rome and the development of the Oratory. Cerrato explains that the actual Oratory formed young people and adults across social classes. The popular image of an enterprise established primarily for street children is an adaptation, not a sufficient history of the institution.",
+      "liberties": "The opening makes Philip an older priest arriving in Rome; historically he arrived as a young layman and was ordained much later. His first meeting with Persiano Rosa is rearranged, and many supporting episodes are invented. Read this as devotional historical fiction, then turn to a biography for chronology and the Oratory’s origins.",
+      "advisories": [
+        "Child poverty, illness, bereavement and pastoral conflict.",
+        "Extensive invention: unsuitable as a sole biographical teaching source."
+      ]
+    },
+    {
+      "id": "saint-anthony-padua",
+      "slug": "saint-anthony-padua",
+      "title": "Saint Anthony: The Miracle Worker of Padua",
+      "status": "HOLD",
+      "decision": "Film identity is traceable in distributor catalogue. Miracle narratives and historical liberties remain unassessed beyond marketing.",
+      "sources": [
+        {
+          "title": "Saint Anthony: The Miracle Worker of Padua",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/saint-anthony-miracle-worker.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor identity and religious subject; catalogue page checked."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Television production",
+      "collections": [
+        "television"
+      ]
+    },
+    {
+      "slug": "john-bosco-mission-to-love",
+      "title": "Saint John Bosco: Mission to Love",
+      "sources": [
+        {
+          "title": "Saint John Bosco: Mission to Love",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/st-john-bosco-mission-to-love.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor identity and religious subject; catalogue page checked."
+          ]
+        },
+        {
+          "title": "Film Review — St. John Bosco: Mission to Love (review dated 16 March 2007; republished 30 January 2026)",
+          "publisher": "From the Eastern Front / FrMike, Salesian Family blog",
+          "url": "https://sdbnews.blogspot.com/2026/01/film-review-st-john-bosco-mission-to.html",
+          "claims": [
+            "2004 production and Lodovico Gasparini direction; detailed analysis of catechesis, Savio, papal obedience and historical composites."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "Don Bosco (2004) — Episodi",
+          "publisher": "RaiPlay",
+          "url": "https://www.raiplay.it/programmi/donbosco2004/episodi/episodi",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Original title Don Bosco; 2004 Italy; Lodovico Gasparini."
+          ]
+        },
+        {
+          "title": "Sceneggiati e Fiction 2003–2005",
+          "publisher": "Rai Teche",
+          "url": "https://www.teche.rai.it/sceneggiati-e-fiction-2003-2005/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Don Bosco: two episodes broadcast on Raiuno 22 and 23 September 2004; director Lodovico Gasparini."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "id": "john-bosco-mission-to-love",
+      "year": 2004,
+      "status": "PUBLISH",
+      "directors": [
+        "Lodovico Gasparini"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "languages": [
+        "Italian"
+      ],
+      "format": "Miniseries",
+      "subjects": [
+        "John Bosco",
+        "Dominic Savio",
+        "Salesians"
+      ],
+      "collections": [
+        "saints",
+        "priesthood",
+        "religious-life",
+        "television",
+        "after-1965"
+      ],
+      "historicalPeriod": "Nineteenth-century Piedmont",
+      "decision": "Publish on detailed Salesian scene analysis corroborating catechesis, holiness and obedience, with unusually explicit historical-compression notes. The alterations compress the institution's history but do not reverse the documented religious meaning.",
+      "summary": "A priest builds a home and a path to holiness for the neglected boys of Turin.",
+      "synopsis": "John Bosco’s childhood experience of loss prepares him to recognise the isolation of boys trying to survive in Turin. His priesthood takes shape among children who need education, shelter and someone willing to persevere with them. The Oratory grows amid resistance from civil and ecclesiastical authorities. Founding the Salesians becomes the means of continuing this work beyond one energetic man’s lifetime.",
+      "inclusion": "The film connects practical charity with religious formation. Its catechism scenes and relationship with Dominic Savio give the boys a spiritual destiny as well as a safer present. The detailed Salesian review particularly supports its portrayal of Bosco’s obedience to the Pope during conflict with his archbishop. That provides grounds for inclusion beyond the attraction of a sympathetic priest hero. Editorially, it is best approached as an introduction to a vocation, followed by historical reading.",
+      "themes": [
+        "Priestly charity",
+        "Education and holiness",
+        "Religious obedience",
+        "Care for abandoned children"
+      ],
+      "history": "The setting is nineteenth-century Piedmont and the growth of the Salesian congregation. Political suspicion and hostility to religious institutions belong to that setting. The narrative is a compressed dramatic account, not a reliable chronological guide.",
+      "liberties": "Events from 1844–1882 are telescoped; Margaret and Cafasso appear alive at a conclusion involving later developments. Opponents receive changed names, and the prefect combines aspects of Cavour and Rattazzi. These alterations should not be used to identify historical individuals or date particular disputes.",
+      "advisories": [
+        "Neglected children, imprisonment, illness and bereavement; best introduced with adult guidance.",
+        "Substantial chronological compression and composite antagonists."
+      ],
+      "originalTitle": "Don Bosco"
+    },
+    {
+      "slug": "giuseppe-moscati",
+      "title": "St. Giuseppe Moscati: Doctor to the Poor",
+      "status": "HOLD",
+      "sources": [
+        {
+          "title": "St. Giuseppe Moscati: Doctor to the Poor",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/giuseppe-moscati.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor identity and religious subject; catalogue page checked."
+          ]
+        },
+        {
+          "title": "Book Review: St. Giuseppe Moscati: Doctor to the Poor",
+          "publisher": "The Linacre Quarterly / Peter E. Dans (2013); PubMed Central",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6026993/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Detailed film review of prayer, charitable medical practice, fictional romance and rival; historical claims require separate verification."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Television production",
+      "collections": [
+        "television"
+      ],
+      "id": "giuseppe-moscati",
+      "decision": "Independent Catholic medical-historical review documents prayer and sacraments, but also substantial fictional romance and antagonistic-friend plots. Hold pending assessment of whether these inventions distort Moscati's vocational history. The review contains erroneous beatification/canonization attribution and dates, which are not adopted."
+    },
+    {
+      "slug": "bakhita",
+      "title": "Bakhita: From Slave to Saint",
+      "sources": [
+        {
+          "title": "Bakhita: From Slave to Saint",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/bakhita.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor identity and religious subject; catalogue page checked."
+          ]
+        },
+        {
+          "title": "Bakhita oltre i luoghi comuni dei mass media",
+          "publisher": "Canossiane Bakhita Schio / Maria Carla Frison",
+          "url": "https://canossianebakhitaschio.org/wp-content/uploads/2019/12/R-2013-BAKHITA-OLTRE-I-LUOGHI-COMUNI-m.-Maria-Carla-Frison.pdf",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Indexed institutional discussion expressly contrasts Bakhita's historical obedience with the fiction's absence without permission; full PDF retrieval failed, so the criticism is not extended to a blanket rejection."
+          ]
+        },
+        {
+          "title": "Mystery, miracle, morality and mirthful movies for a children's film library, part 2",
+          "publisher": "Detroit Catholic / Steven D. Greydanus",
+          "url": "https://www.detroitcatholic.com/voices/mystery-miracle-morality-and-mirthful-movies-for-a-childrens-film-library-part-2",
+          "accessed": "2026-10-11",
+          "claims": [
+            "2009 Bakhita miniseries; Catholic charity and slavery narrative, with disturbing violence and other mature content."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Television production",
+      "collections": [
+        "television"
+      ],
+      "id": "bakhita",
+      "status": "HOLD",
+      "decision": "The concern is now substantive historical characterization, not merely lack of a review. Canossian specialist Mother Maria Carla Frison explicitly disputes the fictional Bakhita's absence without permission as inconsistent with the historical sister's obedience. The film's substantial invented narrative needs comparison with Bakhita's own testimony before the library can recommend its religious portrait. Do not infer African production from a Sudanese protagonist."
+    },
+    {
+      "id": "maria-goretti-2003",
+      "slug": "maria-goretti-2003",
+      "title": "Maria Goretti",
+      "status": "HOLD",
+      "decision": "Need full content advisory for sexual assault and murder and historical comparison with the saint’s life. Distributor synopsis alone cannot certify treatment of chastity, forgiveness and culpability.",
+      "sources": [
+        {
+          "title": "Maria Goretti",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/maria-goretti.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor identity and religious subject; catalogue page checked."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Television production",
+      "collections": [
+        "television"
+      ]
+    },
+    {
+      "slug": "restless-heart",
+      "title": "Restless Heart: The Confessions of Augustine",
+      "sources": [
+        {
+          "title": "Restless Heart: The Confessions of Augustine",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/restless-heart.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor identity and religious subject; catalogue page checked."
+          ]
+        },
+        {
+          "title": "Augustine on the Big Screen: RESTLESS HEART",
+          "publisher": "First Things / Carl Scott",
+          "url": "https://firstthings.com/augustine-on-the-big-screen-restless-heart/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "2012 American screening; shortened adaptation; invented imperial attack and justification speech drive conversion; comparison with Augustine's Confessions."
+          ]
+        },
+        {
+          "title": "Restless Heart",
+          "publisher": "Christianity Today",
+          "url": "https://www.christianitytoday.com/2012/09/restless-heart-augustine-movie/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Shortened English feature's invented massacre and simplification of Donatist dispute; distinction from longer television production."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Television production",
+      "collections": [
+        "television"
+      ],
+      "id": "restless-heart",
+      "status": "REJECT",
+      "decision": "Exclude the shortened English-language feature released as Restless Heart. Carl Scott's scene-specific review documents an invented massacre at Ambrose's basilica made the immediate cause of Augustine's conversion, displacing the intellectual assent and struggle of will narrated in the Confessions. Christianity Today's independent review also identifies the invented massacre and radically compressed Donatist controversy. This crosses the rubric's historical-meaning threshold, beyond ordinary invented dialogue. The judgment is edition-specific; the complete Italian miniseries remains unassessed rather than condemned by extension."
+    },
+    {
+      "slug": "joseph-of-nazareth",
+      "title": "Joseph of Nazareth",
+      "sources": [
+        {
+          "title": "Joseph of Nazareth",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/joseph-of-nazareth.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor identity and religious subject; catalogue page checked."
+          ]
+        },
+        {
+          "title": "Joseph of Nazareth: The Man Closest to Christ",
+          "publisher": "National Catholic Register / Steven D. Greydanus",
+          "url": "https://www.ncregister.com/blog/joseph-of-nazareth-the-man-closest-to-christ",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Detailed critic's identification of invented Herod relationship, postponed-divorce interpretation, anger scene and early deaths of relatives; favorable overall judgment is distinguished from this library's threshold."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Television production",
+      "collections": [
+        "television"
+      ],
+      "id": "joseph-of-nazareth",
+      "status": "HOLD",
+      "decision": "Detailed criticism now establishes extensive inventions: Herod knows Joseph personally as a prized craftsman; a speculative plan postpones divorce until after childbirth; named relatives Jude and Simon die before Jesus' ministry. The critic nonetheless finds an attractive paternal portrait. The library has not resolved whether these liberties, together with Joseph's angry reaction and Mary's withholding of information, are compatible with its cautious standard for the Holy Family. This is a substantive representation concern, not a rejection of differing non-dogmatic traditions about Joseph's age."
+    },
+    {
+      "id": "saint-peter",
+      "slug": "saint-peter",
+      "title": "Saint Peter",
+      "status": "HOLD",
+      "decision": "Gospel and Acts adaptation needs scene-level examination of Petrine primacy and dramatic inventions; distributor synopsis insufficient.",
+      "sources": [
+        {
+          "title": "Saint Peter",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/saint-peter.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor identity and religious subject; catalogue page checked."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Television production",
+      "collections": [
+        "television"
+      ]
+    },
+    {
+      "id": "pius-xii-under-roman-sky",
+      "slug": "pius-xii-under-roman-sky",
+      "title": "Pius XII: Under the Roman Sky",
+      "status": "HOLD",
+      "decision": "Require independent historical review of wartime papal actions and fictional protagonists. A favourable distributor account is not historical verification.",
+      "sources": [
+        {
+          "title": "Pius XII: Under the Roman Sky",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/pius-xii-roman-sky.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor identity and religious subject; catalogue page checked."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Television production",
+      "collections": [
+        "television"
+      ]
+    },
+    {
+      "id": "mother-teresa-2003",
+      "slug": "mother-teresa-2003",
+      "title": "Mother Teresa",
+      "status": "HOLD",
+      "decision": "Catholic missionary subject verified by distributor, but portrayal of interreligious practice and post-conciliar ecclesial context remains unassessed under this library’s particular standard.",
+      "sources": [
+        {
+          "title": "Mother Teresa",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/mother-teresa.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distributor identity and religious subject; catalogue page checked."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Television production",
+      "collections": [
+        "television"
+      ]
+    },
+    {
+      "id": "padre-pio-between-heaven-and-earth",
+      "slug": "padre-pio-between-heaven-and-earth",
+      "title": "Padre Pio: Between Heaven and Earth",
+      "year": 2000,
+      "status": "HOLD",
+      "decision": "Identity verified; portrayal of ecclesiastical opposition must be compared with primary historical records before publication. Miraculous subject matter alone is insufficient.",
+      "sources": [
+        {
+          "title": "Padre Pio: tra cielo e terra",
+          "publisher": "RaiPlay",
+          "url": "https://www.raiplay.it/programmi/padrepiotracieloeterra",
+          "accessed": "2026-10-11",
+          "claims": [
+            "2000 Italy; director Giulio Base; testimony frame begins 1918."
+          ]
+        },
+        {
+          "title": "Padre Pio tra cielo e terra",
+          "publisher": "Arma dei Carabinieri",
+          "url": "https://www.carabinieri.it/arma/curiosita/Arte-e-Cultura/in-televisione/filmografia/padre-pio-tra-cielo-e-terra",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Credits; opposition of Holy Office and scientific institutions as portrayed."
+          ]
+        },
+        {
+          "title": "Padre Pio: Between Heaven and Earth",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/padre-pio-heaven-earth.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Distinct title and distribution."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "originalTitle": "Padre Pio: tra cielo e terra",
+      "format": "Miniseries",
+      "directors": [
+        "Giulio Base"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "collections": [
+        "saints",
+        "priesthood",
+        "television",
+        "after-1965"
+      ]
+    },
+    {
+      "id": "gods-mighty-servant",
+      "slug": "gods-mighty-servant",
+      "title": "God’s Mighty Servant: Sister Pascalina Lehnert",
+      "status": "HOLD",
+      "decision": "Inventory gives 2011; producer gives 2009. Resolve production/broadcast dating and examine papal-history liberties. No release year asserted until this discrepancy is settled.",
+      "sources": [
+        {
+          "title": "God’s mighty Servant",
+          "publisher": "Ziegler Film",
+          "url": "https://www.ziegler-film.com/en/productions/tv/gottes-maechtige-dienerin",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Producer lists production year 2009; Pascalina and Pacelli subject."
+          ]
+        },
+        {
+          "title": "God’s Mighty Servant",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/gods-mighty-servant.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "German-language release and dramatized papal household account."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Television production",
+      "languages": [
+        "German"
+      ],
+      "collections": [
+        "television",
+        "religious-life"
+      ]
+    },
+    {
+      "slug": "blessed-duns-scotus",
+      "title": "Blessed Duns Scotus",
+      "sources": [
+        {
+          "title": "Blessed Duns Scotus",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/blessed-duns-scotus.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Film presents defence of Immaculate Conception and papal loyalty; 2011 festival awards, not release date."
+          ]
+        },
+        {
+          "title": "Movie Review: Blessed Duns Scotus",
+          "publisher": "Zombie Parent's Guide / Joseph R.",
+          "url": "https://zombieparentsguide.blogspot.com/2013/03/movie-review-blessed-duns-scotus.html",
+          "claims": [
+            "2011 Fernando Muraca identity; Eucharistic contemplation, humility, final theological dispute and novice-romance subplot."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "Duns Scoto — Fernando Muraca (2010)",
+          "publisher": "Il Palazzo di Sichelgaita / Mercuriade",
+          "url": "https://ilpalazzodisichelgaita.wordpress.com/2011/12/27/duns-scoto-fernando-muraca-2010/",
+          "claims": [
+            "Independent Italian review of prayer-study relationship and Marian dispute; dramatic romantic and devotional tableaux; heading gives production date 2010."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "Blessed Duns Scotus",
+          "publisher": "Immaculata Library",
+          "url": "https://www.immaculatalibrary.com/movies/blessed-duns-scotus.html",
+          "claims": [
+            "Scene-level caveat: scourging at 16:04; theological dialogue; vocation subplot."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "Beato Giovanni Duns Scotus (2011)",
+          "publisher": "FilmTV.it",
+          "url": "https://www.filmtv.it/film/56346/beato-giovanni-duns-scotus/",
+          "claims": [
+            "2011 Italian film, Fernando Muraca."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "Ineffabilis Deus (1854)",
+          "publisher": "Pius IX; English text at Papal Encyclicals Online",
+          "url": "https://www.papalencyclicals.net/pius09/p9ineff.htm",
+          "claims": [
+            "Pre-conciliar doctrinal reference: preservation from original sin through Christ's merits; not film endorsement."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "Bl. John Duns Scotus",
+          "publisher": "Catholic Encyclopedia / New Advent",
+          "url": "https://www.newadvent.org/cathen/05194a.htm",
+          "claims": [
+            "Historical reference expressly cautions that personal-life sources are limited; not film review."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "2011 Awards Ceremony",
+          "publisher": "Mirabile Dictu International Catholic Film Festival",
+          "url": "https://www.mirabiledictu-icff.com/?page_id=209",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Primary festival lists Duns Scoto, Fernando Muraca, Italy 2010, and records its May 2011 awards; festival year is distinct from film year."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "id": "blessed-duns-scotus",
+      "year": 2010,
+      "status": "PUBLISH",
+      "originalTitle": "Duns Scoto",
+      "directors": [
+        "Fernando Muraca"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "languages": [
+        "Italian"
+      ],
+      "format": "Feature",
+      "subjects": [
+        "John Duns Scotus",
+        "Immaculate Conception"
+      ],
+      "collections": [
+        "mary",
+        "saints",
+        "religious-life",
+        "after-1965"
+      ],
+      "historicalPeriod": "Late thirteenth and early fourteenth centuries",
+      "decision": "Publish on corroborated scene-level accounts of Marian doctrine, Eucharistic prayer and papal loyalty. Historical and romantic reconstruction is identified explicitly; no claim that the film is an authoritative statement of every Scotist thesis.",
+      "summary": "A Franciscan theologian joins prayer and argument in defence of the Immaculate Conception.",
+      "synopsis": "John Duns Scotus faces pressure to support the French king against the Pope. His refusal leads into a story centred on religious formation and theological teaching. Conversations with younger friars connect difficult ideas with the decisions of daily life. The culmination is a public disputation on Mary’s preservation from original sin, giving a drama of words the stakes ordinarily supplied by physical conflict.",
+      "inclusion": "The film makes Catholic doctrine central to its action. Detailed reviews describe study grounded in Eucharistic contemplation, humility in teaching and devotion to Our Lady. The premise is particularly valuable for a library in which theological argument should not be dismissed as an obstacle to cinematic interest. A viewer can follow why a question about grace matters to the characters while recognising that dramatised dialogue is not itself a magisterial source.",
+      "themes": [
+        "Immaculate Conception",
+        "Faith and reason",
+        "Eucharistic contemplation",
+        "Loyalty to the papacy"
+      ],
+      "history": "Scotus belongs to medieval Franciscan theology. The Immaculate Conception means Mary’s preservation from original sin from the first instant of her conception through the merits of Christ. Pius IX solemnly defined that doctrine in Ineffabilis Deus in 1854. That later definition provides a sound doctrinal reference for approaching the film’s earlier controversy. Catalogue dating follows the primary festival identification as an Italian film of 2010. Its Mirabile Dictu awards were conferred in May 2011; those awards do not establish a 2011 original release. The exact first public release date remains unverified.",
+      "liberties": "The film compresses teaching into conversations and a climactic debate. A novice’s romantic attraction is a dramatic subplot, not a verified biographical event. The details of medieval academic encounters should be distinguished from the well-established theological positions. The older Catholic Encyclopedia itself cautions that much of Scotus’s personal life is poorly documented.",
+      "advisories": [
+        "Brief imagery of Christ’s scourging.",
+        "Dense philosophical dialogue; most useful for older teenagers and adults.",
+        "A minor romantic subplot concerns discernment of vocation."
+      ]
+    },
+    {
+      "id": "into-great-silence",
+      "slug": "into-great-silence",
+      "title": "Into Great Silence",
+      "year": 2005,
+      "status": "PUBLISH",
+      "decision": "Sufficient filmographic and detailed content evidence for an observational documentary recommendation. The review documents specifically Christian prayer and Trinitarian teaching rather than merely generic spirituality. This decision is about the film; it does not certify every contemporary practice of the community.",
+      "sources": [
+        {
+          "title": "Into Great Silence (2005)",
+          "publisher": "British Film Institute",
+          "url": "https://www.bfi.org.uk/film/13b6b257-dc4d-52d8-8c00-db4c07c5f4e7/into-great-silence",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Year; Philip Gröning; Germany and Switzerland."
+          ]
+        },
+        {
+          "title": "Into Great Silence",
+          "publisher": "Ventura Film",
+          "url": "https://venturafilm.ch/en/movies/into-great-silence/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Producer identifies 2005 documentary; 164-minute version; production context."
+          ]
+        },
+        {
+          "title": "Into Great Silence (2005)",
+          "publisher": "Decent Films / Steven D. Greydanus",
+          "url": "https://decentfilms.com/reviews/intogreatsilence",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Detailed description of Trinitarian chant, Scriptural intertitles, novices, liturgy and providence; critic reports no problematic content."
+          ]
+        },
+        {
+          "title": "Voyage into Silence: Interview with Philip Gröning",
+          "publisher": "Decent Films",
+          "url": "https://decentfilms.com/articles/groning",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Filmmaker interview; observational method and Carthusian enclosure."
+          ]
+        },
+        {
+          "title": "Into great Silence",
+          "publisher": "European Film Academy",
+          "url": "https://www.europeanfilmawards.eu/efa-movie/into-great-silence/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Documentary identity; Grande Chartreuse setting."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "originalTitle": "Die große Stille",
+      "alternateTitles": [
+        "Le Grand Silence"
+      ],
+      "format": "Documentary",
+      "directors": [
+        "Philip Gröning"
+      ],
+      "countries": [
+        "Germany",
+        "Switzerland"
+      ],
+      "subjects": [
+        "Carthusians",
+        "Grande Chartreuse",
+        "Contemplative prayer",
+        "Religious vocation"
+      ],
+      "collections": [
+        "religious-life",
+        "documentaries",
+        "after-1965"
+      ],
+      "historicalPeriod": "Contemporary",
+      "summary": "An unusually patient encounter with Carthusian prayer, silence and ordinary work at the Grande Chartreuse.",
+      "synopsis": "Philip Gröning enters the Grande Chartreuse in the French Alps with a camera and an exceptional allowance to observe an enclosed community. Instead of explaining each custom, the film asks the viewer to inhabit its recurring hours. Liturgical prayer, solitary labour and the care of a common home gradually become the substance of the experience.\n\nSeasonal change gives the documentary a quiet movement. The reception of novices and moments of recreation interrupt any impression of an institution without human faces. This is a portrait assembled from observed life, with very little explanatory speech. It rewards the willingness to notice gestures and repetitions rather than wait for a conventional plot.",
+      "inclusion": "The evidence for inclusion is unusually concrete: detailed criticism identifies a patristic chant concerning the Holy Spirit, biblical intertitles and an elderly monk’s reflections on providence. Catholic content is audible and visible, rather than supplied only by a viewer’s interpretation. The library recommends the film as an encounter with a form of religious life, not as an instruction manual for the liturgy or a comprehensive account of the Carthusian Order.\n\nIts formal restraint also has an artistic purpose. Attention is trained on the relationship between time and commitment. The choice to stay with repetitive activity lets a viewer consider how fidelity is lived when there is little novelty to attract an audience.",
+      "themes": [
+        "Contemplative vocation",
+        "Prayer and work",
+        "Providence",
+        "Silence",
+        "Perseverance"
+      ],
+      "history": "The Grande Chartreuse is the mother house of the Carthusian Order. The filmmaker’s interview explains the community’s enclosure and the unusually long process of receiving permission to film. The documentary records a modern community; its age-old setting should not be mistaken for footage of medieval or pre-1965 monastic practice.",
+      "liberties": "There is no fictional plot presented as biography. Selection and editing still shape a documentary: the absence of explanatory captions leaves much of the order’s history and daily regulations outside the frame. Film and distribution sources list differing runtimes, so this profile does not impose a universal edition length.",
+      "advisories": "Very slow pacing, prolonged silence and little exposition. The cited detailed review reports no objectionable content. Younger viewers may need an introduction to enclosure and contemplative prayer."
+    },
+    {
+      "slug": "no-greater-love",
+      "title": "No Greater Love",
+      "sources": [
+        {
+          "title": "No Greater Love (2009)",
+          "publisher": "Decent Films / Steven D. Greydanus",
+          "url": "https://decentfilms.com/reviews/nogreaterlove",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Michael Whyte; Carmelite documentary; contemporary liturgical settings, interviews about doubt, deceased nun shown."
+          ]
+        },
+        {
+          "title": "Notting Hill's Nuns",
+          "publisher": "National Catholic Register / Steven D. Greydanus interviews Michael Whyte",
+          "url": "https://www.ncregister.com/news/notting-hill-s-nuns",
+          "claims": [
+            "Primary filmmaker account: Holy Week/Resurrection structure, profession/funeral, filming methods and changed enclosure customs."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "No Greater Love",
+          "publisher": "Thinking Faith / Jesuits in Britain",
+          "url": "https://thinkingfaith.org/articles/film_20100423_2.htm",
+          "claims": [
+            "Scene-level review describes Divine Office, annual structure and nun's eighteen-year experience of doubt."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "No Greater Love / SIGNIS Statement",
+          "publisher": "Missionaries of the Sacred Heart / Peter Malone",
+          "url": "https://www.misacor.org.au/itemlist/user/171-petermalone?limit=10&start=21200",
+          "claims": [
+            "Religious-life content assessment; notes limited explicit explanation of Carmelite spiritual tradition."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "No Greater Love (2009)",
+          "publisher": "British Film Institute",
+          "url": "https://www.bfi.org.uk/film/e41eaa2e-35d1-5b27-bdde-8d52786738e9/no-greater-love",
+          "accessed": "2026-10-11",
+          "claims": [
+            "2009 United Kingdom; director Michael Whyte; 105-minute catalogue record."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "id": "no-greater-love",
+      "status": "PUBLISH",
+      "year": 2009,
+      "format": "Documentary",
+      "directors": [
+        "Michael Whyte"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "languages": [
+        "English"
+      ],
+      "subjects": [
+        "Carmelites",
+        "Contemplative vocation"
+      ],
+      "collections": [
+        "religious-life",
+        "documentaries",
+        "after-1965"
+      ],
+      "historicalPeriod": "Contemporary London",
+      "decision": "Publish as an observational documentary of contemporary Catholic religious life. Detailed interview and criticism establish Holy Week, Resurrection, profession and prayer as its structure. Personal struggle with doubt is reported candidly and is not presented by the evidence as a doctrinal denial. No claim of pre-conciliar liturgical uniformity.",
+      "summary": "A year with cloistered Carmelites in London, where work and silence surround the continuing act of prayer.",
+      "synopsis": "Michael Whyte follows the sisters of the Monastery of the Most Holy Trinity in Notting Hill through an annual cycle and the rhythm of a working day. Ordinary tasks share the screen with the Divine Office. A profession and a death mark the community’s changing membership. Interviews allow the sisters to speak about the interior demands of a life whose outward movements can appear uneventful.",
+      "inclusion": "The film places a sister's death against the community's celebration of Christ's Resurrection. That structure, corroborated by the director and detailed criticism, is the basis for this contextual recommendation. A difficult interview needs explicit notice: the prioress wryly entertains the possibility that atheists are right and nothing follows death. This is stronger than merely describing emotional dryness. The editorial judgment is that the documentary presents a personal admission within sustained Christian profession, rather than proposing unbelief as its conclusion. It is consequently an adult observational recommendation, not a source of doctrinal instruction or an uncomplicated model for catechesis.",
+      "themes": [
+        "Contemplative prayer",
+        "Religious profession",
+        "Perseverance",
+        "Death and resurrection"
+      ],
+      "history": "This is a record of a modern Carmelite community. The director describes changes in enclosure customs since earlier decades. It therefore documents contemporary practice, not a reconstruction of how every Carmelite convent lived before the Second Vatican Council.",
+      "liberties": "A year of material is edited into a day-and-year structure. The sisters’ interviews are personal testimony, and selection inevitably shapes the portrait. Catholic criticism notes that a fuller explanation of the Carmelite saints and the tradition of contemplative prayer would have strengthened its context.",
+      "advisories": [
+        "The prioress speculates, with humor, that atheists could be right and there might be nothing after death; other interviews describe prolonged spiritual dryness.",
+        "A sister's death and funeral; patient pacing and contemporary religious practices.",
+        "For reflective adults able to distinguish personal testimony from Catholic teaching."
+      ]
+    },
+    {
+      "slug": "two-crowns",
+      "title": "Two Crowns",
+      "sources": [
+        {
+          "title": "Dwie korony",
+          "publisher": "Stowarzyszenie Filmowców Polskich",
+          "url": "https://www.sfp.org.pl/magazyn_filmowy%2C89.MF_10_2017%20www.pdf",
+          "accessed": "2026-10-11",
+          "claims": [
+            "2017 Polish dramatized documentary; Michał Kondrat; 92 minutes."
+          ]
+        },
+        {
+          "title": "Dwie Korony – filmowy hołd dla świętego Maksymiliana",
+          "publisher": "PCh24",
+          "url": "https://pch24.pl/wiadomosci/dwie-korony-filmowy-hold-dla-swietego-maksymiliana%2C407421",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Docudrama combines reconstructions and testimony of those who knew Kolbe."
+          ]
+        },
+        {
+          "title": "Dwie korony ojca Kolbego",
+          "publisher": "Przewodnik Katolicki / Teresa Majchrzak",
+          "url": "https://www.przewodnik-katolicki.pl/Archiwum/2017/Przewodnik-Katolicki-40-2017/Kultura/Dwie-korony-ojca-Kolbego",
+          "claims": [
+            "2017 director and film scenes: Marian devotion, papal defence, generosity, patience, will of God; notes idealisation."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "Tematyka górnolotna: Dwie korony",
+          "publisher": "Filmweb / Jakub Popielecki",
+          "url": "https://www.filmweb.pl/reviews/recenzja-filmu-Dwie%2Bkorony-20641",
+          "claims": [
+            "Independent negative artistic assessment; confirms interviews, miracle scenes and religious apologetic purpose."
+          ],
+          "accessed": "2026-10-11"
+        },
+        {
+          "title": "Dwie korony. Przyczynek do fabularnej biografii",
+          "publisher": "wPolityce.pl",
+          "url": "https://wpolityce.pl/kultura/362124-dwie-korony-przyczynek-do-fabularnej-biografii-kolbe-zasluguje-na-wielki-film-recenzja",
+          "claims": [
+            "Documents interview addressing accusations concerning prewar publications; interpreted as film content, not independently settled historical claim."
+          ],
+          "accessed": "2026-10-11"
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "id": "two-crowns",
+      "year": 2017,
+      "originalTitle": "Dwie korony",
+      "format": "Docudrama",
+      "directors": [
+        "Michał Kondrat"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "languages": [
+        "Polish"
+      ],
+      "subjects": [
+        "Maximilian Kolbe"
+      ],
+      "collections": [
+        "saints",
+        "martyrs",
+        "mary",
+        "missionaries",
+        "documentaries",
+        "after-1965"
+      ],
+      "historicalPeriod": "Late nineteenth and twentieth centuries",
+      "status": "PUBLISH",
+      "decision": "Publish after Polish Catholic and secular scene-level criticism establishes the specifically Catholic account of Marian devotion, religious discipline and self-sacrifice. Mixed artistic reception is acknowledged; film commentary is not adopted as independent historical proof.",
+      "summary": "Interviews and reconstructions trace Maximilian Kolbe’s Marian vocation from childhood to martyrdom.",
+      "synopsis": "The title refers to the childhood vision associated with Kolbe’s choice of purity and martyrdom. Documentary visits to places connected with his life alternate with interviews and enacted episodes. The journey follows religious formation, publishing work, Niepokalanów and the Japanese mission before arriving at imprisonment in Auschwitz. Adam Woronowicz plays Kolbe in the dramatic passages.",
+      "inclusion": "Polish reviews supply concrete evidence of a religious portrait: trust in God, devotion to Mary, defence of the Church and the ordering of personal freedom toward God’s will. Acts of patience and generosity connect the public projects to daily conduct. The catalogue’s judgment rests on those represented themes, rather than on the assumption that a famous martyr makes every biographical production suitable.",
+      "themes": [
+        "Marian consecration",
+        "Missionary work",
+        "Religious perseverance",
+        "Self-sacrifice"
+      ],
+      "history": "The film surveys Kolbe’s life through modern visits and staged reconstruction. Viewers should distinguish interviews about the past from surviving documentary images. It also discusses contested accusations about his prewar publications; the interviewees’ interpretations require historical evaluation and should not be treated as a substitute for reading the original material in context.",
+      "liberties": "Recreated scenes supply dialogue and gestures that are not contemporary recordings. Critical reception was divided over the repetitive interview-and-reconstruction form and the idealised portrait. Filmweb’s negative review disputes its artistic success while confirming the prominence of miracles and religious formation.",
+      "advisories": [
+        "Concentration-camp imprisonment and martyrdom; suitable for viewers prepared for the subject.",
+        "A deliberately devotional treatment, with a slower explanatory structure rather than sustained dramatic action."
+      ]
+    },
+    {
+      "id": "faith-of-our-fathers",
+      "slug": "faith-of-our-fathers",
+      "title": "Faith of Our Fathers: In Search of the English Martyrs",
+      "status": "HOLD",
+      "decision": "Exact film exists, but original release year and a detailed assessment of its historical/theological commentary remain to be verified. Contemporary interviewees are documented, not taken as doctrinal certification.",
+      "sources": [
+        {
+          "title": "Faith of Our Fathers: In Search of the English Martyrs",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/faith-of-our-fathers.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "English documentary; presenters Marcus Holden and Nicholas Schofield; recusancy, priest holes, Thomas More, Campion, Clitherow."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Documentary",
+      "languages": [
+        "English"
+      ],
+      "collections": [
+        "english-martyrs",
+        "martyrs",
+        "documentaries"
+      ]
+    },
+    {
+      "slug": "finding-fatima",
+      "title": "Finding Fátima",
+      "sources": [
+        {
+          "title": "Finding Fatima",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/finding-fatima.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Ian and Dominic Higgins; documentary with reconstructions from The 13th Day; prayer, penance, conversion."
+          ]
+        },
+        {
+          "title": "Film Review: Finding Fatima",
+          "publisher": "Diocese of Westminster / Dr Andrew Nicoll",
+          "url": "https://rcdow.org.uk/news/film-review-finding-fatima/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Review discusses Eucharistic angel, devotional themes and historical interpretation including Third Secret imagery."
+          ]
+        },
+        {
+          "title": "Introduction to Finding Fatima: Study Guide",
+          "publisher": "Ignatius Press / Fatima for Today",
+          "url": "https://www.fatimafortoday.com/wp-content/uploads/2011/10/FindingFatima_StudyGuide.pdf",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Search-indexed guide describes hell, devotion to the Immaculate Heart, Rosary, repentance, Russia and children's imprisonment; later interpretation cannot be treated as a verified transcript of the film."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Docudrama",
+      "directors": [
+        "Ian Higgins",
+        "Dominic Higgins"
+      ],
+      "collections": [
+        "mary",
+        "documentaries"
+      ],
+      "id": "finding-fatima",
+      "status": "HOLD",
+      "decision": "Further research verifies explicitly Catholic prayer, penance, hell, the Immaculate Heart and the children's courage; this is not simply a generic spiritual documentary. The outstanding issue is narrower: the film's historical application of the Third Secret needs an edition-specific narration or transcript check. The distributor study guide supplies more detail but cannot conclusively establish the film's distinctions between apparition testimony and later interpretations. No incompatible doctrine has been demonstrated; this remains an evidence limitation."
+    },
+    {
+      "id": "miracle-father-kapaun",
+      "slug": "miracle-father-kapaun",
+      "title": "The Miracle of Father Kapaun",
+      "status": "HOLD",
+      "decision": "Documentary identity verified; original release year and underlying medical evidence not verified. Title does not establish an ecclesiastically authenticated miracle; historical and miracle testimony need separate assessment.",
+      "sources": [
+        {
+          "title": "The Miracle of Father Kapaun",
+          "publisher": "Ignatius Press",
+          "url": "https://loc.ignatius.com/movienights/miracle-fr-kapaun.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Documentary includes fellow prisoners, military historians and claimed healing; Korean War priest subject."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Documentary",
+      "collections": [
+        "priesthood",
+        "documentaries"
+      ]
+    },
+    {
+      "slug": "blood-and-rose",
+      "title": "The Blood & the Rose",
+      "status": "HOLD",
+      "sources": [
+        {
+          "title": "Premiere of The Blood & The Rose",
+          "publisher": "Renegade Productions / Catholic Online PRWire",
+          "url": "https://www.catholic.org/prwire/headline.php?ID=11314",
+          "accessed": "2026-10-11",
+          "claims": [
+            "December 2012 press announcement of benefit premiere; Guadalupe documentary."
+          ]
+        },
+        {
+          "title": "The Blood & the Rose (2013)",
+          "publisher": "IMDb",
+          "url": "https://www.imdb.com/title/tt1792624/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "2013 listing; Tim Watkins; documentary."
+          ]
+        },
+        {
+          "title": "Review of The Blood and the Rose",
+          "publisher": "Aleteia / Alberto González (5 February 2013)",
+          "url": "https://aleteia.org/2013/02/05/review-of-the-blood-and-the-rose-a-new-documentary-on-our-lady-of-guadalupe/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Detailed review of evangelization, Marian intercession and historical argument."
+          ]
+        },
+        {
+          "title": "Baltimore filmmaker explores Virgin of Guadalupe's impact in 1500s, today",
+          "publisher": "Archdiocese of Baltimore / Catholic Review",
+          "url": "https://www.archbalt.org/baltimore-filmmaker-explores-virgin-of-guadalupes-impact-in-1500s-today/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "January 24 Washington premiere reported in 2013; Spain/Mexico filming; connection to twentieth-century apparitions."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Documentary",
+      "directors": [
+        "Tim Watkins"
+      ],
+      "collections": [
+        "mary",
+        "documentaries"
+      ],
+      "id": "blood-and-rose",
+      "decision": "Additional independent reviews establish conversion-focused Marian content and a January 2013 Washington premiere, correcting an earlier apparently conflicting premiere lead. HOLD while checking historical claims connecting Guadalupe, Spain and later apparitions, and exact original-release chronology."
+    },
+    {
+      "id": "guadalupe-mother-humanity",
+      "slug": "guadalupe-mother-humanity",
+      "title": "Guadalupe: Mother of Humanity",
+      "year": 2024,
+      "status": "HOLD",
+      "decision": "Production identity strong. Need independent historical evaluation of reconstructed apparitions and scientific/miracle claims in interviews before recommending.",
+      "sources": [
+        {
+          "title": "Madrid Feature Films 2024",
+          "publisher": "Film Madrid Region",
+          "url": "https://www.madrid.org/filmmadrid/descargas/CAM_LARGOMETRAJES_2024.pdf",
+          "accessed": "2026-10-11",
+          "claims": [
+            "2024 documentary; Spanish; Andrés Garrigó and Pablo Moreno; 102 minutes; under-12 advisory."
+          ]
+        },
+        {
+          "title": "Official trailer description",
+          "publisher": "Goya Producciones",
+          "url": "https://www.youtube.com/watch?v=SkEFhLegHXw",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Nican Mopohua reenactments and contemporary testimonies."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "originalTitle": "Guadalupe: Madre de la Humanidad",
+      "format": "Docudrama",
+      "directors": [
+        "Andrés Garrigó",
+        "Pablo Moreno"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "collections": [
+        "mary",
+        "documentaries",
+        "after-1965"
+      ]
+    },
+    {
+      "id": "day-the-sun-danced",
+      "slug": "day-the-sun-danced",
+      "title": "The Day the Sun Danced: The True Story of Fátima",
+      "status": "HOLD",
+      "decision": "Correct classification is animated narrative, not documentary. Inventory’s 1988 date is not established by the retrieved library edition record (©1991). Need first-release and doctrinal-content review.",
+      "sources": [
+        {
+          "title": "The Day the sun danced: the true story of Fatima",
+          "publisher": "WorldCat",
+          "url": "https://search.worldcat.org/title/The-Day-the-sun-danced-%3A-the-true-story-of-Fatima/oclc/29191969",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Animated narrative; CCC of America; English VHS copyright 1991."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Animation",
+      "collections": [
+        "mary",
+        "families"
+      ]
+    },
+    {
+      "id": "saint-pio-hope-healing",
+      "slug": "saint-pio-hope-healing",
+      "title": "Saint Pio of Pietrelcina: Man of Hope and Healing",
+      "year": 2024,
+      "status": "HOLD",
+      "decision": "Identify this recent docudrama separately from the two 2000 television dramas. Primary release announcement establishes existence, not reliability of every supernatural claim or theological treatment.",
+      "sources": [
+        {
+          "title": "New docudrama to feature St. Pio of Pietrelcina",
+          "publisher": "Vatican News",
+          "url": "https://www.vaticannews.va/en/world/news/2024-09/padre-pio-pietrelcina-docudrama-ewtn-foundation.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "2024 release announcement; Saint Pio Foundation and EWTN; docudrama."
+          ]
+        },
+        {
+          "title": "Saint Pio of Pietrelcina - Man of Hope and Healing",
+          "publisher": "IMDb",
+          "url": "https://www.imdb.com/title/tt36519863/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Daniela Gurrieri director; 2024 Italy; English."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "format": "Docudrama",
+      "directors": [
+        "Daniela Gurrieri"
+      ],
+      "collections": [
+        "saints",
+        "documentaries",
+        "after-1965"
+      ]
+    },
+    {
+      "id": "silence",
+      "slug": "silence",
+      "title": "Silence",
+      "year": 2016,
+      "status": "HOLD",
+      "decision": "Missionary persecution is central, but apostasy and the interpretation of Christ’s voice in the climax require specialist doctrinal review. No general recommendation under this rubric on present evidence.",
+      "sources": [
+        {
+          "title": "Silence",
+          "publisher": "RogerEbert.com / Matt Zoller Seitz",
+          "url": "https://www.rogerebert.com/reviews/silence-2016",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Identity and content discussion used only for the stated research decision."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "format": "Feature",
+      "collections": [
+        "missionaries",
+        "martyrs",
+        "after-1965"
+      ]
+    },
+    {
+      "id": "two-popes",
+      "slug": "two-popes",
+      "title": "The Two Popes",
+      "year": 2019,
+      "status": "REJECT",
+      "decision": "REJECT for this catalogue: detailed criticism identifies invented conflict built on a false resignation chronology, caricatured opposition between tradition and progress, and an ending promoting contemporary ecclesial reform. This is a scope and historical-integrity decision, not a claim of an ecclesiastical condemnation.",
+      "sources": [
+        {
+          "title": "The Two Popes",
+          "publisher": "Decent Films / Steven D. Greydanus",
+          "url": "https://decentfilms.com/reviews/twopopes",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Identity and content discussion used only for the stated research decision."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Fernando Meirelles"
+      ],
+      "format": "Feature"
+    },
+    {
+      "id": "conclave",
+      "slug": "conclave",
+      "title": "Conclave",
+      "year": 2024,
+      "status": "REJECT",
+      "decision": "REJECT for this catalogue: the cited review explicitly reads the film’s resolution as a demand for radical changes to Catholic teaching and institutional roles. Its contemporary ideological ecclesial drama is incompatible with the requested recommended-library scope. Artistic merit is a separate question.",
+      "sources": [
+        {
+          "title": "Conclave",
+          "publisher": "TIME / Stephanie Zacharek",
+          "url": "https://time.com/7098657/conclave-review/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Identity and content discussion used only for the stated research decision."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Edward Berger"
+      ],
+      "format": "Feature"
+    },
+    {
+      "id": "brother-sun-sister-moon",
+      "slug": "brother-sun-sister-moon",
+      "title": "Brother Sun, Sister Moon",
+      "year": 1972,
+      "status": "HOLD",
+      "decision": "Different Italian and international cuts have different dialogue, narrative ordering and music. Version-specific review is necessary before assessing Franciscan spirituality and ecclesial portrayal; generic acclaim cannot resolve this.",
+      "sources": [
+        {
+          "title": "Brother Sun, Sister Moon",
+          "publisher": "ACEC Toscana",
+          "url": "https://www.acectoscana.it/schedario/fratello-sole-sorella-luna-brother-sun-2/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Identity and content discussion used only for the stated research decision."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "originalTitle": "Fratello sole, sorella luna",
+      "directors": [
+        "Franco Zeffirelli"
+      ],
+      "format": "Feature"
+    },
+    {
+      "id": "cabrini",
+      "slug": "cabrini",
+      "title": "Cabrini",
+      "year": 2024,
+      "status": "HOLD",
+      "decision": "Detailed Catholic analysis records conflicting interpretations of how visibly religious the saint’s motivation remains, and filmmaker intention to reduce religious content. Retain HOLD until a complete treatment of prayer, grace and historical liberties is assessed.",
+      "sources": [
+        {
+          "title": "Cabrini",
+          "publisher": "Steven D. Greydanus",
+          "url": "https://greydanus.substack.com/p/the-face-of-god-in-cabrini",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Identity and content discussion used only for the stated research decision."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Alejandro Monteverde"
+      ],
+      "format": "Feature"
+    },
+    {
+      "id": "fatima-2020",
+      "slug": "fatima-2020",
+      "title": "Fátima",
+      "year": 2020,
+      "status": "HOLD",
+      "decision": "Favourable review confirms modern interview framing alongside the 1917 narrative. Apparition wording and dramatic changes remain disputed and require comparison with primary accounts. HOLD without treating every criticism as established fact.",
+      "sources": [
+        {
+          "title": "FATIMA: a Review",
+          "publisher": "The Catholic Thing",
+          "url": "https://www.thecatholicthing.org/2020/08/31/fatima-a-review/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Positive critical assessment; modern interview frame."
+          ]
+        },
+        {
+          "title": "Exposé of the Apparitions Depicted in the Movie Fatima",
+          "publisher": "The Fatima Center",
+          "url": "https://fatima.org/news-views/expose-of-the-apparitions-depicted-in-the-movie-fatima/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Traditional Catholic critical review located; claims require primary comparison."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Marco Pontecorvo"
+      ],
+      "format": "Feature"
+    },
+    {
+      "id": "therese-1986",
+      "slug": "therese-1986",
+      "title": "Thérèse",
+      "year": 1986,
+      "status": "HOLD",
+      "decision": "Filmographic identity verified. The director’s 1986 Le Monde interview describes a personal relationship to Thérèse rather than a religious argument. That does not prove incompatibility, but mystical and religious meaning needs detailed review.",
+      "sources": [
+        {
+          "title": "THÉRÈSE (1986)",
+          "publisher": "BFI",
+          "url": "https://www.bfi.org.uk/film/b5b11264-c6bd-56fa-9f50-7aa05d1ee0cf/therese",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Year, director, country."
+          ]
+        },
+        {
+          "title": "Entretien avec Alain Cavalier, réalisateur de Thérèse",
+          "publisher": "Le Monde",
+          "url": "https://www.lemonde.fr/archives/article/1986/09/24/entretien-avec-alain-cavalier-realisateur-de-therese-toute-petite-chose-est-magnifique_3116985_1819218.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Director describes personal artistic approach to the saint."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Alain Cavalier"
+      ],
+      "countries": [
+        "France"
+      ],
+      "format": "Feature"
+    },
+    {
+      "id": "mission-1986",
+      "slug": "mission-1986",
+      "title": "The Mission",
+      "year": 1986,
+      "status": "HOLD",
+      "decision": "Substantive review values penance and martyrdom but identifies contested holy obedience, armed resistance and fictionalized ecclesiastical betrayal. Requires independent history and moral-theology review; do not infer doctrinal approval from Vatican film-list inclusion.",
+      "sources": [
+        {
+          "title": "The Mission",
+          "publisher": "Decent Films / Steven D. Greydanus",
+          "url": "https://decentfilms.com/reviews/mission",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Identity and content discussion used only for the stated research decision."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Roland Joffé"
+      ],
+      "format": "Feature",
+      "advisories": "Bloody violence, battle, ethnographic nudity; difficult questions of priestly obedience."
+    },
+    {
+      "id": "exorcist",
+      "slug": "exorcist",
+      "title": "The Exorcist",
+      "year": 1973,
+      "status": "HOLD",
+      "decision": "Scholarship documents conflicting Catholic reception and institutional review history. Its ritual portrayal, deliberate obscenity and intense horror demand an edition-specific review. Neither Catholic advisers nor scandalized reception alone settles suitability.",
+      "sources": [
+        {
+          "title": "The Exorcist",
+          "publisher": "History of the Human Sciences / PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8575976/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Identity and content discussion used only for the stated research decision."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "William Friedkin"
+      ],
+      "format": "Feature"
+    },
+    {
+      "id": "day-of-the-siege",
+      "slug": "day-of-the-siege",
+      "title": "The Day of the Siege: September Eleven 1683",
+      "year": 2012,
+      "status": "HOLD",
+      "decision": "Identity and Battle of Vienna subject verified. Independent assessment of Marco d’Aviano, Ottoman representation and historical liberties not secured; HOLD rather than assuming Catholic military subject proves suitability.",
+      "sources": [
+        {
+          "title": "The Day of the Siege: September Eleven 1683",
+          "publisher": "Cineuropa",
+          "url": "https://cineuropa.org/en/film/227405/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Identity and content discussion used only for the stated research decision."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "originalTitle": "11 settembre 1683",
+      "alternateTitles": [
+        "Bitwa pod Wiedniem",
+        "Day of the Siege"
+      ],
+      "directors": [
+        "Renzo Martinelli"
+      ],
+      "format": "Feature"
+    },
+    {
+      "id": "calvary",
+      "slug": "calvary",
+      "title": "Calvary",
+      "year": 2014,
+      "status": "HOLD",
+      "decision": "Detailed review finds a compelling priestly witness but also moral ambiguity and disturbing adult material. Need review of pastoral dialogue and sacramental portrayal, including questions raised in the critic’s follow-up. Cautious recommendation without substantial reservation not established.",
+      "sources": [
+        {
+          "title": "Calvary",
+          "publisher": "Decent Films / Steven D. Greydanus",
+          "url": "https://decentfilms.com/reviews/calvary",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Identity and content discussion used only for the stated research decision."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "John Michael McDonagh"
+      ],
+      "format": "Feature",
+      "advisories": "Graphic sexual speech, strong profanity, disturbing violence and drug use."
+    },
+    {
+      "id": "tree-of-life",
+      "slug": "tree-of-life",
+      "title": "The Tree of Life",
+      "year": 2011,
+      "status": "HOLD",
+      "decision": "Official film dossier establishes work and director. Christian themes and artistic spiritual abstraction do not by themselves establish the specifically Catholic treatment required here. Full theological reading and scope assessment outstanding.",
+      "sources": [
+        {
+          "title": "The Tree of Life",
+          "publisher": "Festival de Cannes",
+          "url": "https://cdn.festival-cannes.com/media/uploads/2023/03/77424.pdf",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Identity and content discussion used only for the stated research decision."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Terrence Malick"
+      ],
+      "format": "Feature"
+    },
+    {
+      "id": "au-revoir-les-enfants",
+      "slug": "au-revoir-les-enfants",
+      "title": "Au revoir les enfants",
+      "year": 1987,
+      "status": "HOLD",
+      "decision": "Catholic boarding-school resistance and childhood memory documented. Need distinguish Père Jacques’ history from fictional narration and establish the film’s specifically Catholic frame beyond sympathetic clergy. HOLD is not a negative judgment on its protection of Jewish children.",
+      "sources": [
+        {
+          "title": "Au revoir les enfants",
+          "publisher": "Criterion",
+          "url": "https://www.criterion.com/films/549-au-revoir-les-enfants?q=autocomplete",
+          "accessed": "2026-10-11",
+          "claims": [
+            "1987, Louis Malle, French, childhood-based story."
+          ]
+        },
+        {
+          "title": "Au revoir les enfants",
+          "publisher": "Gaumont",
+          "url": "https://www.gaumont.com/fr/film/au-revoir-les-enfants",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Film identity; 1944 setting; plot outline; rights reserved."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Louis Malle"
+      ],
+      "countries": [
+        "France"
+      ],
+      "languages": [
+        "French"
+      ],
+      "format": "Feature"
+    },
+    {
+      "id": "innocents-2016",
+      "slug": "innocents-2016",
+      "title": "The Innocents",
+      "year": 2016,
+      "status": "HOLD",
+      "decision": "Favourable Catholic review supports a serious portrayal of violated religious women. Nonetheless, depiction of guilt, the superior’s actions and relations of faith and medicine need a full historical and moral assessment before a recommendation under this stricter rubric.",
+      "sources": [
+        {
+          "title": "The Innocents",
+          "publisher": "The Catholic Thing / Brad Miner",
+          "url": "https://www.thecatholicthing.org/2016/07/25/lesperance-a-review-of-the-innocents/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Identity and content discussion used only for the stated research decision."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "originalTitle": "Les Innocentes",
+      "alternateTitles": [
+        "Agnus Dei"
+      ],
+      "directors": [
+        "Anne Fontaine"
+      ],
+      "format": "Feature",
+      "advisories": "Sexual violence and its aftermath; pregnancy and grave trauma."
+    },
+    {
+      "id": "romero",
+      "slug": "romero",
+      "title": "Romero",
+      "year": 1989,
+      "status": "HOLD",
+      "decision": "Review distinguishes the religious protagonist from explicit liberation-theology argument; therefore do not reject on that slogan alone. Historical composites and the film’s political-theological interpretation require further evaluation.",
+      "sources": [
+        {
+          "title": "Romero",
+          "publisher": "RogerEbert.com / Roger Ebert",
+          "url": "https://www.rogerebert.com/reviews/romero-1989",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Identity and content discussion used only for the stated research decision."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "John Duigan"
+      ],
+      "format": "Feature"
+    },
+    {
+      "id": "a-birth",
+      "slug": "a-birth",
+      "title": "A Birth",
+      "year": 2022,
+      "status": "HOLD",
+      "decision": "National film council confirms Korean Catholic subject, but describes a deliberate focus on pioneer/global-leader qualities. Need full review of sacramental faith and martyrdom; a Vatican screening is not proof of doctrinal fidelity.",
+      "sources": [
+        {
+          "title": "A Birth",
+          "publisher": "Korean Film Council",
+          "url": "https://www.koreanfilm.or.kr/eng/news/newfilm.jsp?blbdComCd=601011&mode=VIEW&seq=501",
+          "accessed": "2026-10-11",
+          "claims": [
+            "2022; Park Heung-sik; Andrew Kim Taegon; priesthood and martyrdom; historical adventure form."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Park Heung-sik"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "format": "Feature",
+      "subjects": [
+        "Andrew Kim Taegon"
+      ],
+      "collections": [
+        "martyrs",
+        "priesthood",
+        "after-1965"
+      ]
+    },
+    {
+      "id": "fatima-terra-de-fe",
+      "slug": "fatima-terra-de-fe",
+      "title": "Fátima, Terra de Fé!",
+      "year": 1943,
+      "status": "HOLD",
+      "decision": "Important Portuguese discovery verified by national archive. Archive’s plot and production discussion do not settle religious representation. Need viewable edition or detailed Catholic review; do not mistake invented healing narrative for documented 1917 history.",
+      "sources": [
+        {
+          "title": "Coroação de Nossa Senhora de Fátima / Fátima, Terra de Fé!",
+          "publisher": "Cinemateca Portuguesa",
+          "url": "https://www.cinemateca.pt/programacao.aspx?ciclo=828&id=9418",
+          "accessed": "2026-10-11",
+          "claims": [
+            "1943 Portugal; Jorge Brum do Canto; fictional conversion of doctor after son’s healing; critical production context."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Jorge Brum do Canto"
+      ],
+      "countries": [
+        "Portugal"
+      ],
+      "format": "Feature",
+      "collections": [
+        "mary",
+        "before-1965"
+      ]
+    },
+    {
+      "id": "coronation-fatima",
+      "slug": "coronation-fatima",
+      "title": "Coroação de Nossa Senhora de Fátima",
+      "year": 1946,
+      "status": "HOLD",
+      "decision": "Archive-confirmed pre-conciliar Marian documentary short. Prioritize access to surviving print, full credits, narration and contextual review. Historic footage still has rights; no reuse permission established.",
+      "sources": [
+        {
+          "title": "Coroação de Nossa Senhora de Fátima / Fátima, Terra de Fé!",
+          "publisher": "Cinemateca Portuguesa",
+          "url": "https://www.cinemateca.pt/programacao.aspx?ciclo=828&id=9418",
+          "accessed": "2026-10-11",
+          "claims": [
+            "1946 Portuguese short; Eduardo Garcia Maroto; 19 minutes; coronation ceremony footage."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Eduardo Garcia Maroto"
+      ],
+      "countries": [
+        "Portugal"
+      ],
+      "format": "Documentary short",
+      "collections": [
+        "mary",
+        "documentaries",
+        "before-1965"
+      ]
+    },
+    {
+      "id": "faustyna",
+      "slug": "faustyna",
+      "title": "Faustyna",
+      "year": 1994,
+      "status": "HOLD",
+      "decision": "Festival establishes 1994 identity, distinct from 1995 theatrical dating seen in English reviews. Need review of private-revelation claims and their pre-conciliar reception; later canonization alone cannot satisfy this project’s standard.",
+      "sources": [
+        {
+          "title": "Faustyna",
+          "publisher": "Polish Film Festival Gdynia",
+          "url": "https://festiwalgdynia.pl/edycja/1994/filmy/faustyna-1000001878",
+          "accessed": "2026-10-11",
+          "claims": [
+            "1994 festival; Jerzy Łukaszewicz; artistic portrayal of Faustina Kowalska; TVP production."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Jerzy Łukaszewicz"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "format": "Feature",
+      "collections": [
+        "religious-life",
+        "after-1965"
+      ]
+    },
+    {
+      "slug": "bells-of-nagasaki",
+      "title": "The Bells of Nagasaki",
+      "sources": [
+        {
+          "title": "The Bells of Nagasaki (film)",
+          "publisher": "Wikipedia (discovery lead)",
+          "url": "https://en.wikipedia.org/wiki/The_Bells_of_Nagasaki_%28film%29",
+          "accessed": "2026-10-11",
+          "claims": [
+            "1950 adaptation of Takashi Nagai book; discovery lead only."
+          ]
+        },
+        {
+          "title": "長崎の鐘",
+          "publisher": "Shochiku",
+          "url": "https://www.shochiku.co.jp/cinema/database/02607/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "1950 release, Hideo Ōba, 94 minutes, Nagai memoir adaptation and occupation-censorship production context."
+          ]
+        },
+        {
+          "title": "長崎の鐘",
+          "publisher": "National Film Archive of Japan",
+          "url": "https://nfad.nfaj.go.jp/det.php?data_id=1338",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Archive film identity, 1950, 94 minutes and adaptation credits."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "collections": [
+        "before-1965"
+      ],
+      "id": "bells-of-nagasaki",
+      "status": "HOLD",
+      "year": 1950,
+      "originalTitle": "長崎の鐘",
+      "directors": [
+        "Hideo Ōba"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "format": "Feature film",
+      "decision": "Studio and national archive now firmly establish the 1950 Japanese film, distinct from the 2016 British All That Remains. Japanese audience criticism identifies Catholic faith and medical charity, but qualified scene-specific criticism sufficient for this rubric remains missing. The studio also identifies occupation censorship as a shaping condition. Research therefore resolves identity, not yet the historical and religious treatment of Nagai's response to the bombing."
+    },
+    {
+      "id": "pedro-calungsod",
+      "slug": "pedro-calungsod",
+      "title": "Pedro Calungsod: Batang Martir",
+      "year": 2013,
+      "status": "HOLD",
+      "decision": "Feature identity discovered; early production interview named an actor later replaced, demonstrating need for final credits. Need authoritative final-edition source, historical missionary context and detailed religious evaluation.",
+      "sources": [
+        {
+          "title": "Pedro Calungsod: Batang Martir",
+          "publisher": "Wikipedia (discovery lead)",
+          "url": "https://en.wikipedia.org/wiki/Pedro_Calungsod%3A_Batang_Martir",
+          "accessed": "2026-10-11",
+          "claims": [
+            "2013 Philippine feature; Francis Villacorta; distinguish from 2012 television special."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "alternateTitles": [
+        "Journey of a Young Saint"
+      ],
+      "directors": [
+        "Francis Villacorta"
+      ],
+      "countries": [
+        "Philippines"
+      ],
+      "format": "Feature",
+      "collections": [
+        "missionaries",
+        "martyrs",
+        "after-1965"
+      ]
+    },
+    {
+      "id": "padre-cicero",
+      "slug": "padre-cicero",
+      "title": "Padre Cícero: Os Milagres de Juazeiro",
+      "year": 1976,
+      "status": "HOLD",
+      "decision": "National archive verifies identity and explicitly contentious ecclesiastical subject. Do not equate popular cult or another church’s canonization claim with Catholic recognition. Full doctrinal/historical assessment needed.",
+      "sources": [
+        {
+          "title": "Padre Cícero: Os Milagres de Juazeiro",
+          "publisher": "Cinemateca Brasileira",
+          "url": "https://bases.cinemateca.org.br/cgi-bin/wxis.exe/iah/?IsisScript=iah%2Fiah.xis&base=FILMOGRAFIA&exprSearch=ID%3D023861&format=detailed.pft&lang=p&nextAction=lnk",
+          "accessed": "2026-10-11",
+          "claims": [
+            "1975 production; January 1976 Gramado release; Brazilian feature; disputed miracles and ecclesiastical inquiries."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "countries": [
+        "Brazil"
+      ],
+      "format": "Feature"
+    },
+    {
+      "id": "nazarin",
+      "slug": "nazarin",
+      "title": "Nazarín",
+      "status": "HOLD",
+      "decision": "Critical and institutional sources describe irony rather than an uncomplicated Catholic affirmation. Resolve BFI 1958 production versus common 1959 release dating and examine anti-clerical interpretation before any inclusion.",
+      "sources": [
+        {
+          "title": "MoMA Presents Nazarín and Following Nazarín",
+          "publisher": "Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/film/5215",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Mexican Buñuel film; ironic portrayal of idealistic priest; 2019 restoration."
+          ]
+        }
+      ],
+      "reviewed": "2026-10-11",
+      "directors": [
+        "Luis Buñuel"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "format": "Feature"
+    },
+    {
+      "id": "all-that-remains",
+      "slug": "all-that-remains",
+      "title": "All That Remains",
+      "year": 2016,
+      "format": "Biographical drama",
+      "directors": [
+        "Ian Higgins",
+        "Dominic Higgins"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "languages": [
+        "English"
+      ],
+      "subjects": [
+        "Takashi Nagai",
+        "Midori Nagai",
+        "Nagasaki"
+      ],
+      "collections": [
+        "families",
+        "after-1965"
+      ],
+      "historicalPeriod": "Japan before and after the atomic bombing of 1945",
+      "status": "PUBLISH",
+      "reviewed": "2026-10-11",
+      "summary": "The conversion and family life of physician Takashi Nagai, followed by his work of charity amid Nagasaki's devastation.",
+      "decision": "Publish as a dramatized Catholic conversion and family narrative. Distributor and festival identity are supplemented by scene-specific Catholic criticism and the director's account of historical research. Do not describe the imagined conclusion as historical evidence or Nagai as a canonized saint.",
+      "synopsis": "A physician's confidence in material explanations is unsettled by death and by the Christian household he encounters in Nagasaki. Takashi Nagai's relationship with Midori develops within a discovery of the city's inherited Catholic faith. Marriage, medical work and the pressures of war follow. The atomic bombing destroys their shared world and kills Midori. Already seriously ill, Nagai must care for his children and respond to other sufferers, eventually communicating through his writing when physical action becomes increasingly difficult.",
+      "inclusion": "Conversion matters to this story: Catholic belief gives a definite account of human dignity, sacrifice and hope that a general tribute to resilience would miss. The film makes family affection and medical responsibility part of the same Christian life. Its combination of performed scenes, digital imagery and archival material is an unusual visual approach to an intimate biography. It belongs here for the connection between faith and charity under catastrophe, with the artistic reconstruction clearly identified.",
+      "themes": [
+        "Conversion",
+        "Christian marriage",
+        "Medical charity",
+        "Suffering",
+        "Hope after bereavement"
+      ],
+      "history": "The British production concerns a Japanese Catholic family; it should not be counted as Japanese national cinema. In a later account, Dominic Higgins described interviewing bombing survivors during the film's extended production. That research supports the undertaking's historical seriousness without proving every scene. Nagai's writings remain the appropriate companion for his own understanding of what happened.",
+      "liberties": "The closing reunion with Midori, staged through the imagery of a church and their marriage, is an imagined expression of hope. It is neither recorded testimony of an apparition nor a claim that marriage continues as an earthly sacrament after death. The drama selects from a much larger life and should not be mistaken for a complete history of Japan or the bombing.",
+      "advisories": [
+        "Atomic destruction, disturbing archival imagery, bereavement and severe illness.",
+        "Suitable principally for adults and mature teenagers; the subject involves mass civilian suffering."
+      ],
+      "sources": [
+        {
+          "title": "All That Remains",
+          "publisher": "International Uranium Film Festival",
+          "url": "https://uraniumfilmfestival.org/en/film/berlin-2017/all-that-remains",
+          "accessed": "2026-10-11",
+          "claims": [
+            "UK 2016 production; Ian and Dominic Higgins; English; hybrid live action, CGI and archive form; Catholic Nagasaki context."
+          ]
+        },
+        {
+          "title": "All That Remains",
+          "publisher": "Ignatius Press",
+          "url": "https://ignatius.com/all-that-remains-atrm/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "2016 DVD identity, Nagai conversion, Midori, medical vocation, illness and post-bomb writing; distributor synopsis used for narrative outline, not alone for suitability."
+          ]
+        },
+        {
+          "title": "Il santo che a Nagasaki vinse anche l'atomica / Tout ce qui reste",
+          "publisher": "Marco Respinti, La Nuova Bussola Quotidiana; French translation at Benoît et moi",
+          "url": "https://benoit-et-moi.fr/archives/2016/actualite/tout-ce-qui-reste.html",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Search-indexed review explicitly describes the imagined final reunion of Takashi and Midori and praises the religious treatment; the translated page misidentifies filmmaker nationality, which is not used."
+          ]
+        },
+        {
+          "title": "This Catholic doctor lost everything in the Nagasaki bombing. Except faith, hope, and love.",
+          "publisher": "Catholic World Report / CNA",
+          "url": "https://www.catholicworldreport.com/2022/02/22/this-catholic-doctor-lost-everything-in-the-nagasaki-bombing-except-faith-hope-and-love/",
+          "accessed": "2026-10-11",
+          "claims": [
+            "Director's first-person account of years of production and interviews with survivors; Christian conversion and writing. Its incidental 1951 date for the earlier Bells film is not used."
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "African-produced Catholic cinema remains a major gap. Bakhita concerns Sudan but is an Italian television production and cannot count as African production coverage. Uganda-martyr searches found a filmmaker’s developing documentary, not enough verified released-film evidence.",
+    "Asian research opened Korean Film Council A Birth, Japanese Nagasaki adaptation discovery and Philippine Pedro Calungsod leads; no claim of comprehensive regional survey.",
+    "Portuguese research consulted Cinemateca Portuguesa’s 2017 Fátima cycle and identified both a 1943 feature and a 1946 short. Film access and detailed suitability remain outstanding.",
+    "Polish research consulted Gdynia festival, Polish filmmakers’ association and film press for Faustyna and Two Crowns; original-release and later-distribution dates need distinction.",
+    "Latin American discovery sampled Chilean television, Brazilian national archive and Mexican restoration material. Distributor synopses alone have not been promoted into recommendations.",
+    "Most television biographies remain HOLD because primary identity and devotional marketing do not independently verify doctrinal treatment; dates omitted where the only year is the supplied candidate inventory.",
+    "No film was watched in this research task. Research uses retrieved institutional records, producer/distributor information, and critical descriptions; PUBLISH is a sourced editorial recommendation, not an ecclesiastical certification."
+  ]
+}

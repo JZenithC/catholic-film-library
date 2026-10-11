@@ -1,0 +1,148 @@
+---
+import '../styles/global.css';
+import '@fontsource/cormorant-garamond/400.css';
+import '@fontsource/cormorant-garamond/500.css';
+import '@fontsource/cormorant-garamond/600.css';
+import '@fontsource/cormorant-garamond/400-italic.css';
+import '@fontsource/source-sans-3/400.css';
+import '@fontsource/source-sans-3/600.css';
+import serifRegular from '@fontsource/cormorant-garamond/files/cormorant-garamond-latin-400-normal.woff2?url';
+import serifMedium from '@fontsource/cormorant-garamond/files/cormorant-garamond-latin-500-normal.woff2?url';
+import serifItalic from '@fontsource/cormorant-garamond/files/cormorant-garamond-latin-400-italic.woff2?url';
+import bodyRegular from '@fontsource/source-sans-3/files/source-sans-3-latin-400-normal.woff2?url';
+import { url } from '../data/catalogue';
+interface Props {
+  title: string;
+  description?: string;
+  movie?: Record<string, unknown>;
+}
+const {
+  title,
+  description = 'A Traditional Catholic Guide to Cinema. An independent, carefully researched library of films, saints, history and the sacramental imagination.',
+  movie,
+} = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const links = [
+  ['library/', 'The Film Library'],
+  ['essentials/', 'Essential Films'],
+  ['collections/', 'Collections'],
+  ['a-z/', 'A–Z Index'],
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    {[serifRegular, serifMedium, serifItalic, bodyRegular].map((href) => (
+      <link
+        rel="preload"
+        href={href}
+        as="font"
+        type="font/woff2"
+        crossorigin="anonymous"
+      />
+    ))}
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>{title === 'Home' ? 'The Catholic Film Library' : `${title} · The Catholic Film Library`}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href={url('favicon.svg')} />
+    <meta
+      property="og:title"
+      content={title === 'Home' ? 'The Catholic Film Library' : title}
+    />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={movie ? 'video.movie' : 'website'} />
+    <meta property="og:url" content={canonical} />
+    <meta
+      property="og:image"
+      content={new URL(url('social.png'), Astro.site)}
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    {movie && (
+      <script
+        type="application/ld+json"
+        set:html={JSON.stringify(movie).replace(/</g, '\\u003c')}
+      />
+    )}
+  </head>
+  <body>
+    <a class="skip" href="#main">
+      Skip to content
+    </a>
+    <header class="site-header">
+      <a class="brand" href={url()} aria-label="The Catholic Film Library home">
+        <span class="brand-mark" aria-hidden="true">
+          ✣
+        </span>
+        <span>
+          The Catholic
+          <br />
+          <b>Film Library</b>
+        </span>
+      </a>
+      <nav class="desktop-nav" aria-label="Main navigation">
+        {links.map(([href, label]) => (
+          <a
+            href={url(href)}
+            aria-current={
+              Astro.url.pathname.startsWith(url(href)) ? 'page' : undefined
+            }
+          >
+            {label}
+          </a>
+        ))}
+      </nav>
+      <a class="header-about" href={url('principles/')}>
+        Our principles <span aria-hidden="true">↗</span>
+      </a>
+      <details class="mobile-nav">
+        <summary>
+          Menu <span aria-hidden="true">☰</span>
+        </summary>
+        <nav aria-label="Mobile navigation">
+          {links.map(([href, label]) => (
+            <a href={url(href)}>{label}</a>
+          ))}
+          <a href={url('principles/')}>Our Selection Principles</a>
+        </nav>
+      </details>
+    </header>
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div>
+        <a class="footer-title" href={url()}>
+          The Catholic Film Library
+        </a>
+        <p>A Traditional Catholic Guide to Cinema</p>
+        <p class="small">
+          An independent editorial project.
+          <br />A recommendation is an editorial judgment, not ecclesiastical
+          approval.
+        </p>
+      </div>
+      <nav aria-label="Information">
+        <a href={url('about/')}>About the Library</a>
+        <a href={url('principles/')}>Our Selection Principles</a>
+        <a href={url('sources/')}>Sources & Research</a>
+        <a href={url('corrections/')}>Corrections & Suggestions</a>
+        <a href={url('catalogue.json')}>Download catalogue data</a>
+      </nav>
+      <div class="footer-note">
+        <span class="eyebrow">Truth · Beauty · Faith</span>
+        <p>
+          For the love of good cinema.
+          <br />
+          For the life of the soul.
+        </p>
+      </div>
+      <div class="footer-bottom">
+        © 2026 The Catholic Film Library{' '}
+        <span>No advertising. No tracking. No subscriptions.</span>
+      </div>
+    </footer>
+  </body>
+</html>

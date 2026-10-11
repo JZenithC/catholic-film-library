@@ -1,0 +1,140 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Artwork from '../components/Artwork.astro';
+import FilmCard from '../components/FilmCard.astro';
+import { films, featured, collections, url } from '../data/catalogue';
+const hero =
+  featured.find((f) => f.slug === 'the-song-of-bernadette') ?? featured[0];
+const picks = featured.slice(0, 4);
+const groups = [
+  'saints',
+  'mary',
+  'martyrs',
+  'priesthood',
+  'religious-life',
+  'comedy',
+].map((id) => collections.find((c) => c.id === id)!);
+---
+
+<Layout title="Home">
+  <section class="wrap hero">
+    <div>
+      <span class="eyebrow">An independent library of faith & film</span>
+      <h1>
+        Great cinema.
+        <br />
+        <em>Enduring faith.</em>
+      </h1>
+      <p class="intro">
+        Discover the beauty, courage and mystery of the Catholic life through
+        the art of cinema.
+      </p>
+      <p>
+        A Traditional Catholic Guide to Cinema, with carefully researched
+        profiles, historical context and a clear editorial conscience.
+      </p>
+      <div class="hero-actions">
+        <a class="button" href={url('library/')}>
+          Explore the library <span aria-hidden="true">→</span>
+        </a>
+        <a class="text-link" href={url('essentials/')}>
+          Where to begin
+        </a>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <Artwork
+        title={hero?.title ?? 'The Catholic Film Library'}
+        year={hero?.year}
+        large
+      />
+      <div class="hero-caption">
+        <span>FROM THE COLLECTION</span>
+        {hero && <a href={url(`films/${hero.slug}/`)}>Discover the film ↗</a>}
+      </div>
+    </div>
+  </section>
+  <div class="rule-band">
+    <span>Rooted in Catholic tradition</span>
+    <span>International cinema</span>
+    <span>Evidence before endorsement</span>
+    <span>Silent era to the present</span>
+  </div>
+  <section class="wrap section">
+    <div class="section-head">
+      <div>
+        <span class="eyebrow">The editor’s selection</span>
+        <h2>A place to begin</h2>
+      </div>
+      <a class="text-link" href={url('essentials/')}>
+        Explore essential films →
+      </a>
+    </div>
+    <div class="film-grid">
+      {picks.map((film, index) => (
+        <FilmCard film={film} index={index} />
+      ))}
+    </div>
+  </section>
+  <section class="collection-section">
+    <div class="wrap section">
+      <div class="section-head">
+        <div>
+          <span class="eyebrow">Paths through the library</span>
+          <h2>
+            Stories of faith,
+            <br />
+            in all its dimensions.
+          </h2>
+        </div>
+        <p>
+          Follow a saint’s life, enter the silence of a monastery, or discover
+          courage in an age of persecution.
+        </p>
+      </div>
+      <div class="collection-grid">
+        {groups.map((c, i) => (
+          <a class="collection-card" href={url(`collections/${c.id}/`)}>
+            <span class="number">0{i + 1}</span>
+            <div>
+              <h3>{c.title}</h3>
+              <p>{c.description}</p>
+              <span class="count">
+                {films.filter((f) => f.collections.includes(c.id)).length} films
+                in the library
+              </span>
+            </div>
+            <span aria-hidden="true">↗</span>
+          </a>
+        ))}
+      </div>
+      <a class="text-link" href={url('collections/')}>
+        View every collection →
+      </a>
+    </div>
+  </section>
+  <section class="wrap section manifesto">
+    <div>
+      <span class="eyebrow">Our editorial conviction</span>
+      <h2>
+        Discernment is part
+        <br />
+        of the art of watching.
+      </h2>
+    </div>
+    <div>
+      <p>
+        A religious subject alone does not make a Catholic film. We look for
+        substance, reverence, historical care and artistic distinction, guided
+        by Catholic teaching as understood before the Second Vatican Council.
+      </p>
+      <p>
+        Every recommendation has a reason. Every uncertainty deserves to be
+        named.
+      </p>
+      <a class="text-link" href={url('principles/')}>
+        Read our selection principles →
+      </a>
+    </div>
+  </section>
+</Layout>

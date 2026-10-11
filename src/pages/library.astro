@@ -1,0 +1,229 @@
+---
+import Layout from '../layouts/Layout.astro';
+import FilmCard from '../components/FilmCard.astro';
+import { films, collections } from '../data/catalogue';
+const facets = [
+  ['country', 'Country', 'countries'],
+  ['language', 'Language', 'languages'],
+  ['subject', 'Subject', 'subjects'],
+  ['format', 'Film type', 'format'],
+  ['period', 'Historical period', 'historicalPeriod'],
+] as const;
+const unique = (key: string) =>
+  [
+    ...new Set(
+      films.flatMap(
+        (f) => (f as unknown as Record<string, string | string[]>)[key] ?? [],
+      ),
+    ),
+  ].sort();
+const decades = [
+  ...new Set(films.map((f) => `${Math.floor(f.year / 10) * 10}`)),
+].sort();
+---
+
+<Layout title="The Film Library">
+  <div class="wrap">
+    <div class="page-heading">
+      <span class="eyebrow">The collection</span>
+      <h1>The Film Library</h1>
+      <p class="lead">
+        A considered guide to Catholic cinema. Find a familiar masterpiece, or a
+        film you have yet to discover.
+      </p>
+    </div>
+    <noscript>
+      <p class="nojs">
+        All films are listed below. Search and filters require JavaScript;
+        individual pages and the A–Z index work without it.
+      </p>
+    </noscript>
+    <form class="filters" id="filters" role="search">
+      <div class="search-row">
+        <label for="q">
+          Search the library
+          <input
+            id="q"
+            name="q"
+            type="search"
+            placeholder="Title, saint, director, country…"
+            autocomplete="off"
+          />
+        </label>
+        <button type="reset" class="reset">
+          Reset all
+        </button>
+      </div>
+      <div class="filter-grid">
+        {facets.map(([id, label, key]) => (
+          <label for={id}>
+            {label}
+            <select id={id} name={id}>
+              <option value="">
+                All {label.toLowerCase()}
+                {id === 'country' ? ' origins' : ''}
+              </option>
+              {unique(key).map((v) => (
+                <option value={v}>{v}</option>
+              ))}
+            </select>
+          </label>
+        ))}
+        <label for="decade">
+          Release decade
+          <select id="decade" name="decade">
+            <option value="">All decades</option>
+            {decades.map((d) => (
+              <option value={d}>{d}s</option>
+            ))}
+          </select>
+        </label>
+        <label for="collection">
+          Collection
+          <select id="collection" name="collection">
+            <option value="">All collections</option>
+            {collections.map((c) => (
+              <option value={c.id}>{c.title}</option>
+            ))}
+          </select>
+        </label>
+        <label for="sort">
+          Sort by
+          <select id="sort" name="sort">
+            <option value="featured">Editorial selection</option>
+            <option value="title">Title A–Z</option>
+            <option value="oldest">Oldest first</option>
+            <option value="newest">Newest first</option>
+          </select>
+        </label>
+      </div>
+    </form>
+    <div class="result-row">
+      <p id="result-count" role="status" aria-live="polite">
+        {films.length} films
+      </p>
+      <p>Only reviewed recommendations</p>
+    </div>
+    <h2 class="visually-hidden">Films in the Library</h2>
+    <div class="film-grid catalogue-grid" id="film-results">
+      {films.map((film, index) => (
+        <div data-film={film.id}>
+          <FilmCard film={film} index={index} />
+        </div>
+      ))}
+    </div>
+    <div class="empty" id="empty" hidden>
+      <h2>No films match this search</h2>
+      <p>Try another spelling or remove a filter.</p>
+      <button class="reset" id="clear-empty">
+        Clear search and filters
+      </button>
+    </div>
+    <div class="section"></div>
+  </div>
+  <script
+    id="search-data"
+    type="application/json"
+    set:html={JSON.stringify(
+      films.map(
+        ({
+          id,
+          title,
+          originalTitle,
+          alternateTitles,
+          directors,
+          countries,
+          languages,
+          subjects,
+          collections,
+          format,
+          historicalPeriod,
+          year,
+          featured,
+          themes,
+        }) => ({
+          id,
+          title,
+          originalTitle,
+          alternateTitles,
+          directors,
+          countries,
+          languages,
+          subjects,
+          collections,
+          format,
+          historicalPeriod,
+          year,
+          featured,
+          themes,
+        }),
+      ),
+    ).replace(/</g, '\\u003c')}
+  />
+  <script>
+    import { selectFilms } from '../scripts/search.mjs';
+    const form = document.querySelector<HTMLFormElement>('#filters')!;
+    const data = JSON.parse(
+      document.querySelector('#search-data')!.textContent!,
+    );
+    const grid = document.querySelector('#film-results')!;
+    const cards = new Map(
+      Array.from(grid.children).map((el) => [
+        (el as HTMLElement).dataset.film,
+        el,
+      ]),
+    );
+    function readURL() {
+      const params = new URLSearchParams(location.search);
+      for (const el of Array.from(form.elements)) {
+        if (el instanceof HTMLInputElement || el instanceof HTMLSelectElement) {
+          el.value =
+            params.get(el.name) ?? (el.name === 'sort' ? 'featured' : '');
+          if (el instanceof HTMLSelectElement && el.selectedIndex < 0)
+            el.selectedIndex = 0;
+        }
+      }
+    }
+    function update(write = true) {
+      const params = new URLSearchParams(
+        new FormData(form) as unknown as Record<string, string>,
+      );
+      const selected = selectFilms(data, Object.fromEntries(params));
+      for (const el of cards.values()) (el as HTMLElement).hidden = true;
+      for (const film of selected) {
+        const el = cards.get(film.id)!;
+        (el as HTMLElement).hidden = false;
+        grid.append(el);
+      }
+      document.querySelector('#result-count')!.textContent =
+        `${selected.length} ${selected.length === 1 ? 'film' : 'films'}`;
+      (document.querySelector('#empty') as HTMLElement).hidden =
+        selected.length > 0;
+      if (write) {
+        for (const [k, v] of [...params])
+          if (!v || (k === 'sort' && v === 'featured')) params.delete(k);
+        history.replaceState(
+          null,
+          '',
+          location.pathname + (params.size ? '?' + params : '') + location.hash,
+        );
+      }
+    }
+    form.addEventListener('input', () => update());
+    form.addEventListener('change', () => update());
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      update();
+    });
+    form.addEventListener('reset', () => setTimeout(() => update(), 0));
+    document
+      .querySelector('#clear-empty')!
+      .addEventListener('click', () => form.reset());
+    window.addEventListener('popstate', () => {
+      readURL();
+      update(false);
+    });
+    readURL();
+    update(false);
+  </script>
+</Layout>

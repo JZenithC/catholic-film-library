@@ -1,0 +1,23 @@
+{
+  "initial": 121,
+  "candidates": 142,
+  "additional": 21,
+  "publish": 38,
+  "hold": 101,
+  "reject": 3,
+  "countries": [
+    "France",
+    "Germany",
+    "Italy",
+    "Luxembourg",
+    "Poland",
+    "Spain",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "emptyCollections": [
+    "The Cristero War",
+    "The English Martyrs"
+  ]
+}

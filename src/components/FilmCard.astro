@@ -1,0 +1,28 @@
+---
+import Artwork from './Artwork.astro';
+import { url, type Film } from '../data/catalogue';
+interface Props {
+  film: Film;
+  index?: number;
+}
+const { film, index = 0 } = Astro.props;
+---
+
+<article class="film-card">
+  <a
+    class="art-link"
+    href={url(`films/${film.slug}/`)}
+    tabindex="-1"
+    aria-hidden="true"
+  >
+    <Artwork title={film.title} year={film.year} variant={index} />
+  </a>
+  <div class="card-meta">
+    {film.year} <span>·</span> {film.countries.join(' / ')}
+  </div>
+  <h3>
+    <a href={url(`films/${film.slug}/`)}>{film.title}</a>
+  </h3>
+  <p class="card-director">{film.directors.join(' & ')}</p>
+  <p>{film.summary}</p>
+</article>
