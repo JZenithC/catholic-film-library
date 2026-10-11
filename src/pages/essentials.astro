@@ -21,7 +21,7 @@ import { featured, url } from '../data/catalogue';
     </div>
     {featured.slice(0, 12).map((f, i) => (
       <article class="feature-row">
-        <Artwork title={f.title} year={f.year} variant={i} />
+        <Artwork filmId={f.id} title={f.title} year={f.year} variant={i} />
         <div>
           <span class="eyebrow">
             {String(i + 1).padStart(2, '0')} · {f.year} ·{' '}

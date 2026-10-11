@@ -2,6 +2,8 @@
 
 11 October 2026. Independent editorial judgments are research-based; they are not ecclesiastical approvals or claims that every compiler personally viewed every film.
 
+Poster revision: all 38 published films now have a sourced poster or video-release cover. The site now has 66 HTML pages including public image credits. See `POSTER_UPDATE.md` for the current revision's checks; the original publication and Lighthouse results below are retained as the initial release baseline.
+
 ## Publication
 
 - Repository: https://github.com/JZenithC/catholic-film-library
@@ -38,7 +40,7 @@ Search supports accents, original and alternative titles and thematic metadata. 
 
 ## Design and licensing
 
-Ivory, forest green and burgundy, restrained gold, locally served serif/sans typography, generous spacing and original architectural title cards form the visual system. No film posters, stills or promotional imagery are reproduced. Original artwork avoids speculative image rights. Both font families' complete SIL OFL notices are shipped. Film titles and cited third-party sources remain their owners' material; this repository grants no rights over them. See `IMAGE_CREDITS.md`.
+Ivory, forest green and burgundy, restrained gold, locally served serif/sans typography and generous spacing form the visual system. Actual posters and release covers now illustrate every published film; original architectural title cards remain a fallback. Poster source statements and contextual editorial-use assessments are individually recorded; third-party artwork is not claimed as freely licensed. Both font families' complete SIL OFL notices are shipped. This repository grants no rights over third-party film art or cited material. See `IMAGE_CREDITS.md`.
 
 ## Maintenance and remaining action
 

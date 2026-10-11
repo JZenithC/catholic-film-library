@@ -1,12 +1,21 @@
 # Image credits and permissions inventory
 
-Initial approach: original typographic title cards and interface ornament drawn in site code. They are designed identifiers for the Library, not official film posters or film stills. A religious subject or historic release date does not establish image reuse rights.
+Film posters and release covers now illustrate the Library's film criticism. The original typographic title cards remain a fallback for future records without a sourced image. A religious subject or historic release date does not establish image reuse rights.
+
+## Poster and release-cover records
+
+`src/data/posters.json` is the complete per-film asset manifest: local filename, dimensions, original image URL, source page, artist/distributor/source credit, image kind, source rights statement, identity evidence, review date and contextual use assessment. `research/poster-rights-review.json` preserves the four-factor review and individual source limitations. The website exposes acknowledgements at `/image-credits/` and on every illustrated profile.
+
+Some sources state United States public-domain status; this is recorded with its stated basis, without assuming worldwide public-domain status. Copyrighted images are small identifying illustrations accompanying substantive noncommercial film criticism, with a whole composition retained for recognition and credits. The Library relies on a contextual fair-use/fair-dealing assessment, not a claim of permission, a transferable Wikipedia rationale, or an open license. Creative artwork and possible image-licensing markets weigh against unlicensed use and are acknowledged in the assessment. The UK and US primary guidance was checked on 11 October 2026: https://www.gov.uk/guidance/exceptions-to-copyright and https://www.copyright.gov/fair-use/ . Applicability depends on the particular use and jurisdiction.
+
+Files are locally served WebP derivatives, reduced to at most 500×750 pixels without upscaling or cropping. No watermark is removed. No original-resolution downloads, poster sales or image licensing are offered. Third-party artwork is excluded from any reuse rights in site code or original design. Rights holders can request correction/removal using the site's corrections route. Removal means deleting the manifest entry and image, regenerating the catalogue, and deploying; the title-card fallback then appears.
 
 ## Current asset classes
 
 | Asset                                          | Origin                                                      | Usage basis                                           | Attribution / restrictions                                                                                  |
 | ---------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | Film title cards                               | Original HTML/CSS/SVG composition in this repository        | Created for this project; no third-party poster image | Describe as Library title artwork; never an official poster                                                 |
+| Film posters and release covers | Individually recorded sources in `src/data/posters.json` | Source-stated US public domain where documented; otherwise limited editorial criticism/review assessment | Third-party copyright retained; source availability and attribution are not permission; see individual records |
 | Library wordmark, ornament and favicon         | Original geometric/typographic site design                  | Created for this project                              | No claim to ownership of common religious symbols or film titles                                            |
 | Cormorant Garamond (400, 400 italic, 500, 600) | Cormorant Project Authors; `@fontsource/cormorant-garamond` | SIL Open Font License 1.1, checked 2026-10-11         | Locally bundled WOFF files; complete notice at `public/licenses/cormorant-garamond.txt`; no modification    |
 | Source Sans 3 (400, 600)                       | `@fontsource/source-sans-3`                                 | SIL Open Font License 1.1, checked 2026-10-11         | Locally bundled WOFF files; complete package notice at `public/licenses/source-sans-3.txt`; no modification |

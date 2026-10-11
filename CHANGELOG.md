@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-11 — posters and release covers
+
+- Replaced generated title cards with sourced posters or release covers for all 38 published films, including the homepage, catalogue, essentials, collections and related films.
+- Added local compressed WebP assets, uncropped image proportions, intrinsic dimensions, lazy loading and priority loading for main images.
+- Added individual source credits, artwork-type labels and editorial-use assessments, with a public poster-credits page.
+- Extended validation and responsive browser checks to cover poster files and decoding; retained title cards for future records without an image.
+
 ## 2026-10-11 — initial implementation and research
 
 - Created static Astro architecture and traditional editorial design.

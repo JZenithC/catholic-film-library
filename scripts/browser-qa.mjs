@@ -30,10 +30,35 @@ try {
       ['film', `films/${films[0].slug}/`],
       ['film-second', `films/${films[1].slug}/`],
       ['principles', 'principles/'],
+      ['image-credits', 'image-credits/'],
     ]) {
       const response = await page.goto(root + route);
       await page.evaluate(() => document.fonts.ready);
+      const imageErrors = await page
+        .locator('.poster-art img')
+        .evaluateAll(async (images) => {
+          await Promise.all(
+            images.map(async (img) => {
+              img.loading = 'eager';
+              try {
+                await img.decode();
+              } catch {
+                /* Report below. */
+              }
+            }),
+          );
+          return images
+            .filter((img) => !img.complete || !img.naturalWidth)
+            .map((img) => img.src);
+        });
+      for (const src of imageErrors)
+        report.failures.push(`${name} ${label}: broken poster ${src}`);
       assert.equal(response.status(), 200);
+      if (label === 'library')
+        assert.equal(
+          await page.locator('.poster-art img').count(),
+          films.length,
+        );
       const overflow = await page.evaluate(
         () => document.documentElement.scrollWidth > innerWidth,
       );

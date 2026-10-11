@@ -1,0 +1,69 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { films, url } from '../data/catalogue';
+import { posters } from '../data/posters';
+---
+
+<Layout
+  title="Poster credits"
+  description="Sources and acknowledgements for the Library's film posters and release covers."
+>
+  <section class="wrap section prose">
+    <span class="eyebrow">The images in the Library</span>
+    <h1>Poster credits</h1>
+    <p class="lead">
+      Release posters and video covers help identify the films discussed in our
+      reviews.
+    </p>
+    <p>
+      We reproduce small, uncropped images alongside editorial discussion.
+      Artwork remains the property of its respective rights holders. A source
+      link is an acknowledgement, not a claim that an image is freely licensed.
+      Where a source identifies public-domain status, its jurisdiction and
+      stated basis are recorded below.
+    </p>
+    <p>
+      For copyrighted artwork, the Library relies on limited use for
+      identification, criticism and review. This is an editorial assessment of
+      fair use and fair dealing, not a permission grant or a guarantee in every
+      jurisdiction. Images are not offered as print-quality downloads or
+      licensed for onward use. Read the{' '}
+      <a href="https://www.gov.uk/guidance/exceptions-to-copyright">
+        UK guidance
+      </a>{' '}
+      and{' '}
+      <a href="https://www.copyright.gov/fair-use/">
+        US Copyright Office guidance
+      </a>
+      . Rights holders may{' '}
+      <a href={url('corrections/')}>request a correction or removal</a>.
+    </p>
+    {posters.map((poster) => {
+      const film = films.find((f) => f.id === poster.id)!;
+      return (
+        <section id={poster.id} class="aside-block">
+          <h2>
+            <a href={url(`films/${film.slug}/`)}>
+              {film.title} ({film.year})
+            </a>
+          </h2>
+          <p>
+            {poster.kind} · {poster.credit}
+          </p>
+          <p>{poster.sourceRightsStatement}</p>
+          <p>{poster.usageBasis}</p>
+          <p>
+            <a href={poster.sourcePage}>Source page</a>
+            {poster.filePage && (
+              <>
+                {' '}
+                · <a href={poster.filePage}>File record</a>
+              </>
+            )}{' '}
+            · Checked {poster.reviewed}
+          </p>
+        </section>
+      );
+    })}
+  </section>
+</Layout>

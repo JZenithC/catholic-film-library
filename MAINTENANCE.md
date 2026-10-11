@@ -54,3 +54,9 @@ When authentication is unavailable, complete local checks and commits, report th
 - Keep research JSON, source records, asset credits and the lockfile in Git. Retain local backups or a second repository clone; a hosted site is not the source backup.
 - Public JSON metadata is a reusable catalogue export, not a license to third-party artwork. Internal research exports must retain status and uncertainty so HOLD records cannot be mistaken for recommendations.
 - Record substantial data, policy and behavior changes in CHANGELOG.md. Document remaining research and hosting limitations honestly.
+
+## Posters and release covers
+
+The asset manifest is `src/data/posters.json`; local files are in `public/posters/`. Verify a source image against the exact film, year, cast and director before adding it. Record the source page, image URL, artist/distributor credit, accurate poster/DVD/VHS kind, identity evidence and rights statement. Never describe a source's Wikipedia fair-use rationale as permission for this site. Preserve a separate contextual use assessment in `research/poster-rights-review.json`.
+
+Serve a compressed image no larger than 500×750 pixels, preserve the full composition and never upscale. Run `npm run catalogue` after adding or removing a manifest record so the film's image-rights description remains consistent. Validation checks path safety, metadata, dimensions and asset existence; browser QA decodes every catalogue poster. Inspect a contact sheet for mismatched remakes, stills, icons and local screening overprints. Current poster coverage is 38/38; intentionally removing an image requires updating that coverage assertion in the browser check. A removed manifest entry automatically selects the title-card fallback.

@@ -1,6 +1,6 @@
 # The Catholic Film Library
 
-A Traditional Catholic Guide to Cinema. An independent static reference library with a pre-conciliar Catholic editorial perspective, original title-card artwork, and research-backed film profiles.
+A Traditional Catholic Guide to Cinema. An independent static reference library with a pre-conciliar Catholic editorial perspective, film posters and release covers, and research-backed film profiles.
 
 Repository: https://github.com/JZenithC/catholic-film-library
 
@@ -25,7 +25,7 @@ The public site is generated in `dist/`. No runtime API, database, analytics or 
 - Browser-local accent-insensitive search; filters for period, decade, country, subject, format, language and collection; deterministic sorting and shareable query URLs.
 - Public metadata export at `catalogue.json`; no internal rejected or pending records in it.
 - Individually attributed source claims and last-review dates on profiles.
-- Original typographic artwork; local SIL OFL fonts. See `IMAGE_CREDITS.md`.
+- Locally hosted, compressed posters and release covers with individual credits; original title-art fallback; local SIL OFL fonts. See `IMAGE_CREDITS.md` and `/image-credits/`.
 
 ## Editorial integrity
 

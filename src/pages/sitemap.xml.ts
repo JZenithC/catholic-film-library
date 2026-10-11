@@ -10,6 +10,7 @@ export const GET = () => {
     'about/',
     'sources/',
     'corrections/',
+    'image-credits/',
     ...films.map((f) => `films/${f.slug}/`),
     ...collections.map((c) => `collections/${c.id}/`),
   ];

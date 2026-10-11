@@ -39,9 +39,10 @@ export const filmSchema = z.object({
   reviewed: z.iso.date(),
   runtime: z.number().positive().optional(),
   featured: z.number().optional(),
-  imageRights: z.literal(
+  imageRights: z.enum([
     'Original Library typographic artwork; no film imagery reproduced.',
-  ),
+    'Poster or release-cover artwork; individual source and editorial-use assessment in image credits.',
+  ]),
 });
 export function validateCatalogue(films, collections) {
   const errors = [];

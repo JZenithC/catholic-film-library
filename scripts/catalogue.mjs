@@ -1,5 +1,6 @@
 import { readFile, writeFile } from 'node:fs/promises';
 const inventory = JSON.parse(await readFile('research/inventory.json', 'utf8'));
+const posters = JSON.parse(await readFile('src/data/posters.json', 'utf8'));
 const priority = [
   'the-song-of-bernadette',
   'monsieur-vincent',
@@ -54,8 +55,9 @@ const films = inventory
     if (out.format === 'Documentary feature') out.format = 'Documentary';
     out.historicalPeriod =
       periods[out.historicalPeriod] ?? out.historicalPeriod;
-    out.imageRights =
-      'Original Library typographic artwork; no film imagery reproduced.';
+    out.imageRights = posters.some((p) => p.id === out.id)
+      ? 'Poster or release-cover artwork; individual source and editorial-use assessment in image credits.'
+      : 'Original Library typographic artwork; no film imagery reproduced.';
     const index = priority.indexOf(out.slug);
     if (index >= 0) out.featured = index;
     return out;

@@ -1,28 +1,54 @@
 ---
+import { posterFor } from '../data/posters';
+import { url } from '../data/catalogue';
 interface Props {
+  filmId?: string;
   title: string;
   year?: number;
   variant?: number;
   large?: boolean;
+  priority?: boolean;
 }
-const { title, year, variant = 0, large = false } = Astro.props;
+const {
+  filmId,
+  title,
+  year,
+  variant = 0,
+  large = false,
+  priority = false,
+} = Astro.props;
+const poster = posterFor(filmId);
 ---
 
-<div
-  class:list={[
-    'artwork',
-    `art-${variant % 5}`,
-    { large, dense: title.length > 28 },
-  ]}
-  aria-hidden="true"
->
-  <div class="art-frame"></div>
-  <div class="art-arch"></div>
-  <span class="art-star">✦</span>
-  <div class="art-type">
-    <span class="art-label">The Catholic Film Library</span>
-    <span class="art-title">{title}</span>
-    <span class="art-year">{year}</span>
+{poster ? (
+  <div class:list={['poster-art', { large }]}>
+    <img
+      src={url(poster.src)}
+      width={poster.width}
+      height={poster.height}
+      alt={`${title} (${year}) — ${poster.kind}`}
+      loading={priority ? 'eager' : 'lazy'}
+      fetchpriority={priority ? 'high' : 'auto'}
+      decoding="async"
+    />
   </div>
-  <span class="art-foot">A study in faith & cinema</span>
-</div>
+) : (
+  <div
+    class:list={[
+      'artwork',
+      `art-${variant % 5}`,
+      { large, dense: title.length > 28 },
+    ]}
+    aria-hidden="true"
+  >
+    <div class="art-frame"></div>
+    <div class="art-arch"></div>
+    <span class="art-star">✦</span>
+    <div class="art-type">
+      <span class="art-label">The Catholic Film Library</span>
+      <span class="art-title">{title}</span>
+      <span class="art-year">{year}</span>
+    </div>
+    <span class="art-foot">A study in faith & cinema</span>
+  </div>
+)}

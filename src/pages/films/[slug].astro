@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import Artwork from '../../components/Artwork.astro';
 import FilmCard from '../../components/FilmCard.astro';
+import { posterFor } from '../../data/posters';
 import { films, collections, url, type Film } from '../../data/catalogue';
 export function getStaticPaths() {
   return films.map((film) => ({
@@ -13,6 +14,7 @@ interface Props {
   film: Film;
 }
 const { film } = Astro.props;
+const poster = posterFor(film.id);
 const related = films
   .filter((f) => f.id !== film.id)
   .map((f) => ({
@@ -37,6 +39,7 @@ const movie = {
   countryOfOrigin: film.countries.map((name) => ({ '@type': 'Country', name })),
   inLanguage: film.languages,
   description: film.summary,
+  image: poster ? new URL(url(poster.src), Astro.site).href : undefined,
   url: new URL(url(`films/${film.slug}/`), Astro.site).href,
 };
 ---
@@ -63,6 +66,8 @@ const movie = {
         </div>
       </div>
       <Artwork
+        filmId={film.id}
+        priority
         title={film.title}
         year={film.year}
         variant={films.indexOf(film)}
@@ -164,10 +169,25 @@ const movie = {
             <br />
             {film.reviewed}
           </p>
-          <p>
-            Artwork: original Library title design. It is not an official film
-            poster.
-          </p>
+          {poster ? (
+            <div class="poster-credit">
+              <p>
+                {poster.kind}: {poster.credit}
+              </p>
+              <a
+                href={poster.filePage || poster.sourcePage}
+                rel="noopener noreferrer"
+              >
+                Image source
+              </a>
+              <span aria-hidden="true"> · </span>
+              <a href={url(`image-credits/#${film.id}`)}>
+                Image credits &amp; use
+              </a>
+            </div>
+          ) : (
+            <p>Original Library title artwork.</p>
+          )}
           <a href={url('corrections/')}>Suggest a correction →</a>
         </div>
         <div class="aside-block">
