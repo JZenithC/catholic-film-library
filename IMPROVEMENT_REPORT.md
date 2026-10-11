@@ -1,6 +1,6 @@
 # Improvement report — editorial and design pass
 
-Date: 11 October 2026. Branch: `improve/editorial-pass`. Status: **not committed, not pushed, not deployed.** The public site still shows the earlier version. For the deployment steps, see the last section.
+Date: 11 October 2026. Branch: `improve/editorial-pass`. Status: **committed on this branch; not pushed or deployed.** The public site still shows the earlier version. For the deployment steps, see the last section.
 
 This report is for the Founder. It covers what changed and why, before and after counts, the films added, removed and moved to the grey area, the rulings made, and what remains open. All figures come from the data files: "before" is the last commit (`2997caf`), "after" is the working tree on this branch.
 
@@ -237,7 +237,7 @@ The workflow's stale-data check (`git diff --exit-code -- src/data research`) on
 
 ## How to deploy
 
-Nothing has been committed or pushed. Only a push to `main` deploys.
+The work is committed on `improve/editorial-pass` but not pushed. Only a push to `main` deploys.
 
 1. Review the changes on `improve/editorial-pass`. The decisions listed under "Rulings" are the ones that most need the Founder's confirmation.
 2. Run `npm run catalogue`, then commit on the branch, including the generated files in `src/data/` and `research/`.
