@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-11T18:31:25.940Z",
+  "environment": "Public GitHub Pages deployment; Lighthouse simulated mobile lab sample, not a field metric.",
+  "results": [
+    {
+      "page": "home",
+      "scores": {
+        "performance": 0.99,
+        "accessibility": 1,
+        "best-practices": 1,
+        "seo": 1
+      },
+      "metrics": {
+        "FCP": "0.8 s",
+        "LCP": "1.4 s",
+        "CLS": "0"
+      },
+      "issues": [
+        {
+          "id": "total-blocking-time",
+          "title": "Total Blocking Time",
+          "displayValue": "100 ms"
+        },
+        {
+          "id": "max-potential-fid",
+          "title": "Max Potential First Input Delay",
+          "displayValue": "100 ms"
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "displayValue": "Est savings of 118 KiB"
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree"
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render-blocking requests"
+        }
+      ]
+    },
+    {
+      "page": "library/",
+      "scores": {
+        "performance": 1,
+        "accessibility": 1,
+        "best-practices": 1,
+        "seo": 1
+      },
+      "metrics": {
+        "FCP": "1.2 s",
+        "LCP": "1.7 s",
+        "CLS": "0"
+      },
+      "issues": [
+        {
+          "id": "first-contentful-paint",
+          "title": "First Contentful Paint",
+          "displayValue": "1.2 s"
+        },
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "displayValue": "1.7 s"
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "displayValue": "Est savings of 148 KiB"
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree"
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render-blocking requests"
+        }
+      ]
+    }
+  ]
+}

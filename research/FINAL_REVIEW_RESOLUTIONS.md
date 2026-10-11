@@ -10,6 +10,7 @@ The independent reports record findings against intermediate snapshots. This fil
 - Duns Scotus uses the primary festival catalogue's 2010 identification, with the 2011 award/catalogue distinction and the unverified exact first-release date disclosed. The public fact label is “Year,” avoiding a false claim of an exact release date for every production.
 - No Greater Love explicitly identifies the prioress's speculation about unbelief and death, explains its context within the Resurrection structure, and limits the recommendation to prepared adults. It and Into Great Silence are not described as records of universally pre-conciliar practice.
 - Rai primary sources supply Don Bosco's original title, 2004 television identity and broadcast dates; BFI corroborates No Greater Love's identity.
+- Ten final metadata patches added edition-aware language evidence and corrected original-title fields. The patch evidence is preserved in `metadata-corrections.json` and merged into the canonical inventory; sources do not conflate an English dub with an original language.
 - Stronger source-based reviews resolved Un Dios prohibido and The War of the Vendée. The latter's composite events and contested historical interpretation are disclosed. Quo Vadis remains HOLD with a specific question about moral framing.
 - Several failed citation URLs were replaced with live institutional records or removed when adequate remaining evidence existed. HTTP restrictions and timeouts are recorded separately from confirmed dead links.
 

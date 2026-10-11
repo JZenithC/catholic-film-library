@@ -5,8 +5,10 @@
 ## Publication
 
 - Repository: https://github.com/JZenithC/catholic-film-library
-- Configured Pages address: https://jzenithc.github.io/catholic-film-library/
-- Hosting verification: pending the first deployment at the time of this source commit. This section will be updated after an actual public HTTP/browser check.
+- Verified public website: https://jzenithc.github.io/catholic-film-library/
+- Product commit: `74428c4b9812eebca27bb2dcbae63e459b3ad3ad`.
+- GitHub Actions build and deployment both succeeded: https://github.com/JZenithC/catholic-film-library/actions/runs/38164061144 . The public homepage was also inspected in the authenticated desktop browser.
+- Hosted verification: 67 sitemap/data/robots/social-image URLs returned HTTP 200. Eight desktop/phone page checks passed axe scans with zero detected violations, no page errors, failed page assets or horizontal overflow. Search query refresh returned the expected three Bernadette profiles. An invented route returned the Library's custom 404 with HTTP 404. See `research/hosted-verification.json`.
 
 ## Catalogue and coverage
 
@@ -30,7 +32,8 @@ Search supports accents, original and alternative titles and thematic metadata. 
 - Production build: 65 pages. Internal link/asset check: 2,590 references pass with the GitHub Pages base path.
 - Production-build Playwright checks: desktop 1440×1000, tablet 820×1180, phone 390×844. Eighteen page/viewport axe scans: zero detected violations, horizontal overflows or title-card crowding failures. Search, query refresh, all seven filters, sorting, reset, empty results, mobile navigation and no-JavaScript content passed. See `research/browser-report.json`.
 - Visual inspection covered desktop/tablet/mobile home, library, collection and film layouts. Small-text contrast, long cover titles, tablet column widths and heading order were corrected. Automated checks do not certify complete accessibility or substitute for screen-reader/user testing.
-- Local simulated-mobile Lighthouse: homepage performance 99, catalogue 97; accessibility and best practices 100 on both; CLS zero. These are lab samples, not real-user measurements. The local SEO score of 92 reflected the preview origin's robots route; hosted verification is recorded separately when available. See `research/performance-report.json`.
+- Local simulated-mobile Lighthouse: homepage performance 99, catalogue 97; accessibility and best practices 100 on both; CLS zero. These are lab samples, not real-user measurements. The local SEO score of 92 reflected the preview origin's robots route. See `research/performance-report.json`.
+- Public-site simulated-mobile Lighthouse: homepage performance 99, catalogue 100; accessibility, best practices and SEO 100 on both. Homepage LCP 1.4 seconds, catalogue 1.7 seconds; CLS zero on both. These are individual lab samples, not guarantees for every connection/device. GitHub Pages controls response cache lifetimes. See `research/hosted-performance.json`.
 - External reference probe: 141 public-profile URLs; 124 returned successful HTTP responses, 13 returned 403 restrictions and four had network/timeout failures. No remaining 404 response in that probe. Those 17 URLs are unresolved by the automated probe, not certified live. Research access and source-attribution records remain separate from HTTP availability. See `research/external-link-check.json`.
 
 ## Design and licensing
