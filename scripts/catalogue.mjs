@@ -66,6 +66,8 @@ const PROSE = [
   'inclusion',
   'themes',
   'history',
+  'production',
+  'doctrine',
   'liberties',
   'advisories',
 ];

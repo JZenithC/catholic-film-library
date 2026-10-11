@@ -34,6 +34,11 @@ export interface Film {
   inclusion: string;
   themes: string;
   history?: string;
+  production?: string;
+  doctrine?: string;
+  cast?: { name: string; role?: string }[];
+  crew?: { job: string; names: string[] }[];
+  suitability?: { age: 'All ages' | '8+' | '12+' | '15+' | 'Adults'; note: string };
   liberties?: string;
   advisories: string;
   sources: Source[];

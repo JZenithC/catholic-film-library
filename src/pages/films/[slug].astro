@@ -76,11 +76,13 @@ const language =
       : '';
 const facts: [string, string][] = [
   [film.directors.length > 1 ? 'Directors' : 'Director', film.directors.join(', ')],
+  ...(film.crew ?? []).map((c): [string, string] => [c.job, c.names.join(', ')]),
   ['Year', String(film.year)],
   [film.countries.length > 1 ? 'Countries' : 'Country', film.countries.join(', ')],
   [film.languages.length > 1 ? 'Languages' : 'Language', language],
   ['Format', film.runtime ? `${film.format}, ${film.runtime} min` : film.format],
   ['Also known as', alsoKnownAs.join('; ')],
+  ['Age guidance', film.suitability?.age ?? ''],
 ];
 
 const alternateName = [
@@ -97,6 +99,7 @@ const movie: Record<string, unknown> = {
   alternateName,
   dateCreated: String(film.year),
   director: film.directors.map((name) => ({ '@type': 'Person', name })),
+  actor: (film.cast ?? []).map((c) => ({ '@type': 'Person', name: c.name })),
   countryOfOrigin: film.countries.map((name) => ({ '@type': 'Country', name })),
   inLanguage: film.languages,
   description: film.summary,
@@ -213,10 +216,26 @@ const claims = (c: string[] | string) => (Array.isArray(c) ? c.join('; ') : c);
         <h2>The faith in the film</h2>
         {paragraphs(film.themes).map((p) => <p>{p}</p>)}
         {
+          film.doctrine && (
+            <>
+              <h2>Theological notes</h2>
+              {paragraphs(film.doctrine).map((p) => <p>{p}</p>)}
+            </>
+          )
+        }
+        {
           film.history && (
             <>
-              <h2>The history</h2>
+              <h2>The history behind it</h2>
               {paragraphs(film.history).map((p) => <p>{p}</p>)}
+            </>
+          )
+        }
+        {
+          film.production && (
+            <>
+              <h2>Making the film</h2>
+              {paragraphs(film.production).map((p) => <p>{p}</p>)}
             </>
           )
         }
@@ -230,6 +249,14 @@ const claims = (c: string[] | string) => (Array.isArray(c) ? c.join('; ') : c);
         }
         <div class="advisory">
           <h2>Before you watch</h2>
+          {
+            film.suitability && (
+              <p class="age">
+                <span class="age-band">{film.suitability.age}</span>
+                {film.suitability.note}
+              </p>
+            )
+          }
           {paragraphs(film.advisories).map((p) => <p>{p}</p>)}
         </div>
         <h2>Sources</h2>
@@ -258,6 +285,21 @@ const claims = (c: string[] | string) => (Array.isArray(c) ? c.join('; ') : c);
                 {filmCollections.map((c) => (
                   <li>
                     <a href={url(`collections/${c.id}/`)}>{c.title}</a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
+        {
+          film.cast && film.cast.length > 0 && (
+            <div>
+              <h2>Cast</h2>
+              <ul class="cast">
+                {film.cast.map((c) => (
+                  <li>
+                    {c.name}
+                    {c.role && <small>{c.role}</small>}
                   </li>
                 ))}
               </ul>

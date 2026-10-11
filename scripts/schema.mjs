@@ -29,6 +29,8 @@ export const MAX_YEAR = new Date().getFullYear() + 1;
 /** Statuses that reach the public site: recommended, and grey-area films. */
 export const PUBLIC_STATUSES = ['PUBLISH', 'GREY'];
 export const GREY_KINDS = ['reservations', 'unverified'];
+/** Age bands for the suitability line on each film page. */
+export const AGE_BANDS = ['All ages', '8+', '12+', '15+', 'Adults'];
 /** Word range for the public grey-area question. */
 export const GREY_QUESTION_WORDS = { min: 40, max: 120 };
 
@@ -43,6 +45,8 @@ const PROSE_FIELDS = [
   'inclusion',
   'themes',
   'history',
+  'production',
+  'doctrine',
   'liberties',
   'advisories',
 ];
@@ -90,6 +94,18 @@ export const filmSchema = z.object({
   inclusion: nonempty,
   themes: nonempty,
   history: z.string().optional(),
+  production: z.string().optional(),
+  doctrine: z.string().optional(),
+  cast: z
+    .array(z.object({ name: nonempty, role: nonempty.optional() }).strict())
+    .optional(),
+  crew: z
+    .array(z.object({ job: nonempty, names: z.array(nonempty).min(1) }).strict())
+    .optional(),
+  suitability: z
+    .object({ age: z.enum(AGE_BANDS), note: nonempty })
+    .strict()
+    .optional(),
   liberties: z.string().optional(),
   advisories: nonempty,
   sources: z.array(sourceSchema).min(2),
@@ -116,7 +132,7 @@ export const hostOf = (value) => {
   }
 };
 const prose = (film) =>
-  [...PROSE_FIELDS.map((k) => film[k]), film.grey?.question]
+  [...PROSE_FIELDS.map((k) => film[k]), film.grey?.question, film.suitability?.note]
     .filter((v) => typeof v === 'string')
     .join(' ');
 export const wordCount = (text) =>

@@ -558,3 +558,10 @@ html:not(.js) .library { grid-template-columns: minmax(0, 1fr); }
 @media (prefers-reduced-motion: reduce) {
   .hero-posters .poster-art, .hero-posters .title-card, .shelf .poster-art, .shelf .title-card { transition: none; }
 }
+
+/* Age guidance and cast */
+.age { display: flex; gap: 12px; align-items: baseline; }
+.age-band { flex: none; font: 700 13px/1 var(--sans); letter-spacing: 0.04em; padding: 6px 9px; border: 1.5px solid var(--red); color: var(--red); border-radius: 3px; }
+.cast li { margin-bottom: 6px; }
+.cast small { display: block; color: var(--muted); font-size: 13px; }
+
