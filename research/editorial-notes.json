@@ -435,9 +435,9 @@
     "updated": "2026-10-11"
   },
   "coronation-fatima": {
-    "notes": "Re-searched 2026-10-11 by every route open to me. Cinemateca programme page reopened: it gives Portugal 1946, 19 min, García Maroto, records the coronation ceremonies \"em presença do Cardeal Livio Mazzella\" (the page itself has the legate's name wrong; it was Benedetto Aloisi Masella), with images of the pilgrimage, the route and the region; screened with Fátima, Terra de Fé! as an M/12 programme on 3 May 2017. Cinemateca digitisation site (digital.cinemateca.pt) search for maroto/coroação/fátima: no results. European Film Gateway Cinemateca record for an undated \"Fátima\" (c.1940) is a different film (views of the shrine). RTP Arquivos: nothing indexed. Santuário de Fátima: no film reference; Voz da Fátima June 1946 describes the ceremony (paper not online in searchable form). DN 2017 and Time Out articles add nothing. Spanish sources on García Maroto (EcuRed, A Mantilha de Beatriz records) do not mention the short. Narration language unknown. Earlier history sources (Wikipedia, CNA) were seen only via search summaries and are dropped; replace with a Santuário de Fátima page on the 1946 coronation if the record is revived. Next step: ask the Cinemateca's ANIM/documentation centre for the catalogue record (producer, sound, narration) or search BNP digital newspapers for May–June 1946 notices.",
-    "posterLead": "No poster known for this short; a frame still from the Cinemateca Portuguesa would be the only option (programme page https://www.cinemateca.pt/programacao.aspx?ciclo=828&id=9418). No public-domain basis established.",
-    "updated": "2026-10-11"
+    "notes": "No new evidence this pass beyond the earlier hold. The subject is plainly acceptable (Fatima approved 1930; coronation by Pius XII's legate). What is missing is any description of how the film treats it. Would settle: Cinemateca Portuguesa catalogue record (Cinemateca Digital) or a screening note; Biblioteca Nacional Digital hemeroteca for May 1946 (Novidades, Diario de Noticias, Voz da Fatima). Not watched.",
+    "posterLead": "None known.",
+    "updated": "2026-10-12"
   },
   "dieu-a-besoin-des-hommes": {
     "notes": "Subtitle check 2026-10-11 (English, rough translation). 00:30:49 absolves Jeanne, who thinks she is dying. 01:01:20-01:02:06 rehearses the Canon to 'This is my body' over his hosts, prompted ('You know the beginning, up to the Consecration. Continue.'); 01:02:51 gendarmes arrive; 'I will not say Mass.' 01:09:23 curé: 'you do not know what is a sacrilege'; 01:09:30 Thomas: 'The good Lord has avoided it.' 01:15:44 'a parish priest, we must obey.' 01:21:50 full absolution formula over Joseph, dying after hanging himself. 01:27:59 'They will not come' (to Mass); 01:29:28 curé: 'Pagans, savages!' 01:33:23 'We will try to make us forgive', then all to sea. Going to Mass at the end is NOT confirmed. EDITOR: REJECT is arguable (sympathetic simulated absolution and an interrupted attempt to consecrate).",
@@ -685,9 +685,9 @@
     "updated": "2026-10-11"
   },
   "jesus-living-in-mary-life-of-montfort": {
-    "notes": "Routes tried: web searches for the title with VHS/videorecording/ISBN (results dominated by the Montfortian spirituality handbook of the same name); Open Library ISBN lookup (404); Google Books API (rate-limited); Amazon VHS page (search snippet shows Ignatius Press VHS, ISBN 091098459X; page returned HTTP 500, so not cited); a YouTube upload described as recorded off EWTN exists but is unofficial and was not used. No transcript, subtitle text or review found. Montfort was canonised in 1947 (beatified 1888), so rule (a) does not apply. The film's reliance on interviews with present-day members of the Company of Mary is the main rule (b) risk: if those interviews present the post-conciliar order as his exemplary heirs, REJECT would be appropriate; if they are limited to biography, GREY/unverified. Keep distinct from the companion spirituality documentary. 'Hosted by Fr Patrick Gaffney' comes from one retailer; the Montfortian scholar J. Patrick Gaffney SMM edited the English handbook, so this may be confusion; unverified.",
-    "posterLead": "Ignatius Press / Montfort Publications VHS or DVD sleeve; no edition or artwork located. No public-domain basis.",
-    "updated": "2026-10-11"
+    "notes": "Resolved from HOLD. New route: yt-dlp English auto-captions of a full-length copy uploaded to YouTube by \"CUB3 ROOT ACAD3MY\" (description: \"a rare documentary I copied off of EWTN\"). The uploader's copy is unauthorised, so I used it only to read the text, no video downloaded; the editor may prefer not to cite it. Rule (b) check: zero hits for Vatican II, Council, Pope John Paul, Mother Teresa, ecumenism, dialogue; interviewees appear to be Montfort Missionaries speaking in modern terms (\"challenges the world today\", \"the church of the 21st century\", anawim/the poor), a mild modern gloss. The title on the broadcast is \"Jesus Living in Mary\", not \"Through Mary\" (the EWTN newsletter). Year 1997 is an ESTIMATE from the 888 toll-free prefix at the end (888 numbers date from 1996) and the book copyright of 1994; the editor should replace it if a catalogue record turns up. Countries: filmed in France, US producer presumed (Montfort Missionaries, Bay Shore NY); unconfirmed. Not watched. Montfort was beatified 1888 and canonised 1947, so rule (a) does not apply.",
+    "posterLead": "Montfort Missionaries/Ignatius VHS or DVD sleeve; not located. No public-domain basis. Do not download.",
+    "updated": "2026-10-12"
   },
   "john-of-the-cross-1997": {
     "notes": "Routes: Spirituality & Practice live page is behind Cloudflare; read via the Wayback capture (archive.org availability API). IMDb tt14450612 could not be read (empty 202 response), so the Defilippis directing credit from the old record is unconfirmed and not used; two independent listings name K. C. Lynch. A library catalogue record (trccloud.hk OPAC 31391) reportedly gives Ignatius Press 1997, producer Mark Dowsett, screenplay Patti Defilippis and K. C. Lynch, photography Carl Davis; blocked by Cloudflare, so not cited. Format: this was a direct-to-video release; 'Television film' is the closest enum value. No transcript or subtitle text was found online. History paragraph rests on standard biography, not a cited source. The S&P review reads the saint through Ronald Rolheiser; that is the reviewers' framing, not evidence about the film.",
@@ -1420,9 +1420,9 @@
     "updated": "2026-10-11"
   },
   "los-cristeros-1947": {
-    "notes": "Not previously catalogued (inventory has for-greater-glory 2012 REJECT). TheTVDB (via search snippet) gives a premiere of 19 December 1947 and says disagreements over the new laws divide the hero's family. Not in the Legion of Decency 1936-59 list. FilmAffinity blocked (403). Galindo calls the cast Aguilar/Junco/del Llano; IMDb (per search) has Sara García as Doña Engracia, Aguilar as Felipe, Junco as Policarpo Bermúdez. The stance of José Guadalupe de Anda's source novel (Los cristeros, 1937) could indicate the film's, but I could not open a source on it (a UNAM thesis PDF failed to extract); the novel itself is a further route. Needs subtitles/dialogue: whether the Cristeros and the priests are shown sympathetically, and whether the ending vindicates or condemns the rising. No viewing.",
-    "posterLead": "1947 Clasa Films Mundiales one-sheet; not checked.",
-    "updated": "2026-10-11"
+    "notes": "Resolved from HOLD (stance unknown). New sources opened: Gutierrez Vega (Academia Mexicana de la Lengua, 2013) and Sendros (Criterio 2013): they disagree. Sendros's own dates are sloppy (he gives 1946; calls the remake 1970) and the \"deceived by the clergy\" line is second-hand (\"segun resumenes\"), so treat it as unreliable; a popular blog (luisomarnc.wixsite.com/luisgonzalezarriaga/movimiento-cristero-en-el-cine) says the film shows the Cristeros defending their faith at great cost, but I did not cite it. The Academia.edu paper \"La guerra cristera en la cinematografia mexicana: entre el melodrama y el anticlericalismo\" (based on Meyer and Iniguez, La Cristiada en imagenes, Univ. de Guadalajara 2006) returned 403 and would likely settle the stance; the editor should open it. Is the film Catholic-centred? The war is its premise and the family split over the laws is its conflict, so I kept it; if the film turns out to be only a ranch romance with a war backdrop, REJECT (not Catholic-centred). No video found online (only the 1970/72 remake). Year 1947: IMDb/TheTVDB 19 Dec 1947; a Mexican source says 25 Oct 1946 premiere at Cine Insurgentes; unresolved. Not in Legion of Decency list. Not watched.",
+    "posterLead": "1947 Clasa Films Mundiales one-sheet; not located. No public-domain basis.",
+    "updated": "2026-10-12"
   },
   "los-jueves-milagro-1957": {
     "notes": "Subtitle review 2026-10-12 (English subtitles of the Spanish film). Status unchanged (GREY/reservations); record revised. Version: the English-subtitled copy has the pious ending (the Dismas reveal), not Berlanga's original 'Mauro waits in vain'; whether it is the 1959 release or the Filmoteca reconstruction is not stated. The opening narration is a summary-style introduction to the town. The plotters 'cannot confess' (es.wikipedia) is, in the dialogue, a public confession the crowd refuses to believe; it is not sacramental. Don Fidel tells the crowd to come to confession at the proper time (01:19:45). Countries: Basehart and Stoppa suggest an Italian co-production; not confirmed in sources opened, so Spain only. The Valladolid prize is reported only by es.wikipedia; La Cabecita mentions only the CEC prize. The 3R Church rating is from La Cabecita, not from the rating list itself. Not watched.",
@@ -1777,9 +1777,9 @@
     "updated": "2026-10-11"
   },
   "aquellas-palabras-1949": {
-    "notes": "Not previously catalogued. IMDbPro was not opened directly (search-result summary only), so it is listed for cross-check; the editor may drop it. Screened at the Manila Film Festival 2015 (TheTVDB), so a print exists. Promising (Spanish missionary priest, 1949) but the romance strand is unknown. No viewing.",
-    "posterLead": "None found.",
-    "updated": "2026-10-11"
+    "notes": "No new evidence this pass. Would settle: Catalogo de cine espanol (Filmoteca Espanola / ICAA) record, a 1949 review in ABC or Primer Plano via the hemeroteca digital, and any contemporary Spanish Catholic classification. If the priest is the lead and the film is sound, GREY/unverified; if the romance leads, REJECT (not Catholic-centred). Not watched.",
+    "posterLead": "None known.",
+    "updated": "2026-10-12"
   },
   "cardinal-lambertini-1934": {
     "notes": "Not previously catalogued. Follows the precedent of the staged cardinal-lambertini-1954 REJECT (scope). No Catholic rating or review found. No viewing.",
@@ -1857,9 +1857,9 @@
     "updated": "2026-10-11"
   },
   "fatima-no-medio-oriente-1968": {
-    "notes": "A web search found no other source; the Damascus shrine (Melkite? Latin?) could not be identified. An IMDb Pro \"Poder de Fátima\" 1968 TV movie appeared in search results but could not be linked. Poster: none expected.",
-    "posterLead": "None; short documentary.",
-    "updated": "2026-10-11"
+    "notes": "No new evidence this pass. Key risk is rule (b): a 1968 ceremony presided by post-conciliar clergy and possibly with ecumenical framing. Would settle: Cinemateca Portuguesa catalogue; RTP Arquivos; ICA record; Portuguese press of 1968. Not watched.",
+    "posterLead": "None known.",
+    "updated": "2026-10-12"
   },
   "fray-torero-1966": {
     "notes": "Plot (friar enters ring; convent in economic hardship; woman's interest) is from an IMDb synopsis seen in search-result text; the IMDb page itself was not opened. No review or Spanish ecclesiastical rating found. Ruling rests on the premise; reopen only if a rating or review shows a religious centre. Not viewed.",
@@ -1912,9 +1912,9 @@
     "updated": "2026-10-11"
   },
   "jeanne-d-arc-1908-capellani": {
-    "notes": "Not previously catalogued. Search results (not opened: Eastman Museum Pathé list pages; Cologne earlycinema.dch.phil-fak.uni-koeln.de/films/view/7288, which returned 418) indicate 35mm nitrate clippings of a 1909 Capellani Jeanne d'Arc at George Eastman Museum and a German censorship entry of 26 May 1909, 270 m. No review, no scene description. A short Pathé/SCAGL subject; low priority. No viewing.",
-    "posterLead": "None found.",
-    "updated": "2026-10-11"
+    "notes": "Decision rests on clipping-only survival (Eastman Museum record via the earlier pass) and the absence of any description; no new source found this pass. The 1908/1909 dating conflict is unresolved. The editor may prefer to keep it as HOLD pending Bousquet's Pathe catalogue (Henri Bousquet, Catalogue Pathe des annees 1896 a 1914), which would describe the scenes; I judged survival too poor to wait for. Joan was canonised 1920 so rule (a) does not apply.",
+    "posterLead": "None established.",
+    "updated": "2026-10-12"
   },
   "jesus-el-nino-dios-1971": {
     "notes": "Year disputed 1970/1971; kept 1971 per batch. Plot detail (Herod kills children under three; Magi) is from a JustWatch-based search summary; the JustWatch page itself was not informative. No review. Needs subtitles: Annunciation/virginal conception, role of invented Claudio/Voltigo. Sibling jesus-nuestro-senor-1971 was staged in P2-5.",
@@ -1967,9 +1967,9 @@
     "updated": "2026-10-11"
   },
   "la-vie-et-la-passion-de-jesus-christ-1898": {
-    "notes": "Not previously catalogued (inventory has only the Pathé 1903 record; checked titles, original titles and years). Identity from en.wikipedia (which cites the Lumière catalogue, LoC 78710669, Institut Lumière). The LoC item page (loc.gov/item/78710669) returned 403 to the fetcher; editor may open it to add an identity source and a running time. Running time per scene not stated in any source opened: Lumière views were normally under a minute each (general knowledge, not cited in public text beyond \"short\"). Treatment: no review found. Considered PUBLISH on the Méliès 1900 precedent but the content evidence here is only a scene list, so GREY/unverified. Date: the candidate brief mentions 1897; all sources opened give 1898. No viewing.",
-    "posterLead": "No poster known (Lumière views were sold by catalogue). Frame stills may exist on Wikimedia Commons via the Wikipedia article; Lumière films are public domain (Louis Lumière d. 1948, but pre-1929 US public domain). Not checked.",
-    "updated": "2026-10-11"
+    "notes": "Resolved from HOLD (Wikipedia-only). New independent-ish sources opened: the JRFM 2019 volume page (scholarly, production facts only) and Infovaticana 2017 (present-day Catholic outlet; contents/staging). The Library of Congress item page (loc.gov/item/78710669) returned 403 to the fetcher; a search-result summary of it gave directors Georges Hatot and Louis Lumiere, camera Alexandre Promio, and a copy from the Cinematheque francaise collection. I did not cite it as a source because I could not open it; the editor may open it to add a running time. The JRFM page says thirteen tableaux; Wikipedia counts catalogue numbers 933-945 (13 numbers, one missing). Format enum has no \"short\"; \"Silent feature\" is the nearest, as in the earlier pass. Date: all sources say 1898 (earlier candidate note said 1897). Not watched. The Infovaticana article says the digitised copy is online; I did not find its location.",
+    "posterLead": "No poster; Lumiere views were sold by catalogue. A frame still might be on Wikimedia Commons (film in the public domain by age); not checked. Do not download.",
+    "updated": "2026-10-12"
   },
   "la-vie-et-la-passion-de-jesus-christ-1907": {
     "notes": "Not previously catalogued as a separate film: the inventory record the-life-and-passion-of-jesus-christ-1903 (PUBLISH) mentions the 1907 remake only in its history. Identity: Bousquet/Cinema Ritrovato and FilmColors. The candidate listed Zecca as sole director; sources credit Nonguet under Zecca's supervision. Content: only part titles; the Annunciation still is from the Wikipedia caption. Greydanus's Decent Films review covers the 1905 version, not this one. Blot-Wellens's JFP article (2017) not opened; it may describe content. Editor: decide whether to keep this as a separate record or merge into the 1903 record as an alternative version. No viewing.",
@@ -2002,9 +2002,9 @@
     "updated": "2026-10-11"
   },
   "les-apparitions-de-lourdes-1909": {
-    "notes": "Not previously catalogued. Both sources are weak (TMDB user-edited; a popular survey). Possible link: IMDb (via search snippet, not opened) credits an \"Abbé Honoré\" as technical adviser on Pallu's 1929 La Vie merveilleuse de Bernadette; Le Sablais may be the same Lourdes priest-filmmaker. Worth an editor check. No viewing.",
-    "posterLead": "None found.",
-    "updated": "2026-10-11"
+    "notes": "No new evidence this pass. Subject is acceptable (Lourdes; Bernadette canonised 1933). Would settle: BnF or Cinematheque francaise catalogue; Sanctuaires de Lourdes archives; a Pathe/Gaumont catalogue note. If no print is recorded, REJECT as lost. Not watched.",
+    "posterLead": "None known.",
+    "updated": "2026-10-12"
   },
   "les-gueux-au-paradis-1946": {
     "notes": "Not previously catalogued. Legion classification read from SCRATCH\\legion_list.txt (the extracted full text of archive.org motionpicturescl00nati). From a play by Gaston-Marie Martens, dialogue by André Obey (search snippets). No viewing.",
@@ -2027,9 +2027,9 @@
     "updated": "2026-10-11"
   },
   "mariken-van-nieumeghen-1974": {
-    "notes": "The source text (Mariken van Nieumeghen, c. 1515; Gutenberg translation A marvelous history of Mary of Nimmegen, ebook 68434) ends in absolution and penance (search summary: she travels to the archbishop of Cologne and the Pope). Whether the film keeps this is unknown; explicitness of sexual content also unknown. Strong Catholic subject matter (Marian miracle) if faithful; subtitles unlikely to exist. Needs: Dutch reviews. No viewing.",
-    "posterLead": "None checked.",
-    "updated": "2026-10-11"
+    "notes": "Resolved from HOLD by the Pleij review (De Gids 1975, DBNL), summarised by the page-fetch tool because the page is long; I did not read it line by line, so the editor should open it at the Stelling section to confirm. Decisive point: a leading Dutch medievalist says the film removes the religious world. The film is not Catholic-centred in treatment, whatever its source. The ending, as summarised, has Moenen spreading plague and Mariken escaping; I did not see the confession scene mentioned. Not watched.",
+    "posterLead": "EYE Filmmuseum still or Cannes 1975 poster; not located. No public-domain basis.",
+    "updated": "2026-10-12"
   },
   "mi-hijo-ceferino-namuncura-1972": {
     "notes": "Venerable declared 22 June 1972 by Paul VI per a search summary (not an opened page); irrelevant to the ruling. Not viewed.",
@@ -2062,9 +2062,9 @@
     "updated": "2026-10-11"
   },
   "pasigailek-musu-1979": {
-    "notes": "Batch hint HOLD? confirmed. Date conflict: LRT and Araminas filmography say 1978, IMDb 1979 (kept the id from the batch, year 1978). Director credited \"A. Araminas/Aramin\" by LRT, full name Algirdas Araminas confirmed by VLE. Catholic-centred in that the chaplain is the main figure, but whether the film is sympathetic, ironic or propagandist (Soviet-era) is unknown. The LRT video page may carry the film with subtitles. Not watched.",
-    "posterLead": "LRT Mediateka still; no public-domain basis.",
-    "updated": "2026-10-11"
+    "notes": "No new evidence this pass. The film is on the LRT mediateka (lrt.lt) with Lithuanian audio and no transcript that I could read. Year: 1978 per LRT and VLE; IMDb lists a 1979 release; record keeps the 1978 production year though the id says 1979. Would settle: a Lithuanian-speaking reader of the LRT video, or a Lithuanian review. Not watched.",
+    "posterLead": "LRT mediateka thumbnail only; no poster known.",
+    "updated": "2026-10-12"
   },
   "pater-rupert-mayer-2014": {
     "notes": "Rule (a) confirmed. The filmportal URL returned 503 when fetched directly; its content was read through a search summary, so identity details (runtime, premiere) are second-hand. US release 28 May 2015.",
@@ -2112,14 +2112,14 @@
     "updated": "2026-10-11"
   },
   "sor-angelica-1934": {
-    "notes": "Not previously catalogued. Unrelated to Puccini's opera as far as known. The 1954 remake is a possible separate candidate (also no plot found). No viewing.",
-    "posterLead": "n/a.",
-    "updated": "2026-10-11"
+    "notes": "Resolved from HOLD by survival: a Cinemateca Portuguesa / Filmoteca Española statement that the 1934 film is lost (found earlier this pass by search; I did not save its URL, so the editor should re-confirm it in the Filmoteca Espanola catalogue before the REJECT is final). Lost film = REJECT per the instruction. The 1954 remake is a separate record (sor-angelica-1954, still HOLD).",
+    "posterLead": "None; lost film.",
+    "updated": "2026-10-12"
   },
   "sor-angelica-1954": {
-    "notes": "Premise ('Carmela, abandoned by the father of her daughter, enters a religious order and leaves the girl with her family') comes from search summaries of AbandoMoviez (403) and the Enciclopedia del Cine Español blog for the 1934 version; not opened, so not cited. Cinema Nostrum (search summary) calls the 1934 film a tearjerker 'folletín' and says four of eleven reels were found in Portugal in 2015. Whether 1954 follows 1934 closely is unknown. Not watched.",
-    "posterLead": "IFI one-sheet (1954); check todocoleccion.",
-    "updated": "2026-10-11"
+    "notes": "No new evidence this pass. Would settle: La Vanguardia hemeroteca review (IFI was Barcelona-based), Catalogo de cine espanol, or a Spanish Catholic classification of the time (Cine y Pensamiento). The 1934 original is lost (see sor-angelica-1934). Not watched.",
+    "posterLead": "None known.",
+    "updated": "2026-10-12"
   },
   "st-peters-umbrella-1958": {
     "notes": "Film plot assumed to follow the novel; the film page has no plot. Communist-era production (1958). Not watched.",
@@ -2127,9 +2127,9 @@
     "updated": "2026-10-11"
   },
   "sucedio-en-jalisco-1972": {
-    "notes": "Search-result text for IMDb Pro (not opened): 1972 release 27 April, about 100 minutes, cast Rodolfo de Anda, Pedro Armendáriz Jr., Julio Aldama, Jorge Lavat; a DVD blurb puts it at the height of the Mexican civil war with a young doctor and a love triangle. The link to the Cristiada is unconfirmed. Sibling los-cristeros-1947 is also HOLD.",
-    "posterLead": "None.",
-    "updated": "2026-10-11"
+    "notes": "Resolved from HOLD by route: yt-dlp auto-captions (es) of the full copy at ikSzZmyUh3A; cleaned text in scratchpad tools_r3h\\jalisco.txt. Keyword counts: Dios 28, doctor 18, revolucion 7, cura 6, padre 6, Iglesia 2; there is no Cristero rising, no priest character of weight. So not Catholic-centred, whatever the Wikipedia page says about the title. Year conflict: the upload and a Mexican source say 1970; Wikipedia and IMDb say 1972; I kept 1972 from the earlier record. The English Wikipedia article is called Sucedio en Jalisco (Los cristeros), which conflates the 1947 and the later film; the editor may want to check the 1947 record, which I have written as los-cristeros-1947. Not watched.",
+    "posterLead": "Original Mexican poster (De Anda Films, Rodolfo de Anda); not located. No public-domain basis.",
+    "updated": "2026-10-12"
   },
   "the-chaplain-of-san-lorenzo-1953": {
     "notes": "Not previously catalogued. Year conflict: production 1952, premiere 26 Feb 1953; 1953 used. The Lexikon wording on filmdienst.de was last updated 1995; whether it is the original 1953 film-dienst review is unknown, so it is not presented as a pre-1965 judgment. A search summary (not a source opened) mentioned the priest's 'secret affection' for Gilda; de.wikipedia says his daily roses helped drive the marriage to ruin. The public text says only 'unspoken affection' as implied by the roses; dialogue would confirm. Not watched.",
@@ -2137,9 +2137,9 @@
     "updated": "2026-10-11"
   },
   "the-devils-advocate-1977": {
-    "notes": "Not catalogued. Batch hint GREY? changed to HOLD: nothing opened gives the film's ending or any review of the film. Archive.org holds many copies of the novel (e.g. devilsadvocate00west_0) but these are lending-only (full text returned 500/403). The film's trailer is on archive.org (devils-advocate_202107). Needs subtitles (see list). Not watched.",
-    "posterLead": "None sought; an archive.org trailer exists (devils-advocate_202107).",
-    "updated": "2026-10-11"
+    "notes": "Resolved from HOLD. Route: Subtitle Cat page for a YouTube auto-caption (German/English ASR, Spanish translation -es.srt) of the whole film; saved to scratchpad subs/the-devils-advocate-1977/subtitlecat_es.srt. I read the first 14,000 and last 9,000 characters closely and the rest in skim. The translation is machine-made and noisy; named characters are garbled (the painter Nicki, Dr Aldo Meyer, Contessa Anna, the village priest). The film stays close to the novel plot. Judgment call: I did not REJECT because (a) the thesis is not stated approvingly; (b) the pre-conciliar procedure is shown with some care; but the accumulation of clerical concubinage, a gay subplot and a non-believing saint candidate puts it near the \"too grave\" line. If the editor reads the subplots as approving, REJECT would be defensible. Visual treatment of the sensual scenes unknown (dialogue only). No film reviews found beyond the production record; Riddle and Kirkus are for the novel. No Legion/CCC rating (1977). Not watched.",
+    "posterLead": "Archive.org holds a trailer (devils-advocate_202107); no poster lead beyond that. No public-domain basis.",
+    "updated": "2026-10-12"
   },
   "a-la-croisee-des-chemins-1943": {
     "notes": "Not in inventory. Director: priest Jean-Marie Poitevin per USP finding aid and Séquences 2008 (both read); the English Wikipedia infobox lists Paul Guèvremont as director; fr.wikipedia says Guèvremont did mise en scène. I put Poitevin as director and Guèvremont in cast/production. The Morris quote is second-hand via English Wikipedia (original not located). Runtime 77 (fr) vs 97 (en). I have not seen the BAnQ page; no watch field because I have no opened URL. The doctrine paragraph's last sentence (Missions-Étrangères founded to send priests abroad, China first field) is NOT sourced beyond USP's mention of China and should be trimmed if the editor wants only verified claims. Needs subtitles: French; the dialogue on vocation vs marriage, and whether Pauline's love is treated as inferior or as a good.",
@@ -2147,8 +2147,8 @@
     "updated": "2026-10-12"
   },
   "a-vida-de-jesus-cristo-1971": {
-    "notes": "Only one source opened (a stub). From search summaries (not opened): Box Office Mojo and TheTVDB list the cast with Hemir Valvassori, Fernanda Montenegro, Angelito Mello; William Cobbett as producer; 105 minutes; Difilm; description as a record of an open-air staging in São Roque (ES). Not on the Legion list. Survival unknown. Needs subtitles: none until a copy is found.",
-    "posterLead": "No lead found.",
+    "notes": "New this pass: a full-length upload (Canal Memoria, 71 min) that identifies the film as the filmed passion play; yt-dlp returned metadata but no captions (neither manual nor auto Portuguese), so the dialogue is unread. Director credit differs: Wikipedia lists Regattieri; the upload credits Regattieri with the idea and organisation and Willian Gobbett as director. The record keeps Regattieri as given and the editor should decide. Would settle: someone to read or transcribe the Portuguese audio, Fachetti's book, or a 1971 Brazilian review (Hemeroteca Digital, BN). Likely GREY/unverified or PUBLISH once the Gospel fidelity is confirmed; a village passion play is Catholic-centred by nature. Not watched.",
+    "posterLead": "None known.",
     "updated": "2026-10-12"
   },
   "ars-1959": {
@@ -2157,8 +2157,8 @@
     "updated": "2026-10-12"
   },
   "assisi-1932": {
-    "notes": "Survival NOT established: one search plus both Wikipedia pages. The French page's shot-by-shot description and Barbaro's 1936 analysis show the film was seen, but that proves nothing about a print today. Cinematographer differs between fr (Cufaro) and it (Arata) Wikipedia. If a print is found this is a strong candidate: a sound art documentary shown to seven cardinals, likely PUBLISH or GREY unverified.",
-    "posterLead": "None found.",
+    "notes": "Resolved from HOLD (survival unknown). Routes: cinematografo.it technical sheet (opened); fr.wikipedia (opened; no statement on survival); Italian narration captions pulled with yt-dlp from the YouTube upload by Videoteca Michele Patucca (auto-generated Italian captions only, no video downloaded; I read the whole narration, about 4,200 characters). The upload shows a copy survives, but I could not find the archive that holds the original (Cineteca di Bologna holds Blasetti papers; Istituto Luce and Cineteca Nazionale not checked successfully, catalogues blocked). The cinematographer differs between sources (Cufaro vs Arata); cinematografo.it names both. The commentary is by a Dominican according to Wikipedia; the narrator is not named. I have not watched the film. Editor decision: could be PUBLISH if the Barbaro 1936 review (Quadrivio no. 45, p. 5) is accepted as the independent treatment source; I could not see it directly.",
+    "posterLead": "No poster known; the film is a short. A frame grab from the upload would be the only image. Do not download. No public-domain basis established.",
     "updated": "2026-10-12"
   },
   "astataion-ou-le-festin-des-morts-1965": {
@@ -2167,8 +2167,8 @@
     "updated": "2026-10-12"
   },
   "bernadette-1981": {
-    "notes": "Search snippets (IMDb pro tt4974758 \"Bernardette\"; EcuRed Andrea del Boca; franco.wiki) say: 1981, ATC (Argentine state channel), directed by Nicolás del Boca (Andrea's father), Andrea del Boca as Bernadette, writer Alberto Alejandro, listed as a single TV episode in \"Los especiales de ATC\" while a wiki-style source says four one-hour episodes. None of those pages were opened successfully. Content unknown, survival unknown (if no copy survives it is REJECT: lost).",
-    "posterLead": "None.",
+    "notes": "Resolved from HOLD (survival unknown). Route: yt-dlp search of Archivo Prisma (an Argentine TV archive channel): AV-2653 \"Los especiales de ATC. Capitulo: Bernardette [Capitulo 1]\" in parts I and II (about 53 and 58 min) and a 2m45 fragment; I read the auto-generated Spanish captions of parts I and II in full (about 37,000 characters; copies in scratchpad subs/bernadette-1981). I did not find chapters 2-4, so I do not know whether the series is four chapters or a single double-length special; the Wikipedia/IMDb reading of \"four one-hour episodes\" could be wrong. Directed by Nicolas del Boca per Wikipedia/IMDb; not confirmed by the upload. The captions are machine-generated and noisy. The fidelity judgments rest on dialogue only, not images. Possible source: Franz Werfel novel/1943 film (not checked). Rights: Archivo Prisma's status (official archive or fan upload) not confirmed. Rule (b) not triggered by chapter 1. Not watched.",
+    "posterLead": "Archivo Prisma thumbnails only; no poster known. No public-domain basis. Do not download.",
     "updated": "2026-10-12"
   },
   "bienvenido-padre-murray-1964": {
@@ -2177,8 +2177,8 @@
     "updated": "2026-10-12"
   },
   "blessed-the-martyrs-of-compiegne-2025": {
-    "notes": "Identity: EWTN's 'Blessed' is French with English subtitles; the Diocese of Paris video 'La Véritable histoire des Carmélites martyres de Compiègne' may be the original (not confirmed). Candidate's guessed French title 'Bienheureuses' not found. Director/producer unknown. The doctrine definition of a martyr is general, not from an opened source: strike or verify. The 'day before the anniversary' remark in production is an inference from the 17 July 1794 date. Needs subtitles: how the film ends and whether it treats the 2024 canonisation as its climax.",
-    "posterLead": "EWTN program art or the Diocese of Paris/KTO video still; no public-domain basis.",
+    "notes": "Resolved from HOLD (identity incomplete). Route: the full 58-minute edit is on the producer's YouTube channel (De Grand Matin Productions, uploaded 12 Jan 2026); I pulled the French auto-captions with yt-dlp and the channel description (credits: director Francois Lespes; coproduction KTO / De Grand Matin). Whole transcript read for keywords and ends. The French title \"Bienheureuses\" is my guess from the English description; the channel gives the English title \"Blessed: The true story of the Carmelite martyrs of Compiegne\" for the longer film; no French title was shown. Rule (b) closest call: the frame (Pope Francis, equipollent canonisation, modern Carmel, a universalist closing remark) is post-conciliar but incidental to the historical core, which is traditional (offering as victims for peace, Marie of the Incarnation's narrative). If the editor reads the frame as presenting the post-conciliar Church approvingly, REJECT. Rule (a) does not apply: beatified by Pius X in 1906. Countries: France; US dropped (EWTN is only the US broadcaster). Languages: French. The Diocese of Paris video (previous pass) not re-checked; it may be the French broadcast of the same film. Not watched.",
+    "posterLead": "KTO / De Grand Matin Productions key art or YouTube thumbnail; no public-domain basis. Do not download.",
     "updated": "2026-10-12"
   },
   "bruder-klaus-1991": {
@@ -2217,8 +2217,8 @@
     "updated": "2026-10-12"
   },
   "don-lucio-y-el-hermano-pio-1960": {
-    "notes": "Searched: no ending, no review, no Catholic rating (not on the Legion list). Needs subtitles: Don Lucio y el hermano Pío (1960): how does it end; does Lucio repent or the statue's donations reach the orphanage; is Brother Pio treated respectfully or mocked; how much of the film is religious (Mass, prayer, the nuns)? Cast per es.wikipedia: Tony Leblanc, José Isbert, Gracita Morales, José Calvo, Fernando Rey. Producer Arturo González; music Manuel Parada; cinematography Alfredo Fraile.",
-    "posterLead": "No lead found.",
+    "notes": "Resolved from HOLD, but only partly. Routes: Decine21 page (opened; no ending, no religious analysis); the ICAA catalogue page (listed by a search summary, NOT opened - 403 or JS; please open); IMDb premise (\"naive lay brother travels to Madrid to collect alms for his orphanage, meets a small-time swindler on the train\") from search text. A full copy is on archive.org (DonLucioYElHermanoPioZe, mp4/ogv, no subtitles, 500 MB); the brief says not to download video, so I did not. YouTube has only short clips. Clip captions could be tried for tone. Is it Catholic-centred? It is a comedy about a religious almoner and a devotional image; the plot is charity and honesty. That is borderline; I kept it GREY because the friar is a protagonist. If the ending shows no real religious content, the editor may prefer REJECT (not Catholic-centred). The ICAA entry says \"calificacion no disponible\", so no Spanish moral rating of the time was found. Leblanc prize claim comes from a search summary of Spanish Wikipedia, not opened: strike if the editor wants only opened sources. Not watched.",
+    "posterLead": "Original Spanish poster (Nieves Conde, 1960); not located. No public-domain basis.",
     "updated": "2026-10-12"
   },
   "el-cristo-del-oceano-1971": {
@@ -2337,8 +2337,8 @@
     "updated": "2026-10-12"
   },
   "maria-magdalena-pecadora-de-magdala-1946": {
-    "notes": "Not on the Legion list. No synopsis, review or rating found; the unam 'Inflexiones' article (opened as PDF but unreadable) may discuss it. Needs subtitles: María Magdalena: Pecadora de Magdala (1946): is the Magdalene conflated with Mary of Bethany and the sinful woman as in the Latin tradition; is there a romance with Judas or any sensual scene; does Christ speak only Gospel texts; does it survive (Cineteca Nacional / UNAM Filmoteca)? Director Contreras Torres is known for Catholic-themed historical films.",
-    "posterLead": "No lead found.",
+    "notes": "Resolved from HOLD. Routes: (1) Spanish auto-captions of a full-length YouTube upload (Claudio Lopez; two other copies exist), fetched with yt-dlp, whole film read (the captions are noisy and Reina-Valera-like in diction, e.g. a \"perdónanos\" that should be \"perdónalos\", ignore); (2) the UNAM Inflexiones 2025 essay, which gives the opening dedication and a scene-by-scene description. The essay is a literary-studies piece pairing the film with Mendiola's poem and reads Magdalene as Jesus' wisdom-partner in gnostic terms; I used it for description only and did not adopt that reading. The essay misdates the film (1943 / 1945 in different places); the film is 1945 shot, 10 Oct 1946 release. Still unknown: visual staging of the courtesan scenes (dress, dance), censorship or Church reaction in 1946, and survival of a clean print. The uploader channels are unofficial; the editor may prefer not to cite the YouTube copy. Not watched. Not on the Legion of Decency 1936-59 list (previous pass). If the editor judges the pagan prologue acceptable colour, PUBLISH is possible, but no independent review of the film's treatment exists.",
+    "posterLead": "Original Mexican one-sheet or lobby card (Contreras Torres / Medea de Novara); not located. No public-domain basis.",
     "updated": "2026-10-12"
   },
   "mass-of-the-ages": {
@@ -2372,8 +2372,8 @@
     "updated": "2026-10-12"
   },
   "redenzione-1919": {
-    "notes": "Survives in part only (about 25 min of an 80-minute film per the Cineteca di Milano event listing). Content beyond the one-line plot is not established. Not a rejection: the subject (Magdalene's conversion, Christ as a character) is Catholic-centred, but nothing says how the profane section is shot. Could become GREY unverified if the main editor wants a Magdalene silent in the catalogue; I held it because the surviving material is a fragment and I could not describe it.",
-    "posterLead": "None found.",
+    "notes": "Decision rests on the earlier-pass evidence (Cineteca di Milano screening listing, 25 minutes of 80) and on the lack of any description. I found nothing new. The editor may reopen it if the Cineteca di Milano or Mazzucco's book on Karenne (Silenzio, 2025) describes the fragments. The earlier hold said the profane part dominates; this is an inference from the title of the second part, not a viewing.",
+    "posterLead": "None established.",
     "updated": "2026-10-12"
   },
   "risen-2016": {
@@ -2387,8 +2387,8 @@
     "updated": "2026-10-12"
   },
   "saint-dominic-speaking-with-god-and-of-god-2024": {
-    "notes": "Only EWTN pages. Needs subtitles/transcript for commentators. Doctrine and history lean on Wikipedia 'Saint Dominic' (cross-check). An earlier note in my draft about a Dominican motto was struck as unsourced.",
-    "posterLead": "EWTN program key art (rights-holder); none sourced.",
+    "notes": "No new evidence this pass. Rule (b) risk: a 2024 EWTN production may use present-day Dominicans or post-conciliar Church figures as speakers; the transcript would show this. Dominic canonised 1234, so rule (a) does not apply. Would settle: EWTN broadcast captions, the Dominican Province press release, or the credits. Not watched.",
+    "posterLead": "EWTN program artwork; no permission implied. Do not download.",
     "updated": "2026-10-12"
   },
   "saint-joan-1967": {
@@ -2407,13 +2407,13 @@
     "updated": "2026-10-12"
   },
   "san-sebastiano-1911": {
-    "notes": "Survival NOT established; no Silent Era, archive or festival record found in several searches. Box Office Mojo lists 'St. Sebastian (1911)' with Santos and Wiseman (Fabiola) but that gives no holdings. Content per the candidate note: Roman tribune Sebastian, survives the arrows, martyred; after Wiseman's Fabiola.",
-    "posterLead": "None found.",
+    "notes": "Resolved from HOLD by survival: the Durham thesis (full text read via pymupdf extraction, copy in C:\\Users\\dayof\\r3yt\\durham) discusses the Cines San Sebastiano only from press notices and treats it as lost; I found no archive holding. Lost film = REJECT per the instruction. Caveat: the thesis states loss as a finding of its own survey, not a certified archive negative search, so the editor may keep a note. Possible new candidate: Milano Films, San Sebastiano (dir. Ugo De Liguoro, 1911), reported as held by Eye Filmmuseum; not opened or assessed this pass.",
+    "posterLead": "None; lost film. No image established.",
     "updated": "2026-10-12"
   },
   "santa-cecilia-1911": {
-    "notes": "Survival NOT established. Searched: Silent Era (no entry found), Italian Wikipedia list of 1911 films (not listed), general searches (nothing on holdings). A search summary said a UCL/BFI 'Silent Antiquity' workshop (Bologna, 25 June 2025) mentioned Santa Cecilia (1911, Cines, Enrique Santos) among BFI-unique prints, but the UCL pages returned 403 and the Bologna programme PDF is image-only, so that is UNVERIFIED. If it is right, a BFI print exists and the film could be re-ruled quickly (likely GREY unverified or PUBLISH-track, subject is a martyr drama with a convert husband). Worth asking the main editor to look at the PDF https://corsi.unibo.it/magistrale/ScienzeStoricheOrientalistiche/bacheca/silent-antquity-prints-unique-to-the-bfi-natonal-archive/bologna-workshop.pdf or the BFI Collections Search for 'Santa Cecilia' 1911.",
-    "posterLead": "None found.",
+    "notes": "Route: Durham thesis PDF (full text read, pp. 122-125) and the Bologna/UCL workshop programme (image-heavy PDF, text extracted). The thesis settles survival, which the earlier pass could not: BFI copy C-24913. I have not watched it. The thesis is a doctoral thesis, so independent and substantive, but I did not locate a Catholic-office rating (none expected for 1911). Runtime: Italian Wikipedia says about 21 minutes at 16 fps; the BFI copy is shorter (916 ft); I left runtime out. Editor to decide whether the public page should say how a viewer can see it (BFI Player? archive screening?) - I could not confirm any online availability. Sibling record san-sebastiano-1911 (Cines) is lost per the same thesis.",
+    "posterLead": "No poster known. Possible still from BFI Collections Search (record for ref. C-24913) or a frame grab from the BFI screening; no public-domain basis established beyond age (1911 Italian production; rights holder unclear). Do not download.",
     "updated": "2026-10-12"
   },
   "santiago-apostol-2017": {
@@ -2467,8 +2467,8 @@
     "updated": "2026-10-12"
   },
   "the-passion-of-saint-edmund-campion-2022": {
-    "notes": "All evidence is EWTN's own listing. A search turned up a third-party database mirror listing Ellis J. Wells as Campion; unverified, not used. Do not confuse with the January 2025 short from 'Catholic Stuff' (Exaudi). Runtime conflict: 1h21m vs 90 min on one EWTN TV page. Needs subtitles/transcript to check the interpretive voice: modern clergy commentary? how the Reformation is presented? The last production sentence (no review in the press) is a negative claim from limited searching; strike if unwanted.",
-    "posterLead": "EWTN program key art (rights-holder); no public-domain basis. A portrait of Campion from Wikimedia Commons would be a stopgap.",
+    "notes": "New this pass: two EWTN YouTube clips (h9uL_4sb2HY promo, xxlG9Ti6Chc scene), captions read in full (about 900 characters), both from the broadcaster so not independent. They show the film dramatises the trial and the \"in that faith\" speech and nothing contrary to the sources. Rule (b): no post-conciliar content in the clips; unknown for the rest. Would settle: full captions of the EWTN broadcast of 1 December 2022, DVD credits, or an independent review. Likely GREY/unverified once credits and content are confirmed. Not watched.",
+    "posterLead": "EWTN DVD artwork; no permission implied. Do not download.",
     "updated": "2026-10-12"
   },
   "the-passion-play-of-oberammergau-1898": {

@@ -36,7 +36,29 @@
       "dates": "1844–1879",
       "feast": "02-18",
       "feastNote": "Not on the 1962 General Calendar. Kept on 18 February, as a feast of the third class, in France and Canada; the Roman Martyrology gave 16 April, the day of her death.",
-      "status": "Canonised by Pius XI in 1933"
+      "status": "Canonised by Pius XI in 1933",
+      "readings": [
+        {
+          "title": "Our Lady of Lourdes",
+          "author": "Henri Lasserre",
+          "year": 1869,
+          "url": "https://archive.org/details/ourladyoflourdes00lassuoft",
+          "note": "The apparitions and early cures, in the 1870 English translation."
+        },
+        {
+          "title": "Bernadette (Sister Marie-Bernard): the Sequel to \"Our Lady of Lourdes\"",
+          "author": "Henri Lasserre",
+          "year": 1882,
+          "url": "https://archive.org/details/BernadetteTheSequelToOurLadyOfLourdes",
+          "note": "Her later life as a religious at Nevers."
+        },
+        {
+          "title": "Catholic Encyclopedia: Lourdes, Notre-Dame de",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/09389b.htm",
+          "note": "The apparitions of 1858 and the shrine, with the inquiry."
+        }
+      ]
     },
     {
       "name": "St Joan of Arc",
@@ -74,7 +96,29 @@
       "dates": "c. 1412–1431",
       "feast": "05-30",
       "feastNote": "Not on the 1962 General Calendar. Kept on 30 May in France, where she is secondary patroness, and listed in the 1962 Missal's supplement of Masses for certain places.",
-      "status": "Canonised by Benedict XV in 1920"
+      "status": "Canonised by Benedict XV in 1920",
+      "readings": [
+        {
+          "title": "The Retrial of Joan of Arc",
+          "author": "Regine Pernoud",
+          "year": 1955,
+          "url": "https://archive.org/details/retrialofjoanofa00pern",
+          "note": "Witness testimony from the rehabilitation trial, 1450-1456."
+        },
+        {
+          "title": "The Story of Joan of Arc",
+          "author": "Andrew Lang",
+          "year": 1906,
+          "url": "https://archive.org/details/storyofjoanofarc00langiala",
+          "note": "Life drawn from the trial and rehabilitation records."
+        },
+        {
+          "title": "Catholic Encyclopedia: Joan of Arc",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/08409c.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Francis of Assisi",
@@ -107,7 +151,35 @@
       "dates": "c. 1181–1226",
       "feast": "10-04",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Gregory IX in 1228"
+      "status": "Canonised by Gregory IX in 1228",
+      "readings": [
+        {
+          "title": "The Life of St Francis of Assisi",
+          "author": "St Bonaventure",
+          "year": 1263,
+          "url": "https://archive.org/details/lifeofstfranciso00bona",
+          "note": "The order's official life, from the Legenda Maior."
+        },
+        {
+          "title": "The Little Flowers of St Francis",
+          "year": 1370,
+          "url": "https://archive.org/details/littleflowersofs00arno",
+          "note": "Stories of Francis and his first companions."
+        },
+        {
+          "title": "The Golden Legend: The Life of S. Francis (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume5.asp#Francis",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Francis of Assisi",
+          "year": 1909,
+          "url": "https://www.newadvent.org/cathen/06221a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Clare of Assisi",
@@ -135,7 +207,29 @@
       "dates": "1194–1253",
       "feast": "08-12",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Alexander IV in 1255"
+      "status": "Canonised by Alexander IV in 1255",
+      "readings": [
+        {
+          "title": "The Golden Legend: The Life of S. Clare (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume6.asp#Clare",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Clare of Assisi",
+          "year": 1908,
+          "url": "https://www.newadvent.org/cathen/04004a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        },
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Clare, Virgin and Abbess (August 12)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://archive.org/details/livesoffathersm07butluoft",
+          "note": "Butler's life of the saint, with his sources (1903 edition)."
+        }
+      ]
     },
     {
       "name": "St Vincent de Paul",
@@ -160,7 +254,29 @@
       "dates": "c. 1580–1660",
       "feast": "07-19",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Clement XII in 1737"
+      "status": "Canonised by Clement XII in 1737",
+      "readings": [
+        {
+          "title": "The Life of St Vincent de Paul",
+          "author": "Henry Bedford",
+          "year": 1856,
+          "url": "https://archive.org/details/TheLifeOfStVincentDePaul",
+          "note": "English life of the founder of the Lazarists and Sisters of Charity."
+        },
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Vincent of Paul (July)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://www.gutenberg.org/ebooks/49604",
+          "note": "Butler's life of the saint, with his sources."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Vincent de Paul",
+          "year": 1912,
+          "url": "https://www.newadvent.org/cathen/15434c.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Louise de Marillac",
@@ -185,7 +301,22 @@
       "dates": "1591–1660",
       "feast": "03-15",
       "feastNote": "Not on the 1962 General Calendar; listed with a proper Mass in the 1962 Missal's supplement of Masses for certain places, and observed by the Daughters of Charity.",
-      "status": "Canonised by Pius XI in 1934"
+      "status": "Canonised by Pius XI in 1934",
+      "readings": [
+        {
+          "title": "Life of Mademoiselle Le Gras (Louise de Marillac)",
+          "author": "Alice Lovat",
+          "year": 1884,
+          "url": "https://archive.org/details/LifeOfMademoiselleLeGras",
+          "note": "Life of the foundress of the Daughters of Charity."
+        },
+        {
+          "title": "Catholic Encyclopedia: Louise de Marillac Le Gras, Venerable",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/09133b.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Joseph of Cupertino",
@@ -210,7 +341,29 @@
       "dates": "1603–1663",
       "feast": "09-18",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Clement XIII in 1767"
+      "status": "Canonised by Clement XIII in 1767",
+      "readings": [
+        {
+          "title": "Saint Joseph of Copertino",
+          "author": "Angelo Pastrovicchi",
+          "year": 1918,
+          "url": "https://archive.org/details/StJosephOfCopertino",
+          "note": "Life drawn from the canonisation process, with the levitations."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Joseph of Cupertino",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/08520b.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        },
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Joseph of Cupertino, Confessor (September 18)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://archive.org/details/livesoffathersm07butluoft",
+          "note": "Butler's life of the saint, with his sources (1903 edition)."
+        }
+      ]
     },
     {
       "name": "St Maria Goretti",
@@ -236,7 +389,23 @@
       "dates": "1890–1902",
       "feast": "07-06",
       "feastNote": "Not on the 1962 General Calendar; listed in the 1962 Missal's supplement of Masses for certain places.",
-      "status": "Canonised by Pius XII in 1950"
+      "status": "Canonised by Pius XII in 1950",
+      "readings": [
+        {
+          "title": "Saint Maria Goretti: Martyr of Purity",
+          "author": "C. E. Maguire",
+          "year": 1950,
+          "url": "https://archive.org/details/saintmariagorett0000magu",
+          "note": "Short life published at her canonisation."
+        },
+        {
+          "title": "Lily of the Marshes: The Story of Maria Goretti",
+          "author": "Alfred MacConastair",
+          "year": 1951,
+          "url": "https://archive.org/details/lilyofmarshessto0000macc",
+          "note": "Life of the girl killed in 1902."
+        }
+      ]
     },
     {
       "name": "St Thérèse of Lisieux",
@@ -265,7 +434,22 @@
       "dates": "1873–1897",
       "feast": "10-03",
       "feastNote": "Third class on the General Calendar, as St Teresa of the Child Jesus; also principal patroness of the missions.",
-      "status": "Canonised by Pius XI in 1925"
+      "status": "Canonised by Pius XI in 1925",
+      "readings": [
+        {
+          "title": "The Story of a Soul",
+          "author": "St Therese of Lisieux",
+          "year": 1898,
+          "url": "https://www.gutenberg.org/ebooks/16772",
+          "note": "Her autobiography and the Little Way, with her sayings."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Therese of Lisieux",
+          "year": 1922,
+          "url": "https://www.newadvent.org/cathen/17721a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Martin de Porres",
@@ -291,7 +475,23 @@
       "subject": "St. Martin de Porres",
       "dates": "1579–1639",
       "feastNote": "Canonised in May 1962 and not on the 1962 General Calendar; kept in the Dominican Order’s own calendar.",
-      "status": "Canonised by John XXIII in 1962"
+      "status": "Canonised by John XXIII in 1962",
+      "readings": [
+        {
+          "title": "The Life of Blessed Martin de Porres",
+          "author": "John Chrysostom Kearns",
+          "year": 1937,
+          "url": "https://archive.org/details/lifeofblessedmar00kear",
+          "note": "Life of the Dominican lay brother of Lima."
+        },
+        {
+          "title": "Lad of Lima: The Story of Blessed Martin de Porres",
+          "author": "Mary Fabyan Windeatt",
+          "year": 1943,
+          "url": "https://archive.org/details/ladoflimastoryof0000mary",
+          "note": "Shorter life for general readers."
+        }
+      ]
     },
     {
       "name": "St John Baptist de La Salle",
@@ -316,7 +516,21 @@
       "dates": "1651–1719",
       "feast": "05-15",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Leo XIII in 1900"
+      "status": "Canonised by Leo XIII in 1900",
+      "readings": [
+        {
+          "title": "Beatification of the Venerable John Baptist de la Salle",
+          "year": 1890,
+          "url": "https://archive.org/details/beatificationofv00unse",
+          "note": "Account of the beatification and his life."
+        },
+        {
+          "title": "Catholic Encyclopedia: St John Baptist de la Salle",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/08444a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St John Bosco",
@@ -344,7 +558,29 @@
       "dates": "1815–1888",
       "feast": "01-31",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Pius XI in 1934"
+      "status": "Canonised by Pius XI in 1934",
+      "readings": [
+        {
+          "title": "The Secret of Saint John Bosco",
+          "author": "Henri Gheon",
+          "year": 1937,
+          "url": "https://archive.org/details/secretofsaintjoh0000henr_s0u1",
+          "note": "Life of Bosco and his work with boys."
+        },
+        {
+          "title": "Saint John Bosco: Give Me Souls",
+          "author": "A. Auffray",
+          "year": 1930,
+          "url": "https://archive.org/details/stjohnbosco0000augu",
+          "note": "Life by a Salesian priest."
+        },
+        {
+          "title": "Catholic Encyclopedia: St John Bosco",
+          "year": 1907,
+          "url": "https://www.newadvent.org/cathen/02689d.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Dominic Savio",
@@ -369,7 +605,23 @@
       "dates": "1842–1857",
       "feast": "05-06",
       "feastNote": "Not on the 1962 General Calendar. The 1962 Missal's supplement of Masses for certain places lists him on 6 May; other lists give 9 March, the day of his death.",
-      "status": "Canonised by Pius XII in 1954"
+      "status": "Canonised by Pius XII in 1954",
+      "readings": [
+        {
+          "title": "The Life of Dominic Savio",
+          "author": "St John Bosco",
+          "year": 1859,
+          "url": "https://archive.org/details/the-life-of-dominic-savio",
+          "note": "Bosco's own life of his pupil."
+        },
+        {
+          "title": "Saint John Bosco and the Children's Saint, Dominic Savio",
+          "author": "Catherine Beebe",
+          "year": 1955,
+          "url": "https://archive.org/details/saintjohnboscoch00beeb",
+          "note": "Short life of both for young readers."
+        }
+      ]
     },
     {
       "name": "St Ignatius of Loyola",
@@ -395,7 +647,29 @@
       "dates": "1491–1556",
       "feast": "07-31",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Gregory XV in 1622"
+      "status": "Canonised by Gregory XV in 1622",
+      "readings": [
+        {
+          "title": "The Spiritual Exercises",
+          "author": "St Ignatius of Loyola",
+          "year": 1548,
+          "url": "https://ccel.org/ccel/ignatius/exercises",
+          "note": "His month-long course of meditations."
+        },
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Ignatius of Loyola (July)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://www.gutenberg.org/ebooks/49604",
+          "note": "Butler's life of the saint, with his sources."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Ignatius of Loyola",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/07639c.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Anthony Mary Claret",
@@ -420,7 +694,29 @@
       "dates": "1807–1870",
       "feast": "10-23",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Pius XII in 1950"
+      "status": "Canonised by Pius XII in 1950",
+      "readings": [
+        {
+          "title": "Saint Anthony Mary Claret: A Sketch of His Life and Works",
+          "author": "Thomas, C.M.F.",
+          "year": 1950,
+          "url": "https://archive.org/details/saintanthonymary0000revf",
+          "note": "Life of the missionary archbishop and founder."
+        },
+        {
+          "title": "Reminiscences of Blessed Anthony Mary Claret",
+          "author": "Juan Echevarria",
+          "year": 1938,
+          "url": "https://archive.org/details/reminiscencesofb0000revj",
+          "note": "Recollections of his life by a fellow Claretian."
+        },
+        {
+          "title": "Catholic Encyclopedia: Antonio Maria Claret y Clara, Venerable",
+          "year": 1914,
+          "url": "https://www.newadvent.org/cathen/16026a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Thomas More",
@@ -446,7 +742,29 @@
       "dates": "1478–1535",
       "feast": "07-09",
       "feastNote": "Not on the 1962 General Calendar. Kept with St John Fisher on 9 July, as a first-class feast, in England and Wales.",
-      "status": "Canonised by Pius XI in 1935"
+      "status": "Canonised by Pius XI in 1935",
+      "readings": [
+        {
+          "title": "A Dialogue of Comfort against Tribulation",
+          "author": "St Thomas More",
+          "year": 1534,
+          "url": "https://www.gutenberg.org/ebooks/17075",
+          "note": "Written in the Tower, on fear and suffering."
+        },
+        {
+          "title": "The Mirrour of Vertue in Worldly Greatnes: The Life of Syr Thomas More",
+          "author": "William Roper",
+          "year": 1557,
+          "url": "https://archive.org/details/case_3a_1244_tp_o2",
+          "note": "Life by his son-in-law, who lived in his house."
+        },
+        {
+          "title": "Catholic Encyclopedia: Thomas More, Blessed",
+          "year": 1912,
+          "url": "https://www.newadvent.org/cathen/14689c.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Thomas Becket",
@@ -472,7 +790,29 @@
       "dates": "c. 1118–1170",
       "feast": "12-29",
       "feastNote": "On the 1962 General Calendar only as a commemoration within the Octave of Christmas.",
-      "status": "Canonised by Alexander III in 1173"
+      "status": "Canonised by Alexander III in 1173",
+      "readings": [
+        {
+          "title": "The Golden Legend: The Life of S. Thomas of Canterbury (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume2.asp#Thomas%20Becket",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "The Life and Martyrdom of Saint Thomas Becket",
+          "author": "John Morris",
+          "year": 1859,
+          "url": "https://archive.org/details/lifemartyrdomofs00morrrich",
+          "note": "Life built from the early contemporary biographies."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Thomas Becket",
+          "year": 1912,
+          "url": "https://www.newadvent.org/cathen/14676a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Peter",
@@ -500,7 +840,34 @@
       "dates": "died c. AD 64–67",
       "feast": "06-29",
       "feastNote": "Sts Peter and Paul, a first-class feast. The Chair of St Peter is kept on 22 February and St Peter in Chains on 1 August.",
-      "status": "Apostle, first Pope and martyr, venerated from the earliest times"
+      "status": "Apostle, first Pope and martyr, venerated from the earliest times",
+      "readings": [
+        {
+          "title": "The Gospel according to St Matthew, chapter 16 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/47016.htm",
+          "note": "Christ names Peter the rock and gives him the keys."
+        },
+        {
+          "title": "The First Epistle of St Peter, chapter 1 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/67001.htm",
+          "note": "Opening of his own letter to the churches."
+        },
+        {
+          "title": "The Golden Legend: The Life of S. Peter the Apostle (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume4.asp#Peter%20the%20Apostle",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Peter, Prince of the Apostles",
+          "year": 1911,
+          "url": "https://www.newadvent.org/cathen/11744a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Paul",
@@ -528,7 +895,34 @@
       "dates": "c. AD 5–c. 64/67",
       "feast": "06-29",
       "feastNote": "Sts Peter and Paul, a first-class feast; his own commemoration follows on 30 June, and the Conversion of St Paul is kept on 25 January.",
-      "status": "Apostle of the Gentiles and martyr, venerated from the earliest times"
+      "status": "Apostle of the Gentiles and martyr, venerated from the earliest times",
+      "readings": [
+        {
+          "title": "The Acts of the Apostles, chapter 9 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/51009.htm",
+          "note": "Paul's conversion on the road to Damascus."
+        },
+        {
+          "title": "The Epistle of St Paul to the Romans, chapter 1 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/52001.htm",
+          "note": "Opening of his fullest letter on grace and faith."
+        },
+        {
+          "title": "Homily 1 on Romans",
+          "author": "St John Chrysostom",
+          "year": 391,
+          "url": "https://www.newadvent.org/fathers/210201.htm",
+          "note": "First of his homilies commenting on Romans."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Paul",
+          "year": 1911,
+          "url": "https://www.newadvent.org/cathen/11567b.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Luke",
@@ -553,7 +947,34 @@
       "dates": "1st century",
       "feast": "10-18",
       "feastNote": "Second class on the General Calendar.",
-      "status": "Evangelist, venerated from the earliest times"
+      "status": "Evangelist, venerated from the earliest times",
+      "readings": [
+        {
+          "title": "The Gospel according to St Luke, chapter 1 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/49001.htm",
+          "note": "Opening of his Gospel: the infancy narrative."
+        },
+        {
+          "title": "The Acts of the Apostles, chapter 1 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/51001.htm",
+          "note": "Opening of his history of the early Church."
+        },
+        {
+          "title": "The Golden Legend: The Life of S. Luke (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume6.asp#Luke",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "Catholic Encyclopedia: Gospel of St Luke",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/09420a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Pius X",
@@ -578,7 +999,29 @@
       "dates": "1835–1914",
       "feast": "09-03",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Pius XII in 1954"
+      "status": "Canonised by Pius XII in 1954",
+      "readings": [
+        {
+          "title": "Pascendi Dominici Gregis",
+          "author": "Pius X",
+          "year": 1907,
+          "url": "https://www.papalencyclicals.net/pius10/p10pasce.htm",
+          "note": "Encyclical condemning Modernism."
+        },
+        {
+          "title": "Quam Singulari",
+          "author": "Pius X",
+          "year": 1910,
+          "url": "https://www.papalencyclicals.net/pius10/p10quam.htm",
+          "note": "Decree on First Communion at the age of reason."
+        },
+        {
+          "title": "Catholic Encyclopedia: Pope Pius X",
+          "year": 1911,
+          "url": "https://www.newadvent.org/cathen/12137a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Teresa of Ávila",
@@ -607,7 +1050,36 @@
       "dates": "1515–1582",
       "feast": "10-15",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Gregory XV in 1622"
+      "status": "Canonised by Gregory XV in 1622",
+      "readings": [
+        {
+          "title": "The Life of St Teresa of Jesus",
+          "author": "St Teresa of Avila",
+          "year": 1565,
+          "url": "https://ccel.org/ccel/teresa/life",
+          "note": "Her autobiography and account of prayer."
+        },
+        {
+          "title": "The Interior Castle",
+          "author": "St Teresa of Avila",
+          "year": 1577,
+          "url": "https://ccel.org/ccel/teresa/castle2",
+          "note": "Her guide to the stages of prayer."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Teresa of Avila",
+          "year": 1912,
+          "url": "https://www.newadvent.org/cathen/14515b.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        },
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Teresa, Virgin (October 15)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://archive.org/details/livesoffathersm10butluoft",
+          "note": "Butler's life of the saint, with his sources (1903 edition)."
+        }
+      ]
     },
     {
       "name": "St John of the Cross",
@@ -633,7 +1105,29 @@
       "dates": "1542–1591",
       "feast": "11-24",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Benedict XIII in 1726; declared a Doctor of the Church by Pius XI in 1926"
+      "status": "Canonised by Benedict XIII in 1726; declared a Doctor of the Church by Pius XI in 1926",
+      "readings": [
+        {
+          "title": "Dark Night of the Soul",
+          "author": "St John of the Cross",
+          "year": 1585,
+          "url": "https://ccel.org/ccel/john_cross/dark_night",
+          "note": "Poem and commentary on trials in prayer."
+        },
+        {
+          "title": "Ascent of Mount Carmel",
+          "author": "St John of the Cross",
+          "year": 1580,
+          "url": "https://ccel.org/ccel/john_cross/ascent",
+          "note": "Treatise on detachment and union with God."
+        },
+        {
+          "title": "Catholic Encyclopedia: St John of the Cross",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/08480a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Rita of Cascia",
@@ -659,7 +1153,22 @@
       "dates": "c. 1380–1457",
       "feast": "05-22",
       "feastNote": "Not on the 1962 General Calendar; listed in the 1962 Missal's supplement of Masses for certain places.",
-      "status": "Canonised by Leo XIII in 1900"
+      "status": "Canonised by Leo XIII in 1900",
+      "readings": [
+        {
+          "title": "Life of St Rita of Cascia, O.S.A.",
+          "author": "Richard Connolly",
+          "year": 1903,
+          "url": "https://archive.org/details/LifeOfStRitaOfCasciaOSA",
+          "note": "Life by an Augustinian, drawn from early sources."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Rita of Cascia",
+          "year": 1912,
+          "url": "https://www.newadvent.org/cathen/13064a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Philip Neri",
@@ -685,7 +1194,22 @@
       "dates": "1515–1595",
       "feast": "05-26",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Gregory XV in 1622"
+      "status": "Canonised by Gregory XV in 1622",
+      "readings": [
+        {
+          "title": "The Life of Saint Philip Neri, Apostle of Rome (vol. 2)",
+          "author": "Alfonso Capecelatro",
+          "year": 1879,
+          "url": "https://archive.org/details/a549672602capeuoft",
+          "note": "Full life by a cardinal of the Oratory."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Philip Romolo Neri",
+          "year": 1911,
+          "url": "https://www.newadvent.org/cathen/12018b.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Anthony of Padua",
@@ -712,7 +1236,29 @@
       "dates": "1195–1231",
       "feast": "06-13",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Gregory IX in 1232; declared a Doctor of the Church by Pius XII in 1946"
+      "status": "Canonised by Gregory IX in 1232; declared a Doctor of the Church by Pius XII in 1946",
+      "readings": [
+        {
+          "title": "Saint Anthony of Padua according to his Contemporaries",
+          "author": "Ernest Gilliat-Smith",
+          "year": 1926,
+          "url": "https://archive.org/details/saintanthonyofpa0000gill",
+          "note": "Life from the early sources."
+        },
+        {
+          "title": "The Life of Saint Anthony of Padua",
+          "author": "Ubaldus de Rieti",
+          "year": 1895,
+          "url": "https://archive.org/details/life-of-saint-anthony-of-padua-by-father-ubaldus-de-rieti",
+          "note": "Franciscan life of the Wonder-Worker."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Anthony of Padua",
+          "year": 1907,
+          "url": "https://www.newadvent.org/cathen/01556a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Joseph",
@@ -738,7 +1284,28 @@
       "dates": "1st century",
       "feast": "03-19",
       "feastNote": "First class on the General Calendar. Pius XII added the feast of St Joseph the Workman, on 1 May, in 1955.",
-      "status": "Spouse of the Blessed Virgin Mary and foster-father of Our Lord; declared Patron of the Universal Church by Pius IX in 1870"
+      "status": "Spouse of the Blessed Virgin Mary and foster-father of Our Lord; declared Patron of the Universal Church by Pius IX in 1870",
+      "readings": [
+        {
+          "title": "The Gospel according to St Matthew, chapters 1-2 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/47001.htm",
+          "note": "Joseph's dream, the birth at Bethlehem, the flight into Egypt."
+        },
+        {
+          "title": "Quamquam Pluries",
+          "author": "Leo XIII",
+          "year": 1889,
+          "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15081889_quamquam-pluries.html",
+          "note": "Encyclical on devotion to St Joseph."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Joseph",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/08504a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "Bl Andrew Kim Taegon",
@@ -762,7 +1329,15 @@
       "subject": "Bl. Andrew Kim Taegon",
       "dates": "1821–1846",
       "feastNote": "Not on the 1962 General Calendar; venerated locally in Korea with the beatified Korean martyrs.",
-      "status": "Beatified by Pius XI in 1925"
+      "status": "Beatified by Pius XI in 1925",
+      "readings": [
+        {
+          "title": "The Catholic Church in Korea",
+          "year": 1924,
+          "url": "https://archive.org/details/catholicchurchin0000unse_r5w1",
+          "note": "Short history of the Korean Church to the 1920s."
+        }
+      ]
     },
     {
       "name": "St Jean-Marie Vianney",
@@ -789,7 +1364,29 @@
       "dates": "1786–1859",
       "feast": "08-08",
       "feastNote": "Third class on the General Calendar, as St John Mary Vianney.",
-      "status": "Canonised by Pius XI in 1925"
+      "status": "Canonised by Pius XI in 1925",
+      "readings": [
+        {
+          "title": "Life of Saint John-Baptist Vianney, Cure d'Ars",
+          "author": "Alfred Monnin",
+          "year": 1861,
+          "url": "https://archive.org/details/lifeofsaintjohnb00monnuoft",
+          "note": "Life by a priest who lived at Ars with him."
+        },
+        {
+          "title": "The Cure of Ars",
+          "author": "Kathleen O'Meara",
+          "year": 1912,
+          "url": "https://archive.org/details/curofars00omeauoft",
+          "note": "Shorter English life of the parish priest."
+        },
+        {
+          "title": "Catholic Encyclopedia: Jean-Baptiste-Marie Vianney, Saint",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/08326c.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Catherine of Siena",
@@ -814,7 +1411,36 @@
       "dates": "1347–1380",
       "feast": "04-30",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Pius II in 1461"
+      "status": "Canonised by Pius II in 1461",
+      "readings": [
+        {
+          "title": "The Dialog of Catherine of Siena",
+          "author": "St Catherine of Siena",
+          "year": 1378,
+          "url": "https://ccel.org/ccel/catherine/dialog",
+          "note": "Her dialogue with God on the soul and the Church."
+        },
+        {
+          "title": "Letters of Catherine Benincasa",
+          "author": "St Catherine of Siena",
+          "year": 1380,
+          "url": "https://www.gutenberg.org/ebooks/7403",
+          "note": "Her letters to popes, princes and disciples."
+        },
+        {
+          "title": "The Life of St Catherine of Siena",
+          "author": "Raymond of Capua",
+          "year": 1395,
+          "url": "https://archive.org/details/lifeofstcatherin0000raym",
+          "note": "Life by her confessor."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Catherine of Siena",
+          "year": 1908,
+          "url": "https://www.newadvent.org/cathen/03447a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "Bl John Houghton",
@@ -844,7 +1470,29 @@
       "dates": "c. 1487–1535",
       "feast": "05-04",
       "feastNote": "Not on the 1962 General Calendar. Commemorated with the Holy Martyrs of England and Wales on 4 May, a feast of the third class in England and Wales.",
-      "status": "Beatified by Leo XIII in 1886"
+      "status": "Beatified by Leo XIII in 1886",
+      "readings": [
+        {
+          "title": "The Passion and Martyrdom of the Holy English Carthusian Fathers",
+          "author": "Maurice Chauncy",
+          "year": 1546,
+          "url": "https://archive.org/details/passionmartyrdom0000unse",
+          "note": "Account by a London Charterhouse monk of the 1535 martyrdoms."
+        },
+        {
+          "title": "Lives of the English Martyrs, vol. 1",
+          "author": "Bede Camm",
+          "year": 1904,
+          "url": "https://archive.org/details/livesofenglishma01cammuoft",
+          "note": "Lives of the Henrician martyrs, including the Carthusians."
+        },
+        {
+          "title": "Catholic Encyclopedia: Blessed John Houghton",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/08465a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Paul Miki",
@@ -869,7 +1517,29 @@
       "dates": "c. 1562–1597",
       "feast": "02-05",
       "feastNote": "Not on the 1962 General Calendar. The Twenty-six Martyrs of Japan, killed at Nagasaki on 5 February 1597, were kept on that day in some national and order calendars, such as that of the Philippines.",
-      "status": "Canonised by Pius IX in 1862, with his companions"
+      "status": "Canonised by Pius IX in 1862, with his companions",
+      "readings": [
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: The Martyrs of Japan (February)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://www.gutenberg.org/ebooks/20450",
+          "note": "Butler's account of the Japanese martyrs of 1597."
+        },
+        {
+          "title": "The Martyrs of Nagasaki",
+          "author": "Frederick Vincent Williams",
+          "year": 1956,
+          "url": "https://archive.org/details/martyrsofnagasak00will",
+          "note": "Account of the twenty-six crucified in 1597."
+        },
+        {
+          "title": "Catholic Encyclopedia: Japanese Martyrs",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/09744a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Philip of Jesus",
@@ -898,7 +1568,29 @@
       "dates": "1572–1597",
       "feast": "02-05",
       "feastNote": "Not on the 1962 General Calendar. Kept on 5 February with the Twenty-six Martyrs of Japan; the date was not on the General Calendar.",
-      "status": "Canonised by Pius IX in 1862, with his companions"
+      "status": "Canonised by Pius IX in 1862, with his companions",
+      "readings": [
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: The Martyrs of Japan (February)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://www.gutenberg.org/ebooks/20450",
+          "note": "Butler's account of the Japanese martyrs of 1597."
+        },
+        {
+          "title": "The Martyrs of Nagasaki",
+          "author": "Frederick Vincent Williams",
+          "year": 1956,
+          "url": "https://archive.org/details/martyrsofnagasak00will",
+          "note": "Account of the twenty-six crucified in 1597."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Philip of Jesus",
+          "year": 1911,
+          "url": "https://www.newadvent.org/cathen/12006b.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Hildegard of Bingen",
@@ -923,7 +1615,22 @@
       "dates": "1098–1179",
       "feast": "09-17",
       "feastNote": "Not on the 1962 General Calendar. Kept on 17 September in several German dioceses and at Solesmes; the Roman Martyrology also named her under that date.",
-      "status": "Venerated as a saint since her death and named in the Roman Martyrology; no formal canonisation had been completed"
+      "status": "Venerated as a saint since her death and named in the Roman Martyrology; no formal canonisation had been completed",
+      "readings": [
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Hildegardis, Virgin and Abbess (September 17)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://archive.org/details/livesoffathersm07butluoft",
+          "note": "Butler's life of the saint, with his sources (1903 edition)."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Hildegard",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/07351a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Augustine of Hippo",
@@ -948,7 +1655,36 @@
       "dates": "354–430",
       "feast": "08-28",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Bishop and Doctor of the Church, venerated from the earliest times"
+      "status": "Bishop and Doctor of the Church, venerated from the earliest times",
+      "readings": [
+        {
+          "title": "Confessions",
+          "author": "St Augustine",
+          "year": 400,
+          "url": "https://www.newadvent.org/fathers/1101.htm",
+          "note": "His conversion, told as a prayer."
+        },
+        {
+          "title": "The City of God",
+          "author": "St Augustine",
+          "year": 426,
+          "url": "https://www.newadvent.org/fathers/1201.htm",
+          "note": "On the two cities, after the sack of Rome."
+        },
+        {
+          "title": "The Golden Legend: The Life of S. Austin of Hippo (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume5.asp#Augustine",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Augustine of Hippo",
+          "year": 1907,
+          "url": "https://www.newadvent.org/cathen/02084a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Sebastian",
@@ -973,7 +1709,29 @@
       "dates": "died c. 288",
       "feast": "01-20",
       "feastNote": "Kept with St Fabian on the General Calendar, a feast of the third class.",
-      "status": "Martyr, venerated from the earliest times"
+      "status": "Martyr, venerated from the earliest times",
+      "readings": [
+        {
+          "title": "The Golden Legend: The Life of Sebastian (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume2.asp#Sebastian",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Sebastian, Martyr (January 20)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://www.gutenberg.org/ebooks/20450",
+          "note": "Butler's life of the saint, with his sources."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Sebastian",
+          "year": 1912,
+          "url": "https://www.newadvent.org/cathen/13668a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Agnes",
@@ -998,7 +1756,36 @@
       "dates": "died c. 304",
       "feast": "01-21",
       "feastNote": "Third class on the General Calendar; her second commemoration is on 28 January.",
-      "status": "Virgin and martyr, venerated from the earliest times"
+      "status": "Virgin and martyr, venerated from the earliest times",
+      "readings": [
+        {
+          "title": "Concerning Virginity, Book I",
+          "author": "St Ambrose",
+          "year": 377,
+          "url": "https://www.newadvent.org/fathers/34071.htm",
+          "note": "Ambrose's praise of St Agnes at Rome."
+        },
+        {
+          "title": "The Golden Legend: The Life of Agnes (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume2.asp#Agnes",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Agnes, Virgin and Martyr (January 21)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://www.gutenberg.org/ebooks/20450",
+          "note": "Butler's life of the saint, with his sources."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Agnes of Rome",
+          "year": 1907,
+          "url": "https://www.newadvent.org/cathen/01214a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Dismas",
@@ -1017,7 +1804,27 @@
       "subject": "St. Dismas",
       "dates": "1st century",
       "feastNote": "No feast on the 1962 General Calendar.",
-      "status": "The Good Thief, venerated as a saint from early Christian times"
+      "status": "The Good Thief, venerated as a saint from early Christian times",
+      "readings": [
+        {
+          "title": "The Gospel according to St Luke, chapter 23 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/49023.htm",
+          "note": "The thief on the cross and Christ's promise of Paradise."
+        },
+        {
+          "title": "The Gospel according to St Matthew, chapter 27 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/47027.htm",
+          "note": "The Crucifixion between two thieves."
+        },
+        {
+          "title": "The Gospel according to St Mark, chapter 15 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/48015.htm",
+          "note": "Mark's account of the Crucifixion."
+        }
+      ]
     },
     {
       "name": "St Mary Magdalene",
@@ -1042,7 +1849,34 @@
       "dates": "1st century",
       "feast": "07-22",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Disciple of Christ, venerated from the earliest times"
+      "status": "Disciple of Christ, venerated from the earliest times",
+      "readings": [
+        {
+          "title": "The Gospel according to St John, chapter 20 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/50020.htm",
+          "note": "Mary at the empty tomb and the risen Christ."
+        },
+        {
+          "title": "The Gospel according to St Luke, chapter 7 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/49007.htm",
+          "note": "The sinful woman anoints Christ's feet."
+        },
+        {
+          "title": "The Golden Legend: The Life of S. Mary Magdalen (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume4.asp#Mary%20Magdalene",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Mary Magdalen",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/09761a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Margaret of Cortona",
@@ -1067,7 +1901,29 @@
       "dates": "1247–1297",
       "feast": "02-21",
       "feastNote": "Not on the 1962 General Calendar; listed in the 1962 Missal's supplement of Masses for certain places. The Roman Martyrology gave 22 February, the day of her death.",
-      "status": "Canonised by Benedict XIII in 1728"
+      "status": "Canonised by Benedict XIII in 1728",
+      "readings": [
+        {
+          "title": "Life and Revelations of Saint Margaret of Cortona",
+          "author": "Giunta Bevegnati",
+          "year": 1308,
+          "url": "https://archive.org/details/LifeStMargaretOfCortona",
+          "note": "Life by her Franciscan confessor."
+        },
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Margaret of Cortona, Penitent (February 22)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://www.gutenberg.org/ebooks/20450",
+          "note": "Butler's life of the saint, with his sources."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Margaret of Cortona",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/09653b.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Rose of Lima",
@@ -1093,7 +1949,29 @@
       "dates": "1586–1617",
       "feast": "08-30",
       "feastNote": "Third class on the General Calendar; principal patroness of Latin America.",
-      "status": "Canonised by Clement X in 1671"
+      "status": "Canonised by Clement X in 1671",
+      "readings": [
+        {
+          "title": "The Life of Saint Rose of Lima",
+          "author": "Leonard Hansen",
+          "year": 1855,
+          "url": "https://archive.org/details/LifeOfSaintRoseOfLima",
+          "note": "Dominican life from the beatification process, translated."
+        },
+        {
+          "title": "The Flower of the New World: St Rose of Lima",
+          "author": "F. M. Capes",
+          "year": 1899,
+          "url": "https://archive.org/details/flowerofnewworld0000fmca",
+          "note": "Short English life."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Rose of Lima",
+          "year": 1912,
+          "url": "https://www.newadvent.org/cathen/13192c.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Patrick",
@@ -1118,7 +1996,36 @@
       "dates": "5th century",
       "feast": "03-17",
       "feastNote": "Third class on the General Calendar; first class in Ireland.",
-      "status": "Bishop and apostle of Ireland, venerated since antiquity"
+      "status": "Bishop and apostle of Ireland, venerated since antiquity",
+      "readings": [
+        {
+          "title": "The Confession of St Patrick",
+          "author": "St Patrick",
+          "year": 450,
+          "url": "https://ccel.org/ccel/patrick/confession",
+          "note": "His own short account of his mission."
+        },
+        {
+          "title": "The Golden Legend: The Life of S. Patrick (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume3.asp#Patrick",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Patrick, Bishop (March 17)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://www.gutenberg.org/ebooks/20450",
+          "note": "Butler's life of the saint, with his sources."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Patrick",
+          "year": 1911,
+          "url": "https://www.newadvent.org/cathen/11554a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Wenceslas",
@@ -1143,7 +2050,29 @@
       "dates": "c. 907–935",
       "feast": "09-28",
       "feastNote": "Third class on the General Calendar, as St Wenceslaus.",
-      "status": "Martyr, venerated from the tenth century"
+      "status": "Martyr, venerated from the tenth century",
+      "readings": [
+        {
+          "title": "The Life of Saint Wenceslas",
+          "author": "Francis Dvornik",
+          "year": 1929,
+          "url": "https://archive.org/details/the-life-of-saint-wenceslas-father-dvornik",
+          "note": "Study of the early legends of Wenceslas and Ludmila."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Wenceslaus",
+          "year": 1912,
+          "url": "https://www.newadvent.org/cathen/15587b.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        },
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Wenceslas, Duke of Bohemia, Martyr (September 28)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://archive.org/details/livesoffathersm07butluoft",
+          "note": "Butler's life of the saint, with his sources (1903 edition)."
+        }
+      ]
     },
     {
       "name": "St Ludmila",
@@ -1168,7 +2097,22 @@
       "dates": "c. 860–921",
       "feast": "09-16",
       "feastNote": "Not on the 1962 General Calendar; kept in the Bohemian dioceses.",
-      "status": "Martyr, venerated since her death"
+      "status": "Martyr, venerated since her death",
+      "readings": [
+        {
+          "title": "The Life of Saint Wenceslas",
+          "author": "Francis Dvornik",
+          "year": 1929,
+          "url": "https://archive.org/details/the-life-of-saint-wenceslas-father-dvornik",
+          "note": "Includes the life of his grandmother Ludmila."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Ludmilla",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/09416a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "St Frances Xavier Cabrini",
@@ -1193,7 +2137,23 @@
       "dates": "1850–1917",
       "feast": "11-13",
       "feastNote": "Kept on 13 November in the United States from 1961; elsewhere on 22 December, the day of her death. Listed in the 1962 Missal's supplement of Masses for certain places.",
-      "status": "Canonised by Pius XII in 1946"
+      "status": "Canonised by Pius XII in 1946",
+      "readings": [
+        {
+          "title": "Francesca Cabrini: Without Staff or Scrip",
+          "author": "Lucille Papin Borden",
+          "year": 1945,
+          "url": "https://archive.org/details/francescacabrini0000bord",
+          "note": "Life of the foundress and her missions."
+        },
+        {
+          "title": "Too Small a World: The Life of Francesca Cabrini",
+          "author": "Theodore Maynard",
+          "year": 1945,
+          "url": "https://archive.org/details/toosmallworldlif0000mayn",
+          "note": "Biography written before her canonisation."
+        }
+      ]
     },
     {
       "name": "St Barbara",
@@ -1218,7 +2178,29 @@
       "dates": "3rd or 4th century (traditional)",
       "feast": "12-04",
       "feastNote": "On the 1962 General Calendar only as a commemoration on 4 December, in the feast of St Peter Chrysologus.",
-      "status": "Virgin and martyr, venerated from antiquity"
+      "status": "Virgin and martyr, venerated from antiquity",
+      "readings": [
+        {
+          "title": "The Golden Legend: The Life of S. Barbara (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume6.asp#Barbara",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Barbara",
+          "year": 1907,
+          "url": "https://www.newadvent.org/cathen/02284d.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        },
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Barbara, Virgin and Martyr (December 4)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://archive.org/details/livesoffathersm10butluoft",
+          "note": "Butler's life of the saint, with his sources (1903 edition)."
+        }
+      ]
     },
     {
       "name": "St Elizabeth of Portugal",
@@ -1242,7 +2224,22 @@
       "dates": "1271–1336",
       "feast": "07-08",
       "feastNote": "Third class on the General Calendar.",
-      "status": "Canonised by Urban VIII in 1625"
+      "status": "Canonised by Urban VIII in 1625",
+      "readings": [
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Elizabeth, Queen of Portugal (July)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://www.gutenberg.org/ebooks/49604",
+          "note": "Butler's life of the saint, with his sources."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Elizabeth of Portugal",
+          "year": 1909,
+          "url": "https://www.newadvent.org/cathen/05391a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "Bl Teresa of St Augustine and the Martyrs of Compiègne",
@@ -1265,7 +2262,22 @@
       ],
       "dates": "died 1794",
       "feastNote": "Not on the 1962 General Calendar. The Carmelite Order keeps their memory on 17 July, the day of their execution.",
-      "status": "Beatified by Pius X in 1906"
+      "status": "Beatified by Pius X in 1906",
+      "readings": [
+        {
+          "title": "The Song at the Scaffold",
+          "author": "Gertrud von le Fort",
+          "year": 1931,
+          "url": "https://archive.org/details/songatscaffold0000lefo",
+          "note": "Novella on the Compiegne Carmelites, 1794."
+        },
+        {
+          "title": "Catholic Encyclopedia: The Sixteen Blessed Teresian Martyrs of Compiegne",
+          "year": 1912,
+          "url": "https://www.newadvent.org/cathen/14517a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "Sts Cyril and Methodius",
@@ -1302,14 +2314,13 @@
           "author": "Leo XIII",
           "year": 1880,
           "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_30091880_grande-munus.html",
-          "note": "Encyclical on the two brothers, extending their feast to the whole Church."
+          "note": "Encyclical extending the feast of Sts Cyril and Methodius."
         },
         {
-          "title": "Sts. Cyril and Methodius",
-          "author": "The Catholic Encyclopedia",
+          "title": "Catholic Encyclopedia: Sts Cyril and Methodius",
           "year": 1908,
           "url": "https://www.newadvent.org/cathen/04592a.htm",
-          "note": "Encyclopedia article on their mission, the Slavonic liturgy and their cult."
+          "note": "Article in the Catholic Encyclopedia."
         }
       ]
     },
@@ -1343,25 +2354,31 @@
       "status": "Venerated as a saint from the sixth century",
       "readings": [
         {
-          "title": "The Holy Rule of St. Benedict",
-          "author": "St Benedict of Nursia",
-          "year": 1949,
-          "url": "https://ccel.org/ccel/benedict/rule/rule.i.html",
-          "note": "Benedict's own Rule for monasteries, in Verheyen's 1949 translation."
+          "title": "The Rule of St Benedict",
+          "author": "St Benedict",
+          "year": 530,
+          "url": "https://archive.org/details/ruleofstbenedict00bene_1",
+          "note": "The Rule of monastic life, in English."
         },
         {
-          "title": "Dialogues, Book II: Of the Life and Miracles of St. Benedict",
-          "author": "Gregory the Great",
-          "year": 1911,
-          "url": "https://ccel.org/ccel/pearse/morefathers/files/gregory_02_dialogues_book2.htm",
-          "note": "The earliest life of Benedict, written by a pope within living memory."
+          "title": "The Dialogues of St Gregory, Book II",
+          "author": "St Gregory the Great",
+          "year": 593,
+          "url": "https://archive.org/details/dialoguesofsaint00greg",
+          "note": "Gregory's only early life of Benedict, in Book II."
         },
         {
-          "title": "St. Benedict of Nursia",
-          "author": "The Catholic Encyclopedia",
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Benedict, Abbot (March 21)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://www.gutenberg.org/ebooks/20450",
+          "note": "Butler's life of the saint, with his sources."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Benedict of Nursia",
           "year": 1907,
           "url": "https://www.newadvent.org/cathen/02467b.htm",
-          "note": "Encyclopedia article on his life, Rule and the Benedictine order."
+          "note": "Article in the Catholic Encyclopedia."
         }
       ]
     },
@@ -1395,18 +2412,16 @@
       "status": "Canonised in 1083, with his son Emeric",
       "readings": [
         {
-          "title": "St. Stephen of Hungary",
-          "author": "The Catholic Encyclopedia",
+          "title": "Catholic Encyclopedia: St Stephen of Hungary",
           "year": 1912,
           "url": "https://www.newadvent.org/cathen/14287a.htm",
-          "note": "Encyclopedia article on his life, crowning and canonisation, with the early lives listed."
+          "note": "Article in the Catholic Encyclopedia."
         },
         {
-          "title": "Hungary",
-          "author": "The Catholic Encyclopedia",
+          "title": "Catholic Encyclopedia: Hungary",
           "year": 1910,
           "url": "https://www.newadvent.org/cathen/07547a.htm",
-          "note": "Country article placing Stephen's work in Hungary's conversion."
+          "note": "Includes the conversion of Hungary under Stephen."
         }
       ]
     },
@@ -1441,11 +2456,17 @@
       "status": "Beatified by Clement IX in 1669; canonised by Pius XII in 1947",
       "readings": [
         {
-          "title": "Blessed Nicholas of Flue",
-          "author": "The Catholic Encyclopedia",
+          "title": "Brother Nicholas: A Life of St Nicholas of Flue",
+          "author": "George Robert Lamb",
+          "year": 1955,
+          "url": "https://archive.org/details/brothernicholasl0000geor",
+          "note": "Life of the Swiss hermit and peacemaker."
+        },
+        {
+          "title": "Catholic Encyclopedia: Blessed Nicholas of Flue",
           "year": 1911,
           "url": "https://www.newadvent.org/cathen/11062a.htm",
-          "note": "Encyclopedia article on the hermit, his fast and the Stans mediation."
+          "note": "Article in the Catholic Encyclopedia."
         }
       ]
     },
@@ -1479,25 +2500,31 @@
       "status": "Beatified by Pius IX in 1864; canonised by Benedict XV in 1920",
       "readings": [
         {
-          "title": "Life of Blessed Margaret Mary Alacoque",
-          "author": "Émile Bougaud",
-          "year": 1890,
-          "url": "https://archive.org/details/MargaretMaryAlacoque",
-          "note": "Full English life drawing on her own memoir and letters."
+          "title": "Life of Saint Margaret Mary Alacoque",
+          "author": "Emile Bougaud",
+          "year": 1874,
+          "url": "https://archive.org/details/lifeofsaintmarga00boug",
+          "note": "Standard life, with her account of the visions."
+        },
+        {
+          "title": "Haurietis Aquas",
+          "author": "Pius XII",
+          "year": 1956,
+          "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html",
+          "note": "Encyclical on devotion to the Sacred Heart."
         },
         {
           "title": "Miserentissimus Redemptor",
           "author": "Pius XI",
           "year": 1928,
           "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280508_miserentissimus-redemptor.html",
-          "note": "Encyclical on reparation to the Sacred Heart, citing her revelations."
+          "note": "Encyclical on reparation to the Sacred Heart."
         },
         {
-          "title": "St. Margaret Mary Alacoque",
-          "author": "The Catholic Encyclopedia",
+          "title": "Catholic Encyclopedia: St Margaret Mary Alacoque",
           "year": 1910,
           "url": "https://www.newadvent.org/cathen/09653a.htm",
-          "note": "Encyclopedia article on her life and the origin of the devotion."
+          "note": "Article in the Catholic Encyclopedia."
         }
       ]
     },
@@ -1533,23 +2560,22 @@
         {
           "title": "The Life of Blessed Gabriel of Our Lady of Sorrows",
           "author": "Hyacinth Hage",
-          "year": 1910,
+          "year": 1908,
           "url": "https://archive.org/details/lifeofblessedgab00hage",
-          "note": "Passionist life with an introduction by Cardinal Gibbons."
+          "note": "Life of the young Passionist, from his process."
         },
         {
           "title": "Saint Gabriel of Our Lady of Sorrows, Passionist",
           "author": "Reginald Lummer",
           "year": 1920,
           "url": "https://archive.org/details/saintgabrielofou00lummuoft",
-          "note": "Short Passionist life, published after his canonisation."
+          "note": "Short life of the youthful religious."
         },
         {
-          "title": "Bl. Gabriel Possenti",
-          "author": "The Catholic Encyclopedia",
+          "title": "Catholic Encyclopedia: Blessed Gabriel Possenti",
           "year": 1909,
           "url": "https://www.newadvent.org/cathen/06330c.htm",
-          "note": "Short article written after his beatification."
+          "note": "Article in the Catholic Encyclopedia."
         }
       ]
     },
@@ -1581,14 +2607,26 @@
           "title": "The Acts of the Apostles, chapter 12 (Douay-Rheims)",
           "year": 1582,
           "url": "https://www.drbo.org/chapter/51012.htm",
-          "note": "Luke's account of James's death under Herod Agrippa."
+          "note": "Herod has James killed."
         },
         {
-          "title": "St. James the Greater",
-          "author": "The Catholic Encyclopedia",
+          "title": "The Gospel according to St Matthew, chapter 17 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/47017.htm",
+          "note": "The Transfiguration, with Peter, James and John."
+        },
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St James the Great, Apostle (July 25)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://www.gutenberg.org/ebooks/49604",
+          "note": "Butler's life of the saint, with his sources."
+        },
+        {
+          "title": "Catholic Encyclopedia: St James the Greater",
           "year": 1910,
           "url": "https://www.newadvent.org/cathen/08279b.htm",
-          "note": "Encyclopedia article weighing the Spanish and Compostela traditions."
+          "note": "Article in the Catholic Encyclopedia."
         }
       ]
     },
@@ -1618,18 +2656,31 @@
       "status": "Canonised by Gregory XV in 1622; declared patron of all missions by Pius XI in 1927",
       "readings": [
         {
-          "title": "The Life and Letters of St. Francis Xavier",
-          "author": "Henry James Coleridge",
-          "year": 1872,
-          "url": "https://archive.org/details/LifeLettersOfStFrancisXavierV1",
-          "note": "Jesuit life built on his own letters; volume one covers his early years."
+          "title": "The Life of St Francis Xavier",
+          "author": "Daniello Bartoli",
+          "year": 1653,
+          "url": "https://archive.org/details/lifeofstfrancisx0000unse_v4o8",
+          "note": "Standard early life, translated by Faber in 1859."
         },
         {
-          "title": "St. Francis Xavier",
-          "author": "The Catholic Encyclopedia",
+          "title": "Saint Francis Xavier, Apostle of India and Japan",
+          "author": "John Clement Reville",
+          "year": 1919,
+          "url": "https://archive.org/details/saintfrancisxavi00revirich",
+          "note": "Short life of the Jesuit missionary."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Francis Xavier",
           "year": 1909,
           "url": "https://www.newadvent.org/cathen/06233b.htm",
-          "note": "Encyclopedia article on his missions in India and Japan."
+          "note": "Article in the Catholic Encyclopedia."
+        },
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Francis Xavier, Confessor (December 3)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://archive.org/details/livesoffathersm10butluoft",
+          "note": "Butler's life of the saint, with his sources (1903 edition)."
         }
       ]
     },
@@ -1658,18 +2709,24 @@
       "status": "Canonised by Gregory IX in 1234",
       "readings": [
         {
-          "title": "The Life of St. Dominic and a Sketch of the Dominican Order",
-          "author": "Joseph Sadoc Alemany",
-          "year": 1867,
-          "url": "https://archive.org/details/lifeofstdominica00alemrich",
-          "note": "Dominican life of the founder with a short history of the order."
+          "title": "Saint Dominic",
+          "author": "Jean Guiraud",
+          "year": 1913,
+          "url": "https://archive.org/details/SaintDominic1913",
+          "note": "Life of the founder of the Order of Preachers."
         },
         {
-          "title": "St. Dominic",
-          "author": "The Catholic Encyclopedia",
+          "title": "Catholic Encyclopedia: St Dominic",
           "year": 1909,
           "url": "https://www.newadvent.org/cathen/05106a.htm",
-          "note": "Encyclopedia article on his life and the founding of the Order of Preachers."
+          "note": "Article in the Catholic Encyclopedia."
+        },
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Dominic, Confessor (August 4)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://archive.org/details/livesoffathersm07butluoft",
+          "note": "Butler's life of the saint, with his sources (1903 edition)."
         }
       ]
     },
@@ -1700,7 +2757,16 @@
       "dates": "5th century",
       "feast": "11-20",
       "feastNote": "Not on the 1962 General Calendar. A local cult, kept on 20 November at Pont-Sainte-Maxence and in the diocese of Beauvais.",
-      "status": "Venerated as a virgin martyr from ancient times; no formal act of canonisation"
+      "status": "Venerated as a virgin martyr from ancient times; no formal act of canonisation",
+      "readings": [
+        {
+          "title": "Lives of the Fathers, Martyrs, and Other Principal Saints: St Maxentia, Virgin and Martyr (November 20)",
+          "author": "Alban Butler",
+          "year": 1756,
+          "url": "https://archive.org/details/livesoffathersm10butluoft",
+          "note": "Butler's life of the saint, with his sources (1903 edition)."
+        }
+      ]
     }
   ],
   "feasts": [
@@ -1720,7 +2786,28 @@
         "jesus-el-nino-dios-1971",
         "the-nativity-story-2006"
       ],
-      "note": "Keeps the manifestation of Christ to the Gentiles in the adoration of the Magi, with the Baptism and the miracle at Cana; a first-class feast."
+      "note": "Keeps the manifestation of Christ to the Gentiles in the adoration of the Magi, with the Baptism and the miracle at Cana; a first-class feast.",
+      "readings": [
+        {
+          "title": "The Gospel according to St Matthew, chapter 2 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/47002.htm",
+          "note": "The Magi, Herod and the flight into Egypt."
+        },
+        {
+          "title": "The Golden Legend: The Feast of the Epiphany (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume1.asp#Epiphany",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "Catholic Encyclopedia: Epiphany",
+          "year": 1909,
+          "url": "https://www.newadvent.org/cathen/05504c.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "Our Lady of Lourdes",
@@ -1740,7 +2827,29 @@
         "une-femme-nommee-marie-2013"
       ],
       "note": "Keeps the eighteen apparitions of Our Lady to St Bernadette at Massabielle in 1858, which confirmed the dogma of the Immaculate Conception.",
-      "feastNote": "Kept on the General Calendar as the Apparition of the Blessed Virgin Mary Immaculate, a feast of the third class; extended to the whole Church by Pius X in 1907."
+      "feastNote": "Kept on the General Calendar as the Apparition of the Blessed Virgin Mary Immaculate, a feast of the third class; extended to the whole Church by Pius X in 1907.",
+      "readings": [
+        {
+          "title": "Our Lady of Lourdes",
+          "author": "Henri Lasserre",
+          "year": 1869,
+          "url": "https://archive.org/details/ourladyoflourdes00lassuoft",
+          "note": "The apparitions and early cures, in the 1870 English translation."
+        },
+        {
+          "title": "Catholic Encyclopedia: Lourdes, Notre-Dame de",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/09389b.htm",
+          "note": "The apparitions of 1858 and the shrine."
+        },
+        {
+          "title": "Fulgens Corona",
+          "author": "Pius XII",
+          "year": 1953,
+          "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html",
+          "note": "Marian Year encyclical on the Immaculate Conception."
+        }
+      ]
     },
     {
       "name": "St Joseph",
@@ -1753,7 +2862,28 @@
         "jesus-el-nino-dios-1971"
       ],
       "note": "Keeps St Joseph, spouse of the Blessed Virgin Mary and foster-father of Our Lord, as patron of the universal Church.",
-      "feastNote": "A first-class feast; St Joseph the Workman is a separate first-class feast on 1 May, added by Pius XII in 1955."
+      "feastNote": "A first-class feast; St Joseph the Workman is a separate first-class feast on 1 May, added by Pius XII in 1955.",
+      "readings": [
+        {
+          "title": "The Gospel according to St Matthew, chapters 1-2 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/47001.htm",
+          "note": "Joseph's dream, the birth at Bethlehem, the flight into Egypt."
+        },
+        {
+          "title": "Quamquam Pluries",
+          "author": "Leo XIII",
+          "year": 1889,
+          "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15081889_quamquam-pluries.html",
+          "note": "Encyclical on devotion to St Joseph."
+        },
+        {
+          "title": "Catholic Encyclopedia: St Joseph",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/08504a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "The Annunciation",
@@ -1770,7 +2900,35 @@
         "mary-of-nazareth"
       ],
       "note": "Keeps the message of the Archangel Gabriel to Our Lady and the Incarnation of the Son of God at her consent.",
-      "feastNote": "A first-class feast."
+      "feastNote": "A first-class feast.",
+      "readings": [
+        {
+          "title": "The Gospel according to St Luke, chapter 1 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/49001.htm",
+          "note": "Gabriel announces the Incarnation; Mary consents."
+        },
+        {
+          "title": "The Golden Legend: The Annunciation of our Lady (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume3.asp#Annunciation",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "Catholic Encyclopedia: The Feast of the Annunciation",
+          "year": 1907,
+          "url": "https://www.newadvent.org/cathen/01542a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        },
+        {
+          "title": "The Glories of Mary",
+          "author": "St Alphonsus Liguori",
+          "year": 1750,
+          "url": "https://www.gutenberg.org/ebooks/72411",
+          "note": "Classic on Mary's privileges, feasts and the Hail Mary."
+        }
+      ]
     },
     {
       "name": "Our Lady of Fátima",
@@ -1786,7 +2944,23 @@
         "fatima-milagrosa-1928"
       ],
       "note": "Keeps the first apparition of Our Lady to the three shepherd children of Fátima on 13 May 1917, and her message of prayer and penance.",
-      "feastNote": "Not on the 1962 universal calendar. It was kept as a second-class feast on the national calendar of Portugal."
+      "feastNote": "Not on the 1962 universal calendar. It was kept as a second-class feast on the national calendar of Portugal.",
+      "readings": [
+        {
+          "title": "Our Lady of Fatima",
+          "author": "William Thomas Walsh",
+          "year": 1947,
+          "url": "https://archive.org/details/ourladyoffatima0000will",
+          "note": "Account of the 1917 apparitions and the seers."
+        },
+        {
+          "title": "Our Lady of Fatima",
+          "author": "Finbar Ryan",
+          "year": 1944,
+          "url": "https://archive.org/details/ourladyoffatima0000revn",
+          "note": "Archbishop's account of Fatima and its message."
+        }
+      ]
     },
     {
       "name": "Sts Peter and Paul",
@@ -1801,7 +2975,35 @@
         "ad-anno-domini-1985"
       ],
       "note": "Keeps the two chief apostles, who by tradition were martyred at Rome under Nero and whose tombs the city honours.",
-      "feastNote": "A first-class feast; the Conversion of St Paul is kept on 25 January and the Chair of St Peter on 22 February."
+      "feastNote": "A first-class feast; the Conversion of St Paul is kept on 25 January and the Chair of St Peter on 22 February.",
+      "readings": [
+        {
+          "title": "The Acts of the Apostles, chapters 9-12 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/51009.htm",
+          "note": "Paul's conversion and Peter's arrest and release."
+        },
+        {
+          "title": "The Gospel according to St Matthew, chapter 16 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/47016.htm",
+          "note": "Christ names Peter the rock and gives him the keys."
+        },
+        {
+          "title": "The Golden Legend: The Life of S. Peter the Apostle (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume4.asp#Peter%20the%20Apostle",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "The Golden Legend: The Life of S. Paul the Apostle (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume4.asp#Paul%20the%20Apostle",
+          "note": "Medieval account of the life, in the 1483 English version."
+        }
+      ]
     },
     {
       "name": "The Assumption",
@@ -1811,7 +3013,36 @@
         "mater-dei-1950"
       ],
       "note": "Keeps the taking up of Our Lady, body and soul, into heavenly glory at the end of her earthly life.",
-      "feastNote": "A first-class feast; the dogma was defined by Pius XII in 1950."
+      "feastNote": "A first-class feast; the dogma was defined by Pius XII in 1950.",
+      "readings": [
+        {
+          "title": "Munificentissimus Deus",
+          "author": "Pius XII",
+          "year": 1950,
+          "url": "https://www.vatican.va/content/pius-xii/en/apost_constitutions/documents/hf_p-xii_apc_19501101_munificentissimus-deus.html",
+          "note": "Defines the Assumption."
+        },
+        {
+          "title": "The Golden Legend: The Assumption of our Lady (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume4.asp#Assumption",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "Catholic Encyclopedia: Assumption of Mary",
+          "year": 1907,
+          "url": "https://www.newadvent.org/cathen/02006b.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        },
+        {
+          "title": "The Glories of Mary",
+          "author": "St Alphonsus Liguori",
+          "year": 1750,
+          "url": "https://www.gutenberg.org/ebooks/72411",
+          "note": "Classic on Mary's privileges, feasts and the Hail Mary."
+        }
+      ]
     },
     {
       "name": "The Most Holy Rosary",
@@ -1827,7 +3058,29 @@
         "lourdes-et-ses-miracles-1955"
       ],
       "note": "Keeps the Rosary and thanksgiving for the victory over the Turks at Lepanto in 1571; at Fátima Our Lady asked for it daily and named herself its Lady.",
-      "feastNote": "Called Blessed Virgin Mary of the Rosary in the 1960 calendar; a second-class feast."
+      "feastNote": "Called Blessed Virgin Mary of the Rosary in the 1960 calendar; a second-class feast.",
+      "readings": [
+        {
+          "title": "Supremi Apostolatus Officio",
+          "author": "Leo XIII",
+          "year": 1883,
+          "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01091883_supremi-apostolatus-officio.html",
+          "note": "First of Leo XIII's rosary encyclicals."
+        },
+        {
+          "title": "Ingravescentibus Malis",
+          "author": "Pius XI",
+          "year": 1937,
+          "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29091937_ingravescentibus-malis.html",
+          "note": "Encyclical urging the rosary against modern evils."
+        },
+        {
+          "title": "Catholic Encyclopedia: Feast of the Holy Rosary",
+          "year": 1912,
+          "url": "https://www.newadvent.org/cathen/13189a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "The Immaculate Conception",
@@ -1839,7 +3092,35 @@
         "il-suffit-d-aimer-1961"
       ],
       "note": "Keeps the preservation of Our Lady from original sin from the first moment of her conception.",
-      "feastNote": "A first-class feast; the dogma was defined by Pius IX in 1854."
+      "feastNote": "A first-class feast; the dogma was defined by Pius IX in 1854.",
+      "readings": [
+        {
+          "title": "Ineffabilis Deus",
+          "author": "Pius IX",
+          "year": 1854,
+          "url": "https://www.papalencyclicals.net/pius09/p9ineff.htm",
+          "note": "Defines the Immaculate Conception."
+        },
+        {
+          "title": "Fulgens Corona",
+          "author": "Pius XII",
+          "year": 1953,
+          "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html",
+          "note": "Marian Year encyclical on the Immaculate Conception."
+        },
+        {
+          "title": "The Book of Genesis, chapter 3 (Douay-Rheims)",
+          "year": 1609,
+          "url": "https://www.drbo.org/chapter/01003.htm",
+          "note": "The curse of the serpent and the woman's seed."
+        },
+        {
+          "title": "Catholic Encyclopedia: Immaculate Conception",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/07674d.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "Our Lady of Guadalupe",
@@ -1854,7 +3135,22 @@
         "blood-and-rose"
       ],
       "note": "Keeps the apparitions of Our Lady to the Indian Juan Diego on the hill of Tepeyac, near Mexico City, in December 1531.",
-      "feastNote": "Not on the 1962 General Calendar. A first-class feast in Mexico and Latin America, where she is principal patroness, and in the Philippines; in the United States, a feast of the third class."
+      "feastNote": "Not on the 1962 General Calendar. A first-class feast in Mexico and Latin America, where she is principal patroness, and in the Philippines; in the United States, a feast of the third class.",
+      "readings": [
+        {
+          "title": "Catholic Encyclopedia: Guadalupe, Shrine of",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/07043a.htm",
+          "note": "The 1531 apparitions and the shrine of Tepeyac."
+        },
+        {
+          "title": "Our Lady of America, Liturgically Known as Holy Mary of Guadalupe",
+          "author": "George Lee",
+          "year": 1897,
+          "url": "https://archive.org/details/ourladyofamerica00leeg",
+          "note": "Account of the Guadalupe apparitions and devotion."
+        }
+      ]
     },
     {
       "name": "Christmas",
@@ -1879,7 +3175,34 @@
         "ben-hur-1925",
         "joseph-and-mary-2016"
       ],
-      "note": "Keeps the birth of Our Lord at Bethlehem; a first-class feast."
+      "note": "Keeps the birth of Our Lord at Bethlehem; a first-class feast.",
+      "readings": [
+        {
+          "title": "The Gospel according to St Luke, chapter 2 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/49002.htm",
+          "note": "The birth at Bethlehem and the shepherds."
+        },
+        {
+          "title": "The Gospel according to St Matthew, chapter 1 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/47001.htm",
+          "note": "The genealogy and the angel's message to Joseph."
+        },
+        {
+          "title": "The Golden Legend: The Nativity of our Lord (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume1.asp#Nativity%20of%20our%20Lord%20Jesus%20Christ",
+          "note": "Medieval account of the life, in the 1483 English version."
+        },
+        {
+          "title": "Catholic Encyclopedia: Christmas",
+          "year": 1908,
+          "url": "https://www.newadvent.org/cathen/03724b.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     },
     {
       "name": "Holy Week and Easter",
@@ -1925,7 +3248,34 @@
         "une-femme-nommee-marie-2013"
       ],
       "note": "Keeps the Passion, death and Resurrection of Our Lord, from the entry into Jerusalem to the empty tomb.",
-      "feastNote": "Easter falls between 22 March and 25 April; Holy Week runs from Palm Sunday to Holy Saturday, with Good Friday two days before Easter."
+      "feastNote": "Easter falls between 22 March and 25 April; Holy Week runs from Palm Sunday to Holy Saturday, with Good Friday two days before Easter.",
+      "readings": [
+        {
+          "title": "The Gospel according to St Matthew, chapters 26-28 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/47026.htm",
+          "note": "From the Last Supper to the empty tomb."
+        },
+        {
+          "title": "The Gospel according to St John, chapters 18-20 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/50018.htm",
+          "note": "The Passion, burial and Resurrection in John."
+        },
+        {
+          "title": "The Golden Legend: The Passion of our Lord (Caxton translation)",
+          "author": "Jacobus de Voragine",
+          "year": 1260,
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume1.asp#The%20Passion%20of%20our%20Lord",
+          "note": "Medieval meditation on the Passion, in Caxton's English of 1483."
+        },
+        {
+          "title": "Catholic Encyclopedia: Holy Week",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/07435a.htm",
+          "note": "Article in the Catholic Encyclopedia."
+        }
+      ]
     }
   ]
 }

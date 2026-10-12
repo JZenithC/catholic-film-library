@@ -17021,6 +17021,14 @@
         "claims": [
           "A short by the Spaniard Eduardo García Maroto about the presence at the shrine of Pius XII's delegate, shown as a counterpoint to the official fiction of Fátima, Terra de Fé!"
         ]
+      },
+      {
+        "id": "fatima-no-medio-oriente-1968",
+        "status": "HOLD",
+        "title": "Sete filmes para revisitar a história de Fátima (DN archive address)",
+        "claims": [
+          "Same Diário de Notícias article of the Cinemateca Fátima cycle, under the archive address; again the only line on this film (Lopes Ribeiro and Spiguel; inauguration of a shrine to Our Lady in Damascus)"
+        ]
       }
     ]
   },
@@ -17046,9 +17054,9 @@
   },
   {
     "title": "Fátima no cinema: um século em três filmes / Fátima vista pelo cinema em seis filmes",
-    "publisher": "Santuário de Fátima (2025) and Time Out Lisboa (Eurico de Barros, 12 May 2020)",
+    "publisher": "timeout.pt",
     "url": "https://www.timeout.pt/lisboa/pt/filmes/fatima-vista-pelo-cinema-em-seis-filmes",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
       "Surveys of Fátima films; neither mentions the 1946 coronation short (negative evidence)"
     ],
@@ -18502,12 +18510,11 @@
   },
   {
     "title": "Montfort Press price list",
-    "publisher": "Company of Mary (Montfort Missionaries), Great Britain and Ireland (interested)",
+    "publisher": "Montfort Missionaries (UK)",
     "url": "https://montfort.org.uk/mp-pricelist.php",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
-      "DVD 'Jesus Living in Mary: The Life of St. Louis Marie de Montfort', about 1½ hours, professionally produced, largely filmed in places in France associated with him, many interviews with Montfortians",
-      "Separate companion DVD on his spirituality, 1 hour 40 minutes; no producer or year given"
+      "DVD about 1.5 hours, professionally produced, largely filmed in places in France associated with the saint, with many interviews with Montfortians; a separate companion DVD on his spirituality (interested seller; no producer or year)"
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
@@ -18516,52 +18523,27 @@
         "status": "HOLD",
         "title": "Montfort Press price list",
         "claims": [
-          "DVD 'Jesus Living in Mary: The Life of St. Louis Marie de Montfort', about 1½ hours, professionally produced, largely filmed in places in France associated with him, many interviews with Montfortians",
-          "Separate companion DVD on his spirituality, 1 hour 40 minutes; no producer or year given"
+          "DVD about 1.5 hours, professionally produced, largely filmed in places in France associated with the saint, with many interviews with Montfortians; a separate companion DVD on his spirituality (interested seller; no producer or year)"
         ]
       }
     ]
   },
   {
-    "title": "Jesus Living In Mary: Consecration of St. Louis Marie De Montfort DVD",
-    "publisher": "Catholic Family Catalog (retailer; interested)",
-    "url": "https://www.catholicfamilycatalog.com/jesus-living-in-mary-consecration-of-st-louis-de-montfort-dvd-video-documentary-seen-on-ewtn-hdjlmc.htm",
-    "accessed": "2026-10-11",
-    "claims": [
-      "EWTN docudrama documentary, 1.5 hours, closed captions",
-      "Dramatised scenes from his life leading to preparation for the Act of Consecration; shot on location in France; hosted by Fr Patrick Gaffney"
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
-    "films": [
-      {
-        "id": "jesus-living-in-mary-life-of-montfort",
-        "status": "HOLD",
-        "title": "Jesus Living In Mary: Consecration of St. Louis Marie De Montfort DVD",
-        "claims": [
-          "EWTN docudrama documentary, 1.5 hours, closed captions",
-          "Dramatised scenes from his life leading to preparation for the Act of Consecration; shot on location in France; hosted by Fr Patrick Gaffney"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "WINGS EWTN e-newsletter: Jesus Living Through Mary – The Life of Saint Louis de Montfort",
-    "publisher": "EWTN (Michelle Laque Johnson), 26 April 2012 (present-day Catholic broadcaster; facts only)",
+    "title": "WINGS EWTN e-newsletter: Jesus Living Through Mary - The Life of Saint Louis de Montfort",
+    "publisher": "EWTN",
     "url": "https://myemail.constantcontact.com/WINGS---EWTN-e-newsletter---Jesus-Living-Through-Mary---The-Life-of-Saint-Louis-de-Montfort.html?soid=1101159180991&aid=u2En442g36Q",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
-      "90-minute film aired on EWTN Saturday 28 April 2012, 3:30 a.m. ET",
-      "Covers his upbringing, priestly formation and canonisation; promotion links his teaching to John Paul II and Mother Teresa"
+      "90-minute film aired on EWTN on 28 April 2012; the promotion links the saint to John Paul II and Mother Teresa (interested broadcaster; not in the film's captions)"
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "jesus-living-in-mary-life-of-montfort",
         "status": "HOLD",
-        "title": "WINGS EWTN e-newsletter: Jesus Living Through Mary – The Life of Saint Louis de Montfort",
+        "title": "WINGS EWTN e-newsletter: Jesus Living Through Mary - The Life of Saint Louis de Montfort",
         "claims": [
-          "90-minute film aired on EWTN Saturday 28 April 2012, 3:30 a.m. ET",
-          "Covers his upbringing, priestly formation and canonisation; promotion links his teaching to John Paul II and Mother Teresa"
+          "90-minute film aired on EWTN on 28 April 2012; the promotion links the saint to John Paul II and Mother Teresa (interested broadcaster; not in the film's captions)"
         ]
       }
     ]
@@ -23825,15 +23807,6 @@
           "Released May 1903 in France, June 1903 in the US; 44 minutes; silent with French intertitles; partly stencil-coloured",
           "Each scene introduced by an intertitle; many scenes recreate Doré's illustrations",
           "Expanded and revised after 1902; new Pathé remake in 1907; on the 1995 Vatican film list (fact only)"
-        ]
-      },
-      {
-        "id": "la-vie-et-la-passion-de-jesus-christ-1898",
-        "status": "HOLD",
-        "title": "The Life and Passion of Jesus Christ",
-        "claims": [
-          "Pathé's 1902 Passion film was expanded and revised several times; an all-new remake was released in 1907 (image caption: the Annunciation scene from the 1907 film)",
-          "At least ten Passion Play films were released between 1897 and 1914; hatnote distinguishes the 1898 Lumière film"
         ]
       },
       {
@@ -31166,29 +31139,25 @@
   },
   {
     "title": "Sucedió en Jalisco (Los cristeros)",
-    "publisher": "Wikipedia (supplementary)",
+    "publisher": "Wikipedia (English), supplementary",
     "url": "https://en.wikipedia.org/wiki/Sucedi%C3%B3_en_Jalisco_(Los_cristeros)",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
-      "1947 Mexican film directed by Raúl de Anda; written by Raúl and José Guadalupe de Anda from the latter's novel Los Cristeros; Sara García",
-      "A love triangle set during the Cristero War; the government restricted coverage of the war, so the film was a risk",
-      "Remade by de Anda in 1972"
+      "1947 Mexican film written and directed by Raúl de Anda from José Guadalupe de Anda's novel; Sara García; a love triangle during the Cristero War; the government restricted coverage; remade by de Anda in 1972"
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "los-cristeros-1947",
-        "status": "HOLD",
+        "status": "GREY",
         "title": "Sucedió en Jalisco (Los cristeros)",
         "claims": [
-          "1947 Mexican film directed by Raúl de Anda; written by Raúl and José Guadalupe de Anda from the latter's novel Los Cristeros; Sara García",
-          "A love triangle set during the Cristero War; the government restricted coverage of the war, so the film was a risk",
-          "Remade by de Anda in 1972"
+          "1947 Mexican film written and directed by Raúl de Anda from José Guadalupe de Anda's novel; Sara García; a love triangle during the Cristero War; the government restricted coverage; remade by de Anda in 1972"
         ]
       },
       {
         "id": "sucedio-en-jalisco-1972",
-        "status": "HOLD",
+        "status": "REJECT",
         "title": "Sucedió en Jalisco (Los cristeros)",
         "claims": [
           "Raúl de Anda made the 1947 film and a 1972 remake partly based on Jesús Goytortúa's novel; the Mexican government restricted coverage of the Cristero War; no cast or plot for the remake."
@@ -31197,53 +31166,61 @@
     ]
   },
   {
-    "title": "La Guerra Cristera en el cine mexicano",
-    "publisher": "Vanguardia (Alfredo Galindo), 3 August 2026",
-    "url": "https://vanguardia.com.mx/opinion/la-guerra-cristera-en-el-cine-mexicano-NG22604845",
-    "accessed": "2026-10-11",
+    "title": "Los cristeros",
+    "publisher": "TheTVDB",
+    "url": "https://www.thetvdb.com/movies/los-cristeros",
+    "accessed": "2026-10-12",
     "claims": [
-      "Considered the first fiction film about the Cristero War; a love story among three characters during the war (1926-29); Luis Aguilar, Tito Junco, Amalia del Llano",
-      "Followed the rural dramas popular at the box office; weak audience response led de Anda to move his 1972 remake to the Revolution"
+      "Mexico, 19 December 1947, 98 minutes; cast incl. Sara García (Doña Engracia), Luis Aguilar (Felipe), Tito Junco (Policarpo Bermúdez), Amanda del Llano (María), Carlos López Moctezuma, Víctor Parra (Teniente Cuello)"
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "los-cristeros-1947",
-        "status": "HOLD",
-        "title": "La Guerra Cristera en el cine mexicano",
+        "status": "GREY",
+        "title": "Los cristeros",
         "claims": [
-          "Considered the first fiction film about the Cristero War; a love story among three characters during the war (1926-29); Luis Aguilar, Tito Junco, Amalia del Llano",
-          "Followed the rural dramas popular at the box office; weak audience response led de Anda to move his 1972 remake to the Revolution"
-        ]
-      },
-      {
-        "id": "la-guerra-santa-1979",
-        "status": "REJECT",
-        "title": "La Guerra Cristera en el cine mexicano",
-        "claims": [
-          "Names La guerra santa among the better films on the conflict made in the 1970s when the federal government supported the theme"
+          "Mexico, 19 December 1947, 98 minutes; cast incl. Sara García (Doña Engracia), Luis Aguilar (Felipe), Tito Junco (Policarpo Bermúdez), Amanda del Llano (María), Carlos López Moctezuma, Víctor Parra (Teniente Cuello)"
         ]
       }
     ]
   },
   {
-    "title": "English Translation scripts listing (page 758): Cristeros, Los / Sucedio en Jalisco",
-    "publisher": "New York State Archives, Motion Picture Division records",
-    "url": "https://www.archives.nysed.gov/mpd-script-type/english-translation?page=757",
-    "accessed": "2026-10-11",
+    "title": "Bazar de asombros: José Guadalupe de Anda, Los cristeros y Los bragados (II y última)",
+    "publisher": "Hugo Gutiérrez Vega, Academia Mexicana de la Lengua (column, 18 August 2013)",
+    "url": "https://academia.org.mx/prensa/noticias-seccion/item/bazar-de-asombros-jose-guadalupe-de-anda-los-cristeros-y-los-bragados-ii-y-ultima-de-hugo-gutierrez-vega-2",
+    "accessed": "2026-10-12",
     "claims": [
-      "Cristeros, Los (alternate: Sucedio en Jalisco; English: The Cristeros); director Raúl de Anda; writers Carlos Gaitán, Raúl de Anda; Clasa-Mohme exchange; Clasa Studios; 8,710 feet; approved",
-      "Dialogue script and English translation held (box 1310), with correspondence"
+      "Calls the 1947 film a poor adaptation, insipid, a dreadful photonovel, and says it departed from the novel to avoid offending the Church; criticises Tito Junco's acting"
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "los-cristeros-1947",
-        "status": "HOLD",
-        "title": "English Translation scripts listing (page 758): Cristeros, Los / Sucedio en Jalisco",
+        "status": "GREY",
+        "title": "Bazar de asombros: José Guadalupe de Anda, Los cristeros y Los bragados (II y última)",
         "claims": [
-          "Cristeros, Los (alternate: Sucedio en Jalisco; English: The Cristeros); director Raúl de Anda; writers Carlos Gaitán, Raúl de Anda; Clasa-Mohme exchange; Clasa Studios; 8,710 feet; approved",
-          "Dialogue script and English translation held (box 1310), with correspondence"
+          "Calls the 1947 film a poor adaptation, insipid, a dreadful photonovel, and says it departed from the novel to avoid offending the Church; criticises Tito Junco's acting"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "La Guerra Cristera en el cine",
+    "publisher": "Daniel Sendrós, Revista Criterio no. 2393 (2013)",
+    "url": "https://www.revistacriterio.com.ar/bloginst_new/?p=8427",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Reports, \"según resúmenes\", that the 1946-47 film by Raúl de Anda has the people of Jalisco deceived by the clergy, who convinced them that the government was persecuting religion; does not endorse the reading; surveys later Cristero films and calls the 1970s films anti-clerical"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "los-cristeros-1947",
+        "status": "GREY",
+        "title": "La Guerra Cristera en el cine",
+        "claims": [
+          "Reports, \"según resúmenes\", that the 1946-47 film by Raúl de Anda has the people of Jalisco deceived by the clergy, who convinced them that the government was persecuting religion; does not endorse the reading; surveys later Cristero films and calls the 1970s films anti-clerical"
         ]
       }
     ]
@@ -38198,9 +38175,9 @@
   },
   {
     "title": "Aquellas palabras",
-    "publisher": "TheTVDB (user-edited database; supplementary)",
+    "publisher": "thetvdb.com",
     "url": "https://thetvdb.com/movies/aquellas-palabras/people",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
       "Spain 1949; Luis Arroyo, Enrique Llovet, Manuel Roldán in crew; released 4 April 1949; 82 minutes; genres war, romance, drama",
       "Cast: José María Seoane (Padre Carlos), Ana Mariscal (Andrés's wife), Isabel de Pomés (Ester), Carlos Agostí (Dr Ho), Tony D'Algy (Don Eugenio), Modesto Cid (bishop)",
@@ -38222,9 +38199,9 @@
   },
   {
     "title": "Aquellas palabras – company credits",
-    "publisher": "IMDbPro (cross-check only)",
+    "publisher": "pro.imdb.com",
     "url": "https://pro.imdb.com/title/tt0040108/companycredits",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
       "Galatea Film; writer Luis Arroyo, story Enrique Llovet, producer Manuel Roldán (via search snippet; page not fully opened)"
     ],
@@ -39150,7 +39127,7 @@
       },
       {
         "id": "jeanne-d-arc-1908-capellani",
-        "status": "HOLD",
+        "status": "REJECT",
         "title": "Joan of Arc cinematography",
         "claims": [
           "1908, Jeanne d'Arc, directed by Albert Capellani, starring Léontine Massart; no length, survival or content given"
@@ -39494,9 +39471,9 @@
   },
   {
     "title": "Léontine Massart",
-    "publisher": "Paul van Yperen's blog (Goodreads; from French Wikipedia)",
+    "publisher": "goodreads.com",
     "url": "https://www.goodreads.com/author_blog_posts/8901488-l-ontine-massart",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
       "Massart made her film debut in 1908 in Capellani's Jeanne d'Arc / La vie de Jeanne d'Arc in the title role, then became a regular Pathé actress"
     ],
@@ -39504,7 +39481,7 @@
     "films": [
       {
         "id": "jeanne-d-arc-1908-capellani",
-        "status": "HOLD",
+        "status": "REJECT",
         "title": "Léontine Massart",
         "claims": [
           "Massart made her film debut in 1908 in Capellani's Jeanne d'Arc / La vie de Jeanne d'Arc in the title role, then became a regular Pathé actress"
@@ -39688,6 +39665,26 @@
           "Mexico, 1979, 100 minutes; director and writer Carlos Enrique Taboada; Conacine; cast incl. Jorge Luke (Ursino Valdés), Víctor Junco (Padre Miguel), Carlos Cámara (Padre Soler)",
           "Set in rural Mexico in 1927; shows clerical groups in fanatical opposition to Calles manipulating peasants",
           "Finished 1977, shelved nearly two years, premiered 5 July 1979; critics faulted weak construction and overwrought acting; Ariel special prize and best editing"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "La Guerra Cristera en el cine mexicano",
+    "publisher": "Vanguardia (opinion)",
+    "url": "https://vanguardia.com.mx/opinion/la-guerra-cristera-en-el-cine-mexicano-NG22604845",
+    "accessed": "2026-10-11",
+    "claims": [
+      "Names La guerra santa among the better films on the conflict made in the 1970s when the federal government supported the theme"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "la-guerra-santa-1979",
+        "status": "REJECT",
+        "title": "La Guerra Cristera en el cine mexicano",
+        "claims": [
+          "Names La guerra santa among the better films on the conflict made in the 1970s when the federal government supported the theme"
         ]
       }
     ]
@@ -40091,29 +40088,65 @@
     ]
   },
   {
-    "title": "La vie et la passion de Jésus-Christ (1898 film)",
-    "publisher": "Wikipedia (supplementary)",
-    "url": "https://en.wikipedia.org/wiki/La_vie_et_la_passion_de_J%C3%A9sus-Christ",
-    "accessed": "2026-10-11",
+    "title": "JRFM - Journal Religion Film Media, vol. 5/1 (2019), chapter by Cristiana Facchini, p. 78",
+    "publisher": "Schuren Verlag (via Austria-Forum)",
+    "url": "https://austria-forum.org/web-books/en/jrfm01de2019isds/000080",
+    "accessed": "2026-10-12",
     "claims": [
-      "French silent religious short of 1898 directed by Georges Hatot in collaboration with Louis Lumière; camera Alexandre Promio; produced by the Lumière company",
-      "Issued as catalogue nos. 933–945 (no. 935 not listed); surviving compilations usually have 12 scenes: Adoration of the Magi, Flight into Egypt, Betrayal of Judas, Raising of Lazarus, Last Supper, Arrest, Scourging, Crowning with thorns, Nailing to the cross, Calvary, Entombment, Resurrection",
-      "Christ reportedly played by Gaston Breteau (documentation limited)",
-      "Library of Congress holds a 35mm print; documentation at the Institut Lumière and the BnF",
-      "Paul C. Spehr and Terry Lindvall cited as treating these tableaux as foundational for later Passion films; often confused with Pathé's 1903 film"
+      "La vie et la passion de Jesus-Christ was shot in Paris in 1898, composed of thirteen tableaux, commissioned by the Lumiere brothers and directed by George Hatot; placed in a chronology of early Jesus films",
+      "The page gives production facts only and offers no judgment of the staging."
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "la-vie-et-la-passion-de-jesus-christ-1898",
-        "status": "HOLD",
-        "title": "La vie et la passion de Jésus-Christ (1898 film)",
+        "status": "GREY",
+        "title": "JRFM - Journal Religion Film Media, vol. 5/1 (2019), chapter by Cristiana Facchini, p. 78",
         "claims": [
-          "French silent religious short of 1898 directed by Georges Hatot in collaboration with Louis Lumière; camera Alexandre Promio; produced by the Lumière company",
-          "Issued as catalogue nos. 933–945 (no. 935 not listed); surviving compilations usually have 12 scenes: Adoration of the Magi, Flight into Egypt, Betrayal of Judas, Raising of Lazarus, Last Supper, Arrest, Scourging, Crowning with thorns, Nailing to the cross, Calvary, Entombment, Resurrection",
-          "Christ reportedly played by Gaston Breteau (documentation limited)",
-          "Library of Congress holds a 35mm print; documentation at the Institut Lumière and the BnF",
-          "Paul C. Spehr and Terry Lindvall cited as treating these tableaux as foundational for later Passion films; often confused with Pathé's 1903 film"
+          "La vie et la passion de Jesus-Christ was shot in Paris in 1898, composed of thirteen tableaux, commissioned by the Lumiere brothers and directed by George Hatot; placed in a chronology of early Jesus films",
+          "The page gives production facts only and offers no judgment of the staging."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "La vie et la passion de Jesus-Christ, la primera pelicula del Senor",
+    "publisher": "Infovaticana (Catholic news site, 2017)",
+    "url": "https://infovaticana.com/2017/10/01/la-vie-et-la-passion-jesus-christ-la-primera-pelicula-del-senor/",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Describes the 1898 Lumiere film as a unique document that has been digitised: Last Supper, trial before Pilate, crucifixion on Calvary, resurrection; silent without intertitles; the digital version keeps the scratches of the period celluloid.",
+      "Present-day Catholic outlet: establishes what the film contains, not an authority for approval."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "la-vie-et-la-passion-de-jesus-christ-1898",
+        "status": "GREY",
+        "title": "La vie et la passion de Jesus-Christ, la primera pelicula del Senor",
+        "claims": [
+          "Describes the 1898 Lumiere film as a unique document that has been digitised: Last Supper, trial before Pilate, crucifixion on Calvary, resurrection; silent without intertitles; the digital version keeps the scratches of the period celluloid.",
+          "Present-day Catholic outlet: establishes what the film contains, not an authority for approval."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "La vie et la passion de Jesus-Christ (1898 film)",
+    "publisher": "Wikipedia (English), supplementary",
+    "url": "https://en.wikipedia.org/wiki/La_vie_et_la_passion_de_J%C3%A9sus-Christ",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Lumiere catalogue nos. 933-945 (no. 935 not listed); camera Alexandre Promio; surviving compilations normally show twelve scenes; Library of Congress holds a 35mm print (LC record 78710669, not opened here because the site blocked automated access)"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "la-vie-et-la-passion-de-jesus-christ-1898",
+        "status": "GREY",
+        "title": "La vie et la passion de Jesus-Christ (1898 film)",
+        "claims": [
+          "Lumiere catalogue nos. 933-945 (no. 935 not listed); camera Alexandre Promio; surviving compilations normally show twelve scenes; Library of Congress holds a 35mm print (LC record 78710669, not opened here because the site blocked automated access)"
         ]
       }
     ]
@@ -40636,9 +40669,9 @@
   },
   {
     "title": "Bernadette Soubirous and the Apparitions of Lourdes",
-    "publisher": "The Movie Database (TMDB; user-edited, supplementary)",
+    "publisher": "themoviedb.org",
     "url": "https://www.themoviedb.org/movie/282640",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
       "Original title Bernadette Soubirous et les apparitions de Lourdes; France, 1909; director Honoré Le Sablais; 12 minutes",
       "Overview: a fictionalised, romantic retelling of the apparitions at Lourdes (misdated 1856)"
@@ -40807,10 +40840,32 @@
     ]
   },
   {
+    "title": "Cinematografisch leven: Mariken van Nieumeghen (review), De Gids, jaargang 138 (1975)",
+    "publisher": "Herman Pleij, De Gids (via DBNL)",
+    "url": "https://dbnl.org/tekst/_gid001197501_01/_gid001197501_01_0013.php",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Pleij says the film drops the play's moral and propagandistic content and its world of grace and miracle, and shows medieval people as ruled by lust and violence, with a rape scene and party scene he finds anachronistic",
+      "The devil Moenen becomes a hot-tempered actor who likes virgins; Mariken's dress echoes Mary's colours by accident; the review says nothing of confession or the pilgrimage to the Pope"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "mariken-van-nieumeghen-1974",
+        "status": "REJECT",
+        "title": "Cinematografisch leven: Mariken van Nieumeghen (review), De Gids, jaargang 138 (1975)",
+        "claims": [
+          "Pleij says the film drops the play's moral and propagandistic content and its world of grace and miracle, and shows medieval people as ruled by lust and violence, with a rape scene and party scene he finds anachronistic",
+          "The devil Moenen becomes a hot-tempered actor who likes virgins; Mariken's dress echoes Mary's colours by accident; the review says nothing of confession or the pilgrimage to the Pope"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Mariken van Nieumeghen",
-    "publisher": "EYE Filmmuseum filmdatabase",
+    "publisher": "filmdatabase.eyefilm.nl",
     "url": "https://filmdatabase.eyefilm.nl/en/node/277654/",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
       "Jos Stelling, 1974, 80 min, colour, five acts; during a plague a girl falls under the Devil's spell for seven years; colourful spectacle recalling Flemish painting; raw portrayal of the Middle Ages compared to Pasolini; cast Ronnie Montagne (Mariken)."
     ],
@@ -40818,7 +40873,7 @@
     "films": [
       {
         "id": "mariken-van-nieumeghen-1974",
-        "status": "HOLD",
+        "status": "REJECT",
         "title": "Mariken van Nieumeghen",
         "claims": [
           "Jos Stelling, 1974, 80 min, colour, five acts; during a plague a girl falls under the Devil's spell for seven years; colourful spectacle recalling Flemish painting; raw portrayal of the Middle Ages compared to Pasolini; cast Ronnie Montagne (Mariken)."
@@ -40828,9 +40883,9 @@
   },
   {
     "title": "Mariken van Nieumeghen (1974 film)",
-    "publisher": "Wikipedia (supplementary)",
+    "publisher": "en.wikipedia.org",
     "url": "https://en.wikipedia.org/wiki/Mariken_van_Nieumeghen_(1974_film)",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
       "Dutch drama after the 16th-century text; 80 minutes; released 19 December 1974; Cannes 1975; amateur cast; stub with no plot."
     ],
@@ -40838,7 +40893,7 @@
     "films": [
       {
         "id": "mariken-van-nieumeghen-1974",
-        "status": "HOLD",
+        "status": "REJECT",
         "title": "Mariken van Nieumeghen (1974 film)",
         "claims": [
           "Dutch drama after the 16th-century text; 80 minutes; released 19 December 1974; Cannes 1975; amateur cast; stub with no plot."
@@ -40848,9 +40903,9 @@
   },
   {
     "title": "Mariken van Nieumeghen",
-    "publisher": "Nederlands Film Festival (filmfestival.nl)",
+    "publisher": "filmfestival.nl",
     "url": "https://www.filmfestival.nl/en/film/mariken-van-nieumeghen-2",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
       "Stelling's debut, \"widely admired for its clear and realistic view of the Middle Ages\"; last Dutch feature in Cannes main programme."
     ],
@@ -40858,7 +40913,7 @@
     "films": [
       {
         "id": "mariken-van-nieumeghen-1974",
-        "status": "HOLD",
+        "status": "REJECT",
         "title": "Mariken van Nieumeghen",
         "claims": [
           "Stelling's debut, \"widely admired for its clear and realistic view of the Middle Ages\"; last Dutch feature in Cannes main programme."
@@ -41184,9 +41239,9 @@
   },
   {
     "title": "Pasigailėk mūsų",
-    "publisher": "LRT Mediateka (Lithuanian national broadcaster archive)",
+    "publisher": "lrt.lt",
     "url": "https://www.lrt.lt/mediateka/irasas/2000746066/pasigailek-musu",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
       "1978 film, 1h11, Lithuanian Film Studio; set in 1942-43; centres on the school chaplain Jomantas; screenplay V. Radaitis; cinematography J. Marcinkevičius; described as a peculiar, unusual work about a wartime gymnasium"
     ],
@@ -41204,9 +41259,9 @@
   },
   {
     "title": "Algirdas Araminas",
-    "publisher": "Visuotinė lietuvių enciklopedija",
+    "publisher": "vle.lt",
     "url": "https://www.vle.lt/straipsnis/algirdas-araminas/",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
       "Director Algirdas Araminas; filmography incl. Maža išpažintis (1972), Ilga kelionė prie jūros (1977), Pasigailėk mūsų (1978), Andrius (1980); his films poetic, mostly about youth"
     ],
@@ -41224,9 +41279,9 @@
   },
   {
     "title": "Pasigailek musu",
-    "publisher": "IMDb (via web search)",
+    "publisher": "pro.imdb.com",
     "url": "https://pro.imdb.com/title/tt1517481",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
       "Listed as 1979 with a Soviet release of 2 December 1979; Kapelionas Jomantas played by Dmitriy Mirgorodskiy; Gediminas Karka as a teacher"
     ],
@@ -41521,14 +41576,6 @@
         "claims": [
           "Contreras Torres, filmed 1945, released 1946; cast includes Luis Alcoriza, Tito Junco, José Baviera and Luana Alcañiz"
         ]
-      },
-      {
-        "id": "maria-magdalena-pecadora-de-magdala-1946",
-        "status": "HOLD",
-        "title": "María Magdalena: Pecadora de Magdala",
-        "claims": [
-          "1946 Mexican drama by Miguel Contreras Torres portraying Mary Magdalene and Christ's apostles."
-        ]
       }
     ]
   },
@@ -41732,9 +41779,9 @@
   },
   {
     "title": "Francesc Gargallo",
-    "publisher": "Gran Enciclopèdia Catalana (enciclopedia.cat)",
+    "publisher": "enciclopedia.cat",
     "url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/francesc-gargallo",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
       "Gargallo wrote and directed the religious melodrama Sor Angélica (1934) under the Republic; great public success and wide distribution in Latin America; remade in 1954 by Joaquín-Luis Romero-Marchent"
     ],
@@ -41752,9 +41799,9 @@
   },
   {
     "title": "Sister Angelica (film)",
-    "publisher": "Wikipedia (supplementary)",
+    "publisher": "en.wikipedia.org",
     "url": "https://en.wikipedia.org/wiki/Sister_Angelica_(film)",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
       "The 1954 version: Joaquín Luis Romero Marchent, written by Francisco Gargallo and Romero Marchent; Tilda Thamar, Marion Mitchell, Barta Barri; no plot summary"
     ],
@@ -41781,9 +41828,9 @@
   },
   {
     "title": "Sor Angélica (1954)",
-    "publisher": "Decine21",
+    "publisher": "decine21.com",
     "url": "https://decine21.com/peliculas/sor-angelica-28335",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
       "Story Francisco Gargallo; screenplay Romero Marchent; 1 h 40 min; drama; no synopsis or review text"
     ],
@@ -41839,6 +41886,28 @@
         "claims": [
           "The priest János Bélyi of Glogova finds his small sister sheltered by a red umbrella; villagers believe St Peter left it and venerate it",
           "The umbrella belonged to Pál Gregorics, who hid his fortune for his illegitimate son Gyuri Wibra; Gyuri tracks it, falls in love with Veronica; the handle was burned"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sucedio en Jalisco (1970). Pelicula con Rodolfo de Anda (Spanish auto-captions)",
+    "publisher": "Armin MazAgui (YouTube upload)",
+    "url": "https://www.youtube.com/watch?v=ikSzZmyUh3A",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Spanish auto-captions of a full copy (about 40,000 characters) read in full: Dr Roberto Cermeno returns from the capital to the hacienda La Rumorosa under Porfirio Diaz; federal officers execute a revolutionary; a rival pursues the bride Gabriela; double wedding \"segun lo ordena la Santa Iglesia\"; the rival has her killed",
+      "The upload dates it 1970; unofficial upload, captions only"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "sucedio-en-jalisco-1972",
+        "status": "REJECT",
+        "title": "Sucedio en Jalisco (1970). Pelicula con Rodolfo de Anda (Spanish auto-captions)",
+        "claims": [
+          "Spanish auto-captions of a full copy (about 40,000 characters) read in full: Dr Roberto Cermeno returns from the capital to the hacienda La Rumorosa under Porfirio Diaz; federal officers execute a revolutionary; a rival pursues the bride Gabriela; double wedding \"segun lo ordena la Santa Iglesia\"; the rival has her killed",
+          "The upload dates it 1970; unofficial upload, captions only"
         ]
       }
     ]
@@ -41918,13 +41987,34 @@
     ]
   },
   {
-    "title": "The Devil's Advocate (1977 film)",
-    "publisher": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/The_Devil%27s_Advocate_(1977_film)",
-    "accessed": "2026-10-11",
+    "title": "Des Teufels Advokat, 1977 (auto-generated captions, Spanish translation)",
+    "publisher": "User upload (YouTube) via Subtitle Cat",
+    "url": "https://www.subtitlecat.com/subs/835/Des%20Teufels%20Advokat%2C%201977%2C%20%20German%2C%20With%20Barely%20Adequate%20English%20Subtitles%20%28alem%C3%A1n_ASR%29%20-%20copia.html",
+    "accessed": "2026-10-12",
     "claims": [
-      "West German English-language drama, directed by Guy Green, released 27 October 1977, 104 minutes; screenplay by Morris West from his 1959 novel; filmed mostly in Bavaria",
-      "Plot: Monsignor Blaise Meredith, terminally ill, investigates Giacomo Nerone, who is revealed as James Black, a British soldier; homosexuality and priests living together are touched on; cast John Mills, Leigh Lawson, Stéphane Audran, Jason Miller"
+      "Subtitle Cat file \"Des Teufels Advokat, 1977, German, with barely adequate English subtitles (aleman ASR) - copia\" (-es.srt), about 49,600 characters of the whole film, read for plot and ending: the prognosis, the cardinal's commission, the shrine, the countess/painter scenes, Black's identity, the baby's sight, Black's brother's denunciation of God, Nerone's court-martial and execution, Meredith's report and the cardinal's \"keep it discreet\"",
+      "Machine text, names garbled; dialogue only, not images"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-devils-advocate-1977",
+        "status": "HOLD",
+        "title": "Des Teufels Advokat, 1977 (auto-generated captions, Spanish translation)",
+        "claims": [
+          "Subtitle Cat file \"Des Teufels Advokat, 1977, German, with barely adequate English subtitles (aleman ASR) - copia\" (-es.srt), about 49,600 characters of the whole film, read for plot and ending: the prognosis, the cardinal's commission, the shrine, the countess/painter scenes, Black's identity, the baby's sight, Black's brother's denunciation of God, Nerone's court-martial and execution, Meredith's report and the cardinal's \"keep it discreet\"",
+          "Machine text, names garbled; dialogue only, not images"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Devil's Advocate (1977 film)",
+    "publisher": "Wikipedia (English), supplementary",
+    "url": "https://en.wikipedia.org/wiki/The_Devil%27s_Advocate_(1977_film)",
+    "accessed": "2026-10-12",
+    "claims": [
+      "West German English-language drama, director Guy Green (his last theatrical film), released 27 October 1977, 104 minutes, screenplay by Morris West from his 1959 novel; filmed mostly in Bavaria; touches on homosexuality and priests living together"
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
@@ -41933,70 +42023,27 @@
         "status": "HOLD",
         "title": "The Devil's Advocate (1977 film)",
         "claims": [
-          "West German English-language drama, directed by Guy Green, released 27 October 1977, 104 minutes; screenplay by Morris West from his 1959 novel; filmed mostly in Bavaria",
-          "Plot: Monsignor Blaise Meredith, terminally ill, investigates Giacomo Nerone, who is revealed as James Black, a British soldier; homosexuality and priests living together are touched on; cast John Mills, Leigh Lawson, Stéphane Audran, Jason Miller"
+          "West German English-language drama, director Guy Green (his last theatrical film), released 27 October 1977, 104 minutes, screenplay by Morris West from his 1959 novel; filmed mostly in Bavaria; touches on homosexuality and priests living together"
         ]
       }
     ]
   },
   {
-    "title": "The Devil's Advocate (West novel)",
-    "publisher": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/The_Devil%27s_Advocate_(West_novel)",
-    "accessed": "2026-10-11",
-    "claims": [
-      "Novel 1959; Nerone a British army deserter with an illegitimate son, executed by Communist partisans; subplot of a gay painter; village wants the cult for prestige and prosperity",
-      "Reception: Commonweal praised it; Kirkus \"never a subtle writer\"; Flannery O'Connor \"slickness and profundity\""
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
-    "films": [
-      {
-        "id": "the-devils-advocate-1977",
-        "status": "HOLD",
-        "title": "The Devil's Advocate (West novel)",
-        "claims": [
-          "Novel 1959; Nerone a British army deserter with an illegitimate son, executed by Communist partisans; subplot of a gay painter; village wants the cult for prestige and prosperity",
-          "Reception: Commonweal praised it; Kirkus \"never a subtle writer\"; Flannery O'Connor \"slickness and profundity\""
-        ]
-      }
-    ]
-  },
-  {
-    "title": "The Devil's Advocate (book review)",
-    "publisher": "Kirkus Reviews, 1959",
-    "url": "https://www.kirkusreviews.com/book-reviews/a/morris-l-west-2/the-devils-advocate-2/",
-    "accessed": "2026-10-11",
-    "claims": [
-      "Meredith learns about love given and received and comes to accept his own death; novel includes sex and considerable emotion"
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
-    "films": [
-      {
-        "id": "the-devils-advocate-1977",
-        "status": "HOLD",
-        "title": "The Devil's Advocate (book review)",
-        "claims": [
-          "Meredith learns about love given and received and comes to accept his own death; novel includes sex and considerable emotion"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "The Devil's Advocate (blog review by Steven Riddle)",
-    "publisher": "Flos Carmeli (St Blogs)",
+    "title": "The Devil's Advocate (novel reviews)",
+    "publisher": "Kirkus Reviews; Steven Riddle, Flos Carmeli (Catholic reader)",
     "url": "https://floscarmeli.stblogs.org/archives/2006/09/the-devils-advo.html",
-    "accessed": "2026-10-11",
+    "accessed": "2026-10-12",
     "claims": [
-      "Catholic reader: West had \"pronounced disagreements\" with Catholic teaching, constant little jabs; the homosexual subplot handled with \"leering prurience\"; priest's change of heart implausible"
+      "Riddle (2006) says West had \"pronounced disagreements\" with Catholic teaching and handled the homosexual subplot with \"leering prurience\"; says the priest's change of heart is implausible (a review of the 1959 novel, not the film)"
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "the-devils-advocate-1977",
         "status": "HOLD",
-        "title": "The Devil's Advocate (blog review by Steven Riddle)",
+        "title": "The Devil's Advocate (novel reviews)",
         "claims": [
-          "Catholic reader: West had \"pronounced disagreements\" with Catholic teaching, constant little jabs; the homosexual subplot handled with \"leering prurience\"; priest's change of heart implausible"
+          "Riddle (2006) says West had \"pronounced disagreements\" with Catholic teaching and handled the homosexual subplot with \"leering prurience\"; says the priest's change of heart is implausible (a review of the 1959 novel, not the film)"
         ]
       }
     ]
@@ -42082,8 +42129,30 @@
     ]
   },
   {
+    "title": "A Vida de Jesus Cristo (São Roque do Canaã - 1971)",
+    "publisher": "Canal Memória (YouTube)",
+    "url": "https://www.youtube.com/watch?v=MPlqsDlMAnI",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Uploader's description: idealisation and organisation José Regattieri; direction Willian Gobbett; filmed in São Roque do Canaã, Espírito Santo, with local residents; special appearance by Fernanda Montenegro; refers to the book A Paixão Segundo São Roque by Roberta Fachetti; runs 4,311 seconds",
+      "Page metadata only; no captions available, so no dialogue read"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "a-vida-de-jesus-cristo-1971",
+        "status": "HOLD",
+        "title": "A Vida de Jesus Cristo (São Roque do Canaã - 1971)",
+        "claims": [
+          "Uploader's description: idealisation and organisation José Regattieri; direction Willian Gobbett; filmed in São Roque do Canaã, Espírito Santo, with local residents; special appearance by Fernanda Montenegro; refers to the book A Paixão Segundo São Roque by Roberta Fachetti; runs 4,311 seconds",
+          "Page metadata only; no captions available, so no dialogue read"
+        ]
+      }
+    ]
+  },
+  {
     "title": "A Vida de Jesus Cristo (filme)",
-    "publisher": "Portuguese Wikipedia",
+    "publisher": "pt.wikipedia.org",
     "url": "https://pt.wikipedia.org/wiki/A_Vida_de_Jesus_Cristo_(filme)",
     "accessed": "2026-10-12",
     "claims": [
@@ -42142,45 +42211,67 @@
     ]
   },
   {
-    "title": "Assisi (film, 1932)",
-    "publisher": "French Wikipedia",
-    "url": "https://fr.wikipedia.org/wiki/Assisi_(film,_1932)",
+    "title": "Assisi (1932): technical record",
+    "publisher": "Cinematografo.it (Fondazione Ente dello Spettacolo)",
+    "url": "https://www.cinematografo.it/film/assisi-w6z5ixsl",
     "accessed": "2026-10-12",
     "claims": [
-      "Dir. Alessandro Blasetti, 12 minutes, Cines/Pittaluga; shot in ten days (April-May 1932); commentary by a Dominican friar; private screening June 1932 before seven cardinals; Venice 9 August 1932.",
-      "Content: Assisi, the basilica and crypt of St Francis, the lives of Francis and Clare, Giotto and Cimabue, a procession of friars.",
-      "Barbaro (1936) praised the use of the procession as a thread and the photography. No statement about survival."
+      "Short documentary, black and white, 13 minutes; director and editor Alessandro Blasetti; photography Ubaldo Arata and Antonio Cufaro; production Emilio Cecchi, Cines, Pittaluga"
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "assisi-1932",
-        "status": "HOLD",
-        "title": "Assisi (film, 1932)",
+        "status": "GREY",
+        "title": "Assisi (1932): technical record",
         "claims": [
-          "Dir. Alessandro Blasetti, 12 minutes, Cines/Pittaluga; shot in ten days (April-May 1932); commentary by a Dominican friar; private screening June 1932 before seven cardinals; Venice 9 August 1932.",
-          "Content: Assisi, the basilica and crypt of St Francis, the lives of Francis and Clare, Giotto and Cimabue, a procession of friars.",
-          "Barbaro (1936) praised the use of the procession as a thread and the photography. No statement about survival."
+          "Short documentary, black and white, 13 minutes; director and editor Alessandro Blasetti; photography Ubaldo Arata and Antonio Cufaro; production Emilio Cecchi, Cines, Pittaluga"
         ]
       }
     ]
   },
   {
-    "title": "Assisi (film 1932)",
-    "publisher": "Italian Wikipedia",
-    "url": "https://it.wikipedia.org/wiki/Assisi_(film_1932)",
+    "title": "Assisi (film, 1932)",
+    "publisher": "Wikipedia (French), supplementary",
+    "url": "https://fr.wikipedia.org/wiki/Assisi_(film,_1932)",
     "accessed": "2026-10-12",
     "claims": [
-      "Same production details; about 13 minutes; music: religious choirs; cinematography Ubaldo Arata (differs from the French page, which names Antonio Cufaro). No statement about survival."
+      "12 minutes; shot in ten days in April-May 1932 for Cines as part of a series of documentaries on Italian places under Pittaluga and Cecchi",
+      "Commentary written and spoken by a Dominican friar; previewed in June 1932 to senior prelates including seven cardinals; shown at Venice on 9 August 1932",
+      "Umberto Barbaro (Quadrivio, 1936) praised the procession as a guiding thread and the high-contrast photography; Blasetti recalled Cecchi asked him to make it"
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "assisi-1932",
-        "status": "HOLD",
-        "title": "Assisi (film 1932)",
+        "status": "GREY",
+        "title": "Assisi (film, 1932)",
         "claims": [
-          "Same production details; about 13 minutes; music: religious choirs; cinematography Ubaldo Arata (differs from the French page, which names Antonio Cufaro). No statement about survival."
+          "12 minutes; shot in ten days in April-May 1932 for Cines as part of a series of documentaries on Italian places under Pittaluga and Cecchi",
+          "Commentary written and spoken by a Dominican friar; previewed in June 1932 to senior prelates including seven cardinals; shown at Venice on 9 August 1932",
+          "Umberto Barbaro (Quadrivio, 1936) praised the procession as a guiding thread and the high-contrast photography; Blasetti recalled Cecchi asked him to make it"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Assisi e San Francesco nel 1932 | documentario raro (Italian auto-captions of the narration)",
+    "publisher": "Videoteca Michele Patucca (YouTube upload)",
+    "url": "https://www.youtube.com/watch?v=dRLhJLsNgOQ",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Upload credits Blasetti and Cines, about 12 minutes; the auto-generated Italian captions give the narration read for this record: Francis died 1226, canonised 1228, basilica begun 1228, crypt, Cimabue and Giotto, St Clare, the Carceri hermitage",
+      "Unofficial upload; rights holder unknown. Used only to read the captions; no video downloaded."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "assisi-1932",
+        "status": "GREY",
+        "title": "Assisi e San Francesco nel 1932 | documentario raro (Italian auto-captions of the narration)",
+        "claims": [
+          "Upload credits Blasetti and Cines, about 12 minutes; the auto-generated Italian captions give the narration read for this record: Francis died 1226, canonised 1228, basilica begun 1228, crypt, Cimabue and Giotto, St Clare, the Carceri hermitage",
+          "Unofficial upload; rights holder unknown. Used only to read the captions; no video downloaded."
         ]
       }
     ]
@@ -42266,21 +42357,45 @@
     ]
   },
   {
-    "title": "Andrea del Boca",
-    "publisher": "Wikipedia (supplementary)",
-    "url": "https://en.wikipedia.org/wiki/Andrea_del_Boca",
+    "title": "AV-2653 Los especiales de ATC. Capitulo: Bernardette [Capitulo 1], parts I and II (Spanish auto-captions)",
+    "publisher": "Archivo Prisma (YouTube)",
+    "url": "https://www.youtube.com/watch?v=drYlM7NPNSM",
     "accessed": "2026-10-12",
     "claims": [
-      "Lists \"1981: Bernadette\" among her television credits; no other detail"
+      "Chapter 1, part I runs about 53 minutes and part II about 58 minutes (parts: drYlM7NPNSM and Lk_J3nGWzTo); the auto-generated captions give the dialogue read for this record",
+      "Part I: Soubirous family poverty, catechism class and the Holy Trinity scolding, the mayor and prosecutor and doctor discussing the girl; Part II: the crowds, the priest asking the Lady for her name and a rosebush, Bernadette told to drink and wash at the spring, the blind sculptor regains sight",
+      "Archive catalogue code AV-2653; the same channel holds other ATC specials. Rights holder unconfirmed; only captions read."
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "bernadette-1981",
-        "status": "HOLD",
+        "status": "GREY",
+        "title": "AV-2653 Los especiales de ATC. Capitulo: Bernardette [Capitulo 1], parts I and II (Spanish auto-captions)",
+        "claims": [
+          "Chapter 1, part I runs about 53 minutes and part II about 58 minutes (parts: drYlM7NPNSM and Lk_J3nGWzTo); the auto-generated captions give the dialogue read for this record",
+          "Part I: Soubirous family poverty, catechism class and the Holy Trinity scolding, the mayor and prosecutor and doctor discussing the girl; Part II: the crowds, the priest asking the Lady for her name and a rosebush, Bernadette told to drink and wash at the spring, the blind sculptor regains sight",
+          "Archive catalogue code AV-2653; the same channel holds other ATC specials. Rights holder unconfirmed; only captions read."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Andrea del Boca",
+    "publisher": "Wikipedia (English), supplementary",
+    "url": "https://en.wikipedia.org/wiki/Andrea_del_Boca",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Lists 1981: Bernadette among her television credits; a 1981 ATC series on Bernadette Soubirous reported as four one-hour episodes directed by her father Nicolas del Boca (the number of episodes is not confirmed by an archive record)"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "bernadette-1981",
+        "status": "GREY",
         "title": "Andrea del Boca",
         "claims": [
-          "Lists \"1981: Bernadette\" among her television credits; no other detail"
+          "Lists 1981: Bernadette among her television credits; a 1981 ATC series on Bernadette Soubirous reported as four one-hour episodes directed by her father Nicolas del Boca (the number of episodes is not confirmed by an archive record)"
         ]
       }
     ]
@@ -42330,87 +42445,63 @@
     ]
   },
   {
-    "title": "WATCH ON EWTN: 'Blessed: The Martyrs of Compiègne'",
-    "publisher": "National Catholic Register",
+    "title": "Blessed: The martyrs of Compiegne (58mn) (French auto-captions)",
+    "publisher": "De Grand Matin Productions (YouTube)",
+    "url": "https://www.youtube.com/watch?v=mDTa2yjVmzo",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Channel description: documentary director Francois Lespes (earlier films on Valaam and on Jerome Lejeune); 58:30 edit of \"Blessed: The true story of the Carmelite martyrs of Compiegne\", a coproduction KTO / De Grand Matin Productions; Pope Francis canonised the Carmelites in December 2024",
+      "French auto-captions read in full (about 40,000 characters): beatified 1906; cause relaunched in 2022 thanks to Pope Francis; Poulenc opera rehearsal; Carmel of Jonquieres since 1992; Mother Teresa of St Augustine's act of offering for peace for the Church and the state; closing on Bernanos and the communion of saints, which \"can concern unbelievers as well as believers\""
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "blessed-the-martyrs-of-compiegne-2025",
+        "status": "REJECT",
+        "title": "Blessed: The martyrs of Compiegne (58mn) (French auto-captions)",
+        "claims": [
+          "Channel description: documentary director Francois Lespes (earlier films on Valaam and on Jerome Lejeune); 58:30 edit of \"Blessed: The true story of the Carmelite martyrs of Compiegne\", a coproduction KTO / De Grand Matin Productions; Pope Francis canonised the Carmelites in December 2024",
+          "French auto-captions read in full (about 40,000 characters): beatified 1906; cause relaunched in 2022 thanks to Pope Francis; Poulenc opera rehearsal; Carmel of Jonquieres since 1992; Mother Teresa of St Augustine's act of offering for peace for the Church and the state; closing on Bernanos and the communion of saints, which \"can concern unbelievers as well as believers\""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "WATCH ON EWTN: \"Blessed: The Martyrs of Compiegne\"",
+    "publisher": "National Catholic Register (EWTN)",
     "url": "https://www.ncregister.com/blog/the-martyrs-of-compiegne-on-ewtn",
     "accessed": "2026-10-12",
     "claims": [
-      "EWTN broadcast 16 July 2025, French with English subtitles, TV-14",
-      "Based on the recollections of Sister Marie of the Incarnation and on present-day Carmelites of Compiègne; goes behind the scenes of the opera Dialogues of the Carmelites with opera singers as the nuns",
-      "Mentions the nuns' eventual canonisation and Pope Francis; nuns guillotined 17 July 1794"
+      "EWTN broadcast on 16 July 2025, in French with English subtitles; draws on Sister Marie of the Incarnation and on the present-day Carmelites of Compiegne; goes behind the scenes of Poulenc's opera with opera singers as the nuns"
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "blessed-the-martyrs-of-compiegne-2025",
-        "status": "HOLD",
-        "title": "WATCH ON EWTN: 'Blessed: The Martyrs of Compiègne'",
+        "status": "REJECT",
+        "title": "WATCH ON EWTN: \"Blessed: The Martyrs of Compiegne\"",
         "claims": [
-          "EWTN broadcast 16 July 2025, French with English subtitles, TV-14",
-          "Based on the recollections of Sister Marie of the Incarnation and on present-day Carmelites of Compiègne; goes behind the scenes of the opera Dialogues of the Carmelites with opera singers as the nuns",
-          "Mentions the nuns' eventual canonisation and Pope Francis; nuns guillotined 17 July 1794"
+          "EWTN broadcast on 16 July 2025, in French with English subtitles; draws on Sister Marie of the Incarnation and on the present-day Carmelites of Compiegne; goes behind the scenes of Poulenc's opera with opera singers as the nuns"
         ]
       }
     ]
   },
   {
-    "title": "Blessed: The Martyrs of Compiègne",
-    "publisher": "EWTN (broadcaster; interested source)",
+    "title": "Blessed: The Martyrs of Compiegne",
+    "publisher": "EWTN",
     "url": "https://www.ewtn.com/programs/8353-blessed-the-martyrs-of-compiegne",
     "accessed": "2026-10-12",
     "claims": [
-      "58 minutes, 2025 (16 July 2025 in the structured data); the sixteen Carmelites martyred in the French Revolution, their sacrifice as a witness to peace; no credits listed"
+      "58 minutes, 2025; the sixteen Carmelites martyred in the French Revolution and their brave sacrifice for peace; no credits listed (interested broadcaster)"
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "blessed-the-martyrs-of-compiegne-2025",
-        "status": "HOLD",
-        "title": "Blessed: The Martyrs of Compiègne",
+        "status": "REJECT",
+        "title": "Blessed: The Martyrs of Compiegne",
         "claims": [
-          "58 minutes, 2025 (16 July 2025 in the structured data); the sixteen Carmelites martyred in the French Revolution, their sacrifice as a witness to peace; no credits listed"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "La Véritable histoire des Carmélites martyres de Compiègne",
-    "publisher": "Diocese of Paris",
-    "url": "https://dioceseparis.fr/video-la-veritable-histoire-des.html",
-    "accessed": "2026-10-12",
-    "claims": [
-      "Documentary using recent historical research; follows the Carmelite team working for canonisation and testimonies from people touched by the Blessed; canonised 18 December 2024 in the presence of Pope Francis; Terror ended ten days after their execution (identity with the EWTN film not confirmed)"
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
-    "films": [
-      {
-        "id": "blessed-the-martyrs-of-compiegne-2025",
-        "status": "HOLD",
-        "title": "La Véritable histoire des Carmélites martyres de Compiègne",
-        "claims": [
-          "Documentary using recent historical research; follows the Carmelite team working for canonisation and testimonies from people touched by the Blessed; canonised 18 December 2024 in the presence of Pope Francis; Terror ended ten days after their execution (identity with the EWTN film not confirmed)"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Martyrs of Compiègne",
-    "publisher": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Martyrs_of_Compiègne",
-    "accessed": "2026-10-12",
-    "claims": [
-      "Sixteen Carmelites arrested 22 June 1794, tried and guillotined 17 July 1794; Marie of the Incarnation's account published 1836",
-      "Le Fort novella 1931, Bernanos play 1951, Poulenc opera; beatified by Pius X on 27 May 1906; canonised by Pope Francis on 18 December 2024 by equipollent canonisation"
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
-    "films": [
-      {
-        "id": "blessed-the-martyrs-of-compiegne-2025",
-        "status": "HOLD",
-        "title": "Martyrs of Compiègne",
-        "claims": [
-          "Sixteen Carmelites arrested 22 June 1794, tried and guillotined 17 July 1794; Marie of the Incarnation's account published 1836",
-          "Le Fort novella 1931, Bernanos play 1951, Poulenc opera; beatified by Pius X on 27 May 1906; canonised by Pope Francis on 18 December 2024 by equipollent canonisation"
+          "58 minutes, 2025; the sixteen Carmelites martyred in the French Revolution and their brave sacrifice for peace; no credits listed (interested broadcaster)"
         ]
       }
     ]
@@ -42869,41 +42960,63 @@
     ]
   },
   {
-    "title": "Don Lucio y el hermano Pío",
-    "publisher": "Spanish Wikipedia",
+    "title": "Don Lucio y el hermano Pio",
+    "publisher": "Wikipedia (Spanish), supplementary",
     "url": "https://es.wikipedia.org/wiki/Don_Lucio_y_el_hermano_Pío",
     "accessed": "2026-10-12",
     "claims": [
-      "1960 Spanish comedy by Nieves Conde, 83 minutes; screenplay Jaime García-Herranz and Pío Ballesteros; cast Tony Leblanc (Lucio), José Isbert (Hermano Pío); Hermano Pío is an almoner for nuns who run an orphanage and carries an image of the Child Jesus to Madrid; Lucio steals it to collect donations; summarised as a comedy that criticises lack of solidarity and is moving and good-natured."
+      "1960 Spanish comedy by Nieves Conde, 83 minutes; screenplay Jaime Garcia-Herranz and Pio Ballesteros; Tony Leblanc, Jose Isbert, Gracita Morales, Jose Calvo, Fernando Rey; Hermano Pio is almoner for nuns who run an orphanage and carries an image of the Child Jesus to Madrid; Lucio steals it"
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "don-lucio-y-el-hermano-pio-1960",
-        "status": "HOLD",
-        "title": "Don Lucio y el hermano Pío",
+        "status": "GREY",
+        "title": "Don Lucio y el hermano Pio",
         "claims": [
-          "1960 Spanish comedy by Nieves Conde, 83 minutes; screenplay Jaime García-Herranz and Pío Ballesteros; cast Tony Leblanc (Lucio), José Isbert (Hermano Pío); Hermano Pío is an almoner for nuns who run an orphanage and carries an image of the Child Jesus to Madrid; Lucio steals it to collect donations; summarised as a comedy that criticises lack of solidarity and is moving and good-natured."
+          "1960 Spanish comedy by Nieves Conde, 83 minutes; screenplay Jaime Garcia-Herranz and Pio Ballesteros; Tony Leblanc, Jose Isbert, Gracita Morales, Jose Calvo, Fernando Rey; Hermano Pio is almoner for nuns who run an orphanage and carries an image of the Child Jesus to Madrid; Lucio steals it"
         ]
       }
     ]
   },
   {
-    "title": "Don Lucio and Brother Pío",
-    "publisher": "Plot Explained",
-    "url": "https://www.plotexplained.com/movie/don-lucio-and-brotherpo-1960",
+    "title": "Don Lucio y el hermano Pio",
+    "publisher": "Decine21 (Catholic film review site)",
+    "url": "https://decine21.com/peliculas/don-lucio-y-el-hermano-pio-25143",
     "accessed": "2026-10-12",
     "claims": [
-      "Same premise; full plot summary not yet written."
+      "Summary: Pio, a friar collecting alms for nuns who run an orphanage, travels to Madrid with a statue of the baby Jesus; Lucio, a cynical man just out of prison, tries to steal it",
+      "Calls it a surprising comedy that criticises selfishness (insolidaridad) through well-drawn characters; suitable for young people; 6/10. Present-day Catholic outlet: establishes content only."
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "don-lucio-y-el-hermano-pio-1960",
-        "status": "HOLD",
-        "title": "Don Lucio and Brother Pío",
+        "status": "GREY",
+        "title": "Don Lucio y el hermano Pio",
         "claims": [
-          "Same premise; full plot summary not yet written."
+          "Summary: Pio, a friar collecting alms for nuns who run an orphanage, travels to Madrid with a statue of the baby Jesus; Lucio, a cynical man just out of prison, tries to steal it",
+          "Calls it a surprising comedy that criticises selfishness (insolidaridad) through well-drawn characters; suitable for young people; 6/10. Present-day Catholic outlet: establishes content only."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Datos de Pelicula ICAA: Don Lucio y el hermano Pio",
+    "publisher": "Instituto de la Cinematografia y de las Artes Audiovisuales (Catalogo de Peliculas ICAA)",
+    "url": "https://sede.mcu.gob.es/CatalogoICAA/es-es/Peliculas/Detalle?Pelicula=251850",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Official catalogue record of the 1960 film; listed with \"Calificacion no disponible\" and a resolution date of 4 October 1960 (as reported in a search summary; page not opened for this record)"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "don-lucio-y-el-hermano-pio-1960",
+        "status": "GREY",
+        "title": "Datos de Pelicula ICAA: Don Lucio y el hermano Pio",
+        "claims": [
+          "Official catalogue record of the 1960 film; listed with \"Calificacion no disponible\" and a resolution date of 4 October 1960 (as reported in a search summary; page not opened for this record)"
         ]
       }
     ]
@@ -44213,41 +44326,43 @@
     ]
   },
   {
-    "title": "María Magdalena: Pecadora de Magdala",
-    "publisher": "Spanish Wikipedia",
-    "url": "https://es.wikipedia.org/wiki/María_Magdalena:_Pecadora_de_Magdala",
+    "title": "El evangelio de Maria Magdalena y Magdala: poesia y cine de autor (Inflexiones no. 15, 2025)",
+    "publisher": "Francisco Raul Casamadrid Perez, ENES Morelia, UNAM",
+    "url": "https://inflexiones.unam.mx/index.php/inflexiones/article/download/232/233/661",
     "accessed": "2026-10-12",
     "claims": [
-      "Filmed 1945, released 10 October 1946; directed and produced by Miguel Contreras Torres; screenplay adaptation Medea de Novara; music Miguel Bernal Jiménez; cinematography Alex Phillips; cast Medea de Novara, Tito Junco (Judas), José Baviera (Pilate), Luis Alcoriza (Jesus); 110 minutes; a courtesan who seeks repentance by drawing close to Jesus."
+      "Scholarly essay, pp. 75-80, describes the film: opens with the temple of Isis in Egypt and a prince taking an emerald, Magdalene as a rich courtesan, her dinner, her flogging of a slave, Judas as a suitor, Jesus driving the seven sins out of her by double exposure, her giving up lovers and slaves, the scene at Simon the Pharisee",
+      "Quotes the opening dedication: \"con veneracion, respeto y apego a las Sagradas Escrituras\"; says the film was the most expensive in Mexican cinema to that time; gives credits (Medea de Novara, Luis Alcoriza as Jesus, Tito Junco as Judas, photography Alex Phillips, music Miguel Bernal Jimenez). The essay pairs the film with a 2023 poem and reads both with a gnostic-leaning slant that is the author's, not the film's."
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "maria-magdalena-pecadora-de-magdala-1946",
-        "status": "HOLD",
-        "title": "María Magdalena: Pecadora de Magdala",
+        "status": "GREY",
+        "title": "El evangelio de Maria Magdalena y Magdala: poesia y cine de autor (Inflexiones no. 15, 2025)",
         "claims": [
-          "Filmed 1945, released 10 October 1946; directed and produced by Miguel Contreras Torres; screenplay adaptation Medea de Novara; music Miguel Bernal Jiménez; cinematography Alex Phillips; cast Medea de Novara, Tito Junco (Judas), José Baviera (Pilate), Luis Alcoriza (Jesus); 110 minutes; a courtesan who seeks repentance by drawing close to Jesus."
+          "Scholarly essay, pp. 75-80, describes the film: opens with the temple of Isis in Egypt and a prince taking an emerald, Magdalene as a rich courtesan, her dinner, her flogging of a slave, Judas as a suitor, Jesus driving the seven sins out of her by double exposure, her giving up lovers and slaves, the scene at Simon the Pharisee",
+          "Quotes the opening dedication: \"con veneracion, respeto y apego a las Sagradas Escrituras\"; says the film was the most expensive in Mexican cinema to that time; gives credits (Medea de Novara, Luis Alcoriza as Jesus, Tito Junco as Judas, photography Alex Phillips, music Miguel Bernal Jimenez). The essay pairs the film with a 2023 poem and reads both with a gnostic-leaning slant that is the author's, not the film's."
         ]
       }
     ]
   },
   {
-    "title": "María Magdalena: pecadora de Magdala",
-    "publisher": "Hispanopedia",
-    "url": "https://es.hispanopedia.com/wiki/María_Magdalena:_pecadora_de_Magdala",
+    "title": "Maria Magdalena: Pecadora de Magdala",
+    "publisher": "Wikipedia (Spanish), supplementary",
+    "url": "https://es.wikipedia.org/wiki/María_Magdalena:_Pecadora_de_Magdala",
     "accessed": "2026-10-12",
     "claims": [
-      "Same credits and one-line premise; Luana Alcañiz in the cast; no information on treatment."
+      "Filmed 1945, released 10 October 1946; directed and produced by Miguel Contreras Torres; screenplay adaptation Medea de Novara; music Miguel Bernal Jiménez; cinematography Alex Phillips; 110 minutes; a courtesan seeks repentance by drawing close to Jesus"
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "maria-magdalena-pecadora-de-magdala-1946",
-        "status": "HOLD",
-        "title": "María Magdalena: pecadora de Magdala",
+        "status": "GREY",
+        "title": "Maria Magdalena: Pecadora de Magdala",
         "claims": [
-          "Same credits and one-line premise; Luana Alcañiz in the cast; no information on treatment."
+          "Filmed 1945, released 10 October 1946; directed and produced by Miguel Contreras Torres; screenplay adaptation Medea de Novara; music Miguel Bernal Jiménez; cinematography Alex Phillips; 110 minutes; a courtesan seeks repentance by drawing close to Jesus"
         ]
       }
     ]
@@ -44552,7 +44667,7 @@
   },
   {
     "title": "Redenzione (film 1919)",
-    "publisher": "Italian Wikipedia",
+    "publisher": "it.wikipedia.org",
     "url": "https://it.wikipedia.org/wiki/Redenzione_(film_1919)",
     "accessed": "2026-10-12",
     "claims": [
@@ -44564,7 +44679,7 @@
     "films": [
       {
         "id": "redenzione-1919",
-        "status": "HOLD",
+        "status": "REJECT",
         "title": "Redenzione (film 1919)",
         "claims": [
           "Medusa Film, dir. Carmine Gallone, story Fausto Salvatori, 2,200 m (about 80 minutes), in three parts: Amor sacro, Amor profano, Visione della Morte e della Trasfigurazione.",
@@ -44576,7 +44691,7 @@
   },
   {
     "title": "Melania G. Mazzucco presenta il libro Silenzio: le sette vite di Diana Karenne",
-    "publisher": "MentoLocale (event listing, Cineteca di Milano / MIC, 26 February 2025)",
+    "publisher": "mentelocale.it",
     "url": "https://www.mentelocale.it/milano/69002-melania-g-mazzucco-presenta-il-libro-silenzio-le-sette-vite-di-diana-karenne.htm",
     "accessed": "2026-10-12",
     "claims": [
@@ -44586,7 +44701,7 @@
     "films": [
       {
         "id": "redenzione-1919",
-        "status": "HOLD",
+        "status": "REJECT",
         "title": "Melania G. Mazzucco presenta il libro Silenzio: le sette vite di Diana Karenne",
         "claims": [
           "The Cineteca di Milano showed unreleased excerpts of Redenzione (1919); the listing gives 25 minutes as the surviving material and calls it one of the rare surviving documents of Karenne's career."
@@ -44596,7 +44711,7 @@
   },
   {
     "title": "Redemption (1919 film)",
-    "publisher": "English Wikipedia",
+    "publisher": "en.wikipedia.org",
     "url": "https://en.wikipedia.org/wiki/Redemption_(1919_film)",
     "accessed": "2026-10-12",
     "claims": [
@@ -44606,7 +44721,7 @@
     "films": [
       {
         "id": "redenzione-1919",
-        "status": "HOLD",
+        "status": "REJECT",
         "title": "Redemption (1919 film)",
         "claims": [
           "Premiered 1 March 1919; 80 minutes; Medusa and Gaumont distribution; cast listing. No plot, survival or reception."
@@ -44778,7 +44893,7 @@
   },
   {
     "title": "Saint Dominic: Speaking With God and of God",
-    "publisher": "EWTN (broadcaster; interested source)",
+    "publisher": "ewtn.com",
     "url": "https://www.ewtn.com/programs/6221-saint-dominic-speaking-with-god-and-of-god",
     "accessed": "2026-10-12",
     "claims": [
@@ -44802,7 +44917,7 @@
   },
   {
     "title": "Saint Dominic: Speaking With God and of God (on demand)",
-    "publisher": "EWTN On Demand",
+    "publisher": "ondemand-origin.ewtn.com",
     "url": "https://ondemand-origin.ewtn.com/Home/Series/ondemand/video/en/saint-dominic---speaking-with-god-and-of-god",
     "accessed": "2026-10-12",
     "claims": [
@@ -44969,8 +45084,41 @@
     ]
   },
   {
+    "title": "Martyrs on the Silver Screen: Early Church Martyrdom in Italian Silent Cinema (1898-1930)",
+    "publisher": "Durham University (doctoral thesis, Joseph Albert North, 2016)",
+    "url": "https://etheses.durham.ac.uk/id/eprint/11728/",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Treats Cines' San Sebastiano (1911) from contemporary reviews and treats the film as lost, in contrast to Santa Cecilia (1911), which the BFI holds",
+      "Establishes that the Cines film and the Milano Films film of the same year are separate productions"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "san-sebastiano-1911",
+        "status": "REJECT",
+        "title": "Martyrs on the Silver Screen: Early Church Martyrdom in Italian Silent Cinema (1898-1930)",
+        "claims": [
+          "Treats Cines' San Sebastiano (1911) from contemporary reviews and treats the film as lost, in contrast to Santa Cecilia (1911), which the BFI holds",
+          "Establishes that the Cines film and the Milano Films film of the same year are separate productions"
+        ]
+      },
+      {
+        "id": "santa-cecilia-1911",
+        "status": "PUBLISH",
+        "title": "Martyrs on the Silver Screen: Early Church Martyrdom in Italian Silent Cinema (1898-1930)",
+        "claims": [
+          "Santa Cecilia (Cines, released February 1911, dir. Enrique Santos; Fernanda Negri-Pouget, Amleto Novelli, Bruto Castellani); BFI copy ref. C-24913, 916 feet against a reported 377 m, no obvious gaps and flash intertitles account for much of the difference",
+          "Shot-by-shot plot summary from the BFI copy: Lentulus spies, Valerian baptised by Bishop Urbanus, wedding banquet interrupted, Valerian condemned, Cecilia buried him in the catacombs and was put to death at home; the film ends abruptly before the apotheosis described in The Bioscope",
+          "The Bioscope (2 Feb 1911) called it a faithful reproduction; Fabbri (1911) wanted a more exact plot; Lentulus is fictive; the angel and failed beheading of the Acts are absent",
+          "Richer mise-en-scene than Cines' earlier Dall'amore al martirio: first authentic catacomb set, closer camera for the burial and death"
+        ]
+      }
+    ]
+  },
+  {
     "title": "San Sebastiano (film 1911 Cines)",
-    "publisher": "Italian Wikipedia",
+    "publisher": "it.wikipedia.org",
     "url": "https://it.wikipedia.org/wiki/San_Sebastiano_(film_1911_Cines)",
     "accessed": "2026-10-12",
     "claims": [
@@ -44981,7 +45129,7 @@
     "films": [
       {
         "id": "san-sebastiano-1911",
-        "status": "HOLD",
+        "status": "REJECT",
         "title": "San Sebastiano (film 1911 Cines)",
         "claims": [
           "Cines, 1911, dir. Enrique Santos, 340 m; cast Enna Saredo (Fabiola), Amleto Novelli (Sebastiano).",
@@ -44991,25 +45139,43 @@
     ]
   },
   {
-    "title": "Santa Cecilia (film 1911)",
-    "publisher": "Italian Wikipedia",
-    "url": "https://it.wikipedia.org/wiki/Santa_Cecilia_(film_1911)",
+    "title": "Silent Antiquity Prints Unique to the BFI National Archive (workshop programme, Bologna, 25 June 2025)",
+    "publisher": "UCL Museum of Dreamworlds project / BFI National Archive / Il Cinema Ritrovato",
+    "url": "https://corsi.unibo.it/magistrale/ScienzeStoricheOrientalistiche/bacheca/silent-antquity-prints-unique-to-the-bfi-natonal-archive/bologna-workshop.pdf/@@download/file/BOLOGNA WORKSHOP.pdf",
     "accessed": "2026-10-12",
     "claims": [
-      "Cines, 1911, dir. Enrique Santos, 377 m, cast Fernanda Negri Pouget (Cecilia), Amleto Novelli (Valerian).",
-      "Plot: Cecilia secretly Christian, marries Valerian on condition he converts; he is baptised in the catacombs, denounced by Lentulo, sentenced and buried; Cecilia is arrested, confesses and is executed at home; a cross appears where she was martyred.",
-      "Cites Bernardini and Martinelli (1996) and The Bioscope, 2 February 1911. Says nothing about survival."
+      "Lists Santa Cecilia (1911, Cines, dir. Enrique Santos) among silent antiquity prints the organisers believe to be unique to the BFI National Archive; to be presented by Ivo Blom (Vrije Universiteit Amsterdam)",
+      "Programme synopsis: Cecilia secretly Christian, Valerianus converted and condemned, Cecilia confesses and is put to death in her own home as a Roman patrician, both buried in the catacombs"
     ],
     "licensing": "Reference link only; no artwork permission implied.",
     "films": [
       {
         "id": "santa-cecilia-1911",
-        "status": "HOLD",
+        "status": "PUBLISH",
+        "title": "Silent Antiquity Prints Unique to the BFI National Archive (workshop programme, Bologna, 25 June 2025)",
+        "claims": [
+          "Lists Santa Cecilia (1911, Cines, dir. Enrique Santos) among silent antiquity prints the organisers believe to be unique to the BFI National Archive; to be presented by Ivo Blom (Vrije Universiteit Amsterdam)",
+          "Programme synopsis: Cecilia secretly Christian, Valerianus converted and condemned, Cecilia confesses and is put to death in her own home as a Roman patrician, both buried in the catacombs"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Santa Cecilia (film 1911)",
+    "publisher": "Wikipedia (Italian), supplementary",
+    "url": "https://it.wikipedia.org/wiki/Santa_Cecilia_(film_1911)",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Cines, 377 m; cast incl. Gastone Monaldi as the Prefect; reviewed in The Bioscope 2 Feb 1911 and in La Cinematografia Italiana ed Estera (Fabbri); cites Bernardini and Martinelli, Il cinema muto italiano 1911 (1996)"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "santa-cecilia-1911",
+        "status": "PUBLISH",
         "title": "Santa Cecilia (film 1911)",
         "claims": [
-          "Cines, 1911, dir. Enrique Santos, 377 m, cast Fernanda Negri Pouget (Cecilia), Amleto Novelli (Valerian).",
-          "Plot: Cecilia secretly Christian, marries Valerian on condition he converts; he is baptised in the catacombs, denounced by Lentulo, sentenced and buried; Cecilia is arrested, confesses and is executed at home; a cross appears where she was martyred.",
-          "Cites Bernardini and Martinelli (1996) and The Bioscope, 2 February 1911. Says nothing about survival."
+          "Cines, 377 m; cast incl. Gastone Monaldi as the Prefect; reviewed in The Bioscope 2 Feb 1911 and in La Cinematografia Italiana ed Estera (Fabbri); cites Bernardini and Martinelli, Il cinema muto italiano 1911 (1996)"
         ]
       }
     ]
@@ -45765,8 +45931,30 @@
     ]
   },
   {
+    "title": "The Passion of St. Edmund Campion (Home Video Highlight and clip, English auto-captions)",
+    "publisher": "EWTN (YouTube)",
+    "url": "https://www.youtube.com/watch?v=h9uL_4sb2HY",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Two short EWTN clips (60 seconds each): the promotional highlight describes Campion holding firm under the persecution of Catholics; the second clip shows a courtroom exchange ending with Campion saying he is a Catholic man and will die in that faith",
+      "Promotional material from the broadcaster; establishes only that the film is a conventional martyr drama."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-passion-of-saint-edmund-campion-2022",
+        "status": "HOLD",
+        "title": "The Passion of St. Edmund Campion (Home Video Highlight and clip, English auto-captions)",
+        "claims": [
+          "Two short EWTN clips (60 seconds each): the promotional highlight describes Campion holding firm under the persecution of Catholics; the second clip shows a courtroom exchange ending with Campion saying he is a Catholic man and will die in that faith",
+          "Promotional material from the broadcaster; establishes only that the film is a conventional martyr drama."
+        ]
+      }
+    ]
+  },
+  {
     "title": "The Passion of Saint Edmund Campion",
-    "publisher": "EWTN (broadcaster; interested source)",
+    "publisher": "ewtn.com",
     "url": "https://www.ewtn.com/programs/5771-the-passion-of-saint-edmund-campion",
     "accessed": "2026-10-12",
     "claims": [
@@ -45790,7 +45978,7 @@
   },
   {
     "title": "The Passion of Saint Edmund Campion (on demand)",
-    "publisher": "EWTN On Demand",
+    "publisher": "ondemand-origin.ewtn.com",
     "url": "https://ondemand-origin.ewtn.com/Home/Series/ondemand/video/en/the-passion-of-saint-edmund-campion",
     "accessed": "2026-10-12",
     "claims": [
@@ -45810,7 +45998,7 @@
   },
   {
     "title": "Edmund Campion",
-    "publisher": "Wikipedia",
+    "publisher": "en.wikipedia.org",
     "url": "https://en.wikipedia.org/wiki/Edmund_Campion",
     "accessed": "2026-10-12",
     "claims": [

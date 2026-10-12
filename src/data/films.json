@@ -30376,6 +30376,93 @@
     "grey": null
   },
   {
+    "id": "los-cristeros-1947",
+    "slug": "los-cristeros-1947",
+    "title": "The Cristeros",
+    "originalTitle": "Los cristeros",
+    "alternateTitles": [
+      "Sucedió en Jalisco"
+    ],
+    "year": 1947,
+    "format": "Feature film",
+    "directors": [
+      "Raúl de Anda"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "subjects": [
+      "Persecution",
+      "War",
+      "Family"
+    ],
+    "collections": [
+      "cristeros",
+      "families"
+    ],
+    "historicalPeriod": "20th century",
+    "status": "GREY",
+    "decision": "GREY: Identity is firm and the Cristero War is its setting, but two independent Mexican commentators give opposite accounts of the stance: Hugo Gutiérrez Vega says the filmmakers softened the novel so as not to offend the Church, while Daniel Sendrós reports summaries saying the people of Jalisco were deceived by the clergy. No viewing or dialogue is available. That is a reservation a reader can weigh, so GREY, not HOLD.",
+    "summary": "Raúl de Anda's melodrama of the Cristero War, from José Guadalupe de Anda's novel, with Luis Aguilar and Sara García; accounts of its attitude to the Church conflict.",
+    "synopsis": "Set in Jalisco during the Cristero War of 1926 to 1929, the film is a ranch melodrama of three people caught in a love triangle. Sara García plays the grandmother, Doña Engracia, and Luis Aguilar Felipe, with Tito Junco as Policarpo Bermúdez and Amanda del Llano as María; a lieutenant, a colonel and a municipal president are also in the cast. The anti-Church laws and the rising divide Felipe's family. Beyond that, no source gives the course of the plot or its ending, and the sources disagree about what the film says of the clergy and of the rebels.",
+    "inclusion": "It was the first Mexican fiction film about the Cristiada, made at a time when the government kept coverage of the war muted, and in that sense a risk. It rests on a serious novel, Los cristeros (1937) by the author's cousin José Guadalupe de Anda, with Mexican stars of the period. The reaction was cool: it did not draw audiences, and De Anda later remade the story in a different setting. Writer Hugo Gutiérrez Vega called the film a silly and insipid photonovel that betrayed the book. It is worth knowing as the earliest screen treatment of a subject that Catholic Mexico has cared about since, but not as a good film.",
+    "themes": "The Cristero rising was a Catholic rebellion against the anti-clerical laws of President Calles. Here the Church conflict is a backdrop to a love story, and the sources differ about its slant. Gutiérrez Vega says the film departs from the novel to avoid offending the Church and so softens the Cristero story. Daniel Sendrós, in Criterio, passes on summaries saying the film shows the good people of Jalisco deceived by the clergy, who convinced them that the government was persecuting religion; he does not endorse that reading. A popular blog calls it the most ambitious effort to portray the episode. The reader must weigh these.",
+    "history": "From 1926, President Plutarco Elías Calles enforced the anti-clerical articles of the 1917 constitution, closing churches and expelling priests. Catholics in Jalisco and neighbouring states took up arms, shouting \"Viva Cristo Rey\", until a negotiated settlement in 1929. The war was largely covered up in public life in later decades, as Wikipedia notes of the film's making. Many priests and lay people were killed.",
+    "liberties": "The film is adapted from José Guadalupe de Anda's 1937 novel; Gutiérrez Vega says it is unfaithful to it and softens the story. Sendrós's summaries suggest an opposite reading of the clergy. The 1972 remake by the same director, Sucedió en Jalisco, moves the story to the Revolution and is a different film.",
+    "advisories": "War violence and killings in the Mexican ranch-film manner of the 1940s; a love triangle with jealousy; no explicit content expected.\n\nThe film's treatment of the clergy and the Cristeros is disputed in the sources; an unreliable copy and no subtitles are the practical limits.",
+    "sources": [
+      {
+        "title": "Sucedió en Jalisco (Los cristeros)",
+        "publisher": "Wikipedia (English), supplementary",
+        "url": "https://en.wikipedia.org/wiki/Sucedi%C3%B3_en_Jalisco_(Los_cristeros)",
+        "accessed": "2026-10-12",
+        "claims": [
+          "1947 Mexican film written and directed by Raúl de Anda from José Guadalupe de Anda's novel; Sara García; a love triangle during the Cristero War; the government restricted coverage; remade by de Anda in 1972"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Los cristeros",
+        "publisher": "TheTVDB",
+        "url": "https://www.thetvdb.com/movies/los-cristeros",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Mexico, 19 December 1947, 98 minutes; cast incl. Sara García (Doña Engracia), Luis Aguilar (Felipe), Tito Junco (Policarpo Bermúdez), Amanda del Llano (María), Carlos López Moctezuma, Víctor Parra (Teniente Cuello)"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Bazar de asombros: José Guadalupe de Anda, Los cristeros y Los bragados (II y última)",
+        "publisher": "Hugo Gutiérrez Vega, Academia Mexicana de la Lengua (column, 18 August 2013)",
+        "url": "https://academia.org.mx/prensa/noticias-seccion/item/bazar-de-asombros-jose-guadalupe-de-anda-los-cristeros-y-los-bragados-ii-y-ultima-de-hugo-gutierrez-vega-2",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Calls the 1947 film a poor adaptation, insipid, a dreadful photonovel, and says it departed from the novel to avoid offending the Church; criticises Tito Junco's acting"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "La Guerra Cristera en el cine",
+        "publisher": "Daniel Sendrós, Revista Criterio no. 2393 (2013)",
+        "url": "https://www.revistacriterio.com.ar/bloginst_new/?p=8427",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Reports, \"según resúmenes\", that the 1946-47 film by Raúl de Anda has the people of Jalisco deceived by the clergy, who convinced them that the government was persecuting religion; does not endorse the reading; surveys later Cristero films and calls the 1970s films anti-clerical"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      }
+    ],
+    "grey": {
+      "kind": "reservations",
+      "question": "Raúl de Anda's 1947 Los cristeros is a love-triangle melodrama set in the Cristero War, and its attitude to the Church is disputed. The writer Hugo Gutiérrez Vega says it softened José Guadalupe de Anda's novel so as not to offend the Church; the critic Daniel Sendrós relays summaries in which the people of Jalisco were deceived by the clergy. No dialogue, review of the film itself or viewing copy has been found, so the stance of the film is unknown. A viewer should treat it as a Cristero-war setting, not a vindication of the Cristeros."
+    },
+    "reviewed": "2026-10-12",
+    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+  },
+  {
     "id": "los-jueves-milagro-1957",
     "slug": "los-jueves-milagro-1957",
     "title": "Miracles of Thursday",
@@ -39997,6 +40084,79 @@
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
+    "id": "la-vie-et-la-passion-de-jesus-christ-1898",
+    "slug": "la-vie-et-la-passion-de-jesus-christ-1898",
+    "title": "The Life and Passion of Jesus Christ (Lumière)",
+    "originalTitle": "La Vie et la passion de Jésus-Christ",
+    "alternateTitles": [],
+    "year": 1898,
+    "format": "Silent feature",
+    "directors": [
+      "Georges Hatot",
+      "Louis Lumière"
+    ],
+    "countries": [
+      "France"
+    ],
+    "languages": [],
+    "subjects": [
+      "Our Lord",
+      "The Passion"
+    ],
+    "collections": [
+      "christ"
+    ],
+    "historicalPeriod": "Biblical antiquity",
+    "status": "GREY",
+    "decision": "GREY: Identity is secure: the Lumière company's 1898 Passion tableaux, directed by Georges Hatot, are described in a scholarly volume of the Journal of Religion, Film and Media and a print is held at the Library of Congress. Content is known as a list of scenes and nothing in it raises a doctrinal question, but no independent critic assesses how the tableaux treat the Gospel, so it is Not yet verified rather than PUBLISH.",
+    "summary": "The Lumière company's Passion of 1898: a dozen one-shot tableaux from the Magi to the Resurrection, sold separately so that exhibitors could assemble their own Life of Christ.",
+    "synopsis": "The film is a set of short tableaux, each shot from a fixed camera and sold as a separate Lumière catalogue number. A surviving compilation usually shows about twelve: the Adoration of the Magi, the Flight into Egypt, the Betrayal of Judas, the Raising of Lazarus, the Last Supper, the Arrest, the Scourging, the Crowning with Thorns, the Nailing to the Cross, Calvary, the Entombment and the Resurrection. There are no intertitles, and the exhibitor, or an organist, supplied the commentary and music. Each scene is a single shot with no cutting inside it, closer to a living picture than to a story.",
+    "inclusion": "This is among the first Passion films, made by the Lumière company only three years after the first public film show. Georges Hatot, who specialised in religious and historical subjects, staged it with Alexandre Promio at the camera. Its interest is historical: the Gospel scenes that later filmmakers would stage again and again are here fixed in their earliest cinematic form, in painted settings with a static camera. Spanish writer Infovaticana, who saw the digitised version, stresses that it is silent and unscored and suggests that a Catholic family of the time would have been moved to see the Passion in motion for the first time. It is short, primitive and worth knowing as a document.",
+    "themes": "The scenes are the standard Gospel and devotional sequence, with the Magi, the Flight into Egypt and Lazarus taken from the Gospels and the Entombment and Resurrection ending the series. The Passion is shown with reserve and no interpretation: Christ is played by a French actor in documentation that is limited, and there is no commentary beyond the scene titles. Nothing in the surviving descriptions departs from the Gospel narrative or the iconography of the time. Because the scenes were sold singly, the film carries no theology of its own.",
+    "history": "The Lumière company issued the series in 1898 as catalogue numbers 933 to 945. Each scene was sold separately, and showmen assembled them in their own order. The Lumières delegated the direction to Georges Hatot, who had a record of religious and historical subjects. Pathé's own, later Life and Passion (1902-3) is a different film that is sometimes confused with it.",
+    "advisories": "A scourging, crowning with thorns and crucifixion are staged in silent tableaux, with no gore by modern standards.\n\nVery short scenes, silent, no intertitles, in primitive technique; the only judgment on it is historical. Suitable for all ages.",
+    "sources": [
+      {
+        "title": "JRFM - Journal Religion Film Media, vol. 5/1 (2019), chapter by Cristiana Facchini, p. 78",
+        "publisher": "Schuren Verlag (via Austria-Forum)",
+        "url": "https://austria-forum.org/web-books/en/jrfm01de2019isds/000080",
+        "accessed": "2026-10-12",
+        "claims": [
+          "La vie et la passion de Jesus-Christ was shot in Paris in 1898, composed of thirteen tableaux, commissioned by the Lumiere brothers and directed by George Hatot; placed in a chronology of early Jesus films",
+          "The page gives production facts only and offers no judgment of the staging."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "La vie et la passion de Jesus-Christ, la primera pelicula del Senor",
+        "publisher": "Infovaticana (Catholic news site, 2017)",
+        "url": "https://infovaticana.com/2017/10/01/la-vie-et-la-passion-jesus-christ-la-primera-pelicula-del-senor/",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Describes the 1898 Lumiere film as a unique document that has been digitised: Last Supper, trial before Pilate, crucifixion on Calvary, resurrection; silent without intertitles; the digital version keeps the scratches of the period celluloid.",
+          "Present-day Catholic outlet: establishes what the film contains, not an authority for approval."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "La vie et la passion de Jesus-Christ (1898 film)",
+        "publisher": "Wikipedia (English), supplementary",
+        "url": "https://en.wikipedia.org/wiki/La_vie_et_la_passion_de_J%C3%A9sus-Christ",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Lumiere catalogue nos. 933-945 (no. 935 not listed); camera Alexandre Promio; surviving compilations normally show twelve scenes; Library of Congress holds a 35mm print (LC record 78710669, not opened here because the site blocked automated access)"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      }
+    ],
+    "grey": {
+      "kind": "unverified",
+      "question": "The Lumière company's 1898 Passion is a set of about twelve silent tableaux, directed by Georges Hatot and sold as separate numbers. Its scene list is the ordinary Gospel sequence and nothing in the sources suggests a problem. What has not been found is any critic or archivist describing how the scenes are staged or whether the Gospel is followed closely; surviving documentation is limited, and even the identity of the actor who plays Christ is unclear. A catalogue note from the Library of Congress or the Lumière archive would settle it."
+    },
+    "reviewed": "2026-10-12",
+    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+  },
+  {
     "id": "la-vie-et-la-passion-de-jesus-christ-1907",
     "slug": "la-vie-et-la-passion-de-jesus-christ-1907",
     "title": "The Life and Passion of Jesus Christ (1907)",
@@ -42152,6 +42312,152 @@
     "imageRights": "Original Library typographic artwork; no film imagery reproduced."
   },
   {
+    "id": "assisi-1932",
+    "slug": "assisi-1932",
+    "title": "Assisi",
+    "originalTitle": "Assisi",
+    "alternateTitles": [],
+    "year": 1932,
+    "format": "Documentary",
+    "directors": [
+      "Alessandro Blasetti"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "languages": [
+      "Italian"
+    ],
+    "subjects": [
+      "St. Francis of Assisi",
+      "St. Clare of Assisi",
+      "Religious life"
+    ],
+    "collections": [
+      "saints",
+      "documentaries"
+    ],
+    "historicalPeriod": "Middle Ages",
+    "status": "GREY",
+    "decision": "GREY: Identity (Cinematografo.it technical record; Wikipedia) and content (the narration, read from the captions of an online copy) are established and the film is sound pre-conciliar material, shown to prelates in 1932. The only assessment of it is Umberto Barbaro's 1936 note on its form, reported second-hand, so there is no independent judgment of its treatment of the faith. Could move to PUBLISH if the editor accepts Barbaro's review as the treatment source.",
+    "summary": "Blasetti's 12-minute Cines documentary walks through Assisi, the basilica and crypt of St Francis, the Giotto frescoes and St Clare's church, with a spoken commentary by a Dominican friar.",
+    "synopsis": "The film opens on the town and countryside, then follows a procession towards the basilica. The commentary explains that Assisi's fame is bound to St Francis, who died there in 1226 and was canonised in 1228, when work began on the basilica and convent. We pass through the crypt where his body was found, the lower church, Cimabue's Madonna with an early portrait of Francis, and the vault frescoes of the Franciscan virtues and the marriage with Poverty. The upper church shows Giotto's scenes of his life. The camera then goes up to the fortress, down to St Clare's church and the garden of the Poor Clares, and ends at the Carceri hermitage on Monte Subasio, where monks still pray and work.",
+    "inclusion": "A short, well-made travelogue with a purpose. Blasetti, one of the best Italian directors of the period, shot it in ten days in the spring of 1932 for Cines, and the commentary is the work of a Dominican friar. It was previewed to senior prelates, including seven cardinals, in June 1932 and shown at the first Venice festival that August. Critic Umberto Barbaro, writing in 1936, praised the way a procession gives the film a through-line without fast cutting, and the high-contrast photography that conveys the atmosphere of the sanctuary. For anyone who wants to see Assisi before the twentieth-century restorations and crowds, it is a clear and reverent record, and the Giotto frescoes are filmed in sequence.",
+    "themes": "The Catholic subject is Francis and Clare and their orders, presented through their places: the crypt, the basilica, the Poor Clares' garden, the hermitage. The commentary speaks of Francis relighting the light of Christian hope in the darkness of the Middle Ages and of his example of virtue and sacrifice spreading across the world. It treats the Franciscan order as a living work, not a museum piece, and notes that monks still pray and labour at the Carceri. The tone is plain devotion plus art history; there is no sermon, no controversy and nothing in the narration at odds with pre-conciliar Catholic teaching.",
+    "history": "Francis of Assisi died in 1226 and was canonised by Gregory IX in 1228, the year work on the basilica began. His body was found beneath the lower church in the nineteenth century, as the film notes. Assisi became a centre of art under the Franciscan popes, with Cimabue, Giotto and others decorating the basilica until about 1350. Clare founded the Poor Clares, who still live beside her church.",
+    "advisories": "Nothing disturbing. About 12 minutes, black and white, with Italian narration; no subtitles are known. Suitable for all ages.\n\nThe copy circulating online is an unofficial upload of a rare archive film, so quality and availability may vary.",
+    "sources": [
+      {
+        "title": "Assisi (1932): technical record",
+        "publisher": "Cinematografo.it (Fondazione Ente dello Spettacolo)",
+        "url": "https://www.cinematografo.it/film/assisi-w6z5ixsl",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Short documentary, black and white, 13 minutes; director and editor Alessandro Blasetti; photography Ubaldo Arata and Antonio Cufaro; production Emilio Cecchi, Cines, Pittaluga"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Assisi (film, 1932)",
+        "publisher": "Wikipedia (French), supplementary",
+        "url": "https://fr.wikipedia.org/wiki/Assisi_(film,_1932)",
+        "accessed": "2026-10-12",
+        "claims": [
+          "12 minutes; shot in ten days in April-May 1932 for Cines as part of a series of documentaries on Italian places under Pittaluga and Cecchi",
+          "Commentary written and spoken by a Dominican friar; previewed in June 1932 to senior prelates including seven cardinals; shown at Venice on 9 August 1932",
+          "Umberto Barbaro (Quadrivio, 1936) praised the procession as a guiding thread and the high-contrast photography; Blasetti recalled Cecchi asked him to make it"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Assisi e San Francesco nel 1932 | documentario raro (Italian auto-captions of the narration)",
+        "publisher": "Videoteca Michele Patucca (YouTube upload)",
+        "url": "https://www.youtube.com/watch?v=dRLhJLsNgOQ",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Upload credits Blasetti and Cines, about 12 minutes; the auto-generated Italian captions give the narration read for this record: Francis died 1226, canonised 1228, basilica begun 1228, crypt, Cimabue and Giotto, St Clare, the Carceri hermitage",
+          "Unofficial upload; rights holder unknown. Used only to read the captions; no video downloaded."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      }
+    ],
+    "grey": {
+      "kind": "unverified",
+      "question": "Blasetti's 1932 documentary on Assisi has a spoken commentary by a Dominican friar, and the narration, read in the captions of an online copy, is devout and conventional. What is missing is an independent assessment of it as a treatment of Francis and Clare. The one critical note is Umberto Barbaro's 1936 praise for its form, known only through a summary. The surviving copy online is an unofficial upload, and no archive holding record has been found. An archive record and a fuller review would settle both questions."
+    },
+    "reviewed": "2026-10-12",
+    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+  },
+  {
+    "id": "bernadette-1981",
+    "slug": "bernadette-1981",
+    "title": "Bernadette",
+    "originalTitle": "Bernardette",
+    "alternateTitles": [
+      "Los especiales de ATC: Bernardette"
+    ],
+    "year": 1981,
+    "format": "Television film",
+    "directors": [
+      "Nicolás del Boca"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "subjects": [
+      "Marian apparitions",
+      "St. Bernadette Soubirous",
+      "Our Lady"
+    ],
+    "collections": [
+      "mary",
+      "saints",
+      "television"
+    ],
+    "historicalPeriod": "19th century",
+    "status": "GREY",
+    "decision": "GREY: Survival is now established (Archivo Prisma holds the first chapter, in two parts, of AV-2653, and its Spanish auto-captions read as a faithful dramatisation of Lourdes up to the healing at the spring). Only chapter 1 has been located, no review exists and the later chapters are unseen, so the treatment of the rest is unverified. Bernadette was canonised in 1933; no post-1965 issue.",
+    "summary": "Argentine state television's dramatisation of Bernadette Soubirous, with Andrea del Boca; the surviving first chapter runs from the family's poverty to the healing at the spring.",
+    "synopsis": "The first chapter opens with the Soubirou family's poverty in Lourdes: Bernadette's father out of work, the family living in the old prison cell, and Bernadette sent out to be a servant. At the catechism class a sister scolds her for not knowing the Holy Trinity and sets her a punishment. Then she sees the Lady at the grotto. The mayor, the imperial prosecutor and the doctor are shown deciding that the girl is a fraud or ill. Crowds grow, the parish priest asks the Lady for her name and a rosebush in flower, and Bernadette is told to drink and wash at the spring. A blind stonecutter, the sculptor Bourriette, washes at the spring and regains his sight.",
+    "inclusion": "Argentine state television (ATC) made this as one of its weekly \"Los especiales\" in 1981, with Andrea del Boca, then a child star, as Bernadette and her father Nicolás del Boca directing. The part that survives in the Archivo Prisma holdings is long, about 105 minutes across two parts, and it is the story told at an unhurried pace. The captions show the authorities arguing against the apparitions in plain terms and the priest testing her, which follows what the Lourdes accounts record. It is a television drama in Spanish without subtitles. The interest is as a Latin American retelling of a story every Catholic knows, in the same years that the Franz Werfel novel and the 1943 film were known there.",
+    "themes": "The Catholic core is the Marian apparition at Lourdes: the Lady's request for prayer, the spring, the priest's demand for her name and for roses in winter, and the sceptical civil authorities. The captions show the faith of the poor set against the civil authorities, with the parish priest cautious and Bernadette obedient. The healing of the sculptor at the spring is the chapter's climax. What the later chapters do with the apparition of 25 March (the Lady's name as the Immaculate Conception) and Bernadette's later life is not known; nothing in the first chapter raises a doctrinal problem.",
+    "history": "Bernadette Soubirous (1844-1879) saw the Lady at the Massabielle grotto from February to July 1858, and the spring appeared during the apparitions. The Church recognised the apparitions in 1862. Bernadette entered the Sisters of Charity at Nevers and died in 1879. She was beatified in 1925 and canonised in 1933.",
+    "advisories": "Poverty, illness and harsh treatment of a child by authorities; no violence or sexual content in the first chapter.\n\nIn Spanish without subtitles, in the style of 1981 studio television. The surviving upload is split into long parts with a few audible music cues. Suitable for families.",
+    "sources": [
+      {
+        "title": "AV-2653 Los especiales de ATC. Capitulo: Bernardette [Capitulo 1], parts I and II (Spanish auto-captions)",
+        "publisher": "Archivo Prisma (YouTube)",
+        "url": "https://www.youtube.com/watch?v=drYlM7NPNSM",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Chapter 1, part I runs about 53 minutes and part II about 58 minutes (parts: drYlM7NPNSM and Lk_J3nGWzTo); the auto-generated captions give the dialogue read for this record",
+          "Part I: Soubirous family poverty, catechism class and the Holy Trinity scolding, the mayor and prosecutor and doctor discussing the girl; Part II: the crowds, the priest asking the Lady for her name and a rosebush, Bernadette told to drink and wash at the spring, the blind sculptor regains sight",
+          "Archive catalogue code AV-2653; the same channel holds other ATC specials. Rights holder unconfirmed; only captions read."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Andrea del Boca",
+        "publisher": "Wikipedia (English), supplementary",
+        "url": "https://en.wikipedia.org/wiki/Andrea_del_Boca",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Lists 1981: Bernadette among her television credits; a 1981 ATC series on Bernadette Soubirous reported as four one-hour episodes directed by her father Nicolas del Boca (the number of episodes is not confirmed by an archive record)"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      }
+    ],
+    "grey": {
+      "kind": "unverified",
+      "question": "Argentine state television's 1981 Bernadette, with Andrea del Boca, survives in an archive upload: chapter 1 is available in two long parts and follows the Lourdes story faithfully as far as the healing at the spring. The other chapters have not been located, no critic has reviewed it, and the credits (director Nicolás del Boca, a four-part series) rest on a filmography. Its treatment of the later apparitions, the Immaculate Conception and Bernadette's life at Nevers is unknown. Locating the remaining chapters, or an Argentine review, would settle it."
+    },
+    "reviewed": "2026-10-12",
+    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+  },
+  {
     "id": "bienvenido-padre-murray-1964",
     "slug": "bienvenido-padre-murray-1964",
     "title": "Welcome, Father Murray",
@@ -42997,6 +43303,79 @@
         "licensing": "Reference link only; no artwork permission implied."
       }
     ],
+    "reviewed": "2026-10-12",
+    "alternateTitles": [],
+    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+  },
+  {
+    "id": "don-lucio-y-el-hermano-pio-1960",
+    "slug": "don-lucio-y-el-hermano-pio-1960",
+    "title": "Don Lucio and Brother Pio",
+    "originalTitle": "Don Lucio y el hermano Pío",
+    "year": 1960,
+    "format": "Feature film",
+    "directors": [
+      "José Antonio Nieves Conde"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "subjects": [
+      "Charity",
+      "Religious life"
+    ],
+    "collections": [
+      "comedy",
+      "religious-life"
+    ],
+    "historicalPeriod": "20th century",
+    "status": "GREY",
+    "decision": "GREY: Identity (Spanish Ministry of Culture ICAA catalogue; Wikipedia) and the premise are established, and Decine21 reports a good-natured comedy against selfishness suited to young viewers. No source describes the ending or gives a Catholic rating of the time, and a full copy exists on archive.org without subtitles, so the film itself was not read. Catholic-centred only in part (a lay brother and a statue of the Child Jesus drive the plot), so Not yet verified.",
+    "summary": "Nieves Conde's comedy: a trusting lay brother collecting alms for nuns' orphans in Madrid is robbed of the Child Jesus statue he carries by a small-time crook.",
+    "synopsis": "Brother Pío, played by José Isbert, is the almoner of a congregation of nuns who run an orphanage. He travels to Madrid carrying an image of the Child Jesus to collect alms. On the way he meets Lucio, played by Tony Leblanc, a petty thief just out of prison. Lucio sees a chance to trade on the donors, steals the image and, according to one account, the convent's list of benefactors, and poses as the friar's replacement to collect a considerable sum. Pío finds out and tries to recover the statue by going to Lucio's home, where the neighbours take him for a thief. Summaries do not say how the story ends or whether the orphanage gets its money.",
+    "inclusion": "This is a Spanish comedy of 1960 with two of the best-liked character actors of the period, Tony Leblanc, who won the Sindicato Nacional del Espectáculo best actor prize for the double role of Lucio and the false brother Antón, and José Isbert as the guileless friar. The film is by José Antonio Nieves Conde, a director known for social realism, and Decine21 says it uses the comedy to criticise the lack of solidarity in the Spain of its day through well-drawn characters. Gracita Morales, José Calvo and Fernando Rey are in the cast. It is short, at 83 minutes, and described as good-natured.",
+    "themes": "The Catholic content is a lay religious, the nuns' orphanage and their charity, and a devotional image, the Child Jesus, whose theft sets the story going. Decine21 sees the film as about solidarity and selfishness. Whether the friar and the nuns are treated respectfully throughout, whether Lucio repents, and how much prayer or sacrament appears is not documented. Brother Pío is presented as trusting and good, Lucio as a rogue. The sources do not say that the film mocks the Church, and the Spanish production of 1960 would have gone through Franco-era censorship.",
+    "advisories": "Light comedy with petty theft and deception; Decine21 lists no sex, violence or tears and recommends it for young people.\n\nThe ending and the amount of religious content are not documented in the sources; a copy is hosted on archive.org without subtitles.",
+    "sources": [
+      {
+        "title": "Don Lucio y el hermano Pio",
+        "publisher": "Wikipedia (Spanish), supplementary",
+        "url": "https://es.wikipedia.org/wiki/Don_Lucio_y_el_hermano_Pío",
+        "accessed": "2026-10-12",
+        "claims": [
+          "1960 Spanish comedy by Nieves Conde, 83 minutes; screenplay Jaime Garcia-Herranz and Pio Ballesteros; Tony Leblanc, Jose Isbert, Gracita Morales, Jose Calvo, Fernando Rey; Hermano Pio is almoner for nuns who run an orphanage and carries an image of the Child Jesus to Madrid; Lucio steals it"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Don Lucio y el hermano Pio",
+        "publisher": "Decine21 (Catholic film review site)",
+        "url": "https://decine21.com/peliculas/don-lucio-y-el-hermano-pio-25143",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Summary: Pio, a friar collecting alms for nuns who run an orphanage, travels to Madrid with a statue of the baby Jesus; Lucio, a cynical man just out of prison, tries to steal it",
+          "Calls it a surprising comedy that criticises selfishness (insolidaridad) through well-drawn characters; suitable for young people; 6/10. Present-day Catholic outlet: establishes content only."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Datos de Pelicula ICAA: Don Lucio y el hermano Pio",
+        "publisher": "Instituto de la Cinematografia y de las Artes Audiovisuales (Catalogo de Peliculas ICAA)",
+        "url": "https://sede.mcu.gob.es/CatalogoICAA/es-es/Peliculas/Detalle?Pelicula=251850",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Official catalogue record of the 1960 film; listed with \"Calificacion no disponible\" and a resolution date of 4 October 1960 (as reported in a search summary; page not opened for this record)"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      }
+    ],
+    "grey": {
+      "kind": "unverified",
+      "question": "This 1960 Spanish comedy, with Tony Leblanc as a thief and José Isbert as a trusting lay brother who collects alms for nuns' orphans, is on record as a good-natured film about solidarity. What has not been established is the ending, how much of the film is religious and not just a device, and how it was rated by the Catholic film bodies of the time. Decine21, a present-day Catholic site, is the only substantive review. A Spanish press review of 1960 or the dialogue would settle it."
+    },
     "reviewed": "2026-10-12",
     "alternateTitles": [],
     "imageRights": "Original Library typographic artwork; no film imagery reproduced."
@@ -45613,6 +45992,74 @@
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
+    "id": "maria-magdalena-pecadora-de-magdala-1946",
+    "slug": "maria-magdalena-pecadora-de-magdala-1946",
+    "title": "Mary Magdalene: Sinner of Magdala",
+    "originalTitle": "María Magdalena: Pecadora de Magdala",
+    "alternateTitles": [
+      "María Magdalena, pecadora de Magdala"
+    ],
+    "year": 1946,
+    "format": "Feature film",
+    "directors": [
+      "Miguel Contreras Torres"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "subjects": [
+      "Our Lord",
+      "Conversion",
+      "The Passion"
+    ],
+    "collections": [
+      "christ",
+      "saints"
+    ],
+    "historicalPeriod": "Biblical antiquity",
+    "status": "GREY",
+    "decision": "GREY: A full copy circulates online and its Spanish auto-captions show the Gospel scenes (Simon the Pharisee, the Passion, the Resurrection) spoken close to Scripture under a dedication \"with veneration and attachment to the Sacred Scriptures\". UNAM scholar Casamadrid Pérez describes the same invented opening: an Egyptian prince, an Isis emerald, a courtesan Magdalene with lovers, and Judas as a rejected suitor. These inventions and the sensual first act are a reservation a reader can weigh; no Catholic rating of the time was found.",
+    "summary": "Mexico's costliest film of its day, in which a luxury-loving Magdalene meets Christ, is freed of seven devils and follows him to Calvary and the empty tomb.",
+    "synopsis": "In Egypt a prince steals the emerald of the goddess Isis and carries it to Galilee as a love gift for Mary of Magdala, a rich courtesan. She holds court among dignitaries and has a slave flogged. Hearing a crowd pass, she sees Jesus, asks about him, and goes to hear him preach. Judas, a suitor, is rejected. She asks Jesus about the Kingdom and he says it is within her; he drives seven evil spirits from her, shown by double exposure. She frees her slaves, gives up her lovers and her jewels, washes his feet at the house of Simon the Pharisee, and follows him. The film then runs through the Passion with Judas, Pilate and Calvary, and ends with Magdalene as the first witness of the Resurrection.",
+    "inclusion": "Miguel Contreras Torres directed and produced this as the first part of a religious trilogy that continued with the Virgin Mary film Reina de reinas (1946) and ended with El hermano Pedro (1964). It was the most expensive Mexican film made to that date, and the sets and costumes, in Alex Phillips's photography and with a score by the Morelia composer Miguel Bernal Jiménez, were an event. Medea de Novara, the director's wife, plays Magdalene; Luis Alcoriza is Jesus and Tito Junco Judas. The film opens with a dedication to the Sacred Scriptures and, after the long invented first act, the dialogue is close to the Gospel text.",
+    "themes": "The film follows the Latin tradition that Mary of Magdala, the sinful woman at Simon's house and the woman who washed Christ's feet are one person. Her conversion is shown as repentance and release from seven vices, a visual dramatisation of the Gospel exorcism. The Passion scenes use Gospel speech, including the forgiveness of the good thief, \"Behold your son\" and the Noli me tangere. The reservation is the long invented first act: the pagan Egyptian prince, an Isis talisman and a hymn to Eros set the Magdalene among sensual love before Christ appears. How far the staging is suggestive is not known from the sources, which give dialogue only.",
+    "history": "The Gospels mention Mary of Magdala as a woman from whom seven demons had gone out, a follower of Jesus at Calvary, and the first to see the risen Lord. Western tradition since Gregory the Great identified her with the sinful woman of Luke 7 and with Mary of Bethany. The film follows that identification, which is common in pre-conciliar devotion.",
+    "liberties": "The Egyptian prince, the Isis emerald, Magdalene's luxurious court, the cruelty to a slave and Judas as her rejected suitor are inventions of the film. The Magdalene is also made the sinful woman at Simon's house, as in the Latin tradition. The sequence of Gospel scenes is compressed into a single story built around her.",
+    "advisories": "The first act presents a courtesan with several lovers, a hymn to love and passionate talk of kisses; the film is of the 1940s, so no nudity, but the sensuality is part of the premise.\n\nA slave is flogged by Magdalene; the Passion is shown with scourging and crucifixion.\n\nSpanish without subtitles. A reader should weigh the invented pagan prologue.",
+    "sources": [
+      {
+        "title": "El evangelio de Maria Magdalena y Magdala: poesia y cine de autor (Inflexiones no. 15, 2025)",
+        "publisher": "Francisco Raul Casamadrid Perez, ENES Morelia, UNAM",
+        "url": "https://inflexiones.unam.mx/index.php/inflexiones/article/download/232/233/661",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Scholarly essay, pp. 75-80, describes the film: opens with the temple of Isis in Egypt and a prince taking an emerald, Magdalene as a rich courtesan, her dinner, her flogging of a slave, Judas as a suitor, Jesus driving the seven sins out of her by double exposure, her giving up lovers and slaves, the scene at Simon the Pharisee",
+          "Quotes the opening dedication: \"con veneracion, respeto y apego a las Sagradas Escrituras\"; says the film was the most expensive in Mexican cinema to that time; gives credits (Medea de Novara, Luis Alcoriza as Jesus, Tito Junco as Judas, photography Alex Phillips, music Miguel Bernal Jimenez). The essay pairs the film with a 2023 poem and reads both with a gnostic-leaning slant that is the author's, not the film's."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Maria Magdalena: Pecadora de Magdala",
+        "publisher": "Wikipedia (Spanish), supplementary",
+        "url": "https://es.wikipedia.org/wiki/María_Magdalena:_Pecadora_de_Magdala",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Filmed 1945, released 10 October 1946; directed and produced by Miguel Contreras Torres; screenplay adaptation Medea de Novara; music Miguel Bernal Jiménez; cinematography Alex Phillips; 110 minutes; a courtesan seeks repentance by drawing close to Jesus"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      }
+    ],
+    "grey": {
+      "kind": "reservations",
+      "question": "This 1946 Mexican biblical film opens with an invented story: an Egyptian prince steals the emerald of Isis for the courtesan Mary of Magdala, who has lovers and flogs a slave, and Judas is her rejected suitor. Only then does she meet Christ, who drives seven evil spirits from her. The Gospel scenes that follow, from the house of Simon the Pharisee to the Resurrection, use Scripture closely. The film is dedicated to Scripture, but its pagan, sensual first act is not in the Gospels. No Catholic rating of the time or review of its staging has been found."
+    },
+    "reviewed": "2026-10-12",
+    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+  },
+  {
     "id": "mass-of-the-ages",
     "slug": "mass-of-the-ages",
     "title": "Mass of the Ages",
@@ -47075,6 +47522,101 @@
     ],
     "reviewed": "2026-10-12",
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
+  },
+  {
+    "id": "santa-cecilia-1911",
+    "slug": "santa-cecilia-1911",
+    "title": "St Cecilia",
+    "originalTitle": "Santa Cecilia",
+    "alternateTitles": [
+      "La martire cristiana"
+    ],
+    "year": 1911,
+    "format": "Silent feature",
+    "directors": [
+      "Enrique Santos"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "languages": [],
+    "subjects": [
+      "Martyrdom",
+      "Persecution",
+      "Conversion",
+      "St. Cecilia"
+    ],
+    "collections": [
+      "saints",
+      "martyrs"
+    ],
+    "historicalPeriod": "Early Church",
+    "status": "PUBLISH",
+    "decision": "PUBLISH: A print survives in the BFI National Archive (ref. C-24913) and Joseph North's 2016 Durham doctoral thesis describes it shot by shot and assesses it against the Acts of St Cecilia and the 1911 trade press. The invented rival, Lentulus, is a stated change, not a doctrinal problem. Earlier hold (survival unknown) is resolved.",
+    "summary": "Cines' short life of St Cecilia, with Fernanda Negri Pouget winning her husband Valerian to the faith; an invented rival drives the plot, but the catacombs and martyrdom are reverent.",
+    "synopsis": "Cecilia, a Roman patrician, is a secret Christian. Her suitor Lentulus is rejected and swears revenge. She agrees to marry the tribune Valerian only if he will become a Christian, and he is baptised by Bishop Urban in the catacombs while Lentulus spies. Lentulus denounces him to the Prefect of Rome. The wedding banquet is broken up and Valerian is arrested. Before the Prefect he refuses to swear to the gods, kisses a wooden cross and is condemned. Cecilia buries his body in the catacombs, is arrested herself, and, being a patrician, is put to death in her own house. Trade-press accounts describe a last scene in which a cross appears over her body; the surviving BFI copy ends before it.",
+    "inclusion": "Cines made this in 1911, before it turned to the big spectacles. Joseph North, who has studied the Italian martyr films closely, calls it a step forward from the studio's earlier martyr short: the camera moves in for Cecilia embracing Valerian's body and for her death, and the catacomb set, with filled burial niches and frescoes in the burial chamber, was the studio's first serious attempt at an authentic one. The Bioscope called it a faithful reproduction of her story on release. It is a one-reel silent in a battered archive print, so expect flash intertitles and a short, schematic plot. Its value is as an early, reverent screen version of a saint every Roman Catholic knows.",
+    "themes": "The film is built on three Catholic moments: a husband converted on the condition of marriage, his baptism in the catacombs by Bishop Urban, and the martyrs' burials in the catacombs. Valerian refuses to swear to the gods and kisses the cross; Cecilia confesses her faith when arrested and dies at home, as a patrician could. The treatment is plainly devotional. North observes that the added romance and betrayal give the one-reeler continuity and a wider audience, not a different meaning. There is no doctrinal problem in what the sources describe; the film simply tells the story more thinly than the Acts.",
+    "history": "Cecilia is one of the best-known Roman virgin martyrs. Her Acts, the source tradition the film draws on, tell that she converted her husband Valerian, who was baptised and martyred, and that she herself survived a failed beheading, which North notes the film omits, together with the angel who protects her in the Acts. Those details belong to the legendary Acts rather than to firm history, and the film inherits that tradition.",
+    "liberties": "Lentulus and his romantic jealousy are entirely invented. The film omits the angel who guards Cecilia in the Acts and the failed beheading; the executioner carries a short sword. Contemporary Italian critic Gualtiero Fabbri complained in 1911 that the plot was less exact than the sumptuous settings. The closing apotheosis with the cross, reported by The Bioscope, is missing from the surviving copy.",
+    "advisories": "Martyrdom is shown but not graphically: Cecilia is shown writhing on the ground after the executioner strikes, and Valerian is led away to death.\n\nSilent with intertitles; the BFI copy is incomplete at the end and shorter than the original length. Suitable for older children and up.\n\nAvailability is limited: the print is held by the BFI National Archive and is shown at archive screenings, not on a mainstream platform.",
+    "sources": [
+      {
+        "title": "Martyrs on the Silver Screen: Early Church Martyrdom in Italian Silent Cinema (1898-1930)",
+        "publisher": "Durham University (doctoral thesis, Joseph Albert North, 2016)",
+        "url": "https://etheses.durham.ac.uk/id/eprint/11728/",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Santa Cecilia (Cines, released February 1911, dir. Enrique Santos; Fernanda Negri-Pouget, Amleto Novelli, Bruto Castellani); BFI copy ref. C-24913, 916 feet against a reported 377 m, no obvious gaps and flash intertitles account for much of the difference",
+          "Shot-by-shot plot summary from the BFI copy: Lentulus spies, Valerian baptised by Bishop Urbanus, wedding banquet interrupted, Valerian condemned, Cecilia buried him in the catacombs and was put to death at home; the film ends abruptly before the apotheosis described in The Bioscope",
+          "The Bioscope (2 Feb 1911) called it a faithful reproduction; Fabbri (1911) wanted a more exact plot; Lentulus is fictive; the angel and failed beheading of the Acts are absent",
+          "Richer mise-en-scene than Cines' earlier Dall'amore al martirio: first authentic catacomb set, closer camera for the burial and death"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Silent Antiquity Prints Unique to the BFI National Archive (workshop programme, Bologna, 25 June 2025)",
+        "publisher": "UCL Museum of Dreamworlds project / BFI National Archive / Il Cinema Ritrovato",
+        "url": "https://corsi.unibo.it/magistrale/ScienzeStoricheOrientalistiche/bacheca/silent-antquity-prints-unique-to-the-bfi-natonal-archive/bologna-workshop.pdf/@@download/file/BOLOGNA WORKSHOP.pdf",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Lists Santa Cecilia (1911, Cines, dir. Enrique Santos) among silent antiquity prints the organisers believe to be unique to the BFI National Archive; to be presented by Ivo Blom (Vrije Universiteit Amsterdam)",
+          "Programme synopsis: Cecilia secretly Christian, Valerianus converted and condemned, Cecilia confesses and is put to death in her own home as a Roman patrician, both buried in the catacombs"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Santa Cecilia (film 1911)",
+        "publisher": "Wikipedia (Italian), supplementary",
+        "url": "https://it.wikipedia.org/wiki/Santa_Cecilia_(film_1911)",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Cines, 377 m; cast incl. Gastone Monaldi as the Prefect; reviewed in The Bioscope 2 Feb 1911 and in La Cinematografia Italiana ed Estera (Fabbri); cites Bernardini and Martinelli, Il cinema muto italiano 1911 (1996)"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      }
+    ],
+    "reviewed": "2026-10-12",
+    "cast": [
+      {
+        "name": "Fernanda Negri Pouget",
+        "role": "Cecilia"
+      },
+      {
+        "name": "Amleto Novelli",
+        "role": "Valerian"
+      },
+      {
+        "name": "Gastone Monaldi",
+        "role": "The Prefect of Rome"
+      },
+      {
+        "name": "Bruto Castellani",
+        "role": "Captain of the guards / executioner"
+      }
+    ],
+    "imageRights": "Original Library typographic artwork; no film imagery reproduced.",
+    "grey": null
   },
   {
     "id": "santiago-apostol-2017",
