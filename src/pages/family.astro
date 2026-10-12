@@ -1,6 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { films, url, legionLabels } from '../data/catalogue';
+import { films, url } from '../data/catalogue';
 const bands = [
   {
     age: 'All ages',
@@ -42,7 +42,7 @@ const byBand = bands.map((b) => ({
         An age is a starting point. Children differ, and the notes say what a
         parent will want to know: a scourging shown in full, a frightening
         apparition, a death in the family. Read the film's “Before you watch”
-        notes first. For an evening's choice with a short reason for each, see
+        notes first. For an evening's choice with a short reason for each, see{' '}
         <a href={url('guides/films-for-a-family-evening/')}>Films for a family evening</a>.
         Films in the grey area are left out here.
       </p>
@@ -70,7 +70,7 @@ const byBand = bands.map((b) => ({
                 <small>
                   {f.year}
                   {f.legion
-                    ? ` · Legion of Decency ${f.legion.rating} (${legionLabels[f.legion.rating]})`
+                    ? ` · Legion of Decency ${f.legion.rating}`
                     : ''}
                 </small>
                 {f.suitability?.note && <p>{f.suitability.note}</p>}

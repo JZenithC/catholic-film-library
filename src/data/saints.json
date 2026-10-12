@@ -1266,6 +1266,441 @@
       "dates": "died 1794",
       "feastNote": "Not on the 1962 General Calendar. The Carmelite Order keeps their memory on 17 July, the day of their execution.",
       "status": "Beatified by Pius X in 1906"
+    },
+    {
+      "name": "Sts Cyril and Methodius",
+      "slug": "cyril-and-methodius",
+      "films": [
+        "cyril-a-metodej-apostolove-slovanu-2013"
+      ],
+      "bio": "Brothers from Thessalonica, Constantine (who took the name Cyril as a monk) and Methodius were sent from Constantinople to Great Moravia in 863 at Prince Rastislav's request. Cyril devised the Glagolitic script, and the two translated the Gospels and liturgical books into Slavonic. Frankish clergy opposed this, but Pope Hadrian II approved it. Cyril died in Rome in 869. Methodius, made archbishop of Moravia and Pannonia, was imprisoned by the Franks, later restored, and died in 885.",
+      "sources": [
+        {
+          "title": "Sts. Cyril and Methodius",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/04592a.htm"
+        },
+        {
+          "title": "Grande Munus (30 September 1880)",
+          "publisher": "Vatican (Leo XIII)",
+          "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_30091880_grande-munus.html"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Cyril",
+      "dates": "Cyril c. 826–869; Methodius c. 815–885",
+      "feast": "07-07",
+      "feastNote": "On the 1962 General Calendar as a feast of the third class. Their cult was extended to the whole Church by Leo XIII in 1880; before that it was kept in Bohemia and Moravia.",
+      "status": "Venerated from ancient times; feast extended to the whole Church by Leo XIII in 1880",
+      "readings": [
+        {
+          "title": "Grande Munus",
+          "author": "Leo XIII",
+          "year": 1880,
+          "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_30091880_grande-munus.html",
+          "note": "Encyclical on the two brothers, extending their feast to the whole Church."
+        },
+        {
+          "title": "Sts. Cyril and Methodius",
+          "author": "The Catholic Encyclopedia",
+          "year": 1908,
+          "url": "https://www.newadvent.org/cathen/04592a.htm",
+          "note": "Encyclopedia article on their mission, the Slavonic liturgy and their cult."
+        }
+      ]
+    },
+    {
+      "name": "St Benedict of Nursia",
+      "slug": "benedict-of-nursia",
+      "films": [
+        "il-sole-di-montecassino-1945"
+      ],
+      "bio": "Born at Nursia about 480 and sent to study at Rome, Benedict withdrew to a cave near Subiaco and lived as a hermit. Disciples gathered round him, and he founded small monasteries nearby. About 530 he went to Monte Cassino, where he wrote the Rule that became the pattern of Western monasticism. Almost all that is known of his life comes from the second book of Gregory the Great's Dialogues. He died at Monte Cassino about 543. Allied bombing destroyed the abbey in February 1944.",
+      "sources": [
+        {
+          "title": "St. Benedict of Nursia",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/02467b.htm"
+        },
+        {
+          "title": "Of the Life and Miracles of St. Benedict (Dialogues, Book II)",
+          "publisher": "Christian Classics Ethereal Library",
+          "url": "https://ccel.org/ccel/pearse/morefathers/files/gregory_02_dialogues_book2.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Benedict of Nursia",
+      "dates": "c. 480–c. 543",
+      "feast": "03-21",
+      "status": "Venerated as a saint from the sixth century",
+      "readings": [
+        {
+          "title": "The Holy Rule of St. Benedict",
+          "author": "St Benedict of Nursia",
+          "year": 1949,
+          "url": "https://ccel.org/ccel/benedict/rule/rule.i.html",
+          "note": "Benedict's own Rule for monasteries, in Verheyen's 1949 translation."
+        },
+        {
+          "title": "Dialogues, Book II: Of the Life and Miracles of St. Benedict",
+          "author": "Gregory the Great",
+          "year": 1911,
+          "url": "https://ccel.org/ccel/pearse/morefathers/files/gregory_02_dialogues_book2.htm",
+          "note": "The earliest life of Benedict, written by a pope within living memory."
+        },
+        {
+          "title": "St. Benedict of Nursia",
+          "author": "The Catholic Encyclopedia",
+          "year": 1907,
+          "url": "https://www.newadvent.org/cathen/02467b.htm",
+          "note": "Encyclopedia article on his life, Rule and the Benedictine order."
+        }
+      ]
+    },
+    {
+      "name": "St Stephen of Hungary",
+      "slug": "stephen-of-hungary",
+      "films": [
+        "istvan-a-kiraly-1984"
+      ],
+      "bio": "Born about 975 as Vajk, son of the pagan Magyar prince Géza, he was baptised Stephen. He married Gisela of Bavaria in 995 and succeeded his father in 997. After defeating his rival Koppány he asked Pope Sylvester II for the royal title and was crowned king in 1001. He organised the Hungarian dioceses and founded Benedictine monasteries such as Pannonhalma. His son Emeric died in 1031. Stephen died on 15 August 1038 and was canonised with Emeric in 1083.",
+      "sources": [
+        {
+          "title": "St. Stephen of Hungary",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/14287a.htm"
+        },
+        {
+          "title": "Hungary",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/07547a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Stephen of Hungary",
+      "dates": "c. 975–1038",
+      "feast": "09-02",
+      "status": "Canonised in 1083, with his son Emeric",
+      "readings": [
+        {
+          "title": "St. Stephen of Hungary",
+          "author": "The Catholic Encyclopedia",
+          "year": 1912,
+          "url": "https://www.newadvent.org/cathen/14287a.htm",
+          "note": "Encyclopedia article on his life, crowning and canonisation, with the early lives listed."
+        },
+        {
+          "title": "Hungary",
+          "author": "The Catholic Encyclopedia",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/07547a.htm",
+          "note": "Country article placing Stephen's work in Hungary's conversion."
+        }
+      ]
+    },
+    {
+      "name": "St Nicholas of Flüe",
+      "slug": "nicholas-of-flue",
+      "films": [
+        "bruder-klaus-1991"
+      ],
+      "bio": "Born in 1417 at Flüeli in Unterwalden, Nicholas was a farmer, soldier and magistrate, married, with ten children. In 1467, with his wife's consent, he left his family to live as a hermit in the Ranft gorge near Sachseln, where he was reported to live without food. Visitors came to him for counsel. His advice, carried to the Diet of Stans in 1481, helped to avert civil war among the Swiss cantons. He died on 21 March 1487.",
+      "sources": [
+        {
+          "title": "Blessed Nicholas of Flue",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/11062a.htm"
+        },
+        {
+          "title": "Nicholas of Flüe",
+          "publisher": "Wikipedia (dates and canonisation cross-check)",
+          "url": "https://en.wikipedia.org/wiki/Nicholas_of_Fl%C3%BCe"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Nicholas of Flüe",
+      "dates": "1417–1487",
+      "feast": "09-25",
+      "feastNote": "Not on the 1962 General Calendar. Kept on 25 September in Switzerland; his death day, 21 March, belongs to St Benedict.",
+      "status": "Beatified by Clement IX in 1669; canonised by Pius XII in 1947",
+      "readings": [
+        {
+          "title": "Blessed Nicholas of Flue",
+          "author": "The Catholic Encyclopedia",
+          "year": 1911,
+          "url": "https://www.newadvent.org/cathen/11062a.htm",
+          "note": "Encyclopedia article on the hermit, his fast and the Stans mediation."
+        }
+      ]
+    },
+    {
+      "name": "St Margaret Mary Alacoque",
+      "slug": "margaret-mary-alacoque",
+      "films": [
+        "sacre-coeur-2025"
+      ],
+      "bio": "Born in 1647 at Lhautecour in Burgundy, Margaret Mary Alacoque entered the Visitation convent at Paray-le-Monial in 1671. From 1673 to 1675 she reported apparitions in which Christ showed her His Heart and asked for Communion on the first Friday of the month, the Holy Hour, and a feast of the Sacred Heart. Her superiors doubted her until her confessor, the Jesuit Claude de la Colombière, judged the visions genuine. She died on 17 October 1690.",
+      "sources": [
+        {
+          "title": "St. Margaret Mary Alacoque",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/09653a.htm"
+        },
+        {
+          "title": "Miserentissimus Redemptor (8 May 1928)",
+          "publisher": "Vatican (Pius XI)",
+          "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280508_miserentissimus-redemptor.html"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Margaret Mary Alacoque",
+      "dates": "1647–1690",
+      "feast": "10-17",
+      "status": "Beatified by Pius IX in 1864; canonised by Benedict XV in 1920",
+      "readings": [
+        {
+          "title": "Life of Blessed Margaret Mary Alacoque",
+          "author": "Émile Bougaud",
+          "year": 1890,
+          "url": "https://archive.org/details/MargaretMaryAlacoque",
+          "note": "Full English life drawing on her own memoir and letters."
+        },
+        {
+          "title": "Miserentissimus Redemptor",
+          "author": "Pius XI",
+          "year": 1928,
+          "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280508_miserentissimus-redemptor.html",
+          "note": "Encyclical on reparation to the Sacred Heart, citing her revelations."
+        },
+        {
+          "title": "St. Margaret Mary Alacoque",
+          "author": "The Catholic Encyclopedia",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/09653a.htm",
+          "note": "Encyclopedia article on her life and the origin of the devotion."
+        }
+      ]
+    },
+    {
+      "name": "St Gabriel of Our Lady of Sorrows",
+      "slug": "gabriel-of-our-lady-of-sorrows",
+      "films": [
+        "san-gabriele-2001"
+      ],
+      "bio": "Francesco Possenti was born at Assisi on 1 March 1838, the eleventh of thirteen children of a prosperous family. After several bereavements he entered the Passionists in 1856 and took the name Gabriel of Our Lady of Sorrows. He was known for exact observance of the Rule and for devotion to the Passion, the Eucharist and Our Lady's sorrows. He died of tuberculosis at Isola del Gran Sasso on 27 February 1862, aged twenty-three.",
+      "sources": [
+        {
+          "title": "Bl. Gabriel Possenti",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/06330c.htm"
+        },
+        {
+          "title": "The Life of Blessed Gabriel of Our Lady of Sorrows",
+          "publisher": "Internet Archive (Hyacinth Hage, 1910)",
+          "url": "https://archive.org/details/lifeofblessedgab00hage"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Gabriel of Our Lady of Sorrows",
+      "dates": "1838–1862",
+      "feast": "02-27",
+      "status": "Beatified by Pius X in 1908; canonised by Benedict XV in 1920",
+      "readings": [
+        {
+          "title": "The Life of Blessed Gabriel of Our Lady of Sorrows",
+          "author": "Hyacinth Hage",
+          "year": 1910,
+          "url": "https://archive.org/details/lifeofblessedgab00hage",
+          "note": "Passionist life with an introduction by Cardinal Gibbons."
+        },
+        {
+          "title": "Saint Gabriel of Our Lady of Sorrows, Passionist",
+          "author": "Reginald Lummer",
+          "year": 1920,
+          "url": "https://archive.org/details/saintgabrielofou00lummuoft",
+          "note": "Short Passionist life, published after his canonisation."
+        },
+        {
+          "title": "Bl. Gabriel Possenti",
+          "author": "The Catholic Encyclopedia",
+          "year": 1909,
+          "url": "https://www.newadvent.org/cathen/06330c.htm",
+          "note": "Short article written after his beatification."
+        }
+      ]
+    },
+    {
+      "name": "St James the Greater",
+      "slug": "james-the-greater",
+      "films": [
+        "santiago-apostol-2017"
+      ],
+      "bio": "One of the Twelve, James was a Galilean fisherman, son of Zebedee and brother of John. With Peter and John he was present at the raising of Jairus's daughter, the Transfiguration and the agony in Gethsemane. Acts records that Herod Agrippa I had him put to the sword about AD 44. A later tradition says he preached in Spain and that his body lies at Compostela, though it is not attested before the ninth century.",
+      "sources": [
+        {
+          "title": "St. James the Greater",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/08279b.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. James the Greater",
+      "dates": "d. c. 44",
+      "feast": "07-25",
+      "status": "Apostle and martyr, venerated from the earliest centuries",
+      "readings": [
+        {
+          "title": "The Acts of the Apostles, chapter 12 (Douay-Rheims)",
+          "year": 1582,
+          "url": "https://www.drbo.org/chapter/51012.htm",
+          "note": "Luke's account of James's death under Herod Agrippa."
+        },
+        {
+          "title": "St. James the Greater",
+          "author": "The Catholic Encyclopedia",
+          "year": 1910,
+          "url": "https://www.newadvent.org/cathen/08279b.htm",
+          "note": "Encyclopedia article weighing the Spanish and Compostela traditions."
+        }
+      ]
+    },
+    {
+      "name": "St Francis Xavier",
+      "slug": "francis-xavier",
+      "films": [
+        "st-francis-xavier-to-the-ends-of-the-earth-2022",
+        "xavier-missionary-and-saint-2006"
+      ],
+      "bio": "Born in 1506 at the castle of Xavier in Navarre, Francis studied at the University of Paris, where he met Ignatius of Loyola. With Ignatius and others he took vows at Montmartre in 1534, the beginning of the Society of Jesus. Sent east at the request of the king of Portugal, he reached Goa in 1542, preached in India, Malacca and the Moluccas, and landed in Japan in 1549. He died on the island of Sancian, off China, on 2 December 1552.",
+      "sources": [
+        {
+          "title": "St. Francis Xavier",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/06233b.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Francis Xavier",
+      "dates": "1506–1552",
+      "feast": "12-03",
+      "status": "Canonised by Gregory XV in 1622; declared patron of all missions by Pius XI in 1927",
+      "readings": [
+        {
+          "title": "The Life and Letters of St. Francis Xavier",
+          "author": "Henry James Coleridge",
+          "year": 1872,
+          "url": "https://archive.org/details/LifeLettersOfStFrancisXavierV1",
+          "note": "Jesuit life built on his own letters; volume one covers his early years."
+        },
+        {
+          "title": "St. Francis Xavier",
+          "author": "The Catholic Encyclopedia",
+          "year": 1909,
+          "url": "https://www.newadvent.org/cathen/06233b.htm",
+          "note": "Encyclopedia article on his missions in India and Japan."
+        }
+      ]
+    },
+    {
+      "name": "St Dominic de Guzman",
+      "slug": "dominic-de-guzman",
+      "films": [
+        "dominic-light-of-the-church-2010"
+      ],
+      "bio": "Born about 1170 at Caleruega in Old Castile, Dominic became a canon of Osma. From about 1203 he preached to the Albigensians in southern France and in 1206 founded a convent at Prouille for women converted from heresy. He gathered preachers into a community, which Honorius III approved as the Order of Preachers in 1216. The order took the Rule of St Augustine and became mendicant in 1221. Dominic died at Bologna on 6 August 1221.",
+      "sources": [
+        {
+          "title": "St. Dominic",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/05106a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Dominic de Guzman",
+      "dates": "c. 1170–1221",
+      "feast": "08-04",
+      "status": "Canonised by Gregory IX in 1234",
+      "readings": [
+        {
+          "title": "The Life of St. Dominic and a Sketch of the Dominican Order",
+          "author": "Joseph Sadoc Alemany",
+          "year": 1867,
+          "url": "https://archive.org/details/lifeofstdominica00alemrich",
+          "note": "Dominican life of the founder with a short history of the order."
+        },
+        {
+          "title": "St. Dominic",
+          "author": "The Catholic Encyclopedia",
+          "year": 1909,
+          "url": "https://www.newadvent.org/cathen/05106a.htm",
+          "note": "Encyclopedia article on his life and the founding of the Order of Preachers."
+        }
+      ]
+    },
+    {
+      "name": "St Maxentia (Sainte Maxence)",
+      "slug": "maxentia",
+      "films": [
+        "le-martyre-de-sainte-maxence-1928"
+      ],
+      "bio": "According to the traditional account, Maxentia was an Irish or Scottish virgin of the fifth century who fled to France to avoid marriage to a pagan chieftain and lived as a recluse by the Oise near Senlis, in the diocese of Beauvais. Her suitor tracked her down and beheaded her at the place now called Pont-Sainte-Maxence. Her relics are venerated there, and the town takes its name from her. The Book of Saints (1921) calls the particulars lost or uncertain.",
+      "sources": [
+        {
+          "title": "Maxentia of Beauvais",
+          "publisher": "Wikipedia (cites Butler and The Book of Saints)",
+          "url": "https://en.wikipedia.org/wiki/Maxentia_of_Beauvais"
+        },
+        {
+          "title": "The Book of Saints: a dictionary of servants of God canonized by the Catholic Church (1921)",
+          "publisher": "Internet Archive",
+          "url": "https://archive.org/details/bookofsaintsdict00stau"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "dates": "5th century",
+      "feast": "11-20",
+      "feastNote": "Not on the 1962 General Calendar. A local cult, kept on 20 November at Pont-Sainte-Maxence and in the diocese of Beauvais.",
+      "status": "Venerated as a virgin martyr from ancient times; no formal act of canonisation"
     }
   ],
   "feasts": [

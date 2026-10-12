@@ -632,3 +632,4 @@ html:not(.js) .library { grid-template-columns: minmax(0, 1fr); }
 .further-reading li { padding: 6px 0; border-bottom: 1px solid var(--line); }
 .further-reading cite { font-style: italic; }
 .further-reading small { display: block; color: var(--muted); font-size: 13.5px; }
+.print-list .col-age { white-space: nowrap; }

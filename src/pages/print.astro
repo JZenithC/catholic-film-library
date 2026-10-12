@@ -45,7 +45,7 @@ const tables = [
                 <td><a href={url(`films/${f.slug}/`)}>{f.title}</a></td>
                 <td>{f.year}</td>
                 <td class="col-dir">{f.directors.join(', ')}</td>
-                <td>{f.suitability?.age ?? ''}</td>
+                <td class="col-age">{f.suitability?.age ?? ''}</td>
               </tr>
             ))}
           </tbody>
