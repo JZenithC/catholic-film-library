@@ -410,7 +410,7 @@
         "id": "the-fugitive",
         "status": "PUBLISH",
         "title": "Motion Pictures Classified by the National Legion of Decency",
-        "claims": "Legion of Decency classification of the film"
+        "claims": "Legion of Decency rating A-I ('formerly classified A-II, re-edited and now placed in A-I')"
       },
       {
         "id": "the-bells-of-st-mary-s",
@@ -431,6 +431,24 @@
         "claims": "Legion of Decency classification of the film"
       },
       {
+        "id": "gli-uomini-non-guardano-il-cielo",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency (cumulative list, 1936-1959)",
+        "claims": "Legion of Decency rating A-I (listed as: Secret Conclave, The (Italian) (IFE Releasing Corp.) A-I 1952-53)"
+      },
+      {
+        "id": "don-bosco-1935",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency (cumulative list, 1936-1959)",
+        "claims": "Legion of Decency rating A-I (listed as: Don Bosco (Italian) (Nuovo Mondo) A-I 1936-37)"
+      },
+      {
+        "id": "golgotha",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency (cumulative list, 1936-1959)",
+        "claims": "Legion of Decency rating A-I (listed as: Golgotha (Golgotha Corp.) A-I 1936-37)"
+      },
+      {
         "id": "proces-au-vatican",
         "status": "PUBLISH",
         "title": "Motion pictures classified by National Legion of Decency (1959)",
@@ -447,6 +465,24 @@
         "status": "PUBLISH",
         "title": "Motion Pictures Classified by the National Legion of Decency",
         "claims": "Legion of Decency classification of the film"
+      },
+      {
+        "id": "el-capitan-de-loyola-1949",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency (cumulative list, 1936-1959)",
+        "claims": "Legion of Decency rating A-I (listed as: Loyola, The Soldier Saint (English Version) (Simplex Religious Classics) A-I)"
+      },
+      {
+        "id": "la-virgen-que-forjo-una-patria-1942",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency (cumulative list, 1936-1959)",
+        "claims": "Legion of Decency rating A-I (listed as: Virgin que Forjo una Patria, La (The Saint That Forged a Country) (Spanish) (Clasa Mohme) A-I)"
+      },
+      {
+        "id": "lourdes-et-ses-miracles-1955",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency (cumulative list, 1936-1959)",
+        "claims": "Legion of Decency rating A-I (listed as: Lourdes and It's Miracles (Fr.) (Brandon) A-I 1958-59)"
       },
       {
         "id": "saint-joan-1957",
@@ -473,6 +509,22 @@
         "claims": [
           "'Garden of Allah, The (Universal)' listed in Class A-I, 1936–37 (the distributor named as printed in the list)"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n231",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (entry: 'Song of Bernadette, The (20th Century-Fox) A-I 1943-44')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-song-of-bernadette",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-I (entry: 'Song of Bernadette, The (20th Century-Fox) A-I 1943-44')"
       }
     ]
   },
@@ -875,6 +927,22 @@
         "status": "PUBLISH",
         "title": "The Miracle of Our Lady of Fatima",
         "claims": "Cast and roles, crew, release date, running time, Oscar nomination for Steiner, New York Times review"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n163",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (entry: 'Miracle of Our Lady of Fatima (Warners) A-I')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-miracle-of-our-lady-of-fatima",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-I (entry: 'Miracle of Our Lady of Fatima (Warners) A-I')"
       }
     ]
   },
@@ -1454,7 +1522,7 @@
         "id": "the-fugitive",
         "status": "PUBLISH",
         "title": "Motion pictures classified by National Legion of Decency (1936-1959)",
-        "claims": "The Fugitive (RKO) A-I; formerly classified A-II, re-edited and reclassified"
+        "claims": "Legion of Decency rating A-I ('formerly classified A-II, re-edited and now placed in A-I')"
       },
       {
         "id": "the-fighting-father-dunne",
@@ -1717,6 +1785,22 @@
         "claims": [
           "Saints and Sinners (London Films): A-II, 1948-49"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n157",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (entry: 'Marcelino (Sp.) (UMPO) A-I')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-miracle-of-marcelino",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-I (entry: 'Marcelino (Sp.) (UMPO) A-I')"
       }
     ]
   },
@@ -2202,6 +2286,22 @@
         "status": "PUBLISH",
         "title": "Joan of Arc (1948 film)",
         "claims": "Cast, credits, production dates, budget, release versions, awards, box office"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n126",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (entry: 'Joan of Arc (Sierra Pictures-RKO) A-I 1947-48')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "joan-of-arc",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-I (entry: 'Joan of Arc (Sierra Pictures-RKO) A-I 1947-48')"
       }
     ]
   },
@@ -2805,6 +2905,22 @@
         "status": "PUBLISH",
         "title": "Monsieur Vincent",
         "claims": "Cast, crew, release date, running time, Venice, Oscar, BAFTA, Vatican 1995 list"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n165",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (entry: 'Monsieur Vincent (French) (Lopert Films, Inc.) A-I')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "monsieur-vincent",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-I (entry: 'Monsieur Vincent (French) (Lopert Films, Inc.) A-I')"
       }
     ]
   },
@@ -6523,6 +6639,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n199",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (entry: 'Quo Vadis (MGM) A-I 1951-52')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "quo-vadis",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-I (entry: 'Quo Vadis (MGM) A-I 1951-52')"
+      }
+    ]
+  },
+  {
     "title": "Fabiola, storia di un appuntamento mancato: i cattolici e la coproduzione cinematografica italo-francese",
     "publisher": "Schermi 2 (2017), Università degli Studi di Milano (Paola Palma)",
     "url": "https://riviste.unimi.it/index.php/schermi/article/download/8520/9101/28655",
@@ -6831,6 +6963,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n78",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-II (entry: 'Fabiola (English version) (United Artists) A-II')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "fabiola",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-II (entry: 'Fabiola (English version) (United Artists) A-II')"
+      }
+    ]
+  },
+  {
     "title": "Diary of a Country Priest (1951)",
     "publisher": "Decent Films (Steven D. Greydanus; originally National Catholic Register)",
     "url": "https://decentfilms.com/reviews/diaryofacountrypriest",
@@ -6931,6 +7079,22 @@
         "status": "PUBLISH",
         "title": "Tout est grâce",
         "claims": "The novel ends with 'Tout est grâce', which Bernanos took from Thérèse of Lisieux's Derniers entretiens"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n68",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-II (entry: 'Diary of a Country Priest (French) (Brandon Films) A-II')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "diary-of-a-country-priest",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-II (entry: 'Diary of a Country Priest (French) (Brandon Films) A-II')"
       }
     ]
   },
@@ -7061,6 +7225,22 @@
         "status": "PUBLISH",
         "title": "I Confess (film)",
         "claims": "Cast and roles"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n117",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-II (entry: 'I Confess (Warners) A-II 1952-53')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "i-confess",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-II (entry: 'I Confess (Warners) A-II 1952-53')"
       }
     ]
   },
@@ -7609,6 +7789,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n90",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I ('formerly classified A-II, re-edited and now placed in A-I')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-fugitive",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-I ('formerly classified A-II, re-edited and now placed in A-I')"
+      }
+    ]
+  },
+  {
     "title": "Léon Morin, prêtre (1961)",
     "publisher": "British Film Institute",
     "url": "https://www.bfi.org.uk/film/5391b9e6-34cd-5105-94b4-2660c9f1ddd2",
@@ -8008,6 +8204,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n98",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (entry: 'Going My Way (Paramount) A-I')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "going-my-way",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-I (entry: 'Going My Way (Paramount) A-I')"
+      }
+    ]
+  },
+  {
     "title": "The Bells of St. Mary's (1945)",
     "publisher": "AFI Catalog of Feature Films",
     "url": "https://catalog.afi.com/Film/24326-THE-BELLSOFSTMARYS",
@@ -8086,6 +8298,22 @@
         "status": "PUBLISH",
         "title": "Divini Illius Magistri (31 December 1929)",
         "claims": "School to be Catholic in teachers, syllabus and textbooks; religion as foundation and crown; canon 1374 on attendance at non-Catholic schools; praise of religious teachers"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n30",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (entry: 'Bells of St. Mary's, The (RKO) A-I 1945-46')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-bells-of-st-mary-s",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-I (entry: 'Bells of St. Mary's, The (RKO) A-I 1945-46')"
       }
     ]
   },
@@ -8238,6 +8466,22 @@
         "status": "GREY",
         "title": "The Syllabus of Errors (1864)",
         "claims": "Condemned propositions 15 and 16 on religious indifferentism"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n40",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (entry: 'Boys Town (MGM) A-I')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "boys-town",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-I (entry: 'Boys Town (MGM) A-I')"
       }
     ]
   },
@@ -8402,6 +8646,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n54",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (entry: 'Come to the Stable (20th Century-Fox) A-I')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "come-to-the-stable",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-I (entry: 'Come to the Stable (20th Century-Fox) A-I')"
+      }
+    ]
+  },
+  {
     "title": "Heaven Knows, Mr. Allison (1957)",
     "publisher": "American Film Institute Catalog",
     "url": "https://catalog.afi.com/Catalog/moviedetails/52210",
@@ -8508,6 +8768,22 @@
         "status": "PUBLISH",
         "title": "Heaven Knows, Mr. Allison",
         "claims": "Cast, crew, filming in Tobago from August 1956, Legion of Decency monitoring, Mahin on Frenke, budget, nominations, reviews"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n106",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (entry: 'Heaven Knows, Mr. Allison (Fox) A-I 1956-57')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "heaven-knows-mr-allison",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-I (entry: 'Heaven Knows, Mr. Allison (Fox) A-I 1956-57')"
       }
     ]
   },
@@ -8790,6 +9066,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n81",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (entry: 'Fighting Father Dunne (RKO) A-I 1947-48')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-fighting-father-dunne",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-I (entry: 'Fighting Father Dunne (RKO) A-I 1947-48')"
+      }
+    ]
+  },
+  {
     "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959 (1959 edition)",
     "publisher": "National Legion of Decency, via Internet Archive (Media History Digital Library)",
     "url": "https://archive.org/details/motionpicturescl00nati/page/n68/mode/1up",
@@ -8880,6 +9172,22 @@
           "Source story: Valentin pursues Flambeau; Brown switches the parcels so the real cross is safe",
           "Brown detects the false priest because he attacked reason, 'bad theology'; Flambeau does not repent in this story"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n67",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (entry: 'Detective, The (British) (Columbia) A-I 1953-54')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "father-brown",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-I (entry: 'Detective, The (British) (Columbia) A-I 1953-54')"
       }
     ]
   },
@@ -9284,6 +9592,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n144",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-II (entry: 'Little World of Don Camillo (French) (I.F.E. Releasing Corp.) A-II')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-little-world-of-don-camillo",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-II (entry: 'Little World of Don Camillo (French) (I.F.E. Releasing Corp.) A-II')"
+      }
+    ]
+  },
+  {
     "title": "Le Retour de Don Camillo",
     "publisher": "Il Cinema Ritrovato (Cineteca di Bologna), 2008 programme, note by Roberto Chiesi",
     "url": "https://festival.ilcinemaritrovato.it/en/film/le-retour-de-don-camillo/",
@@ -9374,6 +9698,22 @@
         "status": "PUBLISH",
         "title": "The Return of Don Camillo",
         "claims": "Cast and roles; screenplay Barjavel, Duvivier, Amato; Guareschi credited; producer Amato; music Cicognini; cinematography Brizzi; released 5 June 1953; 115 minutes; second most popular film in France in 1953; second of five Fernandel films"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n204",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-II (entry: 'Return of Don Camillo (Ital.) (IFE) A-II')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-return-of-don-camillo",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating A-II (entry: 'Return of Don Camillo (Ital.) (IFE) A-II')"
       }
     ]
   },
@@ -10100,6 +10440,22 @@
         "status": "GREY",
         "title": "Angels with Dirty Faces",
         "claims": "Cast, crew, production history, release, gross, awards"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n19",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating B (entry: 'Angels With Dirty Faces (Warners) B 1938-39')",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "angels-with-dirty-faces",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959 (1959 edition)",
+        "claims": "Legion of Decency rating B (entry: 'Angels With Dirty Faces (Warners) B 1938-39')"
       }
     ]
   },
@@ -19594,6 +19950,33 @@
     ]
   },
   {
+    "title": "Motion Picture Exhibitor (Feb-May 1960) (Legion of Decency table)",
+    "publisher": "Motion Picture Exhibitor, via Internet Archive",
+    "url": "https://archive.org/details/motionpictureexh63jaye_0",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (table entry: Ben Hur . A1 MGM)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "ben-hur-1959",
+        "status": "PUBLISH",
+        "title": "Motion Picture Exhibitor (Feb-May 1960) (Legion of Decency table)",
+        "claims": "Legion of Decency rating A-I (table entry: Ben Hur . A1 MGM)"
+      },
+      {
+        "id": "conspiracy-of-hearts",
+        "status": "PUBLISH",
+        "title": "Motion Picture Exhibitor (Feb – May 1960)",
+        "claims": [
+          "Review, 16 March 1960: 'Potent, fine, and heart-rending drama'; 116m; Paramount (Rank)",
+          "Plot: nuns in northern Italy help Jewish children escape a Nazi transit camp; Italian commander turns a blind eye; raid; three nuns sentenced; firing squad shoots over their heads",
+          "Palmer magnificent; the rabbi's secret Yom Kippur service in the convent basement, ended by the Germans, long remembered; 'a dynamic plea for brotherhood'; ad line 'A Reverent, Potent Drama'",
+          "Legion of Decency table: Conspiracy Of Hearts A1 (Par.)"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Black Narcissus",
     "publisher": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Black_Narcissus",
@@ -20081,32 +20464,6 @@
           "Cast: Lilli Palmer (Mother Katharine), Sylvia Syms (Sister Mitya), Yvonne Mitchell (Sister Gerta), Ronald Lewis, Albert Lieven, Peter Arne, David Kossoff (the Rabbi)",
           "1956 Goodyear Playhouse teleplay set in 1946; filmed at the Certosa di Galluzzo and Pinewood",
           "Fifth most popular film at the British box office in 1960; Golden Globe nomination"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Motion Picture Exhibitor (Feb – May 1960)",
-    "publisher": "Motion Picture Exhibitor, scan on Internet Archive / Media History Digital Library",
-    "url": "https://archive.org/details/motionpictureexh63jaye_0",
-    "accessed": "2026-10-11",
-    "claims": [
-      "Review, 16 March 1960: 'Potent, fine, and heart-rending drama'; 116m; Paramount (Rank)",
-      "Plot: nuns in northern Italy help Jewish children escape a Nazi transit camp; Italian commander turns a blind eye; raid; three nuns sentenced; firing squad shoots over their heads",
-      "Palmer magnificent; the rabbi's secret Yom Kippur service in the convent basement, ended by the Germans, long remembered; 'a dynamic plea for brotherhood'; ad line 'A Reverent, Potent Drama'",
-      "Legion of Decency table: Conspiracy Of Hearts A1 (Par.)"
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
-    "films": [
-      {
-        "id": "conspiracy-of-hearts",
-        "status": "PUBLISH",
-        "title": "Motion Picture Exhibitor (Feb – May 1960)",
-        "claims": [
-          "Review, 16 March 1960: 'Potent, fine, and heart-rending drama'; 116m; Paramount (Rank)",
-          "Plot: nuns in northern Italy help Jewish children escape a Nazi transit camp; Italian commander turns a blind eye; raid; three nuns sentenced; firing squad shoots over their heads",
-          "Palmer magnificent; the rabbi's secret Yom Kippur service in the convent basement, ended by the Germans, long remembered; 'a dynamic plea for brotherhood'; ad line 'A Reverent, Potent Drama'",
-          "Legion of Decency table: Conspiracy Of Hearts A1 (Par.)"
         ]
       }
     ]
@@ -23116,6 +23473,22 @@
     ]
   },
   {
+    "title": "Motion Picture Exhibitor (Jul-Oct 1965) (Legion of Decency table)",
+    "publisher": "Motion Picture Exhibitor, via Internet Archive",
+    "url": "https://archive.org/details/motionpictureexh74jaye",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (table entry: Greatest Story Ever Told, The . A1 UA)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-greatest-story-ever-told-1965",
+        "status": "GREY",
+        "title": "Motion Picture Exhibitor (Jul-Oct 1965) (Legion of Decency table)",
+        "claims": "Legion of Decency rating A-I (table entry: Greatest Story Ever Told, The . A1 UA)"
+      }
+    ]
+  },
+  {
     "title": "The Hoodlum Priest (1961)",
     "publisher": "AFI Catalog of Feature Films",
     "url": "https://catalog.afi.com/Catalog/moviedetails/21530",
@@ -23202,6 +23575,22 @@
           "Report 'St Louis Hoodlum Priest Debut': controversy over the film's truthfulness; Globe-Democrat editorial by publisher Richard H. Amberg",
           "Review digest: 101m; 'High rating drama' (review of 22 Feb 1961)"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Motion Picture Exhibitor (Legion table, 1961-62) (Legion of Decency table)",
+    "publisher": "Motion Picture Exhibitor, via Internet Archive",
+    "url": "https://archive.org/details/motionpictureexh66jaye",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-II (table entry: Hoodlum Priest, The . A2)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-hoodlum-priest",
+        "status": "GREY",
+        "title": "Motion Picture Exhibitor (Legion table, 1961-62) (Legion of Decency table)",
+        "claims": "Legion of Decency rating A-II (table entry: Hoodlum Priest, The . A2)"
       }
     ]
   },
@@ -24168,6 +24557,22 @@
     ]
   },
   {
+    "title": "Motion Picture Exhibitor (Aug-Nov 1966), alphabetical rating table",
+    "publisher": "Jay Emanuel Publications, via Internet Archive (Media History Digital Library)",
+    "url": "https://archive.org/details/motionpictureexh76jaye/page/n30",
+    "accessed": "2026-10-12",
+    "claims": "Trouble With Angels, The (Col.): rating A1 (A-I); also leaf n132 of the same volume",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-trouble-with-angels",
+        "status": "PUBLISH",
+        "title": "Motion Picture Exhibitor (Aug-Nov 1966), alphabetical rating table",
+        "claims": "Trouble With Angels, The (Col.): rating A1 (A-I); also leaf n132 of the same volume"
+      }
+    ]
+  },
+  {
     "title": "Vision – Aus dem Leben der Hildegard von Bingen",
     "publisher": "filmportal.de (German Film Institute – DFF)",
     "url": "https://filmportal.de/en/node/128049",
@@ -24882,6 +25287,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n21",
+    "accessed": "2026-10-12",
+    "claims": "Anthony of Padua (Italian) (Trans-Global Pictures): Legion of Decency A-I, 1951-52",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "antonio-di-padova-1949",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Anthony of Padua (Italian) (Trans-Global Pictures): Legion of Decency A-I, 1951-52"
+      }
+    ]
+  },
+  {
     "title": "Augustine of Hippo [motion picture]: catalogue record",
     "publisher": "Berkeley Art Museum and Pacific Film Archive (BAMPFA)",
     "url": "https://bampfa.org/node/188141",
@@ -25288,6 +25709,22 @@
         "status": "GREY",
         "title": "Guglielmo Massaia",
         "claims": "Massaia: entry 1825, consecration 24 May 1846, cardinal 10 November 1884, exiled seven times, freed Galla boys, Coptic opposition, died 6 August 1889"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n13",
+    "accessed": "2026-10-12",
+    "claims": "Abuna Messias (Italian) (Casolaro Dist. Corp.): Legion of Decency A-I, 1951-52",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "cardinal-messias-1939",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Abuna Messias (Italian) (Casolaro Dist. Corp.): Legion of Decency A-I, 1951-52"
       }
     ]
   },
@@ -25844,6 +26281,22 @@
         "status": "GREY",
         "title": "Lapsi",
         "claims": "Sacrificati, thurificati, libellatici; public penance; Cyprian; 251 synods; Novatian"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n66",
+    "accessed": "2026-10-12",
+    "claims": "Demetrius and the Gladiators (20th Century-Fox): Legion of Decency A-II, 1953-54",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "demetrius-and-the-gladiators-1954",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Demetrius and the Gladiators (20th Century-Fox): Legion of Decency A-II, 1953-54"
       }
     ]
   },
@@ -27953,6 +28406,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n103",
+    "accessed": "2026-10-12",
+    "claims": "Guilty of Treason (Eagle Lion): Legion of Decency A-I, 1949-50",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "guilty-of-treason",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Guilty of Treason (Eagle Lion): Legion of Decency A-I, 1949-50"
+      }
+    ]
+  },
+  {
     "title": "I, the Worst of All",
     "publisher": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/I,_the_Worst_of_All",
@@ -29987,6 +30456,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n269",
+    "accessed": "2026-10-12",
+    "claims": "Virgin of Guadalupe, The (La Virgen Morena) (Mexican-Maya): Legion of Decency A-I",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "la-virgen-morena-1942",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Virgin of Guadalupe, The (La Virgen Morena) (Mexican-Maya): Legion of Decency A-I"
+      }
+    ]
+  },
+  {
     "title": "The Miracle Roses",
     "publisher": "Wikipedia (citing Emilio García Riera, Historia documental del cine mexicano: 1959-1960)",
     "url": "https://en.wikipedia.org/wiki/The_Miracle_Roses",
@@ -30945,6 +31430,22 @@
           "Lover murdered; his hound led her to the body; stepmother refused her; went to Cortona under Franciscan direction; Third Order after three years",
           "Founded a hospital for the sick poor; died 22 February 1297; canonised 16 May 1728"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n158",
+    "accessed": "2026-10-12",
+    "claims": "Margaret of Cortona (Ital.) (Crown Pics.): Legion of Decency A-I; the surrounding entries note classifications apply only to prints shown in continental U.S.A.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "margaret-of-cortona-1950",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Margaret of Cortona (Ital.) (Crown Pics.): Legion of Decency A-I; the surrounding entries note classifications apply only to prints shown in continental U.S.A."
       }
     ]
   },
@@ -31954,6 +32455,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n170",
+    "accessed": "2026-10-12",
+    "claims": "Murder in the Cathedral (British) (Classic Pictures): Legion of Decency A-I",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "murder-in-the-cathedral-1951",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Murder in the Cathedral (British) (Classic Pictures): Legion of Decency A-I"
+      }
+    ]
+  },
+  {
     "title": "Word and Utopia (2000)",
     "publisher": "Mostra Internacional de Cinema em São Paulo (archive)",
     "url": "https://mostra.org/en/arquivo/filme/5704",
@@ -32218,6 +32735,22 @@
         "status": "PUBLISH",
         "title": "Mystici Corporis Christi",
         "claims": "Christ the one Head, governing visibly through His Vicar"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati/page/n238",
+    "accessed": "2026-10-12",
+    "claims": "Story of the Pope, The (Chapel Films Corp.): Legion of Decency A-I (US version of Pastor Angelicus)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "pastor-angelicus-1942",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Story of the Pope, The (Chapel Films Corp.): Legion of Decency A-I (US version of Pastor Angelicus)"
       }
     ]
   },
@@ -33236,6 +33769,22 @@
     ]
   },
   {
+    "title": "Motion Picture Exhibitor (Mar-Jun 1962), alphabetical Legion rating table",
+    "publisher": "Jay Emanuel Publications, via Internet Archive (Media History Digital Library)",
+    "url": "https://archive.org/details/motionpictureexh67jaye_0/page/n65",
+    "accessed": "2026-10-12",
+    "claims": "Satan Never Sleeps (Fox): Legion of Decency A3 (A-III)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "satan-never-sleeps",
+        "status": "GREY",
+        "title": "Motion Picture Exhibitor (Mar-Jun 1962), alphabetical Legion rating table",
+        "claims": "Satan Never Sleeps (Fox): Legion of Decency A3 (A-III)"
+      }
+    ]
+  },
+  {
     "title": "Say One for Me (1959)",
     "publisher": "AFI Catalog of Feature Films",
     "url": "https://catalog.afi.com/Film/53007-SAY-ONEFORME",
@@ -33317,6 +33866,22 @@
           "Variety: something went wrong; Crosby 'curiously inhibited'; Crowther: 'a pleasant show-world entertainment'",
           "Stella Stevens's debut; opened at number one at the US box office"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motion-pictures-classified-by-the-national-legion-of-decency-1936-1959/page/n215",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-II, year of review 1958-59: \"Say One for Me (Fox)\" (printed p. 204)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "say-one-for-me",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Legion of Decency rating A-II, year of review 1958-59: \"Say One for Me (Fox)\" (printed p. 204)"
       }
     ]
   },
@@ -33769,6 +34334,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motion-pictures-classified-by-the-national-legion-of-decency-1936-1959/page/n23",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-II, year of review 1957-58: \"Awakening (Ital.) (Ringley)\" (printed p. 12)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "suor-letizia-1956",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Legion of Decency rating A-II, year of review 1957-58: \"Awakening (Ital.) (Ringley)\" (printed p. 12)"
+      }
+    ]
+  },
+  {
     "title": "Tepeyac",
     "publisher": "Il Cinema Ritrovato (Cineteca di Bologna), 2017 programme; notes by Shari Kizirian",
     "url": "https://ilcinemaritrovato.it/en/film/tepeyac/",
@@ -33929,6 +34510,22 @@
           "02:08:00–02:09:32: Peter heals King Deran 'in the name of the most holy... arise and walk'; 02:13:16–02:15:40 Deran breaks his vow and dies",
           "No crucifixion or Resurrection scenes found; the film ends before the Passion"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motion-pictures-classified-by-the-national-legion-of-decency-1936-1959/page/n32",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I, year of review 1958-59: \"Big Fisherman (Buena Vista)\" (printed p. 21)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-big-fisherman-1959",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Legion of Decency rating A-I, year of review 1958-59: \"Big Fisherman (Buena Vista)\" (printed p. 21)"
       }
     ]
   },
@@ -34133,6 +34730,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motion-pictures-classified-by-the-national-legion-of-decency-1936-1959/page/n75",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-II, year of review 1954-55: \"End of the Affair (Columbia)\" (printed p. 64)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-end-of-the-affair-1955",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Legion of Decency rating A-II, year of review 1954-55: \"End of the Affair (Columbia)\" (printed p. 64)"
+      }
+    ]
+  },
+  {
     "title": "Reviews of the New Films: The Fighting 69th",
     "publisher": "Film Daily, 5 January 1940 (Internet Archive item filmdaily77wids)",
     "url": "https://archive.org/details/filmdaily77wids",
@@ -34221,6 +34834,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motion-pictures-classified-by-the-national-legion-of-decency-1936-1959/page/n82",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I, year of review 1939-40: \"Fighting 69th, The (Warner-First National)\" (printed p. 71)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-fighting-69th",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Legion of Decency rating A-I, year of review 1939-40: \"Fighting 69th, The (Warner-First National)\" (printed p. 71)"
+      }
+    ]
+  },
+  {
     "title": "The Garden of Allah (1936 film)",
     "publisher": "Wikipedia (supplementary; cites Thomson, Showman; Greene, Spectator 25 December 1936)",
     "url": "https://en.wikipedia.org/wiki/The_Garden_of_Allah_(1936_film)",
@@ -34287,6 +34916,22 @@
           "Dietrich as a deeply religious woman sent to the desert by a Mother Superior",
           "A mess: miscast leads, stilted dialogue; Rathbone and C. Aubrey Smith praised"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motion-pictures-classified-by-the-national-legion-of-decency-1936-1959/page/n93",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I, year of review 1936-37: \"Garden of Allah, The (Universal)\" (printed p. 82)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-garden-of-allah-1936",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Legion of Decency rating A-I, year of review 1936-37: \"Garden of Allah, The (Universal)\" (printed p. 82)"
       }
     ]
   },
@@ -34393,6 +35038,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motion-pictures-classified-by-the-national-legion-of-decency-1936-1959/page/n140",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-II, year of review 1954-55: \"Left Hand of God, The (20th Century-Fox)\" (printed p. 129)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-left-hand-of-god",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Legion of Decency rating A-II, year of review 1954-55: \"Left Hand of God, The (20th Century-Fox)\" (printed p. 129)"
+      }
+    ]
+  },
+  {
     "title": "Motion Picture Exhibitor, 7 October 1959: review of The Miracle",
     "publisher": "Motion Picture Exhibitor (Internet Archive scan, Aug–Nov 1959)",
     "url": "https://archive.org/details/motionpictureexh62jaye_0",
@@ -34489,6 +35150,22 @@
         "status": "GREY",
         "title": "Tales of the Virgin (Caesarius of Heisterbach, Dialogus Miraculorum VII.34)",
         "claims": "Medieval legend of the Virgin taking the place of a runaway nun"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motion-pictures-classified-by-the-national-legion-of-decency-1936-1959/page/n163",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-II, year of review 1958-59: \"Miracle (War.)\" (printed p. 152)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-miracle-1959",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Legion of Decency rating A-II, year of review 1958-59: \"Miracle (War.)\" (printed p. 152)"
       }
     ]
   },
@@ -34821,6 +35498,22 @@
         "status": "PUBLISH",
         "title": "Suicide",
         "claims": "Direct suicide a grave wrong; Christian burial denied; derangement and responsibility."
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motion-pictures-classified-by-the-national-legion-of-decency-1936-1959/page/n202",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I, year of review 1948-49: \"Red Danube (MGM)\" (printed p. 191)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-red-danube",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Legion of Decency rating A-I, year of review 1948-49: \"Red Danube (MGM)\" (printed p. 191)"
       }
     ]
   },
@@ -35284,6 +35977,22 @@
     ]
   },
   {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motion-pictures-classified-by-the-national-legion-of-decency-1936-1959/page/n224",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-II, year of review 1954-55: \"Silver Chalice (Warners)\" (printed p. 213)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-silver-chalice-1954",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Legion of Decency rating A-II, year of review 1954-55: \"Silver Chalice (Warners)\" (printed p. 213)"
+      }
+    ]
+  },
+  {
     "title": "The Singing Nun (1966)",
     "publisher": "AFI Catalog of Feature Films",
     "url": "https://catalog.afi.com/Catalog/moviedetails/19641",
@@ -35396,6 +36105,22 @@
     ]
   },
   {
+    "title": "Motion Picture Exhibitor (1966), Servisection Legion index",
+    "publisher": "Motion Picture Exhibitor, via Internet Archive (Media History Digital Library)",
+    "url": "https://archive.org/details/motionpictureexh76jaye",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I (index line \"Singing Nun, The . A1 MGM\", full text _djvu.txt)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-singing-nun",
+        "status": "GREY",
+        "title": "Motion Picture Exhibitor (1966), Servisection Legion index",
+        "claims": "Legion of Decency rating A-I (index line \"Singing Nun, The . A1 MGM\", full text _djvu.txt)"
+      }
+    ]
+  },
+  {
     "title": "The Story of the Vatican (1941): full synopsis and notes (AFI data)",
     "publisher": "Turner Classic Movies database, via Internet Archive Wayback Machine (capture of 28 September 2019)",
     "url": "https://web.archive.org/web/2019/http://www.tcm.com/tcmdb/title/563968/The-Story-of-the-Vatican/full-synopsis.html",
@@ -35486,6 +36211,22 @@
         "status": "PUBLISH",
         "title": "States of the Church",
         "claims": "Italian troops entered Rome on 20 September 1870, ending the temporal rule"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motion-pictures-classified-by-the-national-legion-of-decency-1936-1959/page/n237",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I, year of review 1940-41: \"Story of the Vatican, The (March of Time-RKO)\" (printed p. 226)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-story-of-the-vatican-1941",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Legion of Decency rating A-I, year of review 1940-41: \"Story of the Vatican, The (March of Time-RKO)\" (printed p. 226)"
       }
     ]
   },
@@ -36108,6 +36849,22 @@
         "status": "PUBLISH",
         "title": "Religious Obedience, Catholic Encyclopedia",
         "claims": "Nature and limits of the religious vow of obedience"
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motion-pictures-classified-by-the-national-legion-of-decency-1936-1959/page/n253",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-II, year of review 1950-51: \"Thunder on the Hill (Universal-International)\" (printed p. 242)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "thunder-on-the-hill",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Legion of Decency rating A-II, year of review 1950-51: \"Thunder on the Hill (Universal-International)\" (printed p. 242)"
       }
     ]
   },
@@ -38161,6 +38918,22 @@
         "status": "PUBLISH",
         "title": "Munificentissimus Deus",
         "claims": "Assumption defined 1 November 1950."
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+    "publisher": "National Legion of Decency, via Internet Archive",
+    "url": "https://archive.org/details/motion-pictures-classified-by-the-national-legion-of-decency-1936-1959/page/n113",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency rating A-I, year of review 1949-50: \"Holy Year, 1950 (20th Century-Fox)\" (printed p. 102)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "holy-year-1950",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
+        "claims": "Legion of Decency rating A-I, year of review 1949-50: \"Holy Year, 1950 (20th Century-Fox)\" (printed p. 102)"
       }
     ]
   },

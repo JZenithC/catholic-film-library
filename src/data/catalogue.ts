@@ -127,8 +127,8 @@ const kindLabels: Record<string, string> = {
 };
 /** Human label for an image kind, e.g. "DVD cover". */
 export const kindLabel = (kind: string) => {
-  const k = kind.trim().toLowerCase();
-  return kindLabels[k] ?? k.charAt(0).toUpperCase() + k.slice(1);
+  const k = kind.trim();
+  return kindLabels[k.toLowerCase()] ?? k.charAt(0).toUpperCase() + k.slice(1);
 };
 /** A short attribution for an image credit line, e.g. "via Wikipedia". */
 export const creditShort = (credit: string) => {
