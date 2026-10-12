@@ -109,6 +109,11 @@ const movie: Record<string, unknown> = {
 for (const [key, value] of Object.entries(movie))
   if (value === undefined || (Array.isArray(value) && value.length === 0))
     delete movie[key];
+// With an age band on the page, short stand-alone age lines in the older advisories repeat it.
+const ageLine = /^(suitable for|best for|for older|mature teenagers|family viewing)/i;
+const advisories = paragraphs(film.advisories).filter(
+  (p) => !(film.suitability && ageLine.test(p.trim()) && p.length < 70),
+);
 const claims = (c: string[] | string) => (Array.isArray(c) ? c.join('; ') : c);
 ---
 
@@ -257,7 +262,7 @@ const claims = (c: string[] | string) => (Array.isArray(c) ? c.join('; ') : c);
               </p>
             )
           }
-          {paragraphs(film.advisories).map((p) => <p>{p}</p>)}
+          {advisories.map((p) => <p>{p}</p>)}
         </div>
         <h2>Sources</h2>
         <ol class="sources">

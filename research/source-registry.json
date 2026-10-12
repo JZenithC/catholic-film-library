@@ -158,6 +158,12 @@
           "'This guilt seems more enormous in us than in the Jews'",
           "translation and edition not named on the page; check against a printed edition (e.g. McHugh and Callan, 1923)"
         ]
+      },
+      {
+        "id": "golgotha",
+        "status": "PUBLISH",
+        "title": "The Catechism of Trent: Article IV",
+        "claims": "Christ suffered under Pilate; suffered for 'the very authors and ministers' of his torments; 'this guilt seems more enormous in us than in the Jews'; our sins consigned Christ to the cross"
       }
     ]
   },
@@ -291,6 +297,163 @@
           "Dutour portrayed as more anti-religious than he was; said to be a devout Catholic",
           "no evidence Vauzous taught Bernadette before the convent",
           "Dutour merged with Werfel's La Fite and given a throat-cancer ending at the grotto"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Notre-Dame de Lourdes",
+    "publisher": "Catholic Encyclopedia (1910), New Advent",
+    "url": "https://www.newadvent.org/cathen/09389b.htm",
+    "accessed": "2026-10-12",
+    "claims": "Eighteen apparitions 1858; episcopal approval 1862; Leo XIII Mass and Office; Pius X extended feast in 1907; cures",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-song-of-bernadette",
+        "status": "PUBLISH",
+        "title": "Notre-Dame de Lourdes",
+        "claims": "Eighteen apparitions 1858; episcopal approval 1862; Leo XIII Mass and Office; Pius X extended feast in 1907; cures"
+      },
+      {
+        "id": "lourdes-et-ses-miracles-1955",
+        "status": "PUBLISH",
+        "title": "Our Lady of Lourdes",
+        "claims": "Eighteen apparitions, 11 February to 16 July 1858; bishop's declaration of 1862; pilgrimages from 1873 and figures to 1908; Medical Bureau; Leo XIII's Office and Mass, extended by Pius X in 1907 for 11 February"
+      },
+      {
+        "id": "je-m-appelle-bernadette-2011",
+        "status": "GREY",
+        "title": "Lourdes",
+        "claims": [
+          "Eighteen apparitions, 11 February to 16 July 1858",
+          "Bishop declared the faithful justified in believing the apparitions in 1862"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Immaculate Conception",
+    "publisher": "Catholic Encyclopedia (1910), New Advent",
+    "url": "https://www.newadvent.org/cathen/07674d.htm",
+    "accessed": "2026-10-12",
+    "claims": "Definition by Pius IX, 1854",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-song-of-bernadette",
+        "status": "PUBLISH",
+        "title": "Immaculate Conception",
+        "claims": "Definition by Pius IX, 1854"
+      },
+      {
+        "id": "blessed-duns-scotus",
+        "status": "REJECT",
+        "title": "Immaculate Conception",
+        "claims": [
+          "History of the doctrine: St Bernard's opposition to the feast; St Thomas concluded against it in the Summa; Bonaventure among the opponents; Scotus's argument from preservative redemption shifted opinion; Sixtus IV excommunicated those on either side who accused the other of heresy. Says nothing about a Paris disputation."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Motion Pictures Classified by the National Legion of Decency",
+    "publisher": "Internet Archive",
+    "url": "https://archive.org/stream/motionpicturescl00nati/motionpicturescl00nati_djvu.txt",
+    "accessed": "2026-10-12",
+    "claims": "Legion of Decency classification of the film",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-song-of-bernadette",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by the National Legion of Decency",
+        "claims": "Legion of Decency classification of the film"
+      },
+      {
+        "id": "the-miracle-of-our-lady-of-fatima",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by the National Legion of Decency",
+        "claims": "Legion of Decency classification of the film"
+      },
+      {
+        "id": "the-miracle-of-marcelino",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by the National Legion of Decency",
+        "claims": "Legion of Decency classification of the film"
+      },
+      {
+        "id": "quo-vadis",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by the National Legion of Decency",
+        "claims": "Legion of Decency classification of the film"
+      },
+      {
+        "id": "the-fugitive",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by the National Legion of Decency",
+        "claims": "Legion of Decency classification of the film"
+      },
+      {
+        "id": "the-bells-of-st-mary-s",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by the National Legion of Decency",
+        "claims": "Legion of Decency classification of the film"
+      },
+      {
+        "id": "the-miracle-of-the-bells",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by the National Legion of Decency",
+        "claims": "Legion of Decency classification of the film"
+      },
+      {
+        "id": "the-keys-of-the-kingdom",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by the National Legion of Decency",
+        "claims": "Legion of Decency classification of the film"
+      },
+      {
+        "id": "proces-au-vatican",
+        "status": "PUBLISH",
+        "title": "Motion pictures classified by National Legion of Decency (1959)",
+        "claims": "'Miracle of St. Therese (Was: Trial at the Vatican) (Ellis) A-I'"
+      },
+      {
+        "id": "the-king-of-kings-1927",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by the National Legion of Decency",
+        "claims": "Legion of Decency classification of the film"
+      },
+      {
+        "id": "the-nun-s-story",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by the National Legion of Decency",
+        "claims": "Legion of Decency classification of the film"
+      },
+      {
+        "id": "saint-joan-1957",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by the National Legion of Decency",
+        "claims": "Legion of Decency classification of the film"
+      },
+      {
+        "id": "the-prisoner-1955",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by the National Legion of Decency",
+        "claims": "Legion of Decency classification of the film"
+      },
+      {
+        "id": "the-robe-1953",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by the National Legion of Decency",
+        "claims": "Legion of Decency classification of the film"
+      },
+      {
+        "id": "the-garden-of-allah-1936",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – November 1959",
+        "claims": [
+          "'Garden of Allah, The (Universal)' listed in Class A-I, 1936–37 (the distributor named as printed in the list)"
         ]
       }
     ]
@@ -524,6 +687,22 @@
     ]
   },
   {
+    "title": "La Passion de Bernadette",
+    "publisher": "Wikipedia (French; supplementary)",
+    "url": "https://fr.wikipedia.org/wiki/La_Passion_de_Bernadette",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles; screenplay Delannoy and Aurenche; music Francis Lai; Rachel Productions; sequel to Bernadette (1988); 106 minutes; release date given as 1989 or 9 May 1990",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-passion-of-bernadette",
+        "status": "PUBLISH",
+        "title": "La Passion de Bernadette",
+        "claims": "Cast and roles; screenplay Delannoy and Aurenche; music Francis Lai; Rachel Productions; sequel to Bernadette (1988); 106 minutes; release date given as 1989 or 9 May 1990"
+      }
+    ]
+  },
+  {
     "title": "The Miracle of Our Lady of Fatima (1952)",
     "publisher": "American Film Institute Catalog",
     "url": "https://catalog.afi.com/Catalog/moviedetails/50575",
@@ -650,6 +829,22 @@
     ]
   },
   {
+    "title": "The Miracle of Our Lady of Fatima",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Miracle_of_Our_Lady_of_Fatima",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles, crew, release date, running time, Oscar nomination for Steiner, New York Times review",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-miracle-of-our-lady-of-fatima",
+        "status": "PUBLISH",
+        "title": "The Miracle of Our Lady of Fatima",
+        "claims": "Cast and roles, crew, release date, running time, Oscar nomination for Steiner, New York Times review"
+      }
+    ]
+  },
+  {
     "title": "Crónica de cine: La Señora de Fátima",
     "publisher": "Hoja del Lunes (Madrid), Alfonso Sánchez, 22 October 1951, p. 4; via Filosofía en español",
     "url": "https://www.filosofia.org/hem/195/9511022h.htm",
@@ -758,6 +953,34 @@
         "claims": [
           "Apparitions 13 May–13 October 1917 to Lúcia dos Santos and Francisco and Jacinta Marto; administrator Artur Santos detained and threatened the children on 13 August; crowd of perhaps 30,000–100,000 on 13 October, sun appeared after rain; declared worthy of belief by the Bishop of Leiria on 13 October 1930; image crowned by the papal legate on 13 May 1946"
         ]
+      },
+      {
+        "id": "day-the-sun-danced",
+        "status": "GREY",
+        "title": "Our Lady of Fátima",
+        "claims": "Angel 1916; apparitions 13 May-13 October 1917; custody 13 August and Valinhos 19 August; crowd estimate; deaths of Francisco 1919 and Jacinta 1920; Lúcia memoirs 1935-41; Bishop of Leiria approval 13 October 1930; Pius XII consecrations 1942 and 1952; coronation 1946; basilica 1954"
+      },
+      {
+        "id": "fatima-terra-de-fe",
+        "status": "GREY",
+        "title": "Our Lady of Fátima",
+        "claims": "Approval of 13 October 1930 by the Bishop of Leiria; Pius XII's consecration of 31 October and 8 December 1942; content of the reported message"
+      }
+    ]
+  },
+  {
+    "title": "La señora de Fátima",
+    "publisher": "Wikipedia (Spanish)",
+    "url": "https://es.wikipedia.org/wiki/La_se%C3%B1ora_de_F%C3%A1tima",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles; music; cinematography; Círculo de Escritores Cinematográficos medal for José Nieto",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "la-senora-de-fatima",
+        "status": "PUBLISH",
+        "title": "La señora de Fátima",
+        "claims": "Cast and roles; music; cinematography; Círculo de Escritores Cinematográficos medal for José Nieto"
       }
     ]
   },
@@ -976,6 +1199,54 @@
     ]
   },
   {
+    "title": "The 13th Day (2009)",
+    "publisher": "TMDB",
+    "url": "https://themoviedb.org/movie/31367",
+    "accessed": "2026-10-12",
+    "claims": "Directors and writers Ian and Dominic Higgins; supporting cast (search result summary only)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-13th-day",
+        "status": "PUBLISH",
+        "title": "The 13th Day (2009)",
+        "claims": "Directors and writers Ian and Dominic Higgins; supporting cast (search result summary only)"
+      }
+    ]
+  },
+  {
+    "title": "News report on the film's release",
+    "publisher": "Catholic News Agency",
+    "url": "https://www.catholicnewsagency.com/news/17273",
+    "accessed": "2026-10-12",
+    "claims": "First major film by Ian and Dominic Higgins; screenings on 13 October (search result only)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-13th-day",
+        "status": "PUBLISH",
+        "title": "News report on the film's release",
+        "claims": "First major film by Ian and Dominic Higgins; screenings on 13 October (search result only)"
+      }
+    ]
+  },
+  {
+    "title": "New movie about Our Lady of Fatima to be screened in major US cities",
+    "publisher": "EWTN News",
+    "url": "https://www.ewtnnews.com/world/us/new-movie-about-our-lady-of-fatima-to-be-screened-in-major-us-cities",
+    "accessed": "2026-10-12",
+    "claims": "Directors Ian and Dominic Higgins, cast in the hundreds, three young Portuguese actors, Ignatius Press distribution, 13 October screenings",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-13th-day",
+        "status": "PUBLISH",
+        "title": "New movie about Our Lady of Fatima to be screened in major US cities",
+        "claims": "Directors Ian and Dominic Higgins, cast in the hundreds, three young Portuguese actors, Ignatius Press distribution, 13 October screenings"
+      }
+    ]
+  },
+  {
     "title": "Marcelino pan y vino",
     "publisher": "Danish Film Institute, Filmdatabasen",
     "url": "https://www.dfi.dk/viden-om-film/filmdatabasen/film/19531",
@@ -1105,6 +1376,270 @@
           "Spanish release 24 February 1955",
           "Silver Bear, Berlin 1955; Cannes 1955 special mention for Calvo and OCIC award",
           "remakes 1991 (Italy) and 2010 (Mexico); animated series 2000"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Marcelino, pan y vino (1955 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Marcelino_Pan_y_Vino",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles; writers; music; cinematography; locations; the Simont sculpture; release dates; OCIC and Cannes mentions; Berlin Silver Bear; success in the United States",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-miracle-of-marcelino",
+        "status": "PUBLISH",
+        "title": "Marcelino, pan y vino (1955 film)",
+        "claims": "Cast and roles; writers; music; cinematography; locations; the Simont sculpture; release dates; OCIC and Cannes mentions; Berlin Silver Bear; success in the United States"
+      }
+    ]
+  },
+  {
+    "title": "Motion pictures classified by National Legion of Decency (1936-1959)",
+    "publisher": "National Legion of Decency, Internet Archive",
+    "url": "https://archive.org/details/motionpicturescl00nati",
+    "accessed": "2026-10-12",
+    "claims": "Marcelino (Sp.) (UMPO): A-I",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-miracle-of-marcelino",
+        "status": "PUBLISH",
+        "title": "Motion pictures classified by National Legion of Decency (1936-1959)",
+        "claims": "Marcelino (Sp.) (UMPO): A-I"
+      },
+      {
+        "id": "diary-of-a-country-priest",
+        "status": "PUBLISH",
+        "title": "Motion pictures classified by National Legion of Decency (1936-1959)",
+        "claims": "Diary of a Country Priest (French) (Brandon Films) A-II"
+      },
+      {
+        "id": "the-fugitive",
+        "status": "PUBLISH",
+        "title": "Motion pictures classified by National Legion of Decency (1936-1959)",
+        "claims": "The Fugitive (RKO) A-I; formerly classified A-II, re-edited and reclassified"
+      },
+      {
+        "id": "the-fighting-father-dunne",
+        "status": "PUBLISH",
+        "title": "Motion pictures classified by National Legion of Decency (1936-1959)",
+        "claims": "Fighting Father Dunne (RKO) A-I, 1947-48"
+      },
+      {
+        "id": "gli-uomini-non-guardano-il-cielo",
+        "status": "PUBLISH",
+        "title": "Motion pictures classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Secret Conclave, The (Italian) (IFE Releasing Corp.): A-I, 1952–53"
+        ]
+      },
+      {
+        "id": "the-king-of-kings-1927",
+        "status": "PUBLISH",
+        "title": "Motion pictures classified by National Legion of Decency (1936-1959)",
+        "claims": "King of Kings (Cecil B. DeMille) classified A-I"
+      },
+      {
+        "id": "lourdes-et-ses-miracles-1955",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Lourdes and It's Miracles (French) (Brandon): A-I, 1958–59"
+        ]
+      },
+      {
+        "id": "saint-joan-1957",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Saint Joan (UA): A-II, 1956–57"
+        ]
+      },
+      {
+        "id": "the-prisoner-1955",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Prisoner, The (Columbia): A-II (year column not legible in the scan; Columbia distributed the 1955 film in the US)"
+        ]
+      },
+      {
+        "id": "antonio-di-padova-1949",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
+        "claims": [
+          "Anthony of Padua (Italian) (Trans-Global Pictures): A-I, 1951-52"
+        ]
+      },
+      {
+        "id": "cardinal-messias-1939",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
+        "claims": [
+          "Abuna Messias (Italian) (Casolaro Dist. Corp.): A-I, 1951-52"
+        ]
+      },
+      {
+        "id": "demetrius-and-the-gladiators-1954",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Demetrius and the Gladiators (20th Century-Fox): A-II, 1953–54"
+        ]
+      },
+      {
+        "id": "guilty-of-treason",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Guilty of Treason (Eagle Lion): A-I, 1949–50"
+        ]
+      },
+      {
+        "id": "keepers-of-the-night-1949",
+        "status": "REJECT",
+        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
+        "claims": [
+          "Keepers of the Night (German) (Casino Film Exchange): A-II, 1952-53"
+        ]
+      },
+      {
+        "id": "la-virgen-morena-1942",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
+        "claims": [
+          "Virgin of Guadalupe, The (La Virgen Morena) (Mexican-Maya): A-I"
+        ]
+      },
+      {
+        "id": "margaret-of-cortona-1950",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Margaret of Cortona (Ital.) (Crown Pics.): A-I, with the note that the classification applies only to prints shown in the continental U.S.A."
+        ]
+      },
+      {
+        "id": "murder-in-the-cathedral-1951",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Murder in the Cathedral (British) (Classic Pictures): A-I"
+        ]
+      },
+      {
+        "id": "pastor-angelicus-1942",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
+        "claims": [
+          "Story of the Pope, The (Chapel Films Corp.): A-I"
+        ]
+      },
+      {
+        "id": "prima-comunione-1950",
+        "status": "REJECT",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Father's Dilemma (Italian) (Arthur Davis Associates): B. Objection: suggestive sequences."
+        ]
+      },
+      {
+        "id": "say-one-for-me",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Say One for Me (Fox): A-II, 1958-59"
+        ]
+      },
+      {
+        "id": "seven-cities-of-gold-1955",
+        "status": "REJECT",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Seven Cities of Gold (Fox): A-I"
+        ]
+      },
+      {
+        "id": "suor-letizia-1956",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Awakening (Ital.) (Kingsley): A-II, 1957-58"
+        ]
+      },
+      {
+        "id": "the-big-fisherman-1959",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Big Fisherman (Buena Vista): A-I, 1958-59"
+        ]
+      },
+      {
+        "id": "the-end-of-the-affair-1955",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "End of the Affair (Columbia): A-II, 1954-55"
+        ]
+      },
+      {
+        "id": "the-fighting-69th",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
+        "claims": [
+          "Fighting 69th, The (Warner-First National): A-I"
+        ]
+      },
+      {
+        "id": "the-left-hand-of-god",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Left Hand of God, The (20th Century-Fox): A-II"
+        ]
+      },
+      {
+        "id": "the-miracle-1959",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Miracle (War.): A-II"
+        ]
+      },
+      {
+        "id": "the-red-danube",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Red Danube (MGM): A-I, 1948–49"
+        ]
+      },
+      {
+        "id": "the-silver-chalice-1954",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Silver Chalice (Warners): A-II"
+        ]
+      },
+      {
+        "id": "the-story-of-the-vatican-1941",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
+        "claims": [
+          "Story of the Vatican, The (March of Time-RKO): A-I, morally unobjectionable for general patronage"
+        ]
+      },
+      {
+        "id": "thunder-on-the-hill",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
+        "claims": [
+          "Thunder on the Hill (Universal-International): A-II, 1950–51"
         ]
       }
     ]
@@ -1398,6 +1933,65 @@
     ]
   },
   {
+    "title": "Joan of Arc",
+    "publisher": "Catholic Encyclopedia (1910), New Advent",
+    "url": "https://www.newadvent.org/cathen/08409c.htm",
+    "accessed": "2026-10-12",
+    "claims": "Voices of Michael, Margaret and Catherine; trial from 21 February 1431; relapse for male dress; confession and Communion before execution on 30 May 1431; beatified by Pius X (decree 1909); canonised by Benedict XV (1920)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-passion-of-joan-of-arc",
+        "status": "PUBLISH",
+        "title": "Joan of Arc",
+        "claims": "Voices of Michael, Margaret and Catherine; trial from 21 February 1431; relapse for male dress; confession and Communion before execution on 30 May 1431; beatified by Pius X (decree 1909); canonised by Benedict XV (1920)"
+      },
+      {
+        "id": "joan-of-arc",
+        "status": "PUBLISH",
+        "title": "St. Joan of Arc",
+        "claims": [
+          "Cauchon 'the creature of the Burgundian party'",
+          "Captured at Compiègne by a follower of John of Luxembourg and sold to the English",
+          "Abjuration at Saint-Ouen, relapse, execution 30 May 1431",
+          "Voices of St Michael, St Margaret and St Catherine",
+          "Appeal to the Pope ignored; papal court later annulled the sentence; Charles VII's counsellors made no ransom effort"
+        ]
+      },
+      {
+        "id": "joan-the-woman-1916",
+        "status": "GREY",
+        "title": "Joan of Arc",
+        "claims": "Her voices; appeal to the Pope; abjuration and relapse; judgement of 29 May 1431; papal annulment; cause introduced 1869; Pius X decree 11 April 1909; canonised 1920 by Benedict XV"
+      },
+      {
+        "id": "saint-joan-the-maid-1929",
+        "status": "GREY",
+        "title": "St. Joan of Arc",
+        "claims": "Voices of Michael, Margaret and Catherine; Rouen court under Cauchon legally unsound, no advocate, Pope not consulted; annulment on rehabilitation; cause introduced 1869; beatified 1909 under Pius X; canonised 1920 under Benedict XV; burned 30 May 1431"
+      },
+      {
+        "id": "jeanne-d-arc-1900",
+        "status": "PUBLISH",
+        "title": "St. Joan of Arc",
+        "claims": [
+          "Born at Domrémy probably 6 January 1412; voices of St Michael, St Margaret and St Catherine",
+          "Baudricourt at Vaucouleurs; entered Orléans 30 April 1429; coronation at Reims 17 July 1429; captured at Compiègne 24 May 1430",
+          "Trial at Rouen under Pierre Cauchon; burned 30 May 1431; decree of 1909 concluding the cause; canonised 1920"
+        ]
+      },
+      {
+        "id": "jeannette-2017",
+        "status": "GREY",
+        "title": "Saint Joan of Arc",
+        "claims": [
+          "Born probably 6 January 1412 at Domrémy; first voices summer 1425 at about 13½: St Michael, St Margaret, St Catherine",
+          "Vaucouleurs 1428 and January 1429 with a cousin; burned at Rouen 30 May 1431; sentence annulled; beatified 11 April 1909 (canonised 1920 per editor's note)"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Joan of Arc (1950 release)",
     "publisher": "AFI Catalog of Feature Films",
     "url": "https://catalog.afi.com/Film/25598-JOAN-OFARC",
@@ -1502,49 +2096,18 @@
     ]
   },
   {
-    "title": "St. Joan of Arc",
-    "publisher": "Catholic Encyclopedia (1910), New Advent",
-    "url": "https://www.newadvent.org/cathen/08409c.htm",
-    "accessed": "2026-10-11",
-    "claims": [
-      "Cauchon 'the creature of the Burgundian party'",
-      "Captured at Compiègne by a follower of John of Luxembourg and sold to the English",
-      "Abjuration at Saint-Ouen, relapse, execution 30 May 1431",
-      "Voices of St Michael, St Margaret and St Catherine",
-      "Appeal to the Pope ignored; papal court later annulled the sentence; Charles VII's counsellors made no ransom effort"
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
+    "title": "Joan of Arc (1948 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Joan_of_Arc_(1948_film)",
+    "accessed": "2026-10-12",
+    "claims": "Cast, credits, production dates, budget, release versions, awards, box office",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
     "films": [
       {
         "id": "joan-of-arc",
         "status": "PUBLISH",
-        "title": "St. Joan of Arc",
-        "claims": [
-          "Cauchon 'the creature of the Burgundian party'",
-          "Captured at Compiègne by a follower of John of Luxembourg and sold to the English",
-          "Abjuration at Saint-Ouen, relapse, execution 30 May 1431",
-          "Voices of St Michael, St Margaret and St Catherine",
-          "Appeal to the Pope ignored; papal court later annulled the sentence; Charles VII's counsellors made no ransom effort"
-        ]
-      },
-      {
-        "id": "jeanne-d-arc-1900",
-        "status": "PUBLISH",
-        "title": "St. Joan of Arc",
-        "claims": [
-          "Born at Domrémy probably 6 January 1412; voices of St Michael, St Margaret and St Catherine",
-          "Baudricourt at Vaucouleurs; entered Orléans 30 April 1429; coronation at Reims 17 July 1429; captured at Compiègne 24 May 1430",
-          "Trial at Rouen under Pierre Cauchon; burned 30 May 1431; decree of 1909 concluding the cause; canonised 1920"
-        ]
-      },
-      {
-        "id": "jeannette-2017",
-        "status": "GREY",
-        "title": "Saint Joan of Arc",
-        "claims": [
-          "Born probably 6 January 1412 at Domrémy; first voices summer 1425 at about 13½: St Michael, St Margaret, St Catherine",
-          "Vaucouleurs 1428 and January 1429 with a cousin; burned at Rouen 30 May 1431; sentence annulled; beatified 11 April 1909 (canonised 1920 per editor's note)"
-        ]
+        "title": "Joan of Arc (1948 film)",
+        "claims": "Cast, credits, production dates, budget, release versions, awards, box office"
       }
     ]
   },
@@ -1675,6 +2238,28 @@
     ]
   },
   {
+    "title": "Joan of Arc",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Joan_of_Arc",
+    "accessed": "2026-10-12",
+    "claims": "1456 retrial overturned verdict, beatification and canonisation dates",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-trial-of-joan-of-arc",
+        "status": "PUBLISH",
+        "title": "Joan of Arc",
+        "claims": "1456 retrial overturned verdict, beatification and canonisation dates"
+      },
+      {
+        "id": "saint-joan-1957",
+        "status": "GREY",
+        "title": "Joan of Arc",
+        "claims": "Beatification 18 April 1909, canonisation 16 May 1920, 1456 retrial overturned the verdict"
+      }
+    ]
+  },
+  {
     "title": "The Flowers of St. Francis",
     "publisher": "The Criterion Collection (archived 29 November 2025)",
     "url": "https://www.criterion.com/films/874-the-flowers-of-st-francis",
@@ -1801,6 +2386,61 @@
     ]
   },
   {
+    "title": "St. Francis of Assisi",
+    "publisher": "Catholic Encyclopedia (1909), New Advent",
+    "url": "https://www.newadvent.org/cathen/06221a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Life of Francis, Rule, stigmata",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-flowers-of-st-francis",
+        "status": "PUBLISH",
+        "title": "St. Francis of Assisi",
+        "claims": "Life of Francis, Rule, stigmata"
+      },
+      {
+        "id": "francis-of-assisi",
+        "status": "PUBLISH",
+        "title": "St. Francis of Assisi",
+        "claims": [
+          "Born 1181/82; c. 1205 set out for Apulia with Walter of Brienne, turned back at Spoleto after a dream; renunciation before the bishop; restored San Damiano; Innocent III's verbal sanction; Clare joined Lent 1212; Damietta and the Sultan 1219; stigmata on La Verna c. 14 September 1224; died 3 October 1226; canonised 16 July 1228",
+          "No Paolo figure in the account; no mention of an ordeal by fire"
+        ]
+      },
+      {
+        "id": "clare-and-francis",
+        "status": "PUBLISH",
+        "title": "St. Francis of Assisi",
+        "claims": "Verbal approval by Innocent III; rule approved by Honorius III 29 November 1223; stigmata 1224, commemorated 17 September; death 3 October 1226; canonised by Gregory IX 16 July 1228; feast 4 October"
+      },
+      {
+        "id": "brother-sun-sister-moon",
+        "status": "REJECT",
+        "title": "St. Francis of Assisi",
+        "claims": [
+          "Captivity at Perugia; renunciation before the bishop; San Damiano voice; Bishop Guido commended Francis in Rome; Innocent III's verbal sanction; Clare joined Lent 1212; Rule approved 29 November 1223; stigmata c.14 September 1224; death 3 October 1226; canonised 16 July 1228."
+        ]
+      },
+      {
+        "id": "frate-francesco-1927",
+        "status": "GREY",
+        "title": "St. Francis of Assisi",
+        "claims": [
+          "Clare joined in Lent 1212; Sultan 1219; stigmata September 1224; death 3 October 1226; canonised 1228"
+        ]
+      },
+      {
+        "id": "il-poverello-di-assisi-1911",
+        "status": "GREY",
+        "title": "St. Francis of Assisi",
+        "claims": [
+          "Clare joined in Lent 1212; sailed 1219 and taken before the Sultan; stigmata about 14 September 1224 at La Verna; died 3 October 1226; canonised 16 July 1228"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Francis of Assisi (1961)",
     "publisher": "AFI Catalog of Feature Films",
     "url": "https://catalog.afi.com/Catalog/moviedetails/23043",
@@ -1912,52 +2552,6 @@
         "claims": [
           "Classification A-I; not rated by the MPA",
           "Describes the script as a muddle of historical fact and dramatic fiction (reported as a fact about the review, not as approving evidence)"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "St. Francis of Assisi",
-    "publisher": "Catholic Encyclopedia (1909), Paschal Robinson, via New Advent",
-    "url": "https://www.newadvent.org/cathen/06221a.htm",
-    "accessed": "2026-10-11",
-    "claims": [
-      "Born 1181/82; c. 1205 set out for Apulia with Walter of Brienne, turned back at Spoleto after a dream; renunciation before the bishop; restored San Damiano; Innocent III's verbal sanction; Clare joined Lent 1212; Damietta and the Sultan 1219; stigmata on La Verna c. 14 September 1224; died 3 October 1226; canonised 16 July 1228",
-      "No Paolo figure in the account; no mention of an ordeal by fire"
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
-    "films": [
-      {
-        "id": "francis-of-assisi",
-        "status": "PUBLISH",
-        "title": "St. Francis of Assisi",
-        "claims": [
-          "Born 1181/82; c. 1205 set out for Apulia with Walter of Brienne, turned back at Spoleto after a dream; renunciation before the bishop; restored San Damiano; Innocent III's verbal sanction; Clare joined Lent 1212; Damietta and the Sultan 1219; stigmata on La Verna c. 14 September 1224; died 3 October 1226; canonised 16 July 1228",
-          "No Paolo figure in the account; no mention of an ordeal by fire"
-        ]
-      },
-      {
-        "id": "brother-sun-sister-moon",
-        "status": "REJECT",
-        "title": "St. Francis of Assisi",
-        "claims": [
-          "Captivity at Perugia; renunciation before the bishop; San Damiano voice; Bishop Guido commended Francis in Rome; Innocent III's verbal sanction; Clare joined Lent 1212; Rule approved 29 November 1223; stigmata c.14 September 1224; death 3 October 1226; canonised 16 July 1228."
-        ]
-      },
-      {
-        "id": "frate-francesco-1927",
-        "status": "GREY",
-        "title": "St. Francis of Assisi",
-        "claims": [
-          "Clare joined in Lent 1212; Sultan 1219; stigmata September 1224; death 3 October 1226; canonised 1228"
-        ]
-      },
-      {
-        "id": "il-poverello-di-assisi-1911",
-        "status": "GREY",
-        "title": "St. Francis of Assisi",
-        "claims": [
-          "Clare joined in Lent 1212; sailed 1219 and taken before the Sultan; stigmata about 14 September 1224 at La Verna; died 3 October 1226; canonised 16 July 1228"
         ]
       }
     ]
@@ -2093,6 +2687,22 @@
     ]
   },
   {
+    "title": "Monsieur Vincent",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Monsieur_Vincent",
+    "accessed": "2026-10-12",
+    "claims": "Cast, crew, release date, running time, Venice, Oscar, BAFTA, Vatican 1995 list",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "monsieur-vincent",
+        "status": "PUBLISH",
+        "title": "Monsieur Vincent",
+        "claims": "Cast, crew, release date, running time, Venice, Oscar, BAFTA, Vatican 1995 list"
+      }
+    ]
+  },
+  {
     "title": "The Reluctant Saint (1962)",
     "publisher": "AFI Catalog of Feature Films",
     "url": "https://catalog.afi.com/Film/22117-THE-RELUCTANT-SAINT",
@@ -2173,6 +2783,38 @@
           "miracles held back for over an hour",
           "Joseph's love of animals"
         ]
+      }
+    ]
+  },
+  {
+    "title": "The Reluctant Saint",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Reluctant_Saint",
+    "accessed": "2026-10-12",
+    "claims": "Cast, credits, production, release dates, reception",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-reluctant-saint",
+        "status": "PUBLISH",
+        "title": "The Reluctant Saint",
+        "claims": "Cast, credits, production, release dates, reception"
+      }
+    ]
+  },
+  {
+    "title": "St. Joseph of Cupertino",
+    "publisher": "Catholic Encyclopedia (1910), New Advent",
+    "url": "https://www.newadvent.org/cathen/08520b.htm",
+    "accessed": "2026-10-12",
+    "claims": "Rejections by orders, ordination 1628, thirty-five years of restriction, Inquisition, beatification 1753, canonisation 1767",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-reluctant-saint",
+        "status": "PUBLISH",
+        "title": "St. Joseph of Cupertino",
+        "claims": "Rejections by orders, ordination 1628, thirty-five years of restriction, Inquisition, beatification 1753, canonisation 1767"
       }
     ]
   },
@@ -2301,6 +2943,118 @@
     ]
   },
   {
+    "title": "Cielo sulla palude",
+    "publisher": "Wikipedia, Italian",
+    "url": "https://it.wikipedia.org/wiki/Cielo_sulla_palude",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles; screenplay (Genina, Cecchi d'Amico, Tozzi); producers Renato and Carlo Bassoli; cinematography Aldo Graziati; music Veretti; shot summer 1949 at Cinecittà and Nettuno; release 24 November 1949; Venice 1949 best director; Nastro d'Argento 1950; Catholic critics' reception (Brunetta); 100 film italiani da salvare.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "heaven-over-the-marshes",
+        "status": "PUBLISH",
+        "title": "Cielo sulla palude",
+        "claims": "Cast and roles; screenplay (Genina, Cecchi d'Amico, Tozzi); producers Renato and Carlo Bassoli; cinematography Aldo Graziati; music Veretti; shot summer 1949 at Cinecittà and Nettuno; release 24 November 1949; Venice 1949 best director; Nastro d'Argento 1950; Catholic critics' reception (Brunetta); 100 film italiani da salvare."
+      }
+    ]
+  },
+  {
+    "title": "10th Venice International Film Festival",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/10th_Venice_International_Film_Festival",
+    "accessed": "2026-10-12",
+    "claims": "Cielo sulla palude won best Italian film, best director and the OCIC (listed as OICI) award at Venice in 1949.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "heaven-over-the-marshes",
+        "status": "PUBLISH",
+        "title": "10th Venice International Film Festival",
+        "claims": "Cielo sulla palude won best Italian film, best director and the OCIC (listed as OICI) award at Venice in 1949."
+      }
+    ]
+  },
+  {
+    "title": "Maria Goretti",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Maria_Goretti",
+    "accessed": "2026-10-12",
+    "claims": "Beatification 27 April 1947 and canonisation 24 June 1950 by Pius XII, held in the square; mother and four children present; feast 6 July; relics at Nettuno; martyr in defensum castitatis.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "heaven-over-the-marshes",
+        "status": "PUBLISH",
+        "title": "Maria Goretti",
+        "claims": "Beatification 27 April 1947 and canonisation 24 June 1950 by Pius XII, held in the square; mother and four children present; feast 6 July; relics at Nettuno; martyr in defensum castitatis."
+      },
+      {
+        "id": "maria-goretti-2003",
+        "status": "GREY",
+        "title": "Maria Goretti",
+        "claims": [
+          "Born Corinaldo 16 October 1890; Le Ferriere 1899; father died of malaria",
+          "Attack 5 July 1902, fourteen stab wounds; died 6 July forgiving Serenelli",
+          "Serenelli repented, released after about 27 years, Capuchin lay brother; beatified 1947, canonised 1950"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Summa Theologiae II-II, q. 124 (Martyrdom)",
+    "publisher": "New Advent",
+    "url": "https://www.newadvent.org/summa/3124.htm",
+    "accessed": "2026-10-12",
+    "claims": "Article 5: virtuous deeds referred to God can be the cause of martyrdom; St John the Baptist as example.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "heaven-over-the-marshes",
+        "status": "PUBLISH",
+        "title": "Summa Theologiae II-II, q. 124 (Martyrdom)",
+        "claims": "Article 5: virtuous deeds referred to God can be the cause of martyrdom; St John the Baptist as example."
+      },
+      {
+        "id": "maria-goretti-2003",
+        "status": "GREY",
+        "title": "St. Thomas Aquinas, Summa Theologiae II-II, q. 124 (Martyrdom)",
+        "claims": "Art. 5: faith is not the only cause of martyrdom; all virtuous deeds referred to God are professions of faith"
+      }
+    ]
+  },
+  {
+    "title": "La festa di santa Maria Goretti e la riflessione sulla violenza di genere",
+    "publisher": "Avvenire",
+    "url": "https://www.avvenire.it/chiesa/la-festa-di-santa-maria-goretti-e-la-riflessione-sulla-violenza-di-genere_110341",
+    "accessed": "2026-10-12",
+    "claims": "The Nettuno shrine is run by the Passionists, who keep her remains there.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "heaven-over-the-marshes",
+        "status": "PUBLISH",
+        "title": "La festa di santa Maria Goretti e la riflessione sulla violenza di genere",
+        "claims": "The Nettuno shrine is run by the Passionists, who keep her remains there."
+      }
+    ]
+  },
+  {
+    "title": "The City of God, Book I",
+    "publisher": "St Augustine, via New Advent",
+    "url": "https://www.newadvent.org/fathers/120101.htm",
+    "accessed": "2026-10-12",
+    "claims": "Chapters 16-18: purity is a virtue of the soul; violence suffered without consent of the will does not defile.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "heaven-over-the-marshes",
+        "status": "PUBLISH",
+        "title": "The City of God, Book I",
+        "claims": "Chapters 16-18: purity is a virtue of the soul; violence suffered without consent of the will does not defile."
+      }
+    ]
+  },
+  {
     "title": "Thérèse: The Story of Saint Thérèse of Lisieux",
     "publisher": "The Austin Chronicle / Marjorie Baumgarten",
     "url": "https://www.austinchronicle.com/screens/therese-the-story-of-saint-therese-of-lisieux-11918978/",
@@ -2357,6 +3111,22 @@
         "claims": [
           "12 November 2004: 'painfully sincere but hopelessly amateurish'; weak supporting cast; convent scenes played broadly."
         ]
+      }
+    ]
+  },
+  {
+    "title": "Thérèse: The Story of Saint Thérèse of Lisieux",
+    "publisher": "FilmAffinity",
+    "url": "https://m.filmaffinity.com/en/film877864.html",
+    "accessed": "2026-10-12",
+    "claims": "Film listing (search result only)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "therese-the-story-of-saint-therese-of-lisieux",
+        "status": "PUBLISH",
+        "title": "Thérèse: The Story of Saint Thérèse of Lisieux",
+        "claims": "Film listing (search result only)"
       }
     ]
   },
@@ -2819,6 +3589,12 @@
           "Born 16 August 1815 at Becchi near Castelnuovo; Turin oratory begun 8 December 1841; Salesian Society of fifty priests and teachers by 1868; complaints and an attempt to confine him in an asylum; died 31 January 1888",
           "Does not mention Archbishop Gastaldi, attempts on his life or the dog Grigio (the 1934 canonisation postdates the article)"
         ]
+      },
+      {
+        "id": "john-bosco-mission-to-love",
+        "status": "PUBLISH",
+        "title": "St. John Bosco",
+        "claims": "Preventive system; Salesian approval 1869 and 1874; church consecrated 9 June 1868"
       }
     ]
   },
@@ -3519,6 +4295,22 @@
     ]
   },
   {
+    "title": "Blessed Thomas More",
+    "publisher": "Catholic Encyclopedia (1911), New Advent",
+    "url": "https://www.newadvent.org/cathen/14689c.htm",
+    "accessed": "2026-10-12",
+    "claims": "Act of Succession oath, supremacy statutes, resignation 1532, trial 1 July 1535, beheading 6 July 1535, beatification 1886",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "a-man-for-all-seasons",
+        "status": "PUBLISH",
+        "title": "Blessed Thomas More",
+        "claims": "Act of Succession oath, supremacy statutes, resignation 1532, trial 1 July 1535, beheading 6 July 1535, beatification 1886"
+      }
+    ]
+  },
+  {
     "title": "Becket (1964)",
     "publisher": "AFI Catalog of Feature Films",
     "url": "https://catalog.afi.com/Film/22971-BECKET",
@@ -3597,6 +4389,22 @@
           "Consecrated 1162; resisted Constitutions of Clarendon; exile at Pontigny with support of Alexander III",
           "Killed by four knights in Canterbury Cathedral, 29 December 1170; canonised 1173; Henry's penance 1174"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Becket (1964 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Becket_(1964_film)",
+    "accessed": "2026-10-12",
+    "claims": "Cast, screenplay, source play, crew, locations, budget, release, gross, awards",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "becket",
+        "status": "PUBLISH",
+        "title": "Becket (1964 film)",
+        "claims": "Cast, screenplay, source play, crew, locations, budget, release, gross, awards"
       }
     ]
   },
@@ -3721,6 +4529,38 @@
         "claims": [
           "Dissenting review: 'ultra-static' direction, a 'pallid' result; only Bresson could have done the material justice"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Dialogue with the Carmelites (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Le_Dialogue_des_Carm%C3%A9lites_(film)",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles; screenplay credit; source play and novella; Françaix; André Bac; Champs-Élysées Productions; Lux; 113 minutes; release 10 June 1960",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "le-dialogue-des-carmelites",
+        "status": "PUBLISH",
+        "title": "Dialogue with the Carmelites (film)",
+        "claims": "Cast and roles; screenplay credit; source play and novella; Françaix; André Bac; Champs-Élysées Productions; Lux; 113 minutes; release 10 June 1960"
+      }
+    ]
+  },
+  {
+    "title": "Martyrs of Compiègne",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Martyrs_of_Compi%C3%A8gne",
+    "accessed": "2026-10-12",
+    "claims": "Execution 17 July 1794; sixteen Carmelites; prioress Madeleine Lidoine; offering made at Easter 1792; beatified 27 May 1906 by Pius X; Bernanos commissioned in 1947 by Bruckberger and Agostini; play premiered in Zurich 1951",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "le-dialogue-des-carmelites",
+        "status": "PUBLISH",
+        "title": "Martyrs of Compiègne",
+        "claims": "Execution 17 July 1794; sixteen Carmelites; prioress Madeleine Lidoine; offering made at Easter 1792; beatified 27 May 1906 by Pius X; Bernanos commissioned in 1947 by Bruckberger and Agostini; play premiered in Zurich 1951"
       }
     ]
   },
@@ -4119,6 +4959,70 @@
     ]
   },
   {
+    "title": "Religious Liberty Was Also at Issue in 18th-Century France -- Newly Dramatized by Catholic Director",
+    "publisher": "National Catholic Register",
+    "url": "https://www.ncregister.com/daily-news/navis-pictures-releases-film-about-religious-liberty",
+    "accessed": "2026-10-12",
+    "claims": "Second Navis Pictures film; Morlino wrote, directed and co-produced; cast of 256 young people; Kevin Kaska score recorded with about 80 musicians at Warner Bros; DVD release 24 February 2012; entered in the Mirabile Dictu festival; script drew on Secher.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-war-of-the-vendee",
+        "status": "GREY",
+        "title": "Religious Liberty Was Also at Issue in 18th-Century France -- Newly Dramatized by Catholic Director",
+        "claims": "Second Navis Pictures film; Morlino wrote, directed and co-produced; cast of 256 young people; Kevin Kaska score recorded with about 80 musicians at Warner Bros; DVD release 24 February 2012; entered in the Mirabile Dictu festival; script drew on Secher."
+      }
+    ]
+  },
+  {
+    "title": "Civil Constitution of the Clergy",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Civil_Constitution_of_the_Clergy",
+    "accessed": "2026-10-12",
+    "claims": "Law of 12 July 1790; oath decree 27 November 1790; only 7 of 135 sitting bishops swore.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-war-of-the-vendee",
+        "status": "GREY",
+        "title": "Civil Constitution of the Clergy",
+        "claims": "Law of 12 July 1790; oath decree 27 November 1790; only 7 of 135 sitting bishops swore."
+      }
+    ]
+  },
+  {
+    "title": "Charitas (On the Civil Oath in France), 13 April 1791",
+    "publisher": "Pius VI, via Papal Encyclicals Online",
+    "url": "https://www.papalencyclicals.net/pius06/p6charit.htm",
+    "accessed": "2026-10-12",
+    "claims": "Elections of constitutional bishops null; jurors suspended unless they retract within forty days; faithful to reject intruded pastors and hold to lawful ones.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-war-of-the-vendee",
+        "status": "GREY",
+        "title": "Charitas (On the Civil Oath in France), 13 April 1791",
+        "claims": "Elections of constitutional bishops null; jurors suspended unless they retract within forty days; faithful to reject intruded pastors and hold to lawful ones."
+      }
+    ]
+  },
+  {
+    "title": "Summa Theologiae II-II, q. 42 (Sedition)",
+    "publisher": "New Advent",
+    "url": "https://www.newadvent.org/summa/3042.htm",
+    "accessed": "2026-10-12",
+    "claims": "Article 2, reply to objection 3: disturbing a tyrannical government is not sedition unless it causes greater harm.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-war-of-the-vendee",
+        "status": "GREY",
+        "title": "Summa Theologiae II-II, q. 42 (Sedition)",
+        "claims": "Article 2, reply to objection 3: disturbing a tyrannical government is not sedition unless it causes greater harm."
+      }
+    ]
+  },
+  {
     "title": "Un Dios prohibido",
     "publisher": "Aceprensa (Jerónimo José Martín, 10 June 2013)",
     "url": "https://www.aceprensa.com/resenas-cine-series/un-dios-prohibido/",
@@ -4481,6 +5385,70 @@
     ]
   },
   {
+    "title": "Hugh O'Flaherty",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hugh_O%27Flaherty",
+    "accessed": "2026-10-12",
+    "claims": "Born 28 February 1898 at Kiskeam, Co. Cork; ordained 20 December 1925; diplomatic postings; monsignor 1934; Rome Escape Line, about 6,500 saved; baptised Kappler in 1959; domestic prelate and notary of the Holy Office; CBE and Medal of Freedom; died 30 October 1963 at Cahersiveen.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-scarlet-and-the-black",
+        "status": "PUBLISH",
+        "title": "Hugh O'Flaherty",
+        "claims": "Born 28 February 1898 at Kiskeam, Co. Cork; ordained 20 December 1925; diplomatic postings; monsignor 1934; Rome Escape Line, about 6,500 saved; baptised Kappler in 1959; domestic prelate and notary of the Holy Office; CBE and Medal of Freedom; died 30 October 1963 at Cahersiveen."
+      }
+    ]
+  },
+  {
+    "title": "Summa Theologiae II-II, q. 32 (Almsgiving)",
+    "publisher": "New Advent",
+    "url": "https://www.newadvent.org/summa/3032.htm",
+    "accessed": "2026-10-12",
+    "claims": "Article 2: the seven corporal almsdeeds, including harbouring the harbourless and ransoming the captive.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-scarlet-and-the-black",
+        "status": "PUBLISH",
+        "title": "Summa Theologiae II-II, q. 32 (Almsgiving)",
+        "claims": "Article 2: the seven corporal almsdeeds, including harbouring the harbourless and ransoming the captive."
+      }
+    ]
+  },
+  {
+    "title": "Summa Theologiae II-II, q. 25 (The object of charity)",
+    "publisher": "New Advent",
+    "url": "https://www.newadvent.org/summa/3025.htm",
+    "accessed": "2026-10-12",
+    "claims": "Articles 8-9: charity must extend to enemies; readiness to help an enemy in urgent need; overcoming evil with good belongs to perfection.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-scarlet-and-the-black",
+        "status": "PUBLISH",
+        "title": "Summa Theologiae II-II, q. 25 (The object of charity)",
+        "claims": "Articles 8-9: charity must extend to enemies; readiness to help an enemy in urgent need; overcoming evil with good belongs to perfection."
+      }
+    ]
+  },
+  {
+    "title": "Lateran Treaty",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lateran_Treaty",
+    "accessed": "2026-10-12",
+    "claims": "Signed 11 February 1929; the Pope pledged to perpetual neutrality in international relations.",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-scarlet-and-the-black",
+        "status": "PUBLISH",
+        "title": "Lateran Treaty",
+        "claims": "Signed 11 February 1929; the Pope pledged to perpetual neutrality in international relations."
+      }
+    ]
+  },
+  {
     "title": "The Assisi Underground (1985) – credits",
     "publisher": "Box Office Mojo (IMDbPro)",
     "url": "https://www.boxofficemojo.com/title/tt0088746/credits",
@@ -4741,6 +5709,22 @@
         "claims": [
           "1907–1994; arrested 6 February 1941; Dachau from May 1941; nine-day release February 1942; returned; definitively released 5 August 1942; editor of Luxemburger Wort; OCIC president 1947–1970; memoir history."
         ]
+      }
+    ]
+  },
+  {
+    "title": "The Ninth Day",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Ninth_Day",
+    "accessed": "2026-10-12",
+    "claims": "Screenplay, producers, countries, release date 11 November 2004",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-ninth-day",
+        "status": "PUBLISH",
+        "title": "The Ninth Day",
+        "claims": "Screenplay, producers, countries, release date 11 November 2004"
       }
     ]
   },
@@ -5303,6 +6287,58 @@
           "Date of death open between July 64 and 68",
           "Tacitus places the Neronian persecution in the Vatican gardens"
         ]
+      },
+      {
+        "id": "saint-peter",
+        "status": "PUBLISH",
+        "title": "St Peter the Apostle",
+        "claims": "Peter's death at Rome under Nero, c. 64-68; crucified head downwards (Origen, Tertullian); burial on the Vatican; baptism of Cornelius; Council of Jerusalem c. AD 50; primacy"
+      }
+    ]
+  },
+  {
+    "title": "Quo Vadis (1951 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Quo_Vadis_(1951_film)",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles; writers; Zimbalist; Rózsa; Surtees and Skall; production dates and cost; 1949 casting; box office; Oscar nominations; release 2 November 1951",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "quo-vadis",
+        "status": "PUBLISH",
+        "title": "Quo Vadis (1951 film)",
+        "claims": "Cast and roles; writers; Zimbalist; Rózsa; Surtees and Skall; production dates and cost; 1949 casting; box office; Oscar nominations; release 2 November 1951"
+      }
+    ]
+  },
+  {
+    "title": "Mortalium animos",
+    "publisher": "Holy See (Pius XI, 6 January 1928)",
+    "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html",
+    "accessed": "2026-10-12",
+    "claims": "Not used here; see lilies-of-the-field",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "quo-vadis",
+        "status": "PUBLISH",
+        "title": "Mortalium animos",
+        "claims": "Not used here; see lilies-of-the-field"
+      },
+      {
+        "id": "lilies-of-the-field",
+        "status": "GREY",
+        "title": "Mortalium animos",
+        "claims": "One visible Church under one head; doctrinal differences cannot be set aside; unity by return of separated Christians"
+      },
+      {
+        "id": "of-gods-and-men",
+        "status": "REJECT",
+        "title": "Mortalium animos",
+        "claims": [
+          "§2 condemns the opinion that all religions are 'more or less good and praiseworthy'; used as the doctrinal test for the indifferentism question, not as a judgment on the film."
+        ]
       }
     ]
   },
@@ -5535,6 +6571,86 @@
     ]
   },
   {
+    "title": "Fabiola (film 1949)",
+    "publisher": "Wikipedia (Italian)",
+    "url": "https://it.wikipedia.org/wiki/Fabiola_(film_1949)",
+    "accessed": "2026-10-12",
+    "claims": "Full screenplay credits; cast and roles; music, cinematography; shooting at Cinecittà and the Arena di Verona; box office; running times",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "fabiola",
+        "status": "GREY",
+        "title": "Fabiola (film 1949)",
+        "claims": "Full screenplay credits; cast and roles; music, cinematography; shooting at Cinecittà and the Arena di Verona; box office; running times"
+      }
+    ]
+  },
+  {
+    "title": "Diocletian",
+    "publisher": "Catholic Encyclopedia (1909), New Advent",
+    "url": "https://www.newadvent.org/cathen/05007b.htm",
+    "accessed": "2026-10-12",
+    "claims": "Council at Nicomedia 302; first edict 303 and later edicts; abdication 1 May 305; persecution of about seven years",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "fabiola",
+        "status": "GREY",
+        "title": "Diocletian",
+        "claims": "Council at Nicomedia 302; first edict 303 and later edicts; abdication 1 May 305; persecution of about seven years"
+      }
+    ]
+  },
+  {
+    "title": "St. Sebastian",
+    "publisher": "Catholic Encyclopedia (1912), New Advent",
+    "url": "https://www.newadvent.org/cathen/13668a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Burial on the Via Appia per the Depositio martyrum of 354; feast 20 January; Acts judged unhistorical",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "fabiola",
+        "status": "GREY",
+        "title": "St. Sebastian",
+        "claims": "Burial on the Via Appia per the Depositio martyrum of 354; feast 20 January; Acts judged unhistorical"
+      }
+    ]
+  },
+  {
+    "title": "St. Cecilia",
+    "publisher": "Catholic Encyclopedia (1908), New Advent",
+    "url": "https://www.newadvent.org/cathen/03471b.htm",
+    "accessed": "2026-10-12",
+    "claims": "Feast 22 November; date of martyrdom unknown",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "fabiola",
+        "status": "GREY",
+        "title": "St. Cecilia",
+        "claims": "Feast 22 November; date of martyrdom unknown"
+      }
+    ]
+  },
+  {
+    "title": "Diocletianic Persecution",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Diocletianic_Persecution",
+    "accessed": "2026-10-12",
+    "claims": "Decision at Nicomedia 302; edicts from 23-24 February 303; abdication 1 May 305; toleration 311; Edict of Milan 313",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "fabiola",
+        "status": "GREY",
+        "title": "Diocletianic Persecution",
+        "claims": "Decision at Nicomedia 302; edicts from 23-24 February 303; abdication 1 May 305; toleration 311; Edict of Milan 313"
+      }
+    ]
+  },
+  {
     "title": "Diary of a Country Priest (1951)",
     "publisher": "Decent Films (Steven D. Greydanus; originally National Catholic Register)",
     "url": "https://decentfilms.com/reviews/diaryofacountrypriest",
@@ -5623,6 +6739,22 @@
     ]
   },
   {
+    "title": "Tout est grâce",
+    "publisher": "Aleteia (French)",
+    "url": "https://fr.aleteia.org/2020/04/11/tout-est-grace/",
+    "accessed": "2026-10-12",
+    "claims": "The novel ends with 'Tout est grâce', which Bernanos took from Thérèse of Lisieux's Derniers entretiens",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "diary-of-a-country-priest",
+        "status": "PUBLISH",
+        "title": "Tout est grâce",
+        "claims": "The novel ends with 'Tout est grâce', which Bernanos took from Thérèse of Lisieux's Derniers entretiens"
+      }
+    ]
+  },
+  {
     "title": "I Confess",
     "publisher": "AFI Catalog",
     "url": "https://catalog.afi.com/Catalog/moviedetails/50879",
@@ -5689,6 +6821,60 @@
           "1902 play by Paul Anthelme; location shooting in Quebec",
           "Warner rejected original ending (priest executed) and the illegitimate-child plot 'for fear of offending Catholics'"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Sacrament of Penance (Seal of Confession)",
+    "publisher": "Catholic Encyclopedia (1912), New Advent",
+    "url": "https://www.newadvent.org/cathen/13649b.htm",
+    "accessed": "2026-10-12",
+    "claims": "Fourth Lateran canon 21 and its penalties; no exception stated; confessor may not reveal what he knows only through confession; evasive answer when pressed",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "i-confess",
+        "status": "PUBLISH",
+        "title": "Sacrament of Penance (Seal of Confession)",
+        "claims": "Fourth Lateran canon 21 and its penalties; no exception stated; confessor may not reveal what he knows only through confession; evasive answer when pressed"
+      },
+      {
+        "id": "don-camillo-s-last-round",
+        "status": "PUBLISH",
+        "title": "Seal of Confession",
+        "claims": "Lateran IV canon 21 (1215): priest must not betray the penitent by word or sign; penalty of deposition and confinement in a monastery"
+      }
+    ]
+  },
+  {
+    "title": "Canon 983 (with 1917 canon 889)",
+    "publisher": "canonlaw.info (E. Peters)",
+    "url": "https://canonlaw.info/SPP-0983.htm",
+    "accessed": "2026-10-12",
+    "claims": "Text of 1917 Code canon 889 §1 on the inviolable seal",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "i-confess",
+        "status": "PUBLISH",
+        "title": "Canon 983 (with 1917 canon 889)",
+        "claims": "Text of 1917 Code canon 889 §1 on the inviolable seal"
+      }
+    ]
+  },
+  {
+    "title": "I Confess (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/I_Confess_(film)",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "i-confess",
+        "status": "PUBLISH",
+        "title": "I Confess (film)",
+        "claims": "Cast and roles"
       }
     ]
   },
@@ -5783,6 +6969,22 @@
     ]
   },
   {
+    "title": "Blessed Jean-Joseph Lataste (1832-1866)",
+    "publisher": "Order of Preachers (op.org)",
+    "url": "https://www.op.org/blessed-jean-joseph-lataste-1832-1866/",
+    "accessed": "2026-10-12",
+    "claims": "Lataste founded the House of Bethany on 14 August 1866 for women who had been in prison",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "angels-of-sin",
+        "status": "PUBLISH",
+        "title": "Blessed Jean-Joseph Lataste (1832-1866)",
+        "claims": "Lataste founded the House of Bethany on 14 August 1866 for women who had been in prison"
+      }
+    ]
+  },
+  {
     "title": "La guerra di Dio",
     "publisher": "Cinematografo (Fondazione Ente dello Spettacolo)",
     "url": "https://www.cinematografo.it/film/la-guerra-di-dio-uccaquo3",
@@ -5873,6 +7075,38 @@
         "claims": [
           "Commercial listing (interested): Rafael Gil 1953; original language Spanish; Castilian audio track"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Rerum novarum",
+    "publisher": "Holy See (Leo XIII, 15 May 1891)",
+    "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+    "accessed": "2026-10-12",
+    "claims": "Just wage and the victim of force in necessity (nn. 43-45); workers' associations a natural right (nn. 49-58); duties of employers and workers (n. 20)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "la-guerra-de-dios",
+        "status": "PUBLISH",
+        "title": "Rerum novarum",
+        "claims": "Just wage and the victim of force in necessity (nn. 43-45); workers' associations a natural right (nn. 49-58); duties of employers and workers (n. 20)"
+      }
+    ]
+  },
+  {
+    "title": "Quadragesimo anno",
+    "publisher": "Holy See (Pius XI, 15 May 1931)",
+    "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html",
+    "accessed": "2026-10-12",
+    "claims": "Family wage and the three considerations (nn. 71-74); condemnation of class struggle (n. 112); Catholic workers' associations (nn. 31-36)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "la-guerra-de-dios",
+        "status": "PUBLISH",
+        "title": "Quadragesimo anno",
+        "claims": "Family wage and the three considerations (nn. 71-74); condemnation of class struggle (n. 112); Catholic workers' associations (nn. 31-36)"
       }
     ]
   },
@@ -6163,6 +7397,22 @@
           "US-Mexico co-production; OCIC prize at the 1948 Venice festival",
           "Ending: execution, public grief, the lieutenant's crisis of conscience, a new priest arrives; El Gringo refuses the sacraments before dying"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Iniquis afflictisque",
+    "publisher": "Pius XI, Holy See",
+    "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_18111926_iniquis-afflictisque.html",
+    "accessed": "2026-10-12",
+    "claims": "Date 18 November 1926; limits on numbers of priests, expulsion of foreign priests, closing of seminaries and convents, suspension of public worship in July 1926",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-fugitive",
+        "status": "PUBLISH",
+        "title": "Iniquis afflictisque",
+        "claims": "Date 18 November 1926; limits on numbers of priests, expulsion of foreign priests, closing of seminaries and convents, suspension of public worship in July 1926"
       }
     ]
   },
@@ -6550,6 +7800,22 @@
     ]
   },
   {
+    "title": "Going My Way",
+    "publisher": "Wikipedia (supplementary)",
+    "url": "https://en.wikipedia.org/wiki/Going_My_Way",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles; credits (screenplay Butler and Cavett, story McCarey, music Dolan, cinematography Lindon); locations incl. St Monica's, Santa Monica; 3 May 1944 premiere; highest grossing film of 1944; seven Oscars; presentation of a copy to Pius XII",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "going-my-way",
+        "status": "PUBLISH",
+        "title": "Going My Way",
+        "claims": "Cast and roles; credits (screenplay Butler and Cavett, story McCarey, music Dolan, cinematography Lindon); locations incl. St Monica's, Santa Monica; 3 May 1944 premiere; highest grossing film of 1944; seven Oscars; presentation of a copy to Pius XII"
+      }
+    ]
+  },
+  {
     "title": "The Bells of St. Mary's (1945)",
     "publisher": "AFI Catalog of Feature Films",
     "url": "https://catalog.afi.com/Film/24326-THE-BELLSOFSTMARYS",
@@ -6596,6 +7862,38 @@
           "Among the best portrayals of a sister's life; Bergman prays with conviction; habit a composite",
           "Praises Crosby's sincerity and love for the priestly life"
         ]
+      }
+    ]
+  },
+  {
+    "title": "The Bells of St. Mary's",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Bells_of_St._Mary%27s",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles; screenplay, story, producer, music, cinematography; box office; Academy Awards; contemporary reviews",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-bells-of-st-mary-s",
+        "status": "PUBLISH",
+        "title": "The Bells of St. Mary's",
+        "claims": "Cast and roles; screenplay, story, producer, music, cinematography; box office; Academy Awards; contemporary reviews"
+      }
+    ]
+  },
+  {
+    "title": "Divini Illius Magistri (31 December 1929)",
+    "publisher": "Holy See",
+    "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html",
+    "accessed": "2026-10-12",
+    "claims": "School to be Catholic in teachers, syllabus and textbooks; religion as foundation and crown; canon 1374 on attendance at non-Catholic schools; praise of religious teachers",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-bells-of-st-mary-s",
+        "status": "PUBLISH",
+        "title": "Divini Illius Magistri (31 December 1929)",
+        "claims": "School to be Catholic in teachers, syllabus and textbooks; religion as foundation and crown; canon 1374 on attendance at non-Catholic schools; praise of religious teachers"
       }
     ]
   },
@@ -6716,6 +8014,38 @@
           "Grace at table in different forms; 'everybody worships as they please'; a boy who is 'nothing' can go on being nothing",
           "Motto repeated: no such thing as a bad boy; Whitey prays in a church for Pee Wee"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Boys Town (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Boys_Town_(film)",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles; screenplay, story, producer, music, cinematography; box office; Oscars; story of Tracy's statuette",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "boys-town",
+        "status": "GREY",
+        "title": "Boys Town (film)",
+        "claims": "Cast and roles; screenplay, story, producer, music, cinematography; box office; Oscars; story of Tracy's statuette"
+      }
+    ]
+  },
+  {
+    "title": "The Syllabus of Errors (1864)",
+    "publisher": "Papal Encyclicals Online",
+    "url": "https://www.papalencyclicals.net/pius09/p9syll.htm",
+    "accessed": "2026-10-12",
+    "claims": "Condemned propositions 15 and 16 on religious indifferentism",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "boys-town",
+        "status": "GREY",
+        "title": "The Syllabus of Errors (1864)",
+        "claims": "Condemned propositions 15 and 16 on religious indifferentism"
       }
     ]
   },
@@ -6864,6 +8194,22 @@
     ]
   },
   {
+    "title": "Come to the Stable",
+    "publisher": "Wikipedia (supplementary)",
+    "url": "https://en.wikipedia.org/wiki/Come_to_the_Stable",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles; characters based on Mother Benedict Duss, Sister Mary-Aline Trilles de Warren and Lauren Ford; story by Clare Boothe Luce; screenplay by Millard and Benson; producer Engel; music Mockridge; cinematography LaShelle; 27 July 1949 premiere; $3 million; Oscar nominations",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "come-to-the-stable",
+        "status": "PUBLISH",
+        "title": "Come to the Stable",
+        "claims": "Cast and roles; characters based on Mother Benedict Duss, Sister Mary-Aline Trilles de Warren and Lauren Ford; story by Clare Boothe Luce; screenplay by Millard and Benson; producer Engel; music Mockridge; cinematography LaShelle; 27 July 1949 premiere; $3 million; Oscar nominations"
+      }
+    ]
+  },
+  {
     "title": "Heaven Knows, Mr. Allison (1957)",
     "publisher": "American Film Institute Catalog",
     "url": "https://catalog.afi.com/Catalog/moviedetails/52210",
@@ -6954,6 +8300,22 @@
           "Grade B+; superb performances by Kerr and Mitchum make a lightweight survival picture a small gem",
           "Feisty Irish nun and orphaned Marine; story may be predictable"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Heaven Knows, Mr. Allison",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Heaven_Knows,_Mr._Allison",
+    "accessed": "2026-10-12",
+    "claims": "Cast, crew, filming in Tobago from August 1956, Legion of Decency monitoring, Mahin on Frenke, budget, nominations, reviews",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "heaven-knows-mr-allison",
+        "status": "PUBLISH",
+        "title": "Heaven Knows, Mr. Allison",
+        "claims": "Cast, crew, filming in Tobago from August 1956, Legion of Decency monitoring, Mahin on Frenke, budget, nominations, reviews"
       }
     ]
   },
@@ -7216,6 +8578,22 @@
           "Home operated until 2006 merger into Catholic Services for Children and Youth",
           "Film premiered in St Louis 11 May 1948; borrowed from Boys Town; melodramatic climax; an affectionate tribute, not a strictly factual account"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Fighting Father Dunne",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fighting_Father_Dunne",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles; screenplay and story credits; producer; music; cinematography; working titles; McDowall screen test; Davis lawsuit; trade and press reviews",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-fighting-father-dunne",
+        "status": "PUBLISH",
+        "title": "Fighting Father Dunne",
+        "claims": "Cast and roles; screenplay and story credits; producer; music; cinematography; working titles; McDowall screen test; Davis lawsuit; trade and press reviews"
       }
     ]
   },
@@ -7544,26 +8922,6 @@
     ]
   },
   {
-    "title": "Mortalium animos",
-    "publisher": "Holy See (Pius XI, 1928)",
-    "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html",
-    "accessed": "2026-10-11",
-    "claims": [
-      "§2 condemns the opinion that all religions are 'more or less good and praiseworthy'; used as the doctrinal test for the indifferentism question, not as a judgment on the film."
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
-    "films": [
-      {
-        "id": "of-gods-and-men",
-        "status": "REJECT",
-        "title": "Mortalium animos",
-        "claims": [
-          "§2 condemns the opinion that all religions are 'more or less good and praiseworthy'; used as the doctrinal test for the indifferentism question, not as a judgment on the film."
-        ]
-      }
-    ]
-  },
-  {
     "title": "Last Testament (Christian de Chergé), trans. Monks of Mount Saint Bernard Abbey",
     "publisher": "EWTN Library (from First Things, Aug/Sept 1996)",
     "url": "https://www.ewtn.com/catholicism/library/last-testament-5609",
@@ -7718,6 +9076,22 @@
     ]
   },
   {
+    "title": "The Little World of Don Camillo",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Little_World_of_Don_Camillo",
+    "accessed": "2026-10-12",
+    "claims": "Cast, writers, producers, music, cinematography, dual-language shooting, admissions, 2008 list",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-little-world-of-don-camillo",
+        "status": "PUBLISH",
+        "title": "The Little World of Don Camillo",
+        "claims": "Cast, writers, producers, music, cinematography, dual-language shooting, admissions, 2008 list"
+      }
+    ]
+  },
+  {
     "title": "Le Retour de Don Camillo",
     "publisher": "Il Cinema Ritrovato (Cineteca di Bologna), 2008 programme, note by Roberto Chiesi",
     "url": "https://festival.ilcinemaritrovato.it/en/film/le-retour-de-don-camillo/",
@@ -7792,6 +9166,22 @@
           "Don Camillo stays alone in the bell tower during the flood; archive footage of the Po flood at Brescello; Rocca di Cambio location",
           "Gallery caption shows a Mass in the flooded church (unconfirmed elsewhere)"
         ]
+      }
+    ]
+  },
+  {
+    "title": "The Return of Don Camillo",
+    "publisher": "Wikipedia (supplementary)",
+    "url": "https://en.wikipedia.org/wiki/The_Return_of_Don_Camillo",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles; screenplay Barjavel, Duvivier, Amato; Guareschi credited; producer Amato; music Cicognini; cinematography Brizzi; released 5 June 1953; 115 minutes; second most popular film in France in 1953; second of five Fernandel films",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-return-of-don-camillo",
+        "status": "PUBLISH",
+        "title": "The Return of Don Camillo",
+        "claims": "Cast and roles; screenplay Barjavel, Duvivier, Amato; Guareschi credited; producer Amato; music Cicognini; cinematography Brizzi; released 5 June 1953; 115 minutes; second most popular film in France in 1953; second of five Fernandel films"
       }
     ]
   },
@@ -7892,6 +9282,92 @@
     ]
   },
   {
+    "title": "Decree against Communism",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Decree_against_Communism",
+    "accessed": "2026-10-12",
+    "claims": "Holy Office decree dated 1 July 1949, approved by Pius XII; answers on membership, publications, sacraments and excommunication as apostates",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "don-camillo-s-last-round",
+        "status": "PUBLISH",
+        "title": "Decree against Communism",
+        "claims": "Holy Office decree dated 1 July 1949, approved by Pius XII; answers on membership, publications, sacraments and excommunication as apostates"
+      },
+      {
+        "id": "don-camillo-in-moscow",
+        "status": "PUBLISH",
+        "title": "Decree against Communism",
+        "claims": "Holy Office decree of 1 July 1949, approved by Pius XII, on membership and the sacraments"
+      }
+    ]
+  },
+  {
+    "title": "Blasphemy",
+    "publisher": "Catholic Encyclopedia (1907), New Advent",
+    "url": "https://www.newadvent.org/cathen/02595a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Blasphemy in its general nature a mortal sin, the gravest against religion",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "don-camillo-s-last-round",
+        "status": "PUBLISH",
+        "title": "Blasphemy",
+        "claims": "Blasphemy in its general nature a mortal sin, the gravest against religion"
+      }
+    ]
+  },
+  {
+    "title": "Casti Connubii",
+    "publisher": "Holy See",
+    "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html",
+    "accessed": "2026-10-12",
+    "claims": "Encyclical of 31 December 1930 on the unity, fidelity and indissolubility of marriage",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "don-camillo-s-last-round",
+        "status": "PUBLISH",
+        "title": "Casti Connubii",
+        "claims": "Encyclical of 31 December 1930 on the unity, fidelity and indissolubility of marriage"
+      }
+    ]
+  },
+  {
+    "title": "Giovannino Guareschi",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Giovannino_Guareschi",
+    "accessed": "2026-10-12",
+    "claims": "Born 1908, died 1968; founded Candido 1945; Don Camillo stories from the late 1940s; 1954 De Gasperi libel case, refused appeal, 409 days in Parma prison",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "don-camillo-s-last-round",
+        "status": "PUBLISH",
+        "title": "Giovannino Guareschi",
+        "claims": "Born 1908, died 1968; founded Candido 1945; Don Camillo stories from the late 1940s; 1954 De Gasperi libel case, refused appeal, 409 days in Parma prison"
+      }
+    ]
+  },
+  {
+    "title": "1953 Italian general election",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/1953_Italian_general_election",
+    "accessed": "2026-10-12",
+    "claims": "Held 7 June 1953; DC 40.1%, PCI 22.6%, PSI 12.7% (Chamber); majority bonus not triggered, coalition at 49.9%",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "don-camillo-s-last-round",
+        "status": "PUBLISH",
+        "title": "1953 Italian general election",
+        "claims": "Held 7 June 1953; DC 40.1%, PCI 22.6%, PSI 12.7% (Chamber); majority bonus not triggered, coalition at 49.9%"
+      }
+    ]
+  },
+  {
     "title": "Don Camillo Monsignore ma non troppo",
     "publisher": "Il Cinema Ritrovato (Cineteca di Bologna), 2008 Guareschi retrospective",
     "url": "https://festival.ilcinemaritrovato.it/en/film/don-camillo-monsignore-ma-non-troppo/",
@@ -7982,6 +9458,38 @@
         "claims": [
           "Dialogue: Christ on God's nearness; refusal to 'spy'; the proletarian speech and 'Christianity is a democratic religion based on work'; Maria's defence of marriage against a civil-only wedding; the workman who refuses to demolish the Madonna's chapel"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Don Camillo monsignore... ma non troppo",
+    "publisher": "Wikipedia (Italian)",
+    "url": "https://it.wikipedia.org/wiki/Don_Camillo_monsignore..._ma_non_troppo",
+    "accessed": "2026-10-12",
+    "claims": "Production dates, locations, literary sources, release, admissions and box office",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "don-camillo-monsignor",
+        "status": "PUBLISH",
+        "title": "Don Camillo monsignore... ma non troppo",
+        "claims": "Production dates, locations, literary sources, release, admissions and box office"
+      }
+    ]
+  },
+  {
+    "title": "Don Camillo Monseigneur",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Don_Camillo_Monseigneur",
+    "accessed": "2026-10-12",
+    "claims": "Cast roles, screenplay, producer, music, cinematography",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "don-camillo-monsignor",
+        "status": "PUBLISH",
+        "title": "Don Camillo Monseigneur",
+        "claims": "Cast roles, screenplay, producer, music, cinematography"
       }
     ]
   },
@@ -8078,6 +9586,22 @@
         "claims": [
           "French-German-Italian comedy; release 18 September 1965; 109 min; languages Italian, French, Russian"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Divini Redemptoris",
+    "publisher": "Holy See (Pius XI, 19 March 1937)",
+    "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html",
+    "accessed": "2026-10-12",
+    "claims": "Atheistic Communism intrinsically wrong; Catholics not to collaborate; persecutions in Russia, Mexico, Spain",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "don-camillo-in-moscow",
+        "status": "PUBLISH",
+        "title": "Divini Redemptoris",
+        "claims": "Atheistic Communism intrinsically wrong; Catholics not to collaborate; persecutions in Russia, Mexico, Spain"
       }
     ]
   },
@@ -8356,6 +9880,22 @@
           "Jerry asks Rocky to go to the chair 'yellow' so the boys will despise him; Rocky refuses; at the chair he begs not to burn in hell",
           "Jerry to the boys: 'It's true, boys. Every word of it'; asks them to pray for Rocky"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Angels with Dirty Faces",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Angels_with_Dirty_Faces",
+    "accessed": "2026-10-12",
+    "claims": "Cast, crew, production history, release, gross, awards",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "angels-with-dirty-faces",
+        "status": "GREY",
+        "title": "Angels with Dirty Faces",
+        "claims": "Cast, crew, production history, release, gross, awards"
       }
     ]
   },
@@ -8756,6 +10296,70 @@
     ]
   },
   {
+    "title": "A. J. Cronin",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/A._J._Cronin",
+    "accessed": "2026-10-12",
+    "claims": "Cronin's dates, mixed Catholic-Presbyterian parentage, St Aloysius' College, agnosticism at medical school and later belief in a Creator; The Keys of the Kingdom his most overtly religious novel, a priest's mission in war-torn China",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-keys-of-the-kingdom",
+        "status": "GREY",
+        "title": "A. J. Cronin",
+        "claims": "Cronin's dates, mixed Catholic-Presbyterian parentage, St Aloysius' College, agnosticism at medical school and later belief in a Creator; The Keys of the Kingdom his most overtly religious novel, a priest's mission in war-torn China"
+      }
+    ]
+  },
+  {
+    "title": "The Keys of the Kingdom",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Keys_of_the_Kingdom",
+    "accessed": "2026-10-12",
+    "claims": "Novel published 1941 (Gollancz; Little, Brown); frame set in Scotland in 1938; mission in Pai-tan, China",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-keys-of-the-kingdom",
+        "status": "GREY",
+        "title": "The Keys of the Kingdom",
+        "claims": "Novel published 1941 (Gollancz; Little, Brown); frame set in Scotland in 1938; mission in Pai-tan, China"
+      }
+    ]
+  },
+  {
+    "title": "Quanto conficiamur moerore",
+    "publisher": "Papal Encyclicals Online",
+    "url": "https://www.papalencyclicals.net/pius09/p9quanto.htm",
+    "accessed": "2026-10-12",
+    "claims": "Pius IX, 10 August 1863: invincible ignorance (s. 7); no one can be saved outside the Catholic Church (s. 8)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-keys-of-the-kingdom",
+        "status": "GREY",
+        "title": "Quanto conficiamur moerore",
+        "claims": "Pius IX, 10 August 1863: invincible ignorance (s. 7); no one can be saved outside the Catholic Church (s. 8)"
+      }
+    ]
+  },
+  {
+    "title": "Religious Indifferentism",
+    "publisher": "Catholic Encyclopedia (1910), New Advent",
+    "url": "https://www.newadvent.org/cathen/07759a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Definition of indifferentism; the view that all religions are equally good condemned as a form of it",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-keys-of-the-kingdom",
+        "status": "GREY",
+        "title": "Religious Indifferentism",
+        "claims": "Definition of indifferentism; the view that all religions are equally good condemned as a form of it"
+      }
+    ]
+  },
+  {
     "title": "Dieu a besoin des hommes",
     "publisher": "Unifrance",
     "url": "https://www.unifrance.org/film/114/dieu-a-besoin-des-hommes",
@@ -9100,6 +10704,22 @@
     ]
   },
   {
+    "title": "Holy Orders",
+    "publisher": "Catholic Encyclopedia (1910), New Advent",
+    "url": "https://www.newadvent.org/cathen/11279a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Indelible character of Orders; validity independent of minister's holiness",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "le-defroque",
+        "status": "GREY",
+        "title": "Holy Orders",
+        "claims": "Indelible character of Orders; validity independent of minister's holiness"
+      }
+    ]
+  },
+  {
     "title": "Gli uomini non guardano il cielo",
     "publisher": "Cinematografo (Fondazione Ente dello Spettacolo)",
     "url": "https://www.cinematografo.it/film/gli-uomini-non-guardano-il-cielo-t5ks0h6e",
@@ -9176,226 +10796,6 @@
     ]
   },
   {
-    "title": "Motion pictures classified by National Legion of Decency, February 1936 – October 1959",
-    "publisher": "National Legion of Decency, via Internet Archive",
-    "url": "https://archive.org/details/motionpicturescl00nati",
-    "accessed": "2026-10-11",
-    "claims": [
-      "Secret Conclave, The (Italian) (IFE Releasing Corp.): A-I, 1952–53"
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
-    "films": [
-      {
-        "id": "gli-uomini-non-guardano-il-cielo",
-        "status": "PUBLISH",
-        "title": "Motion pictures classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Secret Conclave, The (Italian) (IFE Releasing Corp.): A-I, 1952–53"
-        ]
-      },
-      {
-        "id": "lourdes-et-ses-miracles-1955",
-        "status": "PUBLISH",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Lourdes and It's Miracles (French) (Brandon): A-I, 1958–59"
-        ]
-      },
-      {
-        "id": "saint-joan-1957",
-        "status": "GREY",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Saint Joan (UA): A-II, 1956–57"
-        ]
-      },
-      {
-        "id": "the-prisoner-1955",
-        "status": "PUBLISH",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Prisoner, The (Columbia): A-II (year column not legible in the scan; Columbia distributed the 1955 film in the US)"
-        ]
-      },
-      {
-        "id": "antonio-di-padova-1949",
-        "status": "PUBLISH",
-        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
-        "claims": [
-          "Anthony of Padua (Italian) (Trans-Global Pictures): A-I, 1951-52"
-        ]
-      },
-      {
-        "id": "cardinal-messias-1939",
-        "status": "GREY",
-        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
-        "claims": [
-          "Abuna Messias (Italian) (Casolaro Dist. Corp.): A-I, 1951-52"
-        ]
-      },
-      {
-        "id": "demetrius-and-the-gladiators-1954",
-        "status": "GREY",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Demetrius and the Gladiators (20th Century-Fox): A-II, 1953–54"
-        ]
-      },
-      {
-        "id": "guilty-of-treason",
-        "status": "PUBLISH",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Guilty of Treason (Eagle Lion): A-I, 1949–50"
-        ]
-      },
-      {
-        "id": "keepers-of-the-night-1949",
-        "status": "REJECT",
-        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
-        "claims": [
-          "Keepers of the Night (German) (Casino Film Exchange): A-II, 1952-53"
-        ]
-      },
-      {
-        "id": "la-virgen-morena-1942",
-        "status": "PUBLISH",
-        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
-        "claims": [
-          "Virgin of Guadalupe, The (La Virgen Morena) (Mexican-Maya): A-I"
-        ]
-      },
-      {
-        "id": "margaret-of-cortona-1950",
-        "status": "GREY",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Margaret of Cortona (Ital.) (Crown Pics.): A-I, with the note that the classification applies only to prints shown in the continental U.S.A."
-        ]
-      },
-      {
-        "id": "murder-in-the-cathedral-1951",
-        "status": "PUBLISH",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Murder in the Cathedral (British) (Classic Pictures): A-I"
-        ]
-      },
-      {
-        "id": "pastor-angelicus-1942",
-        "status": "PUBLISH",
-        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
-        "claims": [
-          "Story of the Pope, The (Chapel Films Corp.): A-I"
-        ]
-      },
-      {
-        "id": "prima-comunione-1950",
-        "status": "REJECT",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Father's Dilemma (Italian) (Arthur Davis Associates): B. Objection: suggestive sequences."
-        ]
-      },
-      {
-        "id": "say-one-for-me",
-        "status": "GREY",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Say One for Me (Fox): A-II, 1958-59"
-        ]
-      },
-      {
-        "id": "seven-cities-of-gold-1955",
-        "status": "REJECT",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Seven Cities of Gold (Fox): A-I"
-        ]
-      },
-      {
-        "id": "suor-letizia-1956",
-        "status": "GREY",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Awakening (Ital.) (Kingsley): A-II, 1957-58"
-        ]
-      },
-      {
-        "id": "the-big-fisherman-1959",
-        "status": "PUBLISH",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Big Fisherman (Buena Vista): A-I, 1958-59"
-        ]
-      },
-      {
-        "id": "the-end-of-the-affair-1955",
-        "status": "GREY",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "End of the Affair (Columbia): A-II, 1954-55"
-        ]
-      },
-      {
-        "id": "the-fighting-69th",
-        "status": "GREY",
-        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
-        "claims": [
-          "Fighting 69th, The (Warner-First National): A-I"
-        ]
-      },
-      {
-        "id": "the-left-hand-of-god",
-        "status": "PUBLISH",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Left Hand of God, The (20th Century-Fox): A-II"
-        ]
-      },
-      {
-        "id": "the-miracle-1959",
-        "status": "GREY",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Miracle (War.): A-II"
-        ]
-      },
-      {
-        "id": "the-red-danube",
-        "status": "PUBLISH",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Red Danube (MGM): A-I, 1948–49"
-        ]
-      },
-      {
-        "id": "the-silver-chalice-1954",
-        "status": "GREY",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Silver Chalice (Warners): A-II"
-        ]
-      },
-      {
-        "id": "the-story-of-the-vatican-1941",
-        "status": "PUBLISH",
-        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
-        "claims": [
-          "Story of the Vatican, The (March of Time-RKO): A-I, morally unobjectionable for general patronage"
-        ]
-      },
-      {
-        "id": "thunder-on-the-hill",
-        "status": "PUBLISH",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – October 1959",
-        "claims": [
-          "Thunder on the Hill (Universal-International): A-II, 1950–51"
-        ]
-      }
-    ]
-  },
-  {
     "title": "The Exhibitor, May–July 1953 (review: Secret Conclave)",
     "publisher": "The Exhibitor, via Internet Archive (Media History Digital Library)",
     "url": "https://archive.org/details/exhibitormayjul150jaye",
@@ -9438,6 +10838,38 @@
           "Scenes: counsel to a betrayed countess to embrace her cross; a cholera death in his parish years",
           "Dated, slow acting by stage actors; valuable historical document"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Gli uomini non guardano il cielo",
+    "publisher": "Wikipedia (Italian)",
+    "url": "https://it.wikipedia.org/wiki/Gli_uomini_non_guardano_il_cielo",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles, writers, producer, cinematographer, music, production company",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "gli-uomini-non-guardano-il-cielo",
+        "status": "PUBLISH",
+        "title": "Gli uomini non guardano il cielo",
+        "claims": "Cast and roles, writers, producer, cinematographer, music, production company"
+      }
+    ]
+  },
+  {
+    "title": "Pope Pius X",
+    "publisher": "Catholic Encyclopedia (1913), New Advent",
+    "url": "https://www.newadvent.org/cathen/12137a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Election of 4 August 1903, sacred music motu proprio of 22 November 1903, Modernism measures, life of Sarto",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "gli-uomini-non-guardano-il-cielo",
+        "status": "PUBLISH",
+        "title": "Pope Pius X",
+        "claims": "Election of 4 August 1903, sacred music motu proprio of 22 November 1903, Modernism measures, life of Sarto"
       }
     ]
   },
@@ -9733,6 +11165,49 @@
     ]
   },
   {
+    "title": "Teresa de Jesús (serie de televisión)",
+    "publisher": "Spanish Wikipedia",
+    "url": "https://es.wikipedia.org/wiki/Teresa_de_Jes%C3%BAs_(serie_de_televisi%C3%B3n)",
+    "accessed": "2026-10-12",
+    "claims": "Broadcast 12 March to 30 April 1984, eight one-hour episodes; screenplay Carmen Martín Gaite; music José Nieto; 222-minute film version; Velasco, Rabal, Massip, Alterio, Adriani; awards",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "teresa-de-jesus",
+        "status": "PUBLISH",
+        "title": "Teresa de Jesús (serie de televisión)",
+        "claims": "Broadcast 12 March to 30 April 1984, eight one-hour episodes; screenplay Carmen Martín Gaite; music José Nieto; 222-minute film version; Velasco, Rabal, Massip, Alterio, Adriani; awards"
+      }
+    ]
+  },
+  {
+    "title": "St. Teresa of Avila",
+    "publisher": "Catholic Encyclopedia (1912), New Advent",
+    "url": "https://www.newadvent.org/cathen/14515b.htm",
+    "accessed": "2026-10-12",
+    "claims": "Entry to the Incarnation, November 1535; St Joseph's, 24 August 1562; reform of the friars with John of the Cross from 1568; discalced province 22 June 1580; death 4 October 1582 and the feast of 15 October; beatified 1614, canonised 1622",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "teresa-de-jesus",
+        "status": "PUBLISH",
+        "title": "St. Teresa of Avila",
+        "claims": "Entry to the Incarnation, November 1535; St Joseph's, 24 August 1562; reform of the friars with John of the Cross from 1568; discalced province 22 June 1580; death 4 October 1582 and the feast of 15 October; beatified 1614, canonised 1622"
+      },
+      {
+        "id": "teresa-de-jesus-1962",
+        "status": "PUBLISH",
+        "title": "St. Teresa of Avila",
+        "claims": [
+          "Educated by the Augustinian nuns at Ávila; entered the Incarnation in November 1535 without her father's consent",
+          "Francis Borgia and Peter of Alcántara discerned her experiences",
+          "St Joseph's founded 24 August 1562; Pastrana and Seville among her foundations; Gracián as visitor and four years of persecution",
+          "Died at Alba de Tormes 4 October 1582; canonised 1622"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Saint Teresa of the Andes",
     "publisher": "Ignatius Press",
     "url": "https://loc.ignatius.com/movienights/st-teresa-of-the-andes.html",
@@ -9869,6 +11344,54 @@
         "claims": [
           "Supplementary: Rai 1, 2007, 201 minutes; summarises the Sacro Convento friars' mixed reaction and cites the Repubblica article of 9 October 2007."
         ]
+      }
+    ]
+  },
+  {
+    "title": "Chiara e Francesco",
+    "publisher": "Wikipedia (Italian)",
+    "url": "https://it.wikipedia.org/wiki/Chiara_e_Francesco",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles; story and screenplay Francesco Arlanch; cinematography Giovanni Galasso; music Marco Frisina; producer Luca Bernabei; Lux Vide, Rai Fiction, Rai Trade; broadcast 7 and 8 October 2007 with viewing figures",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "clare-and-francis",
+        "status": "PUBLISH",
+        "title": "Chiara e Francesco",
+        "claims": "Cast and roles; story and screenplay Francesco Arlanch; cinematography Giovanni Galasso; music Marco Frisina; producer Luca Bernabei; Lux Vide, Rai Fiction, Rai Trade; broadcast 7 and 8 October 2007 with viewing figures"
+      }
+    ]
+  },
+  {
+    "title": "St. Clare of Assisi",
+    "publisher": "Catholic Encyclopedia (1908), New Advent",
+    "url": "https://www.newadvent.org/cathen/04004a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Palm Sunday 1212 flight; tonsure at the Porziuncola; Privilege of Poverty 1228; rule confirmed by Innocent IV 9 August 1253; death 11 August 1253; canonised by Alexander IV 1255; feast formerly 12 August",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "clare-and-francis",
+        "status": "PUBLISH",
+        "title": "St. Clare of Assisi",
+        "claims": "Palm Sunday 1212 flight; tonsure at the Porziuncola; Privilege of Poverty 1228; rule confirmed by Innocent IV 9 August 1253; death 11 August 1253; canonised by Alexander IV 1255; feast formerly 12 August"
+      }
+    ]
+  },
+  {
+    "title": "Clare of Assisi",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Clare_of_Assisi",
+    "accessed": "2026-10-12",
+    "claims": "Pius XII named Clare patroness of television in 1958; feast 12 August before the 1969 revision",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "clare-and-francis",
+        "status": "PUBLISH",
+        "title": "Clare of Assisi",
+        "claims": "Pius XII named Clare patroness of television in 1958; feast 12 August before the 1969 revision"
       }
     ]
   },
@@ -10317,6 +11840,22 @@
     ]
   },
   {
+    "title": "Anthony of Padua",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Anthony_of_Padua",
+    "accessed": "2026-10-12",
+    "claims": "Birth c. 1195, death 13 June 1231, canonisation 30 May 1232 at Spoleto, Doctor of the Church 16 January 1946",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "saint-anthony-padua",
+        "status": "GREY",
+        "title": "Anthony of Padua",
+        "claims": "Birth c. 1195, death 13 June 1231, canonisation 30 May 1232 at Spoleto, Doctor of the Church 16 January 1946"
+      }
+    ]
+  },
+  {
     "title": "Sceneggiati e fiction 2003–2005",
     "publisher": "Rai Teche",
     "url": "https://www.teche.rai.it/sceneggiati-e-fiction-2003-2005/",
@@ -10624,30 +12163,6 @@
         "claims": [
           "Dialogue: Luigi calls hatred a disease whose only quinine is Jesus",
           "Padre Basilio on the strength of purity and forgiveness, and the innocence and holiness of children"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Maria Goretti",
-    "publisher": "Wikipedia (English; supplementary, for the history)",
-    "url": "https://en.wikipedia.org/wiki/Maria_Goretti",
-    "accessed": "2026-10-11",
-    "claims": [
-      "Born Corinaldo 16 October 1890; Le Ferriere 1899; father died of malaria",
-      "Attack 5 July 1902, fourteen stab wounds; died 6 July forgiving Serenelli",
-      "Serenelli repented, released after about 27 years, Capuchin lay brother; beatified 1947, canonised 1950"
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
-    "films": [
-      {
-        "id": "maria-goretti-2003",
-        "status": "GREY",
-        "title": "Maria Goretti",
-        "claims": [
-          "Born Corinaldo 16 October 1890; Le Ferriere 1899; father died of malaria",
-          "Attack 5 July 1902, fourteen stab wounds; died 6 July forgiving Serenelli",
-          "Serenelli repented, released after about 27 years, Capuchin lay brother; beatified 1947, canonised 1950"
         ]
       }
     ]
@@ -11023,6 +12538,22 @@
           "The Last Supper presents Christ's body given in sacrifice and the new and eternal covenant.",
           "Quo Vadis and the inverted crucifixion are shown."
         ]
+      }
+    ]
+  },
+  {
+    "title": "Tomb of Saint Peter",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tomb_of_Saint_Peter",
+    "accessed": "2026-10-12",
+    "claims": "Pius XII December 1950: bones could not be confirmed with certainty as Peter's",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "saint-peter",
+        "status": "PUBLISH",
+        "title": "Tomb of Saint Peter",
+        "claims": "Pius XII December 1950: bones could not be confirmed with certainty as Peter's"
       }
     ]
   },
@@ -11419,6 +12950,22 @@
     ]
   },
   {
+    "title": "Gottes mächtige Dienerin",
+    "publisher": "Wikipedia (German)",
+    "url": "https://de.wikipedia.org/wiki/Gottes_m%C3%A4chtige_Dienerin",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles, screenplay, producer, music, cinematography, basis in Martha Schad's work, locations, extras, nominations, Lexikon des internationalen Films verdict",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "gods-mighty-servant",
+        "status": "GREY",
+        "title": "Gottes mächtige Dienerin",
+        "claims": "Cast and roles, screenplay, producer, music, cinematography, basis in Martha Schad's work, locations, extras, nominations, Lexikon des internationalen Films verdict"
+      }
+    ]
+  },
+  {
     "title": "Duns Scotus (Duns Scoto)",
     "publisher": "Cineuropa",
     "url": "https://cineuropa.org/en/film/302305",
@@ -11514,26 +13061,6 @@
         "title": "Blessed Duns Scotus",
         "claims": [
           "Content note: 'Sudden scourging of Jesus at 16:04'; very theological; love story about discernment of vocation."
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Immaculate Conception",
-    "publisher": "Catholic Encyclopedia (1910) / New Advent",
-    "url": "https://www.newadvent.org/cathen/07674d.htm",
-    "accessed": "2026-10-11",
-    "claims": [
-      "History of the doctrine: St Bernard's opposition to the feast; St Thomas concluded against it in the Summa; Bonaventure among the opponents; Scotus's argument from preservative redemption shifted opinion; Sixtus IV excommunicated those on either side who accused the other of heresy. Says nothing about a Paris disputation."
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
-    "films": [
-      {
-        "id": "blessed-duns-scotus",
-        "status": "REJECT",
-        "title": "Immaculate Conception",
-        "claims": [
-          "History of the doctrine: St Bernard's opposition to the feast; St Thomas concluded against it in the Summa; Bonaventure among the opponents; Scotus's argument from preservative redemption shifted opinion; Sixtus IV excommunicated those on either side who accused the other of heresy. Says nothing about a Paris disputation."
         ]
       }
     ]
@@ -12287,6 +13814,22 @@
     ]
   },
   {
+    "title": "Emil Kapaun",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Emil_Kapaun",
+    "accessed": "2026-10-12",
+    "claims": "Ordination 1940, Unsan, captivity at Pyoktong, death 23 May 1951, Medal of Honor 2013, Servant of God 1993, Venerable 2025",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "miracle-father-kapaun",
+        "status": "GREY",
+        "title": "Emil Kapaun",
+        "claims": "Ordination 1940, Unsan, captivity at Pyoktong, death 23 May 1951, Medal of Honor 2013, Servant of God 1993, Venerable 2025"
+      }
+    ]
+  },
+  {
     "title": "Premiere of The Blood & The Rose",
     "publisher": "Catholic Online PRWire (Renegade Productions press release), 12 December 2012",
     "url": "https://www.catholic.org/prwire/headline.php?ID=11314",
@@ -12440,6 +13983,28 @@
           "Apparitions of 9 and 12 December 1531; pilgrimages almost uninterrupted since 1531 to 1532",
           "Benedict XIV named Our Lady of Guadalupe national patron with a proper Mass and Office; Leo XIII ordered the image crowned"
         ]
+      },
+      {
+        "id": "la-virgen-que-forjo-una-patria-1942",
+        "status": "GREY",
+        "title": "Shrine of Guadalupe",
+        "claims": "Papal favours of Benedict XIV, Leo XIII and Pius X to the image and feast"
+      }
+    ]
+  },
+  {
+    "title": "Our Lady of Guadalupe",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe",
+    "accessed": "2026-10-12",
+    "claims": "Benedict XIV 1754 patronage of New Spain with Mass and Office for 12 December; coronation of the image 12 October 1895",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "blood-and-rose",
+        "status": "GREY",
+        "title": "Our Lady of Guadalupe",
+        "claims": "Benedict XIV 1754 patronage of New Spain with Mass and Office for 12 December; coronation of the image 12 October 1895"
       }
     ]
   },
@@ -14903,6 +16468,54 @@
     ]
   },
   {
+    "title": "Takashi Nagai",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Takashi_Nagai",
+    "accessed": "2026-10-12",
+    "claims": "Baptism 12 June 1934 as Paul; marriage to Midori August 1934; leukaemia diagnosis June 1945; 23 November 1945 address at the cathedral ruins; died 1 May 1951; Servant of God; 1950 film released 23 September 1950",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "bells-of-nagasaki",
+        "status": "GREY",
+        "title": "Takashi Nagai",
+        "claims": "Baptism 12 June 1934 as Paul; marriage to Midori August 1934; leukaemia diagnosis June 1945; 23 November 1945 address at the cathedral ruins; died 1 May 1951; Servant of God; 1950 film released 23 September 1950"
+      }
+    ]
+  },
+  {
+    "title": "Japan",
+    "publisher": "Catholic Encyclopedia (1910), New Advent",
+    "url": "https://www.newadvent.org/cathen/08297a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Christians made themselves known to Père Petitjean at Nagasaki on 17 March 1865; persecution of the Urakami faithful from July 1867, exile, return in March 1873",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "bells-of-nagasaki",
+        "status": "GREY",
+        "title": "Japan",
+        "claims": "Christians made themselves known to Père Petitjean at Nagasaki on 17 March 1865; persecution of the Urakami faithful from July 1867, exile, return in March 1873"
+      }
+    ]
+  },
+  {
+    "title": "Angelus",
+    "publisher": "Catholic Encyclopedia (1907), New Advent",
+    "url": "https://www.newadvent.org/cathen/01486b.htm",
+    "accessed": "2026-10-12",
+    "claims": "Angelus said morning, noon and evening at the bell; indulgences of John XXII (1318, 1327) and Benedict XIII (14 September 1724)",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "bells-of-nagasaki",
+        "status": "GREY",
+        "title": "Angelus",
+        "claims": "Angelus said morning, noon and evening at the bell; indulgences of John XXII (1318, 1327) and Benedict XIII (14 September 1724)"
+      }
+    ]
+  },
+  {
     "title": "Pedro Calungsod: Batang Martir",
     "publisher": "Wikipedia (discovery lead)",
     "url": "https://en.wikipedia.org/wiki/Pedro_Calungsod%3A_Batang_Martir",
@@ -15185,6 +16798,22 @@
     ]
   },
   {
+    "title": "All That Remains (blog of the film)",
+    "publisher": "Pixel Revolution Films",
+    "url": "https://allthatremainsthemovie.wordpress.com/",
+    "accessed": "2026-10-12",
+    "claims": "Yuna Shin as Midori, Meg Kubota as Tsumo Moriyama, crowdfunding, in-house effects, four-year production, local extras, screening and DVD notes",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "all-that-remains",
+        "status": "PUBLISH",
+        "title": "All That Remains (blog of the film)",
+        "claims": "Yuna Shin as Midori, Meg Kubota as Tsumo Moriyama, crowdfunding, in-house effects, four-year production, local extras, screening and DVD notes"
+      }
+    ]
+  },
+  {
     "title": "Don Bosco (1935)",
     "publisher": "Archivio del Cinema Italiano / ANICA",
     "url": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=SV+188",
@@ -15333,6 +16962,38 @@
     ]
   },
   {
+    "title": "Don Bosco (film 1935)",
+    "publisher": "Wikipedia (English)",
+    "url": "https://en.wikipedia.org/wiki/Don_Bosco_(1935_film)",
+    "accessed": "2026-10-12",
+    "claims": "Cast, screenwriters, music (Ghedini), cinematography, running time",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "don-bosco-1935",
+        "status": "GREY",
+        "title": "Don Bosco (film 1935)",
+        "claims": "Cast, screenwriters, music (Ghedini), cinematography, running time"
+      }
+    ]
+  },
+  {
+    "title": "Don Bosco (film 1935)",
+    "publisher": "Wikipedia (Italian)",
+    "url": "https://it.wikipedia.org/wiki/Don_Bosco_(film_1935)",
+    "accessed": "2026-10-12",
+    "claims": "Story credit to Castellino and Uguccioni, music by Ghedini and Malipiero, Lux Film, restoration from Salesian negative at Ivrea 2016, Torino Film Festival 2021",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "don-bosco-1935",
+        "status": "GREY",
+        "title": "Don Bosco (film 1935)",
+        "claims": "Story credit to Castellino and Uguccioni, music by Ghedini and Malipiero, Lux Film, restoration from Salesian negative at Ivrea 2016, Torino Film Festival 2021"
+      }
+    ]
+  },
+  {
     "title": "Historia de nuestro cine: La mies es mucha",
     "publisher": "RTVE Play",
     "url": "https://www.rtve.es/play/videos/historia-de-nuestro-cine/historia-nuestro-cine-mies-mucha/3467518/",
@@ -15409,6 +17070,22 @@
         "claims": [
           "Cited in earlier research for 1948 production and 28 March 1949 Madrid premiere; connection refused on 2026-10-11, so not re-verified."
         ]
+      }
+    ]
+  },
+  {
+    "title": "La mies es mucha",
+    "publisher": "Wikipedia (Spanish)",
+    "url": "https://es.wikipedia.org/wiki/La_mies_es_mucha",
+    "accessed": "2026-10-12",
+    "claims": "Screenplay, music, cinematography, Fernán Gómez as Padre Santiago, CEC medals, shooting at La Concepción in Málaga, patronage of Bishop Herrera Oria, box-office success",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "la-mies-es-mucha",
+        "status": "PUBLISH",
+        "title": "La mies es mucha",
+        "claims": "Screenplay, music, cinematography, Fernán Gómez as Padre Santiago, CEC medals, shooting at La Concepción in Málaga, patronage of Bishop Herrera Oria, box-office success"
       }
     ]
   },
@@ -15545,6 +17222,22 @@
         "claims": [
           "Bishop's words: little love of God in that parish; made the church his home; vigils and fasts; up to sixteen hours a day in the confessional; longed to flee into solitude yet never abandoned his post"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Le Sorcier du ciel",
+    "publisher": "Wikipédia (French)",
+    "url": "https://fr.wikipedia.org/wiki/Le_Sorcier_du_ciel",
+    "accessed": "2026-10-12",
+    "claims": "Cast, crew, production company, running time and release date",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "le-sorcier-du-ciel",
+        "status": "GREY",
+        "title": "Le Sorcier du ciel",
+        "claims": "Cast, crew, production company, running time and release date"
       }
     ]
   },
@@ -15773,6 +17466,54 @@
         "claims": [
           "Lists John of the Cross among its films, with an endorsement attributed to Mother Angelica of EWTN"
         ]
+      }
+    ]
+  },
+  {
+    "title": "John of the Cross (DVD)",
+    "publisher": "Saint Luke Productions",
+    "url": "https://store.stlukeproductions.com/collections/dvds/products/john-of-the-cross-dvd",
+    "accessed": "2026-10-12",
+    "claims": "Cast (Leonardo and Patti Defilippis, 60+ extras), music by Randall DeBruyn, 60 minutes, suggested age 8 and up, description",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "john-of-the-cross-1997",
+        "status": "GREY",
+        "title": "John of the Cross (DVD)",
+        "claims": "Cast (Leonardo and Patti Defilippis, 60+ extras), music by Randall DeBruyn, 60 minutes, suggested age 8 and up, description"
+      }
+    ]
+  },
+  {
+    "title": "St. John of the Cross",
+    "publisher": "Catholic Encyclopedia (1910), New Advent",
+    "url": "https://www.newadvent.org/cathen/08480a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Dates, founding of the Discalced Carmelites, imprisonment of 1578 and escape",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "john-of-the-cross-1997",
+        "status": "GREY",
+        "title": "St. John of the Cross",
+        "claims": "Dates, founding of the Discalced Carmelites, imprisonment of 1578 and escape"
+      }
+    ]
+  },
+  {
+    "title": "The Carmelite Order",
+    "publisher": "Catholic Encyclopedia (1908), New Advent",
+    "url": "https://www.newadvent.org/cathen/03354a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Conflict with the Calced, seizure at Ávila and Toledo dungeon, province of 1580, separation of 1593",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "john-of-the-cross-1997",
+        "status": "GREY",
+        "title": "The Carmelite Order",
+        "claims": "Conflict with the Calced, seizure at Ávila and Toledo dungeon, province of 1580, separation of 1593"
       }
     ]
   },
@@ -16214,6 +17955,76 @@
     ]
   },
   {
+    "title": "Golgotha (1935), spectator reviews",
+    "publisher": "AlloCiné",
+    "url": "https://www.allocine.fr/film/fichefilm-4523/critiques/spectateurs/",
+    "accessed": "2026-10-12",
+    "claims": "User review (8 May 2024): project initiated by Canon Joseph Reymond, who wrote the scenario; shot at Fort-de-l'Eau near Algiers after Maria Chapdelaine, interiors at Boulogne; Jean Perrier's built sets; costly production",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "golgotha",
+        "status": "PUBLISH",
+        "title": "Golgotha (1935), spectator reviews",
+        "claims": "User review (8 May 2024): project initiated by Canon Joseph Reymond, who wrote the scenario; shot at Fort-de-l'Eau near Algiers after Maria Chapdelaine, interiors at Boulogne; Jean Perrier's built sets; costly production"
+      }
+    ]
+  },
+  {
+    "title": "Ibert, Jacques: autograph manuscript of the Golgotha score (lot 99)",
+    "publisher": "Aguttes (auction catalogue)",
+    "url": "https://www.aguttes.com/en/lot/141788/22834910-ibert-jacques-1890-1962-manuscrit-musical-autographe",
+    "accessed": "2026-10-12",
+    "claims": "Film shot in 1934, released 10 April 1935, from a scenario by Canon Joseph Reymond; cast; Ibert's score, 130-page autograph",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "golgotha",
+        "status": "PUBLISH",
+        "title": "Ibert, Jacques: autograph manuscript of the Golgotha score (lot 99)",
+        "claims": "Film shot in 1934, released 10 April 1935, from a scenario by Canon Joseph Reymond; cast; Ibert's score, 130-page autograph"
+      }
+    ]
+  },
+  {
+    "title": "Ibert: film music (Naxos 8.557607), review",
+    "publisher": "MusicWeb International (2005)",
+    "url": "https://musicweb-international.com/classrev/2005/July05/Ibert_film_8557607.htm",
+    "accessed": "2026-10-12",
+    "claims": "Ibert's Golgotha score; extensive use of the ondes Martenot in 'Le Calvaire'; suite recorded by Naxos",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "golgotha",
+        "status": "PUBLISH",
+        "title": "Ibert: film music (Naxos 8.557607), review",
+        "claims": "Ibert's Golgotha score; extensive use of the ondes Martenot in 'Le Calvaire'; suite recorded by Naxos"
+      }
+    ]
+  },
+  {
+    "title": "Pontius Pilate",
+    "publisher": "Catholic Encyclopedia (1911), New Advent",
+    "url": "https://www.newadvent.org/cathen/12083c.htm",
+    "accessed": "2026-10-12",
+    "claims": "Pilate procurator AD 26-36, recall after Samaritan complaint; Claudia Procula, Origen on her conversion, Greek feast 27 October",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "golgotha",
+        "status": "PUBLISH",
+        "title": "Pontius Pilate",
+        "claims": "Pilate procurator AD 26-36, recall after Samaritan complaint; Claudia Procula, Origen on her conversion, Greek feast 27 October"
+      },
+      {
+        "id": "the-king-of-kings-1927",
+        "status": "PUBLISH",
+        "title": "Pontius Pilate",
+        "claims": "Pilate procurator of Judaea AD 26-36, covering Christ's public ministry"
+      }
+    ]
+  },
+  {
     "title": "Procès au Vatican",
     "publisher": "Unifrance",
     "url": "https://en.unifrance.org/movie/6915/proces-au-vatican",
@@ -16290,6 +18101,118 @@
     ]
   },
   {
+    "title": "Procès au Vatican",
+    "publisher": "Wikipédia (French)",
+    "url": "https://fr.wikipedia.org/wiki/Procès_au_Vatican",
+    "accessed": "2026-10-12",
+    "claims": "Screenplay and dialogue Haguet and André Legrand; sets Roland Quignon; photography Lucien Joulin; music Maurice-Paul Guillot; 115 min; release 29 August 1952; alternate title La Vie de Sainte Thérèse de Lisieux; cast and roles",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "proces-au-vatican",
+        "status": "PUBLISH",
+        "title": "Procès au Vatican",
+        "claims": "Screenplay and dialogue Haguet and André Legrand; sets Roland Quignon; photography Lucien Joulin; music Maurice-Paul Guillot; 115 min; release 29 August 1952; alternate title La Vie de Sainte Thérèse de Lisieux; cast and roles"
+      }
+    ]
+  },
+  {
+    "title": "Trial at the Vatican",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Trial_at_the_Vatican",
+    "accessed": "2026-10-12",
+    "claims": "Producers Fernand Rivers and Paul de Saint-André; shot at Billancourt Studios, Paris; cast and roles including Jean Yonnel as the prison chaplain and Albert Dinan as Pranzini",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "proces-au-vatican",
+        "status": "PUBLISH",
+        "title": "Trial at the Vatican",
+        "claims": "Producers Fernand Rivers and Paul de Saint-André; shot at Billancourt Studios, Paris; cast and roles including Jean Yonnel as the prison chaplain and Albert Dinan as Pranzini"
+      }
+    ]
+  },
+  {
+    "title": "Procès au Vatican: censorship record (Commissione di Revisione Cinematografica)",
+    "publisher": "Cineteca di Bologna via Europeana",
+    "url": "https://europeana.eu/en/item/08611/censorship7188",
+    "accessed": "2026-10-12",
+    "claims": "Italian censorship file dated 1952, no ban, conditions or cuts recorded",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "proces-au-vatican",
+        "status": "PUBLISH",
+        "title": "Procès au Vatican: censorship record (Commissione di Revisione Cinematografica)",
+        "claims": "Italian censorship file dated 1952, no ban, conditions or cuts recorded"
+      }
+    ]
+  },
+  {
+    "title": "Decree on the heroicity of virtues",
+    "publisher": "Archives du Carmel de Lisieux",
+    "url": "https://archives.carmeldelisieux.fr/en/naissance-dune-sainte/les-proces-la-sainte-de-therese/le-proces-apostolique/decret-sur-lheroicite-des-vertus/",
+    "accessed": "2026-10-12",
+    "claims": "Decree of 14 August 1921 under Benedict XV; his address on spiritual childhood as the secret of holiness for all the faithful",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "proces-au-vatican",
+        "status": "PUBLISH",
+        "title": "Decree on the heroicity of virtues",
+        "claims": "Decree of 14 August 1921 under Benedict XV; his address on spiritual childhood as the secret of holiness for all the faithful"
+      }
+    ]
+  },
+  {
+    "title": "Patronages and spiritual influence of Thérèse",
+    "publisher": "Archives du Carmel de Lisieux",
+    "url": "https://archives.carmeldelisieux.fr/en/naissance-dune-sainte/patronages-et-influence-spirituelle-de-therese/",
+    "accessed": "2026-10-12",
+    "claims": "Patroness of the missions, equal with St Francis Xavier, by Pius XI on 14 December 1927; secondary patroness of France by Pius XII on 3 May 1944",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "proces-au-vatican",
+        "status": "PUBLISH",
+        "title": "Patronages and spiritual influence of Thérèse",
+        "claims": "Patroness of the missions, equal with St Francis Xavier, by Pius XI on 14 December 1927; secondary patroness of France by Pius XII on 3 May 1944"
+      }
+    ]
+  },
+  {
+    "title": "Thérèse of Lisieux",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Thérèse_of_Lisieux",
+    "accessed": "2026-10-12",
+    "claims": "Beatified 29 April 1923 and canonised 17 May 1925 by Pius XI; feast 3 October from 1927; Pranzini episode of 1887",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "proces-au-vatican",
+        "status": "PUBLISH",
+        "title": "Thérèse of Lisieux",
+        "claims": "Beatified 29 April 1923 and canonised 17 May 1925 by Pius XI; feast 3 October from 1927; Pranzini episode of 1887"
+      }
+    ]
+  },
+  {
+    "title": "Procès au Vatican (French Wikipedia)",
+    "publisher": "Wikipedia",
+    "url": "https://fr.wikipedia.org/wiki/Proc%C3%A8s_au_Vatican",
+    "accessed": "2026-10-12",
+    "claims": "Director, writers, companies, cinematographer, composer, runtime, release date",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "proces-au-vatican",
+        "status": "PUBLISH",
+        "title": "Procès au Vatican (French Wikipedia)",
+        "claims": "Director, writers, companies, cinematographer, composer, runtime, release date"
+      }
+    ]
+  },
+  {
     "title": "Aportaciones al proceso de producción de Teresa de Jesús: un largo proyecto cinematográfico condicionado por la censura durante el franquismo (1948-1962)",
     "publisher": "Artigrama 38 (2023), pp. 331-356, Universidad de Zaragoza (Fernando Sanz Ferreruela)",
     "url": "https://papiro.unizar.es/ojs/index.php/artigrama/article/download/10079/8922/38967",
@@ -16344,28 +18267,50 @@
     ]
   },
   {
-    "title": "St. Teresa of Avila",
-    "publisher": "Catholic Encyclopedia (1912), New Advent",
-    "url": "https://www.newadvent.org/cathen/14515b.htm",
-    "accessed": "2026-10-11",
-    "claims": [
-      "Educated by the Augustinian nuns at Ávila; entered the Incarnation in November 1535 without her father's consent",
-      "Francis Borgia and Peter of Alcántara discerned her experiences",
-      "St Joseph's founded 24 August 1562; Pastrana and Seville among her foundations; Gracián as visitor and four years of persecution",
-      "Died at Alba de Tormes 4 October 1582; canonised 1622"
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
+    "title": "Teresa de Jesús (película de 1961)",
+    "publisher": "Wikipedia (Spanish)",
+    "url": "https://es.wikipedia.org/wiki/Teresa_de_Jesús_(película_de_1961)",
+    "accessed": "2026-10-12",
+    "claims": "Screenplay; producer Eduardo Manzanos; music Manuel Parada; cinematography José Fernández Aguayo; production companies; release in 1962; 131 minutes; 1962 prize; cast and roles",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
     "films": [
       {
         "id": "teresa-de-jesus-1962",
         "status": "PUBLISH",
-        "title": "St. Teresa of Avila",
-        "claims": [
-          "Educated by the Augustinian nuns at Ávila; entered the Incarnation in November 1535 without her father's consent",
-          "Francis Borgia and Peter of Alcántara discerned her experiences",
-          "St Joseph's founded 24 August 1562; Pastrana and Seville among her foundations; Gracián as visitor and four years of persecution",
-          "Died at Alba de Tormes 4 October 1582; canonised 1622"
-        ]
+        "title": "Teresa de Jesús (película de 1961)",
+        "claims": "Screenplay; producer Eduardo Manzanos; music Manuel Parada; cinematography José Fernández Aguayo; production companies; release in 1962; 131 minutes; 1962 prize; cast and roles"
+      }
+    ]
+  },
+  {
+    "title": "Teresa de Jesús (1984 film)",
+    "publisher": "Wikipedia (Spanish)",
+    "url": "https://es.wikipedia.org/wiki/Teresa_de_Jesús_(película)",
+    "accessed": "2026-10-12",
+    "claims": "1984 TVE series and film cut, based on Orduña's 1961 film; Concha Velasco",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "teresa-de-jesus-1962",
+        "status": "PUBLISH",
+        "title": "Teresa de Jesús (1984 film)",
+        "claims": "1984 TVE series and film cut, based on Orduña's 1961 film; Concha Velasco"
+      }
+    ]
+  },
+  {
+    "title": "Teresa de Jesús (1961 film, Spanish Wikipedia)",
+    "publisher": "Wikipedia",
+    "url": "https://es.wikipedia.org/wiki/Teresa_de_Jes%C3%BAs_(pel%C3%ADcula_de_1961)",
+    "accessed": "2026-10-12",
+    "claims": "Director, writers, producer, companies, runtime, distributor, 1962 prize, cast",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "teresa-de-jesus-1962",
+        "status": "PUBLISH",
+        "title": "Teresa de Jesús (1961 film, Spanish Wikipedia)",
+        "claims": "Director, writers, producer, companies, runtime, distributor, 1962 prize, cast"
       }
     ]
   },
@@ -16536,6 +18481,54 @@
     ]
   },
   {
+    "title": "The King of Kings (1927 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_King_of_Kings_(1927_film)",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles, screenplay, cinematography, music, origins, financing, casting dates, filming locations, Technicolor sequences, premiere dates, budget and gross, censorship",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-king-of-kings-1927",
+        "status": "PUBLISH",
+        "title": "The King of Kings (1927 film)",
+        "claims": "Cast and roles, screenplay, cinematography, music, origins, financing, casting dates, filming locations, Technicolor sequences, premiere dates, budget and gross, censorship"
+      }
+    ]
+  },
+  {
+    "title": "Daniel A. Lord",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Daniel_A._Lord",
+    "accessed": "2026-10-12",
+    "claims": "Lord was one of six technical consultants and the only one credited; he drafted the 1930 Production Code",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-king-of-kings-1927",
+        "status": "PUBLISH",
+        "title": "Daniel A. Lord",
+        "claims": "Lord was one of six technical consultants and the only one credited; he drafted the 1930 Production Code"
+      }
+    ]
+  },
+  {
+    "title": "St. Mary Magdalen",
+    "publisher": "Catholic Encyclopedia (1910), New Advent",
+    "url": "https://www.newadvent.org/cathen/09761a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Latin tradition identifying Mary Magdalene with the sinner of Luke 7 and Mary of Bethany",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-king-of-kings-1927",
+        "status": "PUBLISH",
+        "title": "St. Mary Magdalen",
+        "claims": "Latin tradition identifying Mary Magdalene with the sinner of Luke 7 and Mary of Bethany"
+      }
+    ]
+  },
+  {
     "title": "The Nun's Story (1959)",
     "publisher": "AFI Catalog of Feature Films",
     "url": "https://catalog.afi.com/Film/52977-THE-NUNSSTORY",
@@ -16612,6 +18605,38 @@
           "Heroine driven by her vocation to continue the struggle for obedience",
           "Superiors curb her pride; one of few films to grapple sensitively with submission to God"
         ]
+      }
+    ]
+  },
+  {
+    "title": "The Nun's Story (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Nun%27s_Story_(film)",
+    "accessed": "2026-10-12",
+    "claims": "Cast, credits, production, Legion A-II, release, box office, awards",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-nun-s-story",
+        "status": "PUBLISH",
+        "title": "The Nun's Story (film)",
+        "claims": "Cast, credits, production, Legion A-II, release, box office, awards"
+      }
+    ]
+  },
+  {
+    "title": "Vows",
+    "publisher": "Catholic Encyclopedia (1912), New Advent",
+    "url": "https://www.newadvent.org/cathen/15511a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Nature and obligation of religious vows",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-nun-s-story",
+        "status": "PUBLISH",
+        "title": "Vows",
+        "claims": "Nature and obligation of religious vows"
       }
     ]
   },
@@ -16905,6 +18930,22 @@
     ]
   },
   {
+    "title": "The Passion of Christ (Gospel Accounts)",
+    "publisher": "Catholic Encyclopedia (1911), New Advent",
+    "url": "https://www.newadvent.org/cathen/11530a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Pilate's offer of Barabbas in the Gospel accounts",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "barabbas-1961",
+        "status": "GREY",
+        "title": "The Passion of Christ (Gospel Accounts)",
+        "claims": "Pilate's offer of Barabbas in the Gospel accounts"
+      }
+    ]
+  },
+  {
     "title": "Ben-Hur (1925)",
     "publisher": "AFI Catalog of Feature Films",
     "url": "https://catalog.afi.com/Film/2811-BEN-HUR",
@@ -17071,6 +19112,38 @@
           "Review digest: 212m; 'Highest rating epic of unusual merit' (review dated 2 Dec 1959)",
           "Crowther (NYT, reprinted): most stirring and respectable of the Bible-fiction pictures; Judah's final emergence is achieved through the example and teachings of Jesus; meetings with Jesus, never seen full face, dignified and true; Crucifixion strong and real"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Ben-Hur (1959 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ben-Hur_(1959_film)",
+    "accessed": "2026-10-12",
+    "claims": "Cast and roles; screenplay credits; producer; music; cinematography; filming dates; Camera 65; chariot race directors; budget; premiere; running time; gross; eleven Academy Awards; Jesus's face never shown",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "ben-hur-1959",
+        "status": "PUBLISH",
+        "title": "Ben-Hur (1959 film)",
+        "claims": "Cast and roles; screenplay credits; producer; music; cinematography; filming dates; Camera 65; chariot race directors; budget; premiere; running time; gross; eleven Academy Awards; Jesus's face never shown"
+      }
+    ]
+  },
+  {
+    "title": "Ben-Hur: A Tale of the Christ",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ben-Hur:_A_Tale_of_the_Christ",
+    "accessed": "2026-10-12",
+    "claims": "Publication by Harper & Brothers on 12 November 1880; Wallace's study of Christianity after talking with Ingersoll",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "ben-hur-1959",
+        "status": "PUBLISH",
+        "title": "Ben-Hur: A Tale of the Christ",
+        "claims": "Publication by Harper & Brothers on 12 November 1880; Wallace's study of Christianity after talking with Ingersoll"
       }
     ]
   },
@@ -17469,6 +19542,38 @@
     ]
   },
   {
+    "title": "Christus (film 1916)",
+    "publisher": "Wikipedia (Italian)",
+    "url": "https://it.wikipedia.org/wiki/Christus_(film_1916)",
+    "accessed": "2026-10-12",
+    "claims": "Subject Fausto Salvatori; screenplay Antamoro and Ignazio Lupi; cinematography Renato Cartoni; sets Giulio Lombardozzi; cast including Amalia Cattaneo as Mary Magdalene; 97 minutes; shot mainly in Egypt, many scenes at Cori",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "christus-1916",
+        "status": "GREY",
+        "title": "Christus (film 1916)",
+        "claims": "Subject Fausto Salvatori; screenplay Antamoro and Ignazio Lupi; cinematography Renato Cartoni; sets Giulio Lombardozzi; cast including Amalia Cattaneo as Mary Magdalene; 97 minutes; shot mainly in Egypt, many scenes at Cori"
+      }
+    ]
+  },
+  {
+    "title": "The Real Presence of Christ in the Eucharist",
+    "publisher": "Catholic Encyclopedia (1909), New Advent",
+    "url": "https://www.newadvent.org/cathen/05573a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Trent, Sess. XIII, can. i-ii: Christ truly, really and substantially present; conversion of the whole substance, only the appearances remaining; words of institution are the words of transubstantiation",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "christus-1916",
+        "status": "GREY",
+        "title": "The Real Presence of Christ in the Eucharist",
+        "claims": "Trent, Sess. XIII, can. i-ii: Christ truly, really and substantially present; conversion of the whole substance, only the appearances remaining; words of institution are the words of transubstantiation"
+      }
+    ]
+  },
+  {
     "title": "Conspiracy of Hearts",
     "publisher": "Wikipedia (supplementary)",
     "url": "https://en.wikipedia.org/wiki/Conspiracy_of_Hearts",
@@ -17567,6 +19672,70 @@
           "01:43:15–01:43:32: Mother to the sisters before the firing squad: \"We come to this by serving God as we swore\"; the Our Father follows (01:45:01)",
           "File is a rough retranslation into English; names and wording approximate"
         ]
+      }
+    ]
+  },
+  {
+    "title": "The Holocaust in Italy",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Holocaust_in_Italy",
+    "accessed": "2026-10-12",
+    "claims": "Ferramonti di Tarsia among major camps; German occupation after 8 September 1943; 16 October 1943 Rome roundup, over 1,000 deported, all but 16 murdered; almost 8,600 deported to Auschwitz, all but about 1,000 murdered",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "conspiracy-of-hearts",
+        "status": "PUBLISH",
+        "title": "The Holocaust in Italy",
+        "claims": "Ferramonti di Tarsia among major camps; German occupation after 8 September 1943; 16 October 1943 Rome roundup, over 1,000 deported, all but 16 murdered; almost 8,600 deported to Auschwitz, all but about 1,000 murdered"
+      }
+    ]
+  },
+  {
+    "title": "Rescue of Jews by Catholics during the Holocaust",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rescue_of_Jews_by_Catholics_during_the_Holocaust",
+    "accessed": "2026-10-12",
+    "claims": "Martin Gilbert's figures: 477 Jews sheltered in the Vatican and its enclaves, 4,238 in Rome's monasteries and convents, October 1943; thousands sheltered in Catholic institutions across Italy",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "conspiracy-of-hearts",
+        "status": "PUBLISH",
+        "title": "Rescue of Jews by Catholics during the Holocaust",
+        "claims": "Martin Gilbert's figures: 477 Jews sheltered in the Vatican and its enclaves, 4,238 in Rome's monasteries and convents, October 1943; thousands sheltered in Catholic institutions across Italy"
+      }
+    ]
+  },
+  {
+    "title": "Novice",
+    "publisher": "Catholic Encyclopedia (1911), New Advent",
+    "url": "https://www.newadvent.org/cathen/11144a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Trent prescribes a full year of novitiate under penalty of nullity of profession; the novice retains full and entire liberty to leave",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "conspiracy-of-hearts",
+        "status": "PUBLISH",
+        "title": "Novice",
+        "claims": "Trent prescribes a full year of novitiate under penalty of nullity of profession; the novice retains full and entire liberty to leave"
+      }
+    ]
+  },
+  {
+    "title": "Mit brennender Sorge",
+    "publisher": "Holy See",
+    "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_14031937_mit-brennender-sorge.html",
+    "accessed": "2026-10-12",
+    "claims": "Encyclical of 14 March 1937; section 8 condemns divinising race, people or state to an idolatrous level",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "conspiracy-of-hearts",
+        "status": "PUBLISH",
+        "title": "Mit brennender Sorge",
+        "claims": "Encyclical of 14 March 1937; section 8 condemns divinising race, people or state to an idolatrous level"
       }
     ]
   },
@@ -18243,6 +20412,22 @@
     ]
   },
   {
+    "title": "Il suffit d'aimer",
+    "publisher": "Wikipédia (French)",
+    "url": "https://fr.wikipedia.org/wiki/Il_suffit_d'aimer",
+    "accessed": "2026-10-12",
+    "claims": "Screenplay by Gilbert Cesbron; music Maurice Thiriet; cinematography Marcel Weiss; producer Georges de La Grandière; release 4 February 1961; locations; lead cast",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "il-suffit-d-aimer-1961",
+        "status": "PUBLISH",
+        "title": "Il suffit d'aimer",
+        "claims": "Screenplay by Gilbert Cesbron; music Maurice Thiriet; cinematography Marcel Weiss; producer Georges de La Grandière; release 4 February 1961; locations; lead cast"
+      }
+    ]
+  },
+  {
     "title": "Hail Mary (film)",
     "publisher": "Wikipedia (supplementary)",
     "url": "https://en.wikipedia.org/wiki/Hail_Mary_(film)",
@@ -18641,6 +20826,22 @@
     ]
   },
   {
+    "title": "Judas Iscariot",
+    "publisher": "Catholic Encyclopedia (1910), New Advent",
+    "url": "https://www.newadvent.org/cathen/08539a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Gospel accounts of the motive and the thirty pieces; the theory that he wished to force a revolt rejected as contrary to Scripture and tradition",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "king-of-kings-1961",
+        "status": "GREY",
+        "title": "Judas Iscariot",
+        "claims": "Gospel accounts of the motive and the thirty pieces; the theory that he wished to force a revolt rejected as contrary to Scripture and tradition"
+      }
+    ]
+  },
+  {
     "title": "The day Jacques Rivette came face to face with censorship",
     "publisher": "Festival de Cannes",
     "url": "https://www.festival-cannes.com/en/2018/the-day-jacques-rivette-came-face-to-face-with-censorship/",
@@ -18753,6 +20954,22 @@
         "claims": [
           "Golden-age film about the Querétaro conspirators; characters look back on history; Bracho reconstructs the miracle of Tepeyac"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Miguel Hidalgo y Costilla",
+    "publisher": "Catholic Encyclopedia, New Advent",
+    "url": "https://www.newadvent.org/cathen/16045a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Guadalupe banner; excommunication by Abad y Queipo, Bishop-elect of Michoacán, followed by other bishops; degraded and shot at Chihuahua 30 July 1811",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "la-virgen-que-forjo-una-patria-1942",
+        "status": "GREY",
+        "title": "Miguel Hidalgo y Costilla",
+        "claims": "Guadalupe banner; excommunication by Abad y Queipo, Bishop-elect of Michoacán, followed by other bishops; degraded and shot at Chihuahua 30 July 1811"
       }
     ]
   },
@@ -19169,6 +21386,38 @@
           "01:36:38–01:36:46: 2 Timothy 1:9 read in voice-over: saved \"not because of anything we have done, but because of his own purpose and grace\"; no \"faith alone\" phrasing anywhere",
           "00:44:50 and 01:32:30: \"Love is the only way\"; \"They will know us by our love\""
         ]
+      }
+    ]
+  },
+  {
+    "title": "St. Paul",
+    "publisher": "Catholic Encyclopedia (1911), New Advent",
+    "url": "https://www.newadvent.org/cathen/11567b.htm",
+    "accessed": "2026-10-12",
+    "claims": "Martyrdom at Aquae Salviae under Nero; burial at San Paolo fuori le mura; feasts 29 and 30 June, Conversion 25 January; Luke alone with Paul at the end",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "paul-apostle-of-christ-2018",
+        "status": "PUBLISH",
+        "title": "St. Paul",
+        "claims": "Martyrdom at Aquae Salviae under Nero; burial at San Paolo fuori le mura; feasts 29 and 30 June, Conversion 25 January; Luke alone with Paul at the end"
+      }
+    ]
+  },
+  {
+    "title": "Council of Trent, Session VI (Decree on Justification)",
+    "publisher": "Papal Encyclicals Online",
+    "url": "https://www.papalencyclicals.net/councils/trent/sixth-session.htm",
+    "accessed": "2026-10-12",
+    "claims": "Chapter 8: nothing preceding justification, 'whether faith or works', merits its grace; canon 9 condemns justification by faith alone",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "paul-apostle-of-christ-2018",
+        "status": "PUBLISH",
+        "title": "Council of Trent, Session VI (Decree on Justification)",
+        "claims": "Chapter 8: nothing preceding justification, 'whether faith or works', merits its grace; canon 9 condemns justification by faith alone"
       }
     ]
   },
@@ -19637,6 +21886,22 @@
           "125 minutes; France/Germany; Pathé-Natan and Rapid Film; release 1 November 1929",
           "Georges Paulais as Nicolas Loyseleur"
         ]
+      }
+    ]
+  },
+  {
+    "title": "La Merveilleuse Vie de Jeanne d'Arc (French Wikipedia)",
+    "publisher": "Wikipedia",
+    "url": "https://fr.wikipedia.org/wiki/La_Merveilleuse_Vie_de_Jeanne_d%27Arc",
+    "accessed": "2026-10-12",
+    "claims": "Filming locations, 1995 VHS restoration, release 1 November 1929",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "saint-joan-the-maid-1929",
+        "status": "GREY",
+        "title": "La Merveilleuse Vie de Jeanne d'Arc (French Wikipedia)",
+        "claims": "Filming locations, 1995 VHS restoration, release 1 November 1929"
       }
     ]
   },
@@ -20653,6 +22918,118 @@
           "126 minutes, 35mm; Eden-Bar opposite the church vanishes to a North Sea island; press and marketing profit",
           "Influenced by La Dolce Vita; satire of the moral decay of the Wirtschaftswunder; dance round the golden calf; Malachias the most sympathetic figure; still modern and valid"
         ]
+      }
+    ]
+  },
+  {
+    "title": "Das Wunder des Malachias",
+    "publisher": "filmdienst.de (Katholisches Filmwerk / film-dienst)",
+    "url": "https://www.filmdienst.de/film/details/7944/das-wunder-des-malachias",
+    "accessed": "2026-10-12",
+    "claims": "Fd-Nummer 10317; short review: monk moves a disreputable bar to an island with God's help, consequences unpleasant for Church and society; many jabs at profiteering, pharisaism and hypocritical boom mentality; limited success, ideas overwhelm the dramaturgy; FSK ab 16; recommended from 16",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-miracle-of-father-malachia-1961",
+        "status": "GREY",
+        "title": "Das Wunder des Malachias",
+        "claims": "Fd-Nummer 10317; short review: monk moves a disreputable bar to an island with God's help, consequences unpleasant for Church and society; many jabs at profiteering, pharisaism and hypocritical boom mentality; limited success, ideas overwhelm the dramaturgy; FSK ab 16; recommended from 16"
+      }
+    ]
+  },
+  {
+    "title": "Das Wunder des Malachias",
+    "publisher": "filmportal.de (Deutsches Filminstitut)",
+    "url": "https://www.filmportal.de/en/node/24615",
+    "accessed": "2026-10-12",
+    "claims": "Credits: Pauck and Wicki, Marshall's Father Malachy's Miracle, camera Klaus von Rautenfeld (Gerd von Bonin), music Hans-Martin Majewski, producer Otto Meissner, Deutsche Film Hansa; cast and roles; FSK 4 July 1961 from 16; awards",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-miracle-of-father-malachia-1961",
+        "status": "GREY",
+        "title": "Das Wunder des Malachias",
+        "claims": "Credits: Pauck and Wicki, Marshall's Father Malachy's Miracle, camera Klaus von Rautenfeld (Gerd von Bonin), music Hans-Martin Majewski, producer Otto Meissner, Deutsche Film Hansa; cast and roles; FSK 4 July 1961 from 16; awards"
+      }
+    ]
+  },
+  {
+    "title": "Das Wunder des Malachias",
+    "publisher": "Wikipedia (German)",
+    "url": "https://de.wikipedia.org/wiki/Das_Wunder_des_Malachias",
+    "accessed": "2026-10-12",
+    "claims": "Plot: the Church wary of the miracle for fear of losing control or embarrassment; Lexikon des internationalen Films verdict; Friedrich Luft review",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-miracle-of-father-malachia-1961",
+        "status": "GREY",
+        "title": "Das Wunder des Malachias",
+        "claims": "Plot: the Church wary of the miracle for fear of losing control or embarrassment; Lexikon des internationalen Films verdict; Friedrich Luft review"
+      }
+    ]
+  },
+  {
+    "title": "Bruce Marshall (writer)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bruce_Marshall_(writer)",
+    "accessed": "2026-10-12",
+    "claims": "Born Edinburgh 1899, died 1987; Catholic from 1917; Father Malachy's Miracle 1931; stage adaptation by Brian Doherty; 1950 American television version",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-miracle-of-father-malachia-1961",
+        "status": "GREY",
+        "title": "Bruce Marshall (writer)",
+        "claims": "Born Edinburgh 1899, died 1987; Catholic from 1917; Father Malachy's Miracle 1931; stage adaptation by Brian Doherty; 1950 American television version"
+      }
+    ]
+  },
+  {
+    "title": "Dogmatic Constitution on the Catholic Faith (Vatican Council, Session 3)",
+    "publisher": "Papal Encyclicals Online",
+    "url": "https://www.papalencyclicals.net/councils/ecum20.htm",
+    "accessed": "2026-10-12",
+    "claims": "24 April 1870; chapter 3 on miracles as most certain signs of revelation; canon on miracles",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-miracle-of-father-malachia-1961",
+        "status": "GREY",
+        "title": "Dogmatic Constitution on the Catholic Faith (Vatican Council, Session 3)",
+        "claims": "24 April 1870; chapter 3 on miracles as most certain signs of revelation; canon on miracles"
+      }
+    ]
+  },
+  {
+    "title": "Miracle",
+    "publisher": "Catholic Encyclopedia (1911), New Advent",
+    "url": "https://www.newadvent.org/cathen/10338a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Primary ends of miracles the glory of God and good of men; attesting sanctity among secondary ends; not obliged to accept every alleged miracle; testimony to be examined",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-miracle-of-father-malachia-1961",
+        "status": "GREY",
+        "title": "Miracle",
+        "claims": "Primary ends of miracles the glory of God and good of men; attesting sanctity among secondary ends; not obliged to accept every alleged miracle; testimony to be examined"
+      }
+    ]
+  },
+  {
+    "title": "Simony",
+    "publisher": "Catholic Encyclopedia (1912), New Advent",
+    "url": "https://www.newadvent.org/cathen/14001a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Definition of simony; sacramentals among spiritual things; sale of blessed rosaries and crucifixes forbidden",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "the-miracle-of-father-malachia-1961",
+        "status": "GREY",
+        "title": "Simony",
+        "claims": "Definition of simony; sacramentals among spiritual things; sale of blessed rosaries and crucifixes forbidden"
       }
     ]
   },
@@ -21851,6 +24228,22 @@
           "1949 Italian historical drama; director Pietro Francisci; writers Raul De Sarro, Fiorenzo Fiorentini, Francisci; producer Mario Francisci; Oro Film; cinematography Mario Bava; music Carlo Innocenzi; released June 1949; 81 minutes",
           "Aldo Fiorelli as Fernando/Antonio; Silvana Pampanini; Carlo Giustini; Aldo Fabrizi as Ezzelino da Romano"
         ]
+      }
+    ]
+  },
+  {
+    "title": "St. Anthony of Padua",
+    "publisher": "Catholic Encyclopedia (1913), New Advent",
+    "url": "https://www.newadvent.org/cathen/01556a.htm",
+    "accessed": "2026-10-12",
+    "claims": "Death 13 June 1231, canonisation 30 May 1232 by Gregory IX, tongue found incorrupt 1263 before Bonaventure, Verona prisoners and Ezzelino legend",
+    "licensing": "Reference link only; no source text or image reproduction rights asserted.",
+    "films": [
+      {
+        "id": "antonio-di-padova-1949",
+        "status": "PUBLISH",
+        "title": "St. Anthony of Padua",
+        "claims": "Death 13 June 1231, canonisation 30 May 1232 by Gregory IX, tongue found incorrupt 1263 before Bonaventure, Verona prisoners and Ezzelino legend"
       }
     ]
   },
@@ -25135,28 +27528,6 @@
           "2/4; Miran remarkable; direction and narrative thin",
           "Spiritual message conveyed warmly; drama reduced to Church versus State",
           "Delannoy's Bernadette films more spiritually thoughtful"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Lourdes",
-    "publisher": "Catholic Encyclopedia (1910), New Advent",
-    "url": "https://www.newadvent.org/cathen/09389b.htm",
-    "accessed": "2026-10-11",
-    "claims": [
-      "Eighteen apparitions, 11 February to 16 July 1858",
-      "Bishop declared the faithful justified in believing the apparitions in 1862"
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
-    "films": [
-      {
-        "id": "je-m-appelle-bernadette-2011",
-        "status": "GREY",
-        "title": "Lourdes",
-        "claims": [
-          "Eighteen apparitions, 11 February to 16 July 1858",
-          "Bishop declared the faithful justified in believing the apparitions in 1862"
         ]
       }
     ]
@@ -30246,26 +32617,6 @@
           "Released 26-27 January 1940; 90 minutes; Warner Bros.",
           "Plot: Plunkett's cowardice; Duffy persuades Donovan to give him another chance; the patrol deaths; court-martial; Duffy refuses to help him desert; the shell; the mortar; Plunkett dies on a grenade to save Wynn",
           "Duffy, Donovan, Ames and Kilmer real members of the regiment; Camp Mills, the Rouge Bouquet, the Ourcq; technical adviser John T. Prout"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – November 1959",
-    "publisher": "National Legion of Decency (Internet Archive, motionpicturescl00nati, full text)",
-    "url": "https://archive.org/stream/motionpicturescl00nati/motionpicturescl00nati_djvu.txt",
-    "accessed": "2026-10-11",
-    "claims": [
-      "'Garden of Allah, The (Universal)' listed in Class A-I, 1936–37 (the distributor named as printed in the list)"
-    ],
-    "licensing": "Reference link only; no artwork permission implied.",
-    "films": [
-      {
-        "id": "the-garden-of-allah-1936",
-        "status": "PUBLISH",
-        "title": "Motion Pictures Classified by National Legion of Decency, February 1936 – November 1959",
-        "claims": [
-          "'Garden of Allah, The (Universal)' listed in Class A-I, 1936–37 (the distributor named as printed in the list)"
         ]
       }
     ]
