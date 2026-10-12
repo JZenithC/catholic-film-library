@@ -12,7 +12,7 @@ The standard is not a cut-off date. A film made in 2004 can meet it, and a film 
 
 Two rules follow from the standard. Each excludes a film outright, however good it is otherwise:
 
-- **(a) Saints.** A film is excluded if its subject is recognised as a saint or blessed only through a canonisation or beatification made after 1965.
+- **(a) Saints.** A film is excluded if its subject has no title of saint or blessed from before 1965 and has been declared one only by the post-conciliar popes. Those declarations are not accepted as canonisations or beatifications. Public text reports them as declarations ("the post-conciliar popes declared him blessed in 2005 and a saint in 2016; those declarations are not accepted here"), never as "beatified" or "canonised", and never gives such a person the title of saint or blessed.
 - **(b) The post-conciliar Church.** A film is excluded if its Catholic content is the post-conciliar Church presented as normal or exemplary: the new liturgy, religious life as reformed after the Council, or interreligious dialogue.
 
 A record excluded under one of these rules is REJECT, and its decision begins `REJECT: Scope (editorial ruling, 2026-10-11)` and says which rule applies. Where the editor applies the editorial position to a case the two rules do not settle on their own terms, the decision says `Editor ruling (2026-10-11)`. The editor can overturn any such ruling.

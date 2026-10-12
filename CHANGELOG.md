@@ -11,6 +11,7 @@
 - Further reading on every saint's page and on film pages: pre-1965 lives, the saints' own writings, the Douay-Rheims and papal documents, each link opened.
 - Five new guides: the Passion, Mexican and Spanish religious cinema, convents, the apostles, and missionaries.
 - New pages: Watching with children (`/family/`), New films (`/new/`) with an RSS feed (`/feed.xml`), and a printable list (`/print/`).
+- Rule (a) reworded. Beatifications and canonisations by the post-conciliar popes are reported as declarations and not accepted as such, and nobody is called saint or blessed on their strength. Films not included, How films are chosen, the collection notes and the film pages that mention Juan Diego, the Fátima children and the Korean martyrs now say this.
 
 ## 2026-10-12 — catalogue, editorial position and new sections
 
