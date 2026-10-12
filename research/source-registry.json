@@ -4304,7 +4304,7 @@
     "films": [
       {
         "id": "claret",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Claret (2020)",
         "claims": [
           "Original title Claret, alternative Esclavos y reyes; Spain; 2 h; Spanish release 24 September 2021; director, writer and producer Pablo Moreno; music Óscar M. Leanizbarrutia",
@@ -4329,7 +4329,7 @@
     "films": [
       {
         "id": "claret",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "La historia del Claret es la de una película de superhéroes (interview with Pablo Moreno)",
         "claims": [
           "Opens in Spanish cinemas 24 September 2021; Antonio Reyes (Claret), Carlos Cañas (Azorín), Alba Redondo/Recondo (Isabel II), Assumpta Serna",
@@ -4353,7 +4353,7 @@
     "films": [
       {
         "id": "claret",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Heroic founder of Claretian religious order subject of new film",
         "claims": [
           "Co-produced by Contracorriente Producciones, Three Columns Entertainment and the Claretians (interested party)",
@@ -4377,7 +4377,7 @@
     "films": [
       {
         "id": "claret",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Movie review: 'Slaves and Kings' looks at life of 19th-century Spanish saint",
         "claims": [
           "US title Slaves and Kings; English dub; framed by Azorín's 1930s investigation of calumnies",
@@ -4401,7 +4401,7 @@
     "films": [
       {
         "id": "claret",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Ven. Antonio María Claret y Clará",
         "claims": [
           "Born Sallent 23 December 1807, son of a small woollen manufacturer, a weaver at twelve; ordained 1835",
@@ -4421,7 +4421,7 @@
     "films": [
       {
         "id": "claret",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Claret (2021)",
         "claims": "Cast and characters (Reyes, Serna, Cleverdon, Arroyo, Escudero, Viña, Redondo); Spanish release."
       }
@@ -4437,9 +4437,41 @@
     "films": [
       {
         "id": "claret",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Anthony Mary Claret",
         "claims": "Dates of beatification and canonisation; Claretians 1849; Cuba; Holguín attempt."
+      }
+    ]
+  },
+  {
+    "title": "Claret (2020/2021): subtitle file (machine-translated English from French)",
+    "publisher": "subtitlecat.com (user-contributed subtitles; read for dialogue only)",
+    "url": "https://www.subtitlecat.com/subs/798/Saint%20Antoine-Marie%20CLARET%20%282020%29%20sous-titrage%20fran%E8%8E%BDais.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "00:02:19-00:05:29: frame story of 1930s Spanish writers reading a hostile anonymous review that calls Claret a libertine and a court intriguer",
+      "00:06:25-00:07:40: a Claretian priest, the postulator of his cause, asks a writer to tell 'the real Claret'",
+      "00:17:48-00:17:58: Claret quotes the Gospel on losing one's life and 'what is a man to win the world if he loses his soul'",
+      "00:38:30-00:41:14: in Cuba he preaches Luke 22 and John 8 (slave to sin) against slave sales after Mass",
+      "01:17:30-01:18:15: as Queen Isabella's confessor he will not absolve her unless she repents",
+      "01:29:39-01:30:04: Pius IX advises him to return to the Queen",
+      "01:50:50-01:51:21: he dies in exile in 1870; a closing line says 'for having loved justice and hated inequality'"
+    ],
+    "licensing": "Reference only.",
+    "films": [
+      {
+        "id": "claret",
+        "status": "PUBLISH",
+        "title": "Claret (2020/2021): subtitle file (machine-translated English from French)",
+        "claims": [
+          "00:02:19-00:05:29: frame story of 1930s Spanish writers reading a hostile anonymous review that calls Claret a libertine and a court intriguer",
+          "00:06:25-00:07:40: a Claretian priest, the postulator of his cause, asks a writer to tell 'the real Claret'",
+          "00:17:48-00:17:58: Claret quotes the Gospel on losing one's life and 'what is a man to win the world if he loses his soul'",
+          "00:38:30-00:41:14: in Cuba he preaches Luke 22 and John 8 (slave to sin) against slave sales after Mass",
+          "01:17:30-01:18:15: as Queen Isabella's confessor he will not absolve her unless she repents",
+          "01:29:39-01:30:04: Pius IX advises him to return to the Queen",
+          "01:50:50-01:51:21: he dies in exile in 1870; a closing line says 'for having loved justice and hated inequality'"
+        ]
       }
     ]
   },
@@ -12138,7 +12170,7 @@
     "films": [
       {
         "id": "saint-rita",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Saint Rita",
         "claims": [
           "DVD distributor: Vittoria Belvedere and Martin Crewes; Italian with English subtitles, English dub or Spanish subtitles; 14th-century wife who helps a knight convert, loses her family, enters a convent; 16-page booklet."
@@ -12158,7 +12190,7 @@
     "films": [
       {
         "id": "saint-rita",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "DVD Picks & Passes",
         "claims": [
           "Pick: engaging, edifying; crisp screenplay, solid performances, admirable production values; takes license with the few known facts, notably the arranged marriage against her wish for the convent; restrained menace and violence, possible threat of rape; prefer Italian audio with subtitles."
@@ -12178,7 +12210,7 @@
     "films": [
       {
         "id": "saint-rita",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Rita da Cascia (2004)",
         "claims": [
           "Italy 2004; director Giorgio Capitani; Vittoria Belvedere, Martin Crewes; 180 minutes; two-part television fiction combined."
@@ -12198,7 +12230,7 @@
     "films": [
       {
         "id": "saint-rita",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "St. Rita of Cascia",
         "claims": [
           "Longed to be a nun but married at twelve in obedience to her parents; eighteen years a wife; husband murdered; prayed her sons would not avenge him and they died reconciled to God; first refused by the Cascia Augustinians, admitted after pleading; canonised 24 May 1900."
@@ -12218,10 +12250,40 @@
     "films": [
       {
         "id": "saint-rita",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Saint Rita (film)",
         "claims": [
           "Canale 5, 2004; 200 minutes; writers Maura Nuccetelli and Elisabetta Lodoli; music Marco Frisina; cast list."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rita da Cascia (2004): subtitle file (machine-translated English)",
+    "publisher": "subtitlecat.com (user-contributed subtitles; read for dialogue only)",
+    "url": "https://www.subtitlecat.com/subs/1109/Rita%20da%20Cascia%20english.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "01:15:30-01:16:34: Rita prays to Jesus for help to love a murderer husband; a friar tells her only God teaches us to love",
+      "01:23:29-01:24:21: Paolo says he has killed and that God will not forgive him; Rita answers that his mercy is endless; he vows never to shed blood again",
+      "02:17:18-02:17:33: Rita's prayer that her sons be kept from murder and the loss of their souls",
+      "02:30:41-02:32:00: the sons repent of wishing to kill and die of fever",
+      "02:34:43-02:35:28: the prior will not admit her to the convent without a true vocation",
+      "03:17:35-03:22:54: she is found inside the locked convent, professes obedience, chastity and poverty, receives the stigma and asks for a rose and figs in winter"
+    ],
+    "licensing": "Reference only.",
+    "films": [
+      {
+        "id": "saint-rita",
+        "status": "PUBLISH",
+        "title": "Rita da Cascia (2004): subtitle file (machine-translated English)",
+        "claims": [
+          "01:15:30-01:16:34: Rita prays to Jesus for help to love a murderer husband; a friar tells her only God teaches us to love",
+          "01:23:29-01:24:21: Paolo says he has killed and that God will not forgive him; Rita answers that his mercy is endless; he vows never to shed blood again",
+          "02:17:18-02:17:33: Rita's prayer that her sons be kept from murder and the loss of their souls",
+          "02:30:41-02:32:00: the sons repent of wishing to kill and die of fever",
+          "02:34:43-02:35:28: the prior will not admit her to the convent without a true vocation",
+          "03:17:35-03:22:54: she is found inside the locked convent, professes obedience, chastity and poverty, receives the stigma and asks for a rose and figs in winter"
         ]
       }
     ]

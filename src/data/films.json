@@ -4526,12 +4526,8 @@
       "missionaries"
     ],
     "historicalPeriod": "19th century",
-    "status": "GREY",
-    "decision": "GREY: Identity, credits and outline are established (Cine con Ñ interview, DeCine21, Crux), and Claret was beatified in 1934 and canonised in 1950, so rule (a) does not apply. Every substantive review found comes from a Catholic outlet (DeCine21, El Debate, Filasiete, Cinemanet, Catholic Review) and the Claretians co-produced the film, so there is no independent assessment of its treatment; the makers' human-dignity framing of the Cuban years is unexamined. Year: 2020 is the production year given by DeCine21; first release was 24 September 2021 in Spain. Settled by a secular review or a check of the dialogue.",
-    "grey": {
-      "kind": "unverified",
-      "question": "No independent review exists of how Pablo Moreno's 2021 Spanish film treats Claret. The reviews so far all come from Catholic outlets, and his own congregation, the Claretians, co-produced it. Its publicity stresses his defence of enslaved people in Cuba and calls him a man for our time, so it is not yet clear that his preaching and priestly work stay at the centre."
-    },
+    "status": "PUBLISH",
+    "decision": "PUBLISH: Claret was beatified in 1934 and canonised in 1950, so rule (a) does not apply. The subtitle file (read 2026-10-12) settles the question the Catholic-only reviews left open: his preaching and priesthood stay at the centre. In Cuba he preaches against the slave trade from the Gospel, calling sin the real slavery (00:38:30-00:41:14). As Isabella II's confessor he refuses her absolution unless she repents (01:17:30-01:18:15), and Pius IX sends him back to court (01:29:39). The charge that he was a libertine belongs to the 1930s frame and is shown as slander. Only the closing caption, praising him for having loved justice and hated inequality, gives a social gloss, and it is a single line.",
     "summary": "Pablo Moreno's low-budget Spanish biography of St Anthony Mary Claret, framed by the writer Azorín's 1930s inquiry into the slanders that pursued the archbishop.",
     "synopsis": "In the 1930s the writer Azorín, who had once repeated the hostile legend about Archbishop Claret, discovers that the sources behind it were falsified and sets out to establish the truth, consulting Pío Baroja along the way. His inquiry frames the story of Claret's life. The son of a Catalan textile family, Claret chooses the priesthood, becomes a missionary preacher and founds a congregation. Sent to Cuba as Archbishop of Santiago, he defends enslaved people, makes powerful enemies and survives attempts on his life. Recalled to Madrid as confessor to Queen Isabel II, he is drawn into palace intrigue and the quarrels of the Carlist era while longing to return to the missions; a papal representative tells him to stay. The two timelines run in parallel, and Azorín's own exile is set beside Claret's.",
     "inclusion": "Claret is one of the most important Spanish saints of the nineteenth century, and this is the first feature film about him. Moreno's framing device is its best idea: the inquiry of Azorín, an anticlerical writer who came to defend the archbishop, gives the story an argument about how reputations are made and unmade. José María Aresté of DeCine21 found the device effective and praised Antonio Reyes as a Claret both spiritual and approachable, while noting a stock voice-over and abrupt jumps. John Mulderig of the Catholic Review found it informative but stiff, with awkward dialogue made worse by the English dub, and praised its portrait of Claret's opposition to slavery. Alba Recondo's Isabel II has been singled out by Spanish reviewers. The budget is visibly small. It is most useful for viewers who know little of Claret and want the outline of his life.",
@@ -4614,6 +4610,22 @@
         "url": "https://en.wikipedia.org/wiki/Anthony_Mary_Claret",
         "accessed": "2026-10-12",
         "claims": "Dates of beatification and canonisation; Claretians 1849; Cuba; Holguín attempt."
+      },
+      {
+        "title": "Claret (2020/2021): subtitle file (machine-translated English from French)",
+        "publisher": "subtitlecat.com (user-contributed subtitles; read for dialogue only)",
+        "url": "https://www.subtitlecat.com/subs/798/Saint%20Antoine-Marie%20CLARET%20%282020%29%20sous-titrage%20fran%E8%8E%BDais.html",
+        "accessed": "2026-10-12",
+        "claims": [
+          "00:02:19-00:05:29: frame story of 1930s Spanish writers reading a hostile anonymous review that calls Claret a libertine and a court intriguer",
+          "00:06:25-00:07:40: a Claretian priest, the postulator of his cause, asks a writer to tell 'the real Claret'",
+          "00:17:48-00:17:58: Claret quotes the Gospel on losing one's life and 'what is a man to win the world if he loses his soul'",
+          "00:38:30-00:41:14: in Cuba he preaches Luke 22 and John 8 (slave to sin) against slave sales after Mass",
+          "01:17:30-01:18:15: as Queen Isabella's confessor he will not absolve her unless she repents",
+          "01:29:39-01:30:04: Pius IX advises him to return to the Queen",
+          "01:50:50-01:51:21: he dies in exile in 1870; a closing line says 'for having loved justice and hated inequality'"
+        ],
+        "licensing": "Reference only."
       }
     ],
     "reviewed": "2026-10-11",
@@ -4691,7 +4703,8 @@
       }
     ],
     "watchChecked": "2026-10-12",
-    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
+    "grey": null
   },
   {
     "id": "a-man-for-all-seasons",
@@ -12561,18 +12574,14 @@
       "conversion"
     ],
     "historicalPeriod": "Middle Ages",
-    "status": "GREY",
-    "decision": "GREY: identity secure (FilmTV, Wikipedia, Ignatius); Rita was canonised in 1900, so neither hard rule applies, and nothing reported suggests post-conciliar framing. The only independent assessment is Greydanus's one-paragraph 'Pick' (NCR, 2007), which praises it but gives no account of its treatment beyond calling the arranged marriage a liberty (it is in fact traditional). Settles with a detailed review or a documented viewing of the Ignatius DVD covering Paolo's conversion and murder, Rita's prayer about her sons, her admission to the convent, the thorn wound and the presentation of her obedience in marriage.",
-    "grey": {
-      "kind": "unverified",
-      "question": "There is no full independent review of this film. Steven D. Greydanus gave the DVD a one-paragraph recommendation that praises it but says little about how it treats Rita's faith, and the one liberty he names, her arranged marriage, is the traditional account. As a modern Italian television production it cannot be assumed sound. A detailed review covering Paolo's conversion and murder, Rita's prayer about her sons, her admission to the convent and the wound of the thorn would settle it."
-    },
+    "status": "PUBLISH",
+    "decision": "PUBLISH: Rita was canonised in 1900, so neither exclusion rule applies. Greydanus recommended the film (NCR, 2007), and the subtitle file of the two-part version (read 2026-10-12) settles how it treats her faith. Paolo's conversion comes through Rita's prayer and patience (01:15:30-01:24:21). She prays that her sons be kept from murder and the loss of their souls, and they repent before dying (02:17:18-02:32:00). The prior refuses her without proof of a vocation, and she is found inside the locked convent, professes the three vows and receives the wound of the thorn (02:34:43-03:22:54). There is no modern framing. The courtship before the marriage is invented.",
     "summary": "Lux Vide's two-part Italian television life of Rita of Cascia: unwilling bride, peacemaking wife and widow, and finally Augustinian nun, amid the blood feuds of fourteenth-century Umbria.",
     "synopsis": "Rita Lotti, the only child of elderly parents in the hills above Cascia, wants to become a nun, but her parents arrange her marriage to Paolo Mancini, a hot-tempered young man from a family caught up in local feuds. Through patience and prayer she draws him away from violence, and they raise two sons. The feud does not end with his change of heart. After she loses her husband and her sons, Rita seeks admission to the Augustinian convent in Cascia, where she must first make peace between the families before she can begin her life as a religious.",
     "inclusion": "It is the fullest screen life of Rita of Cascia, one of the most popular saints of Italian devotion. Vittoria Belvedere plays Rita from girlhood to old age, and Mgr Marco Frisina, the Roman priest-composer, wrote the score. Steven D. Greydanus gave the Ignatius Press DVD a short 'Pick' in the National Catholic Register, calling it engaging and edifying, with a crisp screenplay, solid performances and good production values, and comparing its feud plot to The Godfather. He recommended the Italian soundtrack with subtitles over the English dub.",
     "themes": "The film concerns forgiveness in a culture of vendetta: a wife who draws her husband away from violence, a mother who wants her sons to forgive their father's killers, and a widow who enters religious life only after reconciling the feuding families. Marriage, motherhood and the convent appear as stages of one vocation, which is the traditional shape of Rita's life. Greydanus raises no doctrinal objection.",
     "history": "Rita (c. 1381–1457; the 1912 Catholic Encyclopedia gives 1386–1456) was married at twelve, saw her husband murdered and prayed that her sons would not avenge him. Refused at first by the Augustinians of Cascia, she was admitted after persistent pleading.",
-    "liberties": "Greydanus says the film takes licence with the few known facts and singles out the arranged marriage against her wish for the convent, though that marriage is the traditional account given by the Catholic Encyclopedia.",
+    "liberties": "The film gives Rita and Paolo a courtship before their marriage. The traditional account, given by the Catholic Encyclopedia, is that her parents arranged the marriage against her wish to enter the convent. The thorn wound is shown only in its result, and an end caption names the wrong pope for her 1628 beatification (Urban VII for Urban VIII).",
     "advisories": "Restrained menace and violence, including killings in a feud and a possible threat of rape.\n\nSuitable for older children and up with parents; not rated.\n\nItalian with English subtitles, or an English dub.",
     "sources": [
       {
@@ -12624,6 +12633,21 @@
           "Canale 5, 2004; 200 minutes; writers Maura Nuccetelli and Elisabetta Lodoli; music Marco Frisina; cast list."
         ],
         "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Rita da Cascia (2004): subtitle file (machine-translated English)",
+        "publisher": "subtitlecat.com (user-contributed subtitles; read for dialogue only)",
+        "url": "https://www.subtitlecat.com/subs/1109/Rita%20da%20Cascia%20english.html",
+        "accessed": "2026-10-12",
+        "claims": [
+          "01:15:30-01:16:34: Rita prays to Jesus for help to love a murderer husband; a friar tells her only God teaches us to love",
+          "01:23:29-01:24:21: Paolo says he has killed and that God will not forgive him; Rita answers that his mercy is endless; he vows never to shed blood again",
+          "02:17:18-02:17:33: Rita's prayer that her sons be kept from murder and the loss of their souls",
+          "02:30:41-02:32:00: the sons repent of wishing to kill and die of fever",
+          "02:34:43-02:35:28: the prior will not admit her to the convent without a true vocation",
+          "03:17:35-03:22:54: she is found inside the locked convent, professes obedience, chastity and poverty, receives the stigma and asks for a rose and figs in winter"
+        ],
+        "licensing": "Reference only."
       }
     ],
     "reviewed": "2026-10-11",
@@ -12693,7 +12717,8 @@
     ],
     "watchChecked": "2026-10-12",
     "alternateTitles": [],
-    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
+    "grey": null
   },
   {
     "id": "saint-philip-neri",
@@ -14858,6 +14883,14 @@
     },
     "doctrine": "Thérèse entered the Carmel at Lisieux on 9 April 1888. The Carmelite life is enclosed prayer and penance offered for sinners and for priests, as she offered hers for the murderer Pranzini, executed in 1887. Her 'little way' of spiritual childhood is trust, humility and love in small duties. In her day the sisters received Holy Communion only a few times a week. Pius X's decree Sacra Tridentina (1905) encouraged frequent and daily Communion, and his decree Quam singulari (1910) lowered the age of First Communion to the age of reason. The Church teaches the Real Presence in the Eucharist (Council of Trent, Session 13, 1551), which is why the dropped host in the film matters. She was beatified in 1923 and canonised by Pius XI on 17 May 1925, and he declared her patroness of the missions in 1927.",
     "production": "Cavalier visited the Lisieux Carmel and spoke with its sisters but did not film there. It was shown at Cannes in 1986, where it won the Jury Prize. At the 1987 César Awards it won five: best film, screenplay, cinematography and editing, and most promising actress for Mouchet. Pauline Kael wrote that the viewer was 'trapped inside his glass bubble'.",
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "LaCinetek (France), rent or buy VOD, French, no subtitles",
+        "url": "https://www.lacinetek.com/fr/film/therese-alain-cavalier-alain-cavalier-vod"
+      }
+    ],
+    "watchChecked": "2026-10-12",
     "alternateTitles": [],
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
@@ -16678,7 +16711,7 @@
     },
     "doctrine": "Catherine was canonised by Pius II in 1461 and Pius XII named her a patron of Italy in 1939 together with St Francis. Her feast is 30 April (the 1962 calendar). The film touches the Mantellate, the lay branch of the Dominican Third Order, whose members live at home under the Dominican rule. It also touches the Church's teaching on the Roman Pontiff as Christ's vicar: Catherine's letters call him 'the sweet Christ on earth' and urge Gregory XI to return from Avignon, which he did in January 1377. Her stigmata are held by Dominican tradition to have been invisible during her life.",
     "production": "Cigno Film made the picture in Italy in 1947 on a small budget, from a subject by Fernando Leonardi. The censor's certificate is dated 12 December 1947. The distributor was Indipendenti Regionali. The Italian Catholic Film Centre passed it for all audiences in public cinemas. One Tuscan source describes it as a 'fascist film that never saw the light'.",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced.",
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
     "grey": null
   },
   {
@@ -20813,7 +20846,7 @@
     "legion": {
       "rating": "A-I"
     },
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "lourdes-et-ses-miracles-1955",
@@ -22216,7 +22249,7 @@
     },
     "doctrine": "The Church counts as martyrs those killed out of hatred for the Faith, and the 1597 victims were canonised by Pius IX, with the usual process of beatification first (Urban VIII had beatified them in 1627). A martyr dies for the Faith and forgives his killers; the Roman Catechism, treating the Creed's article on the communion of saints, teaches that the saints in heaven may be invoked, for they pray for us. Tertullian's saying that the blood of martyrs is the seed of Christians was borne out: the Japanese Christians went underground and kept the Faith for over two centuries without priests, until they were found at Nagasaki in 1865. Third Order membership, shown in the film, is the lay association of Franciscan tertiaries, approved by the Holy See.",
     "production": "Nikkatsu made the film in 1931 for Seiju Hirayama, a Catholic landowner who invested a large part of his own fortune in it. The budget was reported at 300,000 yen. Tomiyasu Ikeda directed, after a book by Aimé Villion. The original ran about 152 minutes. It was generally well received by film critics and the Japanese Catholic hierarchy. Hirayama toured the United States with it despite racist opposition, and it was also shown in Europe.",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced.",
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
     "grey": null
   },
   {
@@ -22951,7 +22984,7 @@
       }
     ],
     "watchChecked": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced.",
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
     "grey": null
   },
   {
@@ -24505,7 +24538,7 @@
     ],
     "watchChecked": "2026-10-12",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "ad-anno-domini-1985",
@@ -24868,7 +24901,7 @@
       }
     ],
     "watchChecked": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced.",
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
     "grey": null
   },
   {
@@ -25847,7 +25880,7 @@
     },
     "doctrine": "The Gospel Passion is the whole subject. The Catholic Encyclopedia (1911) traces the history of church drama to a tenth-century Easter trope, through the thirteenth-century Benedictbeurn play, to the height of the Passion play between 1400 and 1515. It records that in 1471 the Bishop of Havelberg ordered his clergy to suppress Passion plays because crude farces had been added, and that the Parliament of Paris banned the Mysteries of the Passion in 1548 and the Synod of Strasbourg opposed religious plays in 1549.",
     "production": "Express-Film made the film in Germany in 1921, with Dimitri Buchowetzki directing. Both leads came from the family's Freiburg company. In 1921 the Oberammergau players sued over the use of their name, and the film was released as Der Galiläer, a mystery in five acts. The German premiere was put off until 1923. In the United States it appeared in the mid-1920s as The Passion Play and helped launch the Fassnachts' 1929 tour; the company performed the play at the New York Hippodrome that year. The film survives as a tinted print of about 45 minutes, restored in 1996 by the Bundesarchiv-Filmarchiv.",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced.",
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
     "grey": null
   },
   {
@@ -26367,7 +26400,7 @@
       }
     ],
     "watchChecked": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced.",
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
     "grey": null
   },
   {
@@ -27749,7 +27782,7 @@
     "doctrine": "The film follows the traditional Franciscan sequence. Clare left her father's house on the night after Palm Sunday in Lent 1212, and San Damiano became the first monastery of the Second Order, now known as the Poor Clares. Gregory IX canonised Francis on 16 July 1228, and his feast is kept on 4 October. The stigmata, received on or about the feast of the Exaltation of the Cross (14 September), are celebrated separately on 17 September. The Catholic Encyclopedia notes that the early history of the Portiuncula is uncertain.",
     "production": "Frate Sole (1918) was directed by Ugo Falena and Mario Corsi. Its four episodes are titled the kiss of the leper, the footsteps of St Francis, Time, and the stigmata. It was distributed abroad through Essanay and the General Film Company.",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "giovanna-d-arco-al-rogo-1954",
@@ -29933,7 +29966,7 @@
       }
     ],
     "watchChecked": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced.",
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
     "grey": null
   },
   {
@@ -30570,7 +30603,7 @@
       "question": "Raúl de Anda's 1947 Los cristeros is a love-triangle melodrama set in the Cristero War, and its attitude to the Church is disputed. The writer Hugo Gutiérrez Vega says it softened José Guadalupe de Anda's novel so as not to offend the Church; the critic Daniel Sendrós relays summaries in which the people of Jalisco were deceived by the clergy. No dialogue, review of the film itself or viewing copy has been found, so the stance of the film is unknown. A viewer should treat it as a Cristero-war setting, not a vindication of the Cristeros."
     },
     "reviewed": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "los-jueves-milagro-1957",
@@ -31909,6 +31942,19 @@
     },
     "doctrine": "The film's unworthy priest raises the question the Council of Trent answered. Session 7, canon 12, condemns the opinion that a minister in mortal sin who observes all the essentials does not confer a sacrament, so the sin of a priest does not void his sacramental acts, though it is a grievous sin against his office. The film's faithful priest acts on Trent's Session 14, chapter 7, under which at the point of death all priests may absolve every penitent from every sin and censure, so Lamadrid's insistence on bringing confession to a dying girl in a brothel is the priest's duty. The setting is the Mexican persecution: Pius XI's Iniquis afflictisque (18 November 1926) described the laws that limited and registered priests, the jailing of some and attacks on others at Mass, and praised the clergy who refused to obey them under the rule that one must obey God rather than men.",
     "production": "This Mexican black-and-white drama runs 112 minutes. It premiered in Mexico on 2 October 1958 and was entered in the Berlin International Film Festival.",
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "Apple TV (US), rent or buy, Spanish with English subtitles",
+        "url": "https://tv.apple.com/us/movie/ash-wednesday/umc.cmc.3hje1zvp3a2jp1xkrup727uef"
+      },
+      {
+        "kind": "stream",
+        "label": "Apple TV (Mexico), rent or buy",
+        "url": "https://tv.apple.com/mx/movie/miercoles-de-ceniza/umc.cmc.3hje1zvp3a2jp1xkrup727uef"
+      }
+    ],
+    "watchChecked": "2026-10-12",
     "alternateTitles": [],
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
@@ -32252,6 +32298,14 @@
     },
     "doctrine": "The ending turns on the matter of the Eucharist. The Catholic Encyclopedia gives the valid matter as unadulterated wheat flour, mixed with natural water and baked, and notes that unleavened bread is the uniform practice in the Western Church; the wine must be the naturally fermented juice of the grape. The Council of Trent set out Eucharistic doctrine in Sessions XIII, XXI and XXII, the last on the sacrifice of the Mass. Without the matter there is no consecration, so the priest's good intention does not make the sacrifice.",
     "production": "Thames Television made the film for ITV from Greene's 1982 novel, a comic pastiche of Cervantes' Don Quixote. It was shot in Spain about ten years after Franco's death, in locations Greene had written about, including the Valley of the Fallen. It was first shown in Germany on Christmas Eve 1986, and on PBS in the United States in Great Performances on 13 February 1987. It was shortlisted for the 1986 BAFTA for best single television drama, and Alec Guinness received a BAFTA nomination for best actor. Sources variously date the film to 1985 and 1987.",
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "Amazon Prime Video (Germany), rent or buy, German title Monsignore Quixote",
+        "url": "https://www.amazon.de/gp/video/detail/0IIPWZDQL4N7V3QN6ZZV8A24NK"
+      }
+    ],
+    "watchChecked": "2026-10-12",
     "alternateTitles": [],
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
@@ -32634,6 +32688,14 @@
     },
     "doctrine": "The historical case against him was not a general quarrel with the Church. He was denounced to the Inquisition for heretical points, propositions 'smacking of heresy', in his sermons, conversations and writings, and jailed at Coimbra from October 1665 to December 1667, with a sentence barring him from teaching, writing or preaching. The matter was his belief in the prophecies of the shoemaker-poet Bandarra, which foretold a Fifth Empire (Quinto Império) under a Portuguese ruler. In the Clavis Prophetarum he tried to support this from Scripture. Vieira then went to Rome. He returned to Portugal in 1681 with a papal bull exempting him from the grand inquisitor's jurisdiction. The film's picture of the Holy Office as a persecutor of social reformers should be read against that narrower charge.",
     "production": "This is Oliveira's second tribute to Vieira. The same Sermon of St Anthony, in the series Vieira dedicated to the saint, was used in his earlier film No, or the Vain Glory of Command. The film was shown in competition at the 2000 Venice Film Festival and opened in Portugal on 17 November 2000, running about 130 minutes. It won the Best Director prize at the Portuguese Golden Globes. It reached the United States only in limited screenings.",
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "Filmin (Spain), subscription, Portuguese with Spanish subtitles",
+        "url": "https://www.filmin.es/pelicula/palabra-y-utopia"
+      }
+    ],
+    "watchChecked": "2026-10-12",
     "alternateTitles": [],
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
@@ -33561,7 +33623,7 @@
     "doctrine": "The Catholic Encyclopedia (1912) records that Rose of Lima was born on 20 April 1586 and died on 30 August 1617, which is also her feast. She vowed virginity and was devoted to the Blessed Sacrament. On penance the Catholic Encyclopedia article on Asceticism (1907) teaches that it is a means of holiness and not its measure: virtue is not to be judged by bodily austerities, prudence must govern them, and the saints' extraordinary mortifications are not proposed for imitation.",
     "production": "Rosa mística is a Peruvian film of 2018, directed by Augusto Tamayo. Alberto Ísola, Hernán Romero, Jorge Chiarella and Bruno Odar play the priests who advise Rosa. A review of 5 September 2018 describes it as presenting her as a devout woman who may also have had mental health problems.",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "saint-paul-2000",
@@ -34249,6 +34311,14 @@
     },
     "doctrine": "The climax turns on baptism, which the Church teaches is necessary for salvation. Trent, Session 7, canon 5, anathematises anyone who denies it, and the Catholic Encyclopedia reads John 3 as admitting no exception for infants. In danger of death anyone may baptise, as the Council of Florence's Decree for the Armenians allows, 'not only a priest or deacon, but even a layman or woman', using water and the form 'I baptize thee in the name of the Father and of the Son and of the Holy Ghost' with the intention of doing what the Church does. Sor María's death for the sake of a child's baptism also fits the Church's teaching on martyrdom, though the film does not present her as a martyr in the strict sense.",
     "production": "Sor intrépida was made in 1952 by Aspa Producciones Cinematográficas. Mercurio Films distributed it, and it opened in Spain on 10 November 1952 at about 85 minutes. It was known abroad as The Song of Sister Maria or Path to the Kingdom.",
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "FlixOle (Spain), subscription, Spanish",
+        "url": "https://ver.flixole.com/watch/f627d32f-d640-4cbd-bb26-3f32dad297da"
+      }
+    ],
+    "watchChecked": "2026-10-12",
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
     "grey": null
   },
@@ -34884,7 +34954,7 @@
       }
     ],
     "watchChecked": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "the-big-fisherman-1959",
@@ -37266,7 +37336,7 @@
       "rating": "A-I"
     },
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced.",
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
     "grey": null
   },
   {
@@ -37601,7 +37671,7 @@
     ],
     "watchChecked": "2026-10-12",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced.",
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
     "grey": null
   },
   {
@@ -39737,7 +39807,7 @@
     "legion": {
       "rating": "A-I"
     },
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced.",
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
     "grey": null
   },
   {
@@ -40637,7 +40707,7 @@
     "doctrine": "Pius IX defined the Immaculate Conception on 8 December 1854 in Ineffabilis Deus: Mary was preserved free from all stain of original sin from the first instant of her conception. Bernadette reported her apparitions between 11 February and 16 July 1858, and her reports were declared worthy of belief in 1862. She died at Nevers on 16 April 1879. Pius XI beatified her in 1925 and canonised her on 8 December 1933.",
     "production": "The cast list comes from TheTVDB, a user-edited database. Silent Era lists the film as a 1929 French black-and-white silent documentary, also called Bernadette, Messenger of the Blessed Virgin Mary in the United States, with no director or cast. The Irish Catholic notes that Pallu made it three years after 1926.",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "la-virgen-de-guadalupe-1976",
@@ -41241,6 +41311,14 @@
       }
     ],
     "reviewed": "2026-10-11",
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "Apple TV (Mexico), rent or buy, Spanish",
+        "url": "https://tv.apple.com/mx/movie/marcelino-pan-y-vino/umc.cmc.o9m3atz559trmhmi4o0y3xp3"
+      }
+    ],
+    "watchChecked": "2026-10-12",
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
@@ -41616,6 +41694,19 @@
       }
     ],
     "reviewed": "2026-10-11",
+    "watch": [
+      {
+        "kind": "disc",
+        "label": "DVD, Ignatius Press (EWTN film, region 1), about 90 min",
+        "url": "https://ignatius.com/mother-cabrini-mcabm/"
+      },
+      {
+        "kind": "disc",
+        "label": "DVD, EWTN Religious Catalogue, closed captions",
+        "url": "https://www.ewtnreligiouscatalogue.com/mother-cabrini-dvd/p/HVCABD"
+      }
+    ],
+    "watchChecked": "2026-10-12",
     "alternateTitles": [],
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
@@ -41893,7 +41984,15 @@
     },
     "production": "It is a Spanish colour production of 101 minutes. The 4enoch wiki gives its Spanish release as 29 April 1974.",
     "doctrine": "The Roman Catechism, in its article on the Passion, places the Crucifixion under Pontius Pilate and Tiberius and teaches that sinners of every age were the chief cause of Christ's death; it names both Gentiles and Jews as 'the advisers, the authors, the ministers of His Passion', and says baptised sinners who live in sin bear a greater guilt than the Jews.",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "FlixOle (Spain), subscription, Spanish",
+        "url": "https://ver.flixole.com/watch/6df74279-f5b0-4daa-8d51-afb574e92884"
+      }
+    ],
+    "watchChecked": "2026-10-12",
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "reina-de-reinas-1948",
@@ -42023,7 +42122,7 @@
     },
     "production": "This is a Mexican black-and-white film. Wikipedia says it was filmed in 1945 and released in 1948. TheTVDB lists a cast of eighteen, with Eduardo Arozamena as Caiaphas.",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "saint-barbara-2012",
@@ -42180,6 +42279,14 @@
       }
     ],
     "reviewed": "2026-10-11",
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "RaiPlay (Italy), free, Italian",
+        "url": "https://www.raiplay.it/programmi/santabarbara"
+      }
+    ],
+    "watchChecked": "2026-10-12",
     "alternateTitles": [],
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
     "grey": null
@@ -42724,7 +42831,7 @@
       "question": "Argentine state television's 1981 Bernadette, with Andrea del Boca, survives in an archive upload: chapter 1 is available in two long parts and follows the Lourdes story faithfully as far as the healing at the spring. The other chapters have not been located, no critic has reviewed it, and the credits (director Nicolás del Boca, a four-part series) rest on a filmography. Its treatment of the later apparitions, the Immaculate Conception and Bernadette's life at Nevers is unknown. Locating the remaining chapters, or an Argentine review, would settle it."
     },
     "reviewed": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "bienvenido-padre-murray-1964",
@@ -42827,7 +42934,7 @@
       }
     ],
     "reviewed": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "bruder-klaus-1991",
@@ -43169,7 +43276,15 @@
       }
     ],
     "reviewed": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced.",
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "Apple TV (Germany), rent or buy, German title Kyrill & Method - Der Kampf der Konfessionen",
+        "url": "https://tv.apple.com/de/movie/kyrill--method---der-kampf-der-konfessionen/umc.cmc.1si9deqf3fsbpvt0wuvckjhxj"
+      }
+    ],
+    "watchChecked": "2026-10-12",
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
     "grey": null
   },
   {
@@ -43574,7 +43689,7 @@
     ],
     "reviewed": "2026-10-12",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "don-lucio-y-el-hermano-pio-1960",
@@ -43647,7 +43762,7 @@
     },
     "reviewed": "2026-10-12",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "el-cristo-del-oceano-1971",
@@ -43796,6 +43911,14 @@
       }
     ],
     "reviewed": "2026-10-12",
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "FlixOle (Spain), subscription, Spanish",
+        "url": "https://ver.flixole.com/watch/9a9ed588-d06a-424b-8f73-effc2cdef5b4"
+      }
+    ],
+    "watchChecked": "2026-10-12",
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
@@ -44307,7 +44430,7 @@
     ],
     "reviewed": "2026-10-12",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "jeanne-2019",
@@ -44463,6 +44586,19 @@
       }
     ],
     "reviewed": "2026-10-12",
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "Kanopy (free with a participating library card), French",
+        "url": "https://www.kanopy.com/en/product/justwatch-11514086"
+      },
+      {
+        "kind": "stream",
+        "label": "Hoopla (free with a library card), KimStim, French",
+        "url": "https://www.hoopladigital.com/movie/16147083"
+      }
+    ],
+    "watchChecked": "2026-10-12",
     "alternateTitles": [],
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
@@ -44591,7 +44727,7 @@
       }
     ],
     "reviewed": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "jesus-1973",
@@ -44856,6 +44992,19 @@
       }
     ],
     "reviewed": "2026-10-12",
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "Hoopla (free with a library card), English",
+        "url": "https://www.hoopladigital.com/movie/11650660"
+      },
+      {
+        "kind": "stream",
+        "label": "Apple TV (US), rent or buy",
+        "url": "https://tv.apple.com/us/movie/joseph--mary/umc.cmc.1bhb3y31kjp1oos4k36n4jki8"
+      }
+    ],
+    "watchChecked": "2026-10-12",
     "alternateTitles": [],
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
@@ -44990,7 +45139,7 @@
     ],
     "reviewed": "2026-10-12",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "l-affaire-lourdes-1967",
@@ -45099,7 +45248,7 @@
       }
     ],
     "reviewed": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "la-orilla-1971",
@@ -45240,7 +45389,7 @@
     ],
     "reviewed": "2026-10-12",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "la-porta-del-cielo-1945",
@@ -45409,7 +45558,7 @@
       }
     ],
     "reviewed": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "la-vie-de-jesus-1951",
@@ -46347,7 +46496,7 @@
       "question": "This 1946 Mexican biblical film opens with an invented story: an Egyptian prince steals the emerald of Isis for the courtesan Mary of Magdala, who has lovers and flogs a slave, and Judas is her rejected suitor. Only then does she meet Christ, who drives seven evil spirits from her. The Gospel scenes that follow, from the house of Simon the Pharisee to the Resurrection, use Scripture closely. The film is dedicated to Scripture, but its pagan, sensual first act is not in the Gospels. No Catholic rating of the time or review of its staging has been found."
     },
     "reviewed": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "mass-of-the-ages",
@@ -46506,7 +46655,7 @@
     ],
     "watchChecked": "2026-10-12",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "milagro-de-amor-1946",
@@ -46626,7 +46775,7 @@
     ],
     "reviewed": "2026-10-12",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "monseigneur-lefebvre-un-eveque-dans-la-tempete-2012",
@@ -46870,7 +47019,7 @@
       }
     ],
     "reviewed": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced.",
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
     "grey": null
   },
   {
@@ -47108,7 +47257,7 @@
       }
     ],
     "reviewed": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "risen-2016",
@@ -47355,7 +47504,13 @@
         ]
       }
     ],
-    "watch": [],
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "CANAL+ (France), subscription or Canal VOD rental, French",
+        "url": "https://www.canalplus.com/cinema/sacre-coeur/h/30508537_50001"
+      }
+    ],
     "watchChecked": "2026-10-12",
     "sources": [
       {
@@ -47411,7 +47566,7 @@
       }
     ],
     "reviewed": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "saint-joan-1967",
@@ -47540,7 +47695,7 @@
       }
     ],
     "reviewed": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "san-francisco-de-asis-1944",
@@ -47682,7 +47837,7 @@
     ],
     "reviewed": "2026-10-12",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "san-gabriele-2001",
@@ -48139,6 +48294,19 @@
       }
     ],
     "reviewed": "2026-10-12",
+    "watch": [
+      {
+        "kind": "disc",
+        "label": "DVD, Ignatius Press (EWTN/Cristiana Video docudrama), about 60 min",
+        "url": "https://ignatius.com/saint-francis-xavier-sfxm/"
+      },
+      {
+        "kind": "disc",
+        "label": "DVD, EWTN Religious Catalogue, closed captions",
+        "url": "https://www.ewtnreligiouscatalogue.com/saint-francis-xavier-to-the-ends-of-the-earth-dvd/p/HV00SFXD"
+      }
+    ],
+    "watchChecked": "2026-10-12",
     "alternateTitles": [],
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
@@ -48308,6 +48476,14 @@
       }
     ],
     "reviewed": "2026-10-12",
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "Amazon Prime Video (Germany), rent or buy, German title Himmel und Hoelle - Bleibt gut, wenn ihr koennt!",
+        "url": "https://www.amazon.de/gp/video/detail/0GQL47YYBM0IMCYMYT572A2P4J"
+      }
+    ],
+    "watchChecked": "2026-10-12",
     "alternateTitles": [],
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
@@ -48640,6 +48816,19 @@
       }
     ],
     "reviewed": "2026-10-12",
+    "watch": [
+      {
+        "kind": "stream",
+        "label": "Filmin (Spain), subscription, Spanish",
+        "url": "https://www.filmin.es/pelicula/teresa"
+      },
+      {
+        "kind": "stream",
+        "label": "Looke (Brazil), subscription, dubbed or subtitled",
+        "url": "https://www.looke.com.br/detalhes/471672"
+      }
+    ],
+    "watchChecked": "2026-10-12",
     "alternateTitles": [],
     "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
@@ -49801,7 +49990,7 @@
       }
     ],
     "reviewed": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   },
   {
     "id": "xavier-missionary-and-saint-2006",
@@ -50055,6 +50244,6 @@
     ],
     "reviewed": "2026-10-12",
     "alternateTitles": [],
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
   }
 ]
