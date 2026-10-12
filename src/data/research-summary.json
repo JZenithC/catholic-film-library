@@ -1,11 +1,11 @@
 {
   "initial": 121,
-  "candidates": 417,
-  "additional": 296,
-  "recommended": 100,
-  "grey": 138,
-  "hold": 14,
-  "reject": 165,
+  "candidates": 489,
+  "additional": 368,
+  "recommended": 105,
+  "grey": 188,
+  "hold": 25,
+  "reject": 171,
   "countries": [
     "Austria",
     "Belgium",
@@ -20,6 +20,8 @@
     "Morocco",
     "Philippines",
     "Portugal",
+    "Russia",
+    "Slovakia",
     "South Korea",
     "Spain",
     "Switzerland",
@@ -27,7 +29,5 @@
     "United States",
     "West Germany"
   ],
-  "emptyCollections": [
-    "The Spanish Civil War"
-  ]
+  "emptyCollections": []
 }

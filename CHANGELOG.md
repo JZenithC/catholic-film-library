@@ -4,10 +4,12 @@
 
 ### Catalogue
 
-- 238 public films: 97 recommended and 141 in the grey area. Rejected lost films, unattested entries and films about modern or unapproved apparitions.
+- 293 public films: 105 recommended and 188 in the grey area. Rejected lost films, unattested entries and films about modern or unapproved apparitions.
+- 72 further films researched, among them silent lives of saints, Mexican, Spanish and Italian religious films of the 1940s and 1950s, and recent biblical and saints' films: 55 added (5 recommended, 50 grey), 11 held and 6 rejected.
 - Film pages have cast and crew, an age band with reasons, theological notes citing pre-conciliar authorities, "The history behind it" and "Making the film".
-- Legion of Decency ratings for 66 films, each from the Legion's 1959 cumulative list or the trade press tables, shown in the facts panel.
-- "Where to watch" on 101 film pages: free public-domain copies, disc editions and streaming, with the date checked.
+- Legion of Decency ratings for 72 films, each from the Legion's 1959 cumulative list or the trade press tables, shown in the facts panel.
+- "Where to watch" on 108 film pages: free public-domain copies, disc editions and streaming, with the date checked.
+- Grey-area films with no independent review were checked against their dialogue where subtitles exist. Several moved to recommended, among them My Name Is Bernadette, Marie de Nazareth and Cyril and Methodius: The Apostles of the Slavs; the rest keep their reservation with the relevant lines cited.
 - Every film page was copy-edited for plain, specific prose.
 
 ### Editorial position
@@ -22,7 +24,7 @@
 - Saints (`/saints/`): 48 saints and blessed with dates, 1962 feast days, a short life and their films.
 - Calendar (`/calendar/`): films for each month's feasts, plus Lent, Holy Week and Easter.
 - Guides (`/guides/`): ten essays comparing the films on one subject.
-- Films not included (`/not-included/`): 162 well-known films and the reason each is left out.
+- Films not included (`/not-included/`): 164 well-known films and the reason each is left out.
 - Library filters for age and Legion of Decency rating. Homepage "More ways in" links.
 
 ### Design
