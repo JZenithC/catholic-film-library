@@ -2,7 +2,8 @@
 
 ## 2026-10-12 (third update): new films, posters and rule (a) wording
 
-- 315 public films: 117 recommended and 198 in the grey area.
+- 315 public films: 114 recommended and 201 in the grey area.
+- Correction: A Missionary (1955), The Song of Sister Maria (1952) and The Portico of Glory (1953) go back to the grey area. Each had been recommended on one period notice that left the film's treatment of the faith undescribed. A recommended film's page must not say that what the film shows is unknown.
 - Fifteen films added:
   - Recommended: The Eternal Gift (1940), a filmed Solemn High Mass with Sheen's commentary; Embezzled Heaven (1958); and the silent The Confession (1920).
   - Grey area: Hill Number One, Journey of Faith, Christ in Bronze, Brighton Rock, The Heart of the Matter, Mass of the Ages Parts 2 and 3, and films on the monks of Saint-Benoît-du-Lac, Norcia, Silverstream and Le Barroux and on the Chartres pilgrimage.
