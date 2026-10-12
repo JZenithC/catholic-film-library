@@ -1294,5 +1294,21 @@
     "group": "not-central",
     "notable": false,
     "text": "A Hungarian-Czechoslovak version of Mikszáth's comic novel. The village believes St Peter left an umbrella, but the plot is a lawyer's hunt for it and his love for a girl. The miracle is a mistaken attribution, and folk piety is colour, not subject."
+  },
+  {
+    "title": "Martin Scorsese Presents: The Saints",
+    "year": 2024,
+    "director": "Elizabeth Chomko and others",
+    "group": "after-council",
+    "notable": true,
+    "text": "A docudrama series on the saints, with Scorsese introducing each episode. Alongside Joan of Arc, Francis, Sebastian and Thomas Becket it gives whole episodes to Maximilian Kolbe and Carlo Acutis, both raised to the altars after 1965."
+  },
+  {
+    "title": "Lourdes",
+    "year": 2019,
+    "director": "Thierry Demaizière and Alban Teurlai",
+    "group": "new-church",
+    "notable": true,
+    "text": "A documentary following sick pilgrims through a week at the shrine. It is about present-day pilgrimage as the shrine now runs it, and its interest is the pilgrims' private troubles more than Our Lady or the apparitions."
   }
 ]

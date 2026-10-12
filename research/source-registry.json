@@ -341,7 +341,7 @@
       },
       {
         "id": "je-m-appelle-bernadette-2011",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Lourdes",
         "claims": [
           "Eighteen apparitions, 11 February to 16 July 1858",
@@ -9302,6 +9302,34 @@
     ]
   },
   {
+    "title": "El padrecito (1964): subtitle file (Spanish)",
+    "publisher": "subtitlecat.com (user-contributed subtitles; read for dialogue only)",
+    "url": "https://www.subtitlecat.com/subs/1555/El%20padrecito%20%281964%292h00Com.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "00:26:04-00:26:12: 'No se sabe todavía lo que es pecado' (we don't yet know what sin is)",
+      "00:37:00-00:37:13: he refuses to baptise a child with a silly name; 'nunca se niega un sacramento'",
+      "00:53:51: 'medio millón de indulgencias y mi bendición'",
+      "01:52:16: 'una de nuestras primeras obligaciones es saber obedecer'",
+      "01:52:56-01:54:41: the guitars-and-mariachis plan; the bishop calls these 'teorías revolucionarias' and inexperience"
+    ],
+    "licensing": "Reference only.",
+    "films": [
+      {
+        "id": "el-padrecito",
+        "status": "GREY",
+        "title": "El padrecito (1964): subtitle file (Spanish)",
+        "claims": [
+          "00:26:04-00:26:12: 'No se sabe todavía lo que es pecado' (we don't yet know what sin is)",
+          "00:37:00-00:37:13: he refuses to baptise a child with a silly name; 'nunca se niega un sacramento'",
+          "00:53:51: 'medio millón de indulgencias y mi bendición'",
+          "01:52:16: 'una de nuestras primeras obligaciones es saber obedecer'",
+          "01:52:56-01:54:41: the guitars-and-mariachis plan; the bishop calls these 'teorías revolucionarias' and inexperience"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Grand Prix 2010",
     "publisher": "Festival de Cannes",
     "url": "https://www.festival-cannes.com/en/2010/grand-prix/",
@@ -13723,13 +13751,13 @@
       },
       {
         "id": "je-m-appelle-bernadette-2011",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Ineffabilis Deus",
         "claims": "Definition of the Immaculate Conception"
       },
       {
         "id": "marie-de-nazareth-1995",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Ineffabilis Deus",
         "claims": "Definition of the Immaculate Conception"
       }
@@ -28873,7 +28901,7 @@
     "films": [
       {
         "id": "je-m-appelle-bernadette-2011",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Je m'appelle Bernadette",
         "claims": [
           "Jean Sagols; 1h49; released 30 November 2011; France; Zelig Films Distribution; screenplay Serge Lascar",
@@ -28897,7 +28925,7 @@
     "films": [
       {
         "id": "je-m-appelle-bernadette-2011",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Je m'appelle Bernadette",
         "claims": [
           "Sagols's first feature; 110 min; shown in Lourdes from 1 August 2011",
@@ -28921,12 +28949,44 @@
     "films": [
       {
         "id": "je-m-appelle-bernadette-2011",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Je m'appelle Bernadette (review)",
         "claims": [
           "2/4; Miran remarkable; direction and narrative thin",
           "Spiritual message conveyed warmly; drama reduced to Church versus State",
           "Delannoy's Bernadette films more spiritually thoughtful"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "My Name Is Bernadette (2011): subtitle file (English)",
+    "publisher": "subtitlecat.com (user-contributed subtitles; read for dialogue only)",
+    "url": "https://www.subtitlecat.com/subs/1188/My.Name.Is.Bernadette.2011.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "00:17:48: the Lady promises to make her happy not in this world but in the next",
+      "00:25:33 and 00:31:29: 'Penance. Penance for sinners'",
+      "00:35:11: the spring is found; 00:40:44: the cure of Catherine Latapie",
+      "00:42:55 and 00:43:18: the Lady asks for a procession and a chapel; the curé demands her name",
+      "00:57:54-00:59:48: the name 'Que soy era Immaculada Councepciou'; the curé asks whether she knows what it means and she does not",
+      "01:19:56: Bishop Laurence convenes the episcopal commission",
+      "01:39:58-01:47:31: Nevers; she is called good for nothing and given no post; the bishop tells her to be like the useless tree; she says she is already happy"
+    ],
+    "licensing": "Reference only.",
+    "films": [
+      {
+        "id": "je-m-appelle-bernadette-2011",
+        "status": "PUBLISH",
+        "title": "My Name Is Bernadette (2011): subtitle file (English)",
+        "claims": [
+          "00:17:48: the Lady promises to make her happy not in this world but in the next",
+          "00:25:33 and 00:31:29: 'Penance. Penance for sinners'",
+          "00:35:11: the spring is found; 00:40:44: the cure of Catherine Latapie",
+          "00:42:55 and 00:43:18: the Lady asks for a procession and a chapel; the curé demands her name",
+          "00:57:54-00:59:48: the name 'Que soy era Immaculada Councepciou'; the curé asks whether she knows what it means and she does not",
+          "01:19:56: Bishop Laurence convenes the episcopal commission",
+          "01:39:58-01:47:31: Nevers; she is called good for nothing and given no post; the bishop tells her to be like the useless tree; she says she is already happy"
         ]
       }
     ]
@@ -31264,6 +31324,30 @@
     ]
   },
   {
+    "title": "Magnificat (1993): subtitle file (French)",
+    "publisher": "subtitlecat.com (user-contributed subtitles; read for dialogue only)",
+    "url": "https://www.subtitlecat.com/subs/188/Magnificat.1993.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "00:06:36-00:06:56: Vespers prayer to the angels; the tunic of the Blessed Virgin kept as a relic",
+      "00:25:21: a dying man leaves money for a hundred Masses",
+      "00:36:07: 'Ne vous vantez donc d'aucune doctrine ni d'aucun art' (Imitation of Christ, I.2)"
+    ],
+    "licensing": "Reference only.",
+    "films": [
+      {
+        "id": "magnificat-1993",
+        "status": "GREY",
+        "title": "Magnificat (1993): subtitle file (French)",
+        "claims": [
+          "00:06:36-00:06:56: Vespers prayer to the angels; the tunic of the Blessed Virgin kept as a relic",
+          "00:25:21: a dying man leaves money for a hundred Masses",
+          "00:36:07: 'Ne vous vantez donc d'aucune doctrine ni d'aucun art' (Imitation of Christ, I.2)"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Marcellino",
     "publisher": "L'Officiel des spectacles (offi.fr)",
     "url": "https://www.offi.fr/cinema/evenement/marcellino-16793.html",
@@ -31463,7 +31547,7 @@
     "films": [
       {
         "id": "marie-de-nazareth-1995",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Marie de Nazareth",
         "claims": [
           "Directed by Jean Delannoy; released in France 29 March 1995; 1h50",
@@ -31489,7 +31573,7 @@
     "films": [
       {
         "id": "marie-de-nazareth-1995",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Marie de Nazareth (film, 1995)",
         "claims": [
           "Screenplay by Delannoy and Jacques Douyau; design Gil Parrondo; 105 minutes; tous publics",
@@ -31514,7 +31598,7 @@
     "films": [
       {
         "id": "marie-de-nazareth-1995",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "¿Qué ver en el streaming? María de Nazaret (1995)",
         "claims": [
           "Follows Mary from the Annunciation through the birth to the crucifixion and resurrection",
@@ -31533,9 +31617,39 @@
     "films": [
       {
         "id": "marie-de-nazareth-1995",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Council of Ephesus",
         "claims": "Council of 431, condemnation of Nestorius, session in the cathedral of the Theotokos"
+      }
+    ]
+  },
+  {
+    "title": "Marie de Nazareth (1995), parts 1 and 2: subtitle file (English)",
+    "publisher": "subtitlecat.com (user-contributed subtitles; read for dialogue only)",
+    "url": "https://www.subtitlecat.com/subs/319/MARIE%20DE%20NAZARETH%201.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Part 1, 00:18:34-00:20:06: the Annunciation in Luke's words, 'I have not known a man', 'I am the handmaid of the Lord'",
+      "Part 1, 00:33:35: the Magnificat; 01:00:06-01:00:15: 'Do not be afraid, Joseph'",
+      "Part 2, 01:00:36-01:01:12: 'Who is my brother? Who is my sister?' (Mark 3)",
+      "Part 2, 01:36:18-01:39:19: Mary tells the apostles of the Finding in the Temple",
+      "Part 2, 01:39:35-01:39:51: 'He is alive!'; the film is dedicated to all mothers",
+      "Part 2 file: https://www.subtitlecat.com/subs/347/MARIE%20DE%20NAZARETH%202%20.html"
+    ],
+    "licensing": "Reference only.",
+    "films": [
+      {
+        "id": "marie-de-nazareth-1995",
+        "status": "PUBLISH",
+        "title": "Marie de Nazareth (1995), parts 1 and 2: subtitle file (English)",
+        "claims": [
+          "Part 1, 00:18:34-00:20:06: the Annunciation in Luke's words, 'I have not known a man', 'I am the handmaid of the Lord'",
+          "Part 1, 00:33:35: the Magnificat; 01:00:06-01:00:15: 'Do not be afraid, Joseph'",
+          "Part 2, 01:00:36-01:01:12: 'Who is my brother? Who is my sister?' (Mark 3)",
+          "Part 2, 01:36:18-01:39:19: Mary tells the apostles of the Finding in the Temple",
+          "Part 2, 01:39:35-01:39:51: 'He is alive!'; the film is dedicated to all mothers",
+          "Part 2 file: https://www.subtitlecat.com/subs/347/MARIE%20DE%20NAZARETH%202%20.html"
+        ]
       }
     ]
   },
@@ -31686,6 +31800,32 @@
         "status": "GREY",
         "title": "Marie Heurtin: cast list",
         "claims": "Cast and character names."
+      }
+    ]
+  },
+  {
+    "title": "Marie's Story (2014): subtitle file (English)",
+    "publisher": "subtitlecat.com (user-contributed subtitles; read for dialogue only)",
+    "url": "https://www.subtitlecat.com/subs/343/Marie.Heurtin.2014.1080p.BluRay.Remux.AVC.DTS-HD.MA.5.1-SPHD-English.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "00:44:30-00:45:14: Scripture read aloud",
+      "01:12:53-01:13:09: 'Who decides?' 'God.' 'Who is God?' 'He is everywhere ... even inside you.'",
+      "01:23:13-01:24:10: the superior: dying sisters and priests pretend to be happy to join their Maker; 'I felt the revolt clinging to their bodies'; 'our whole life is a rebellion'",
+      "01:29:43: 'When you see me from heaven, I hope you are proud of me'"
+    ],
+    "licensing": "Reference only.",
+    "films": [
+      {
+        "id": "marie-heurtin-2014",
+        "status": "GREY",
+        "title": "Marie's Story (2014): subtitle file (English)",
+        "claims": [
+          "00:44:30-00:45:14: Scripture read aloud",
+          "01:12:53-01:13:09: 'Who decides?' 'God.' 'Who is God?' 'He is everywhere ... even inside you.'",
+          "01:23:13-01:24:10: the superior: dying sisters and priests pretend to be happy to join their Maker; 'I felt the revolt clinging to their bodies'; 'our whole life is a rebellion'",
+          "01:29:43: 'When you see me from heaven, I hope you are proud of me'"
+        ]
       }
     ]
   },
@@ -34156,6 +34296,30 @@
     ]
   },
   {
+    "title": "St. Patrick: The Irish Legend (2000): subtitle file (Italian)",
+    "publisher": "subtitlecat.com (user-contributed subtitles; read for dialogue only)",
+    "url": "https://www.subtitlecat.com/subs/1006/St.%20Patrick%20-The%20Irish%20Legend%20%282000%29%20Francais.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "01:10:11-01:11:18: Quentin's men come to impose tithes and transfer to the British Church",
+      "01:21:52-01:22:18: threats of removal and excommunication",
+      "01:23:12-01:23:44: ordered back to the monastery in Gaul; 'Ignorerò l'ordine'; 'Vai a Roma ... spiega il tuo caso al papa in persona'"
+    ],
+    "licensing": "Reference only.",
+    "films": [
+      {
+        "id": "st-patrick-the-irish-legend",
+        "status": "GREY",
+        "title": "St. Patrick: The Irish Legend (2000): subtitle file (Italian)",
+        "claims": [
+          "01:10:11-01:11:18: Quentin's men come to impose tithes and transfer to the British Church",
+          "01:21:52-01:22:18: threats of removal and excommunication",
+          "01:23:12-01:23:44: ordered back to the monastery in Gaul; 'Ignorerò l'ordine'; 'Vai a Roma ... spiega il tuo caso al papa in persona'"
+        ]
+      }
+    ]
+  },
+  {
     "title": "St. Wenceslas (film)",
     "publisher": "Wikipedia (supplementary; cites ČSFD, Kultura21, ČT24, Czech Radio)",
     "url": "https://en.wikipedia.org/wiki/St._Wenceslas_(film)",
@@ -34846,6 +35010,34 @@
         "status": "GREY",
         "title": "Motion Pictures Classified by National Legion of Decency, February 1936 - October 1959",
         "claims": "Legion of Decency rating A-I, year of review 1939-40: \"Fighting 69th, The (Warner-First National)\" (printed p. 71)"
+      }
+    ]
+  },
+  {
+    "title": "The Fighting 69th (1940): subtitle file (English)",
+    "publisher": "subtitlecat.com (user-contributed subtitles; read for dialogue only)",
+    "url": "https://www.subtitlecat.com/subs/409/The.Fighting.69th.1940.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "00:25:58-00:26:38: Duffy prays for his men 'through thy Son, Christ, our Lord'",
+      "00:30:29-00:33:15: midnight Mass, confession in the afternoon; a Methodist chaplain arranges services for Protestants",
+      "01:02:27-01:02:52: Duffy to Plunkett: faith and prayer can defeat fear; 'Ask the Lord to help you'",
+      "01:13:53-01:14:52: a dying Jewish soldier asks Duffy to help him pray; Duffy recites with him a prayer ending 'Hear, O Israel, the Lord our God, the Lord is one'",
+      "01:17:38-01:18:15: Duffy leads the men in the Lord's Prayer"
+    ],
+    "licensing": "Reference only.",
+    "films": [
+      {
+        "id": "the-fighting-69th",
+        "status": "GREY",
+        "title": "The Fighting 69th (1940): subtitle file (English)",
+        "claims": [
+          "00:25:58-00:26:38: Duffy prays for his men 'through thy Son, Christ, our Lord'",
+          "00:30:29-00:33:15: midnight Mass, confession in the afternoon; a Methodist chaplain arranges services for Protestants",
+          "01:02:27-01:02:52: Duffy to Plunkett: faith and prayer can defeat fear; 'Ask the Lord to help you'",
+          "01:13:53-01:14:52: a dying Jewish soldier asks Duffy to help him pray; Duffy recites with him a prayer ending 'Hear, O Israel, the Lord our God, the Lord is one'",
+          "01:17:38-01:18:15: Duffy leads the men in the Lord's Prayer"
+        ]
       }
     ]
   },
@@ -37724,7 +37916,7 @@
       },
       {
         "id": "saint-barbara-2012",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "The Twenty-Fifth Session of the Council of Trent",
         "claims": [
           "Session XXV (3-4 December 1563): the saints reign with Christ and pray for men; invoking them is good and useful",
@@ -40992,6 +41184,30 @@
     ]
   },
   {
+    "title": "Pontius Pilate (1962): subtitle file (English machine captions of the Italian)",
+    "publisher": "subtitlecat.com (user-contributed subtitles; read for dialogue only)",
+    "url": "https://www.subtitlecat.com/subs/667/Ponzio%20Pilato%20-%20con%20Jean%20Marais%20e%20Jeanne%20Crain%20-%20Film%20Completo%20by%20Film%20Clips%20Eroi%20e%20Leggende.en.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "01:18:56-01:19:59: Caiaphas, alone with Jesus, asks 'you are the messiah?' and urges him to confess his heresy; no reply is captioned",
+      "01:33:29-01:34:35: Claudia: one day you will find the truth; a prayer that God illuminate the darkness of this house",
+      "01:34:47-01:35:13: 'You would have no power over me unless it had been given from above'"
+    ],
+    "licensing": "Reference only.",
+    "films": [
+      {
+        "id": "pontius-pilate-1962",
+        "status": "GREY",
+        "title": "Pontius Pilate (1962): subtitle file (English machine captions of the Italian)",
+        "claims": [
+          "01:18:56-01:19:59: Caiaphas, alone with Jesus, asks 'you are the messiah?' and urges him to confess his heresy; no reply is captioned",
+          "01:33:29-01:34:35: Claudia: one day you will find the truth; a prayer that God illuminate the darkness of this house",
+          "01:34:47-01:35:13: 'You would have no power over me unless it had been given from above'"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Forbidden Priests",
     "publisher": "Wikipedia (supplementary)",
     "url": "https://en.wikipedia.org/wiki/Forbidden_Priests",
@@ -41172,7 +41388,7 @@
     "films": [
       {
         "id": "saint-barbara-2012",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Vanessa Hessler è Santa Barbara nella fiction di RaiUno",
         "claims": [
           "Lux Vide with Rai Fiction; written by Maura Nuccetelli and Mario Ruggeri; directed by Carmine Elia; shot in Tunisia; aired on Rai Uno on 4 December 2012",
@@ -41194,7 +41410,7 @@
     "films": [
       {
         "id": "saint-barbara-2012",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Santa Barbara (2012)",
         "claims": [
           "Italian TV drama, 100 minutes; synopsis (slave Giuliana executed, Barbara in prison learns her mother died for refusing the gods); Leo Maltin: \"yet another holy card\"",
@@ -41216,7 +41432,7 @@
     "films": [
       {
         "id": "saint-barbara-2012",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "St. Barbara",
         "claims": [
           "Legendary saint; cult from early seventh century; no mention in authentic early sources",
@@ -41237,10 +41453,38 @@
     "films": [
       {
         "id": "saint-barbara-2012",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Santa Barbara - Film (2012)",
         "claims": [
           "A viewer praises the reconstruction and the lead; says the film improvises on little-known life; objects that the father's punishment is not shown"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Saint Barbara (2012): subtitle file (English)",
+    "publisher": "subtitlecat.com (user-contributed subtitles; read for dialogue only)",
+    "url": "https://www.subtitlecat.com/subs/554/Santa%20Barbara%20%282012%29.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "00:22:11-00:24:18: Christians refuse the sacrifice: 'it means that we deny our faith in Christ'",
+      "01:15:40-01:16:16: the Our Father and 'this is my body sacrificed for you, take and eat'",
+      "01:19:23-01:20:25: God 'gave us his son to save us'; 'Jesus Christ is resurrected and he promised us that we will also be resurrected'",
+      "01:36:33-01:36:54: her father begs her to renounce her faith; 'I cannot betray Jesus'",
+      "01:48:48-01:49:46: closing titles on her cult; the Beatitudes"
+    ],
+    "licensing": "Reference only.",
+    "films": [
+      {
+        "id": "saint-barbara-2012",
+        "status": "PUBLISH",
+        "title": "Saint Barbara (2012): subtitle file (English)",
+        "claims": [
+          "00:22:11-00:24:18: Christians refuse the sacrifice: 'it means that we deny our faith in Christ'",
+          "01:15:40-01:16:16: the Our Father and 'this is my body sacrificed for you, take and eat'",
+          "01:19:23-01:20:25: God 'gave us his son to save us'; 'Jesus Christ is resurrected and he promised us that we will also be resurrected'",
+          "01:36:33-01:36:54: her father begs her to renounce her faith; 'I cannot betray Jesus'",
+          "01:48:48-01:49:46: closing titles on her cult; the Beatitudes"
         ]
       }
     ]
