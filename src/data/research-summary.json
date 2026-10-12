@@ -1,11 +1,11 @@
 {
   "initial": 121,
-  "candidates": 339,
-  "additional": 218,
-  "recommended": 96,
-  "grey": 118,
-  "hold": 3,
-  "reject": 122,
+  "candidates": 417,
+  "additional": 296,
+  "recommended": 97,
+  "grey": 142,
+  "hold": 14,
+  "reject": 164,
   "countries": [
     "Austria",
     "Canada",
