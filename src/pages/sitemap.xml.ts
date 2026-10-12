@@ -1,6 +1,8 @@
 import type { APIRoute } from 'astro';
 import { publicFilms, collections, url } from '../data/catalogue';
 import pages from '../data/editorial-pages.json';
+import guides from '../data/guides.json';
+import { people } from '../data/saints';
 
 // Every indexable page. The 404 page and redirect stubs are deliberately absent.
 export const GET: APIRoute = ({ site }) => {
@@ -12,6 +14,12 @@ export const GET: APIRoute = ({ site }) => {
     'collections/',
     'grey-area/',
     'a-z/',
+    'saints/',
+    'calendar/',
+    'guides/',
+    'not-included/',
+    ...people.map((p) => `saints/${p.slug}/`),
+    ...guides.map((g) => `guides/${g.slug}/`),
     ...Object.keys(pages).map((page) => `${page}/`),
     'image-credits/',
     ...publicFilms.map((f) => `films/${f.slug}/`),

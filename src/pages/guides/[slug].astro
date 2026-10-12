@@ -1,0 +1,42 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import FilmCard from '../../components/FilmCard.astro';
+import raw from '../../data/guides.json';
+import { publicFilms, url, paragraphs } from '../../data/catalogue';
+interface Guide {
+  slug: string;
+  title: string;
+  lead: string;
+  body: string;
+  films: string[];
+}
+export function getStaticPaths() {
+  return (raw as Guide[]).map((guide) => ({ params: { slug: guide.slug }, props: { guide } }));
+}
+const { guide } = Astro.props as { guide: Guide };
+const list = guide.films
+  .map((id) => publicFilms.find((f) => f.id === id))
+  .filter((f) => f !== undefined);
+---
+
+<Layout title={guide.title} description={guide.lead}>
+  <div class="wrap">
+    <div class="page-heading reading">
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href={url('guides/')}>Guides</a>
+      </nav>
+      <h1>{guide.title}</h1>
+      <p class="lead">{guide.lead}</p>
+      <div class="prose">
+        {paragraphs(guide.body).map((p) => <p>{p}</p>)}
+      </div>
+    </div>
+    <section class="group">
+      <h2>The films</h2>
+      <div class="film-grid">
+        {list.map((f, i) => <FilmCard film={f} index={i} />)}
+      </div>
+    </section>
+    <div class="section"></div>
+  </div>
+</Layout>

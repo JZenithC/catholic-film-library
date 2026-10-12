@@ -1,1 +1,1465 @@
-{ "people": [], "feasts": [] }
+{
+  "people": [
+    {
+      "name": "St Bernadette Soubirous",
+      "slug": "bernadette-soubirous",
+      "films": [
+        "the-song-of-bernadette",
+        "bernadette",
+        "the-passion-of-bernadette",
+        "il-suffit-d-aimer-1961",
+        "je-m-appelle-bernadette-2011",
+        "la-vie-merveilleuse-de-bernadette-1929"
+      ],
+      "bio": "Born at Lourdes, the eldest child of a ruined miller, Bernadette was a sickly, barely literate girl of fourteen when, in 1858, she saw eighteen apparitions of Our Lady in the grotto of Massabielle. The Lady called herself the Immaculate Conception. Questioned by civil and Church authorities, she held to her account. She entered the Sisters of Charity at Nevers in 1866 and died there, after long illness, in 1879.",
+      "sources": [
+        {
+          "title": "Bernadette Soubirous",
+          "publisher": "Wikipedia (dates cross-check)",
+          "url": "https://en.wikipedia.org/wiki/Bernadette_Soubirous"
+        },
+        {
+          "title": "Notre-Dame de Lourdes",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/09389b.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Bernadette Soubirous",
+      "dates": "1844–1879",
+      "feast": "02-18",
+      "feastNote": "Not on the 1962 General Calendar. Kept on 18 February, as a feast of the third class, in France and Canada; the Roman Martyrology gave 16 April, the day of her death.",
+      "status": "Canonised by Pius XI in 1933"
+    },
+    {
+      "name": "St Joan of Arc",
+      "slug": "joan-of-arc",
+      "films": [
+        "the-passion-of-joan-of-arc",
+        "joan-of-arc",
+        "the-trial-of-joan-of-arc",
+        "joan-the-woman-1916",
+        "saint-joan-1957",
+        "saint-joan-the-maid-1929",
+        "giovanna-d-arco-al-rogo-1954",
+        "jeanne-d-arc-1900",
+        "jeanne-la-pucelle-1994",
+        "jeannette-2017",
+        "joan-of-arc-1999-miniseries"
+      ],
+      "bio": "A peasant girl of Domrémy, Joan believed that Saints Michael, Catherine and Margaret told her to relieve Orléans and have the Dauphin crowned at Reims. She led French troops in 1429 and was taken by the Burgundians the next year. Tried for heresy at Rouen by a court of pro-English clerics, she was burned on 30 May 1431. A retrial in 1456 declared the sentence void.",
+      "sources": [
+        {
+          "title": "St. Joan of Arc",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/08409c.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Joan of Arc",
+      "dates": "c. 1412–1431",
+      "feast": "05-30",
+      "feastNote": "Not on the 1962 General Calendar. Kept on 30 May in France, where she is secondary patroness, and listed in the 1962 Missal's supplement of Masses for certain places.",
+      "status": "Canonised by Benedict XV in 1920"
+    },
+    {
+      "name": "St Francis of Assisi",
+      "slug": "francis-of-assisi",
+      "films": [
+        "the-flowers-of-st-francis",
+        "francis-of-assisi",
+        "clare-and-francis",
+        "francesco-2002-soavi",
+        "frate-francesco-1927",
+        "frate-sole-1918",
+        "il-poverello-di-assisi-1911"
+      ],
+      "bio": "The son of a wealthy cloth merchant of Assisi, Francis gave up his inheritance about 1206 to live in poverty and rebuild ruined churches. Companions gathered round him, and Innocent III approved his first rule orally in 1209. He preached to the poor, travelled to Egypt and the Holy Land, and received the stigmata at La Verna in 1224. He died at the Portiuncula on 3 October 1226.",
+      "sources": [
+        {
+          "title": "St. Francis of Assisi",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/06221a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Francis of Assisi",
+      "dates": "c. 1181–1226",
+      "feast": "10-04",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Gregory IX in 1228"
+    },
+    {
+      "name": "St Clare of Assisi",
+      "slug": "clare-of-assisi",
+      "films": [
+        "clare-and-francis",
+        "frate-sole-1918",
+        "francesco-2002-soavi",
+        "francis-of-assisi"
+      ],
+      "bio": "Born at Assisi into a noble family, Clare heard Francis preach and, on Palm Sunday 1212, left her father's house by night to receive the habit at the Portiuncula. She settled at San Damiano, where she gathered the community later called the Poor Clares. She ruled it as abbess for about forty years and fought to keep strict poverty. The pope confirmed her rule two days before she died in 1253.",
+      "sources": [
+        {
+          "title": "St. Clare of Assisi",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/04004a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Clare of Assisi",
+      "dates": "1194–1253",
+      "feast": "08-12",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Alexander IV in 1255"
+    },
+    {
+      "name": "St Vincent de Paul",
+      "slug": "vincent-de-paul",
+      "films": [
+        "monsieur-vincent"
+      ],
+      "bio": "A Gascon peasant's son, Vincent was ordained in 1600 and, after a period of ambition, gave himself to the poor and to the clergy. He founded the Congregation of the Mission (Lazarists) in 1625 for country missions and the training of priests, and with Louise de Marillac the Daughters of Charity. His Confraternities of Charity, hospitals and relief of galley slaves served the poor of France until his death in Paris in 1660.",
+      "sources": [
+        {
+          "title": "St. Vincent de Paul",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/15434c.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Vincent de Paul",
+      "dates": "c. 1580–1660",
+      "feast": "07-19",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Clement XII in 1737"
+    },
+    {
+      "name": "St Louise de Marillac",
+      "slug": "louise-de-marillac",
+      "films": [
+        "monsieur-vincent"
+      ],
+      "bio": "Born in Paris in 1591, Louise de Marillac married Antoine Le Gras and bore a son. Widowed in 1625, she placed herself under the direction of Vincent de Paul and joined him in the work of the Confraternities of Charity among the sick poor. With him she founded the Sisters of Charity, who nursed the sick and taught poor children. She governed the community until her death in Paris on 15 March 1660, a few months before Vincent.",
+      "sources": [
+        {
+          "title": "Ven. Louise de Marillac Le Gras",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/09133b.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Louise de Marillac",
+      "dates": "1591–1660",
+      "feast": "03-15",
+      "feastNote": "Not on the 1962 General Calendar; listed with a proper Mass in the 1962 Missal's supplement of Masses for certain places, and observed by the Daughters of Charity.",
+      "status": "Canonised by Pius XI in 1934"
+    },
+    {
+      "name": "St Joseph of Cupertino",
+      "slug": "joseph-of-cupertino",
+      "films": [
+        "the-reluctant-saint"
+      ],
+      "bio": "Born in a stable at Cupertino in the Kingdom of Naples to a poor widow, Joseph was slow at his studies and was dismissed by the Capuchins. The Conventual Franciscans received him, and he was ordained priest in 1628. He became known for ecstasies in which he was said to rise from the ground. For decades he was kept apart from the community and moved between houses. He died at Osimo on 18 September 1663.",
+      "sources": [
+        {
+          "title": "St. Joseph of Cupertino",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/08520b.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Joseph of Cupertino",
+      "dates": "1603–1663",
+      "feast": "09-18",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Clement XIII in 1767"
+    },
+    {
+      "name": "St Maria Goretti",
+      "slug": "maria-goretti",
+      "films": [
+        "heaven-over-the-marshes",
+        "maria-goretti-2003"
+      ],
+      "bio": "Maria Goretti was born at Corinaldo in 1890 to a farming family who later moved to the Pontine marshes near Nettuno. In July 1902, when she was eleven, a young neighbour, Alessandro Serenelli, tried to assault her; she refused and he stabbed her fourteen times. She died the next day, 6 July, after forgiving him. Serenelli repented in prison years later. She was beatified in 1947 and canonised in 1950.",
+      "sources": [
+        {
+          "title": "Maria Goretti",
+          "publisher": "Wikipedia (dates cross-check)",
+          "url": "https://en.wikipedia.org/wiki/Maria_Goretti"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Maria Goretti",
+      "dates": "1890–1902",
+      "feast": "07-06",
+      "feastNote": "Not on the 1962 General Calendar; listed in the 1962 Missal's supplement of Masses for certain places.",
+      "status": "Canonised by Pius XII in 1950"
+    },
+    {
+      "name": "St Thérèse of Lisieux",
+      "slug": "therese-of-lisieux",
+      "films": [
+        "therese-the-story-of-saint-therese-of-lisieux",
+        "therese-1986",
+        "proces-au-vatican",
+        "therese-martin-1938"
+      ],
+      "bio": "Born at Alençon in 1873, Thérèse Martin was the youngest of nine children of devout parents. She asked Leo XIII's leave to enter the Carmel of Lisieux at fifteen and was admitted in April 1888. Her short religious life was hidden, marked by trust in God and small duties. She died of tuberculosis on 30 September 1897. Her autobiography, Story of a Soul, was published in 1898 and spread her fame quickly.",
+      "sources": [
+        {
+          "title": "St. Thérèse of Lisieux",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/17721a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Thérèse of Lisieux",
+      "dates": "1873–1897",
+      "feast": "10-03",
+      "feastNote": "Third class on the General Calendar, as St Teresa of the Child Jesus; also principal patroness of the missions.",
+      "status": "Canonised by Pius XI in 1925"
+    },
+    {
+      "name": "St Martin de Porres",
+      "slug": "martin-de-porres",
+      "films": [
+        "fray-escoba",
+        "un-mulato-llamado-martin",
+        "milagros-de-san-martin-de-porres-1963"
+      ],
+      "bio": "Born in Lima in 1579, the son of a Spanish nobleman and a freed Panamanian woman, Martin was apprenticed to a barber-surgeon. He entered the Dominican convent of the Rosary in Lima as a lay helper, and was admitted as a lay brother. There he nursed the sick, fed the poor and cared for stray animals, and was known for his humility. He died on 3 November 1639. He was beatified in 1837 and canonised in 1962.",
+      "sources": [
+        {
+          "title": "Martin de Porres",
+          "publisher": "Wikipedia (dates cross-check)",
+          "url": "https://en.wikipedia.org/wiki/Martin_de_Porres"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Martin de Porres",
+      "dates": "1579–1639",
+      "feastNote": "Canonised in May 1962 and not on the 1962 General Calendar; kept in the Dominican Order’s own calendar.",
+      "status": "Canonised by John XXIII in 1962"
+    },
+    {
+      "name": "St John Baptist de La Salle",
+      "slug": "john-baptist-de-la-salle",
+      "films": [
+        "st-john-baptist-de-la-salle"
+      ],
+      "bio": "Born at Reims in 1651 into a wealthy family, La Salle became a canon and priest. Asked to help found schools for poor boys, he gave up his canonry and fortune and gathered teachers into the Brothers of the Christian Schools. He developed teaching in the vernacular and in classes, and set up training colleges for teachers. He died at Saint-Yon, near Rouen, on Good Friday, 7 April 1719.",
+      "sources": [
+        {
+          "title": "St. John Baptist de la Salle",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/08444a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. John Baptist de La Salle",
+      "dates": "1651–1719",
+      "feast": "05-15",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Leo XIII in 1900"
+    },
+    {
+      "name": "St John Bosco",
+      "slug": "john-bosco",
+      "films": [
+        "don-bosco",
+        "john-bosco-mission-to-love",
+        "don-bosco-1935"
+      ],
+      "bio": "Born to a poor peasant family at Becchi, near Turin, Bosco was ordained in 1841 and began to gather the young apprentices and street boys of the city on Sundays. He founded oratories, workshops and schools, and in 1859 the Salesian Society, followed by the Sisters of Mary Help of Christians. He placed his work under St Francis de Sales and relied on kindness rather than punishment. He died at Turin on 31 January 1888.",
+      "sources": [
+        {
+          "title": "St. Giovanni Melchior Bosco",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/02689d.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. John Bosco",
+      "dates": "1815–1888",
+      "feast": "01-31",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Pius XI in 1934"
+    },
+    {
+      "name": "St Dominic Savio",
+      "slug": "dominic-savio",
+      "films": [
+        "john-bosco-mission-to-love"
+      ],
+      "bio": "Born near Chieri in Piedmont in 1842, Dominic Savio came at twelve to Don Bosco's oratory in Turin, where he was known for his piety, his cheerfulness and his care for the other boys. He helped found a small sodality in honour of the Immaculate Conception. His health failed, and he died at Mondonio on 9 March 1857, aged fourteen. He was beatified in 1950 and canonised in 1954.",
+      "sources": [
+        {
+          "title": "Dominic Savio",
+          "publisher": "Wikipedia (dates cross-check)",
+          "url": "https://en.wikipedia.org/wiki/Dominic_Savio"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Dominic Savio",
+      "dates": "1842–1857",
+      "feast": "05-06",
+      "feastNote": "Not on the 1962 General Calendar. The 1962 Missal's supplement of Masses for certain places lists him on 6 May; other lists give 9 March, the day of his death.",
+      "status": "Canonised by Pius XII in 1954"
+    },
+    {
+      "name": "St Ignatius of Loyola",
+      "slug": "ignatius-of-loyola",
+      "films": [
+        "ignatius-of-loyola",
+        "el-capitan-de-loyola-1949"
+      ],
+      "bio": "A Basque nobleman and soldier, Ignatius was wounded at Pamplona in 1521 and, while recovering, read lives of Christ and the saints. After a year of prayer at Manresa he wrote the Spiritual Exercises. He studied at Paris, where he gathered companions, among them Francis Xavier. Paul III approved the Society of Jesus in 1540. He directed it from Rome as its first superior general until his death on 31 July 1556.",
+      "sources": [
+        {
+          "title": "St. Ignatius Loyola",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/07639c.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Ignatius of Loyola",
+      "dates": "1491–1556",
+      "feast": "07-31",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Gregory XV in 1622"
+    },
+    {
+      "name": "St Anthony Mary Claret",
+      "slug": "anthony-mary-claret",
+      "films": [
+        "claret"
+      ],
+      "bio": "Born at Sallent, near Barcelona, in 1807, Claret worked as a weaver before ordination in 1835. He preached popular missions through Catalonia and in 1849 founded the Missionary Sons of the Immaculate Heart of Mary (Claretians). As archbishop of Santiago de Cuba from 1851 he reformed the diocese and survived several attempts on his life. Recalled to Spain as confessor to Queen Isabella II, he died at Fontfroide in France in 1870.",
+      "sources": [
+        {
+          "title": "Ven. Antonio María Claret y Clará",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/16026a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Anthony Mary Claret",
+      "dates": "1807–1870",
+      "feast": "10-23",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Pius XII in 1950"
+    },
+    {
+      "name": "St Thomas More",
+      "slug": "thomas-more",
+      "films": [
+        "a-man-for-all-seasons",
+        "a-man-for-all-seasons-1988"
+      ],
+      "bio": "Born in London in 1478, More was a lawyer, scholar and friend of Erasmus, the author of Utopia, and in 1529 became Lord Chancellor under Henry VIII. He resigned in 1532 when the king claimed headship of the Church in England. Refusing to swear the oath required by the Act of Succession, he was imprisoned in the Tower and, after trial for treason, beheaded on Tower Hill on 6 July 1535.",
+      "sources": [
+        {
+          "title": "St. Thomas More",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/14689c.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Thomas More",
+      "dates": "1478–1535",
+      "feast": "07-09",
+      "feastNote": "Not on the 1962 General Calendar. Kept with St John Fisher on 9 July, as a first-class feast, in England and Wales.",
+      "status": "Canonised by Pius XI in 1935"
+    },
+    {
+      "name": "St Thomas Becket",
+      "slug": "thomas-becket",
+      "films": [
+        "becket",
+        "murder-in-the-cathedral-1951"
+      ],
+      "bio": "Born in London about 1118, Becket rose through the household of Archbishop Theobald to become Henry II's chancellor. Made archbishop of Canterbury in 1162, he defended the Church's rights against the king's Constitutions of Clarendon and spent six years in exile in France. Soon after returning, he was murdered in Canterbury Cathedral by four of the king's knights on 29 December 1170. Alexander III canonised him in 1173.",
+      "sources": [
+        {
+          "title": "St. Thomas Becket",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/14676a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Thomas Becket",
+      "dates": "c. 1118–1170",
+      "feast": "12-29",
+      "feastNote": "On the 1962 General Calendar only as a commemoration within the Octave of Christmas.",
+      "status": "Canonised by Alexander III in 1173"
+    },
+    {
+      "name": "St Peter",
+      "slug": "peter",
+      "films": [
+        "saint-peter",
+        "the-big-fisherman-1959",
+        "acts-of-the-apostles-1969",
+        "ad-anno-domini-1985"
+      ],
+      "bio": "A Galilean fisherman of Bethsaida, Simon was called by Christ with his brother Andrew and given the name Peter. He confessed Jesus as the Christ at Caesarea Philippi and was named the rock on which the Church would be built, though he denied his Lord on the night of the Passion. He led the apostles after Pentecost, and tradition holds that he died at Rome under Nero.",
+      "sources": [
+        {
+          "title": "St. Peter, Prince of the Apostles",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/11744a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Peter",
+      "dates": "died c. AD 64–67",
+      "feast": "06-29",
+      "feastNote": "Sts Peter and Paul, a first-class feast. The Chair of St Peter is kept on 22 February and St Peter in Chains on 1 August.",
+      "status": "Apostle, first Pope and martyr, venerated from the earliest times"
+    },
+    {
+      "name": "St Paul",
+      "slug": "paul",
+      "films": [
+        "paul-apostle-of-christ-2018",
+        "saint-paul-2000",
+        "acts-of-the-apostles-1969",
+        "ad-anno-domini-1985"
+      ],
+      "bio": "Born Saul at Tarsus, a Pharisee and Roman citizen, Paul took part in persecuting the first Christians until Christ appeared to him on the road to Damascus. After his conversion he made three missionary journeys through Asia Minor and Greece, founded churches and wrote the letters that form part of the New Testament. Arrested at Jerusalem, he was taken to Rome, where tradition says he was beheaded under Nero.",
+      "sources": [
+        {
+          "title": "St. Paul",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/11567b.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Paul",
+      "dates": "c. AD 5–c. 64/67",
+      "feast": "06-29",
+      "feastNote": "Sts Peter and Paul, a first-class feast; his own commemoration follows on 30 June, and the Conversion of St Paul is kept on 25 January.",
+      "status": "Apostle of the Gentiles and martyr, venerated from the earliest times"
+    },
+    {
+      "name": "St Luke",
+      "slug": "luke",
+      "films": [
+        "paul-apostle-of-christ-2018"
+      ],
+      "bio": "Luke, a Gentile physician, was a companion of St Paul on parts of his journeys and was with him in his imprisonment at Rome. Tradition ascribes to him both the Gospel that bears his name and the Acts of the Apostles, which he wrote for a certain Theophilus. His Gospel alone gives the infancy narratives of John and Jesus. Tradition adds that he lived to old age and was buried in Greece.",
+      "sources": [
+        {
+          "title": "Gospel of Saint Luke",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/09420a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Luke",
+      "dates": "1st century",
+      "feast": "10-18",
+      "feastNote": "Second class on the General Calendar.",
+      "status": "Evangelist, venerated from the earliest times"
+    },
+    {
+      "name": "St Pius X",
+      "slug": "pius-x",
+      "films": [
+        "gli-uomini-non-guardano-il-cielo"
+      ],
+      "bio": "Giuseppe Sarto was born at Riese in the Veneto in 1835, the son of a postman. Priest, bishop of Mantua and Patriarch of Venice, he was elected pope in 1903 and took as his motto to restore all things in Christ. He promoted frequent Communion and the early Communion of children, reformed sacred music and the Breviary, issued a catechism and condemned Modernism in 1907. He died on 20 August 1914, soon after the First World War began.",
+      "sources": [
+        {
+          "title": "Pope Pius X",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/12137a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Pius X",
+      "dates": "1835–1914",
+      "feast": "09-03",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Pius XII in 1954"
+    },
+    {
+      "name": "St Teresa of Ávila",
+      "slug": "teresa-of-avila",
+      "films": [
+        "teresa-de-jesus",
+        "teresa-de-jesus-1962",
+        "john-of-the-cross-1997"
+      ],
+      "bio": "Born at Ávila in 1515, Teresa entered the Carmelite convent of the Incarnation at twenty and spent years in a lax community, suffering poor health and lapses in prayer. About 1560 she resolved on a stricter life and founded St Joseph's at Ávila in 1562, the first house of the Discalced Carmelites. She founded convents across Spain, with John of the Cross as her ally, and wrote the Life and The Interior Castle. She died at Alba de Tormes in 1582.",
+      "sources": [
+        {
+          "title": "St. Teresa of Avila",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/14515b.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Teresa of Ávila",
+      "dates": "1515–1582",
+      "feast": "10-15",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Gregory XV in 1622"
+    },
+    {
+      "name": "St John of the Cross",
+      "slug": "john-of-the-cross",
+      "films": [
+        "john-of-the-cross-1997",
+        "teresa-de-jesus"
+      ],
+      "bio": "Born John de Yepes at Fontiveros in 1542, he joined the Carmelites and, meeting Teresa of Ávila, helped her to extend her reform to the friars. Opposed by the unreformed brethren, he was imprisoned at Toledo in 1577 and escaped after nine months. He wrote the poems and treatises, The Ascent of Mount Carmel and The Dark Night, on the soul's path to union with God. He died at Úbeda on 14 December 1591.",
+      "sources": [
+        {
+          "title": "St. John of the Cross",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/08480a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. John of the Cross",
+      "dates": "1542–1591",
+      "feast": "11-24",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Benedict XIII in 1726; declared a Doctor of the Church by Pius XI in 1926"
+    },
+    {
+      "name": "St Rita of Cascia",
+      "slug": "rita-of-cascia",
+      "films": [
+        "saint-rita",
+        "rita-da-cascia-1943"
+      ],
+      "bio": "Born at Roccaporena in Umbria and married young against her wishes, Rita endured a violent husband for years. After he was killed in a feud and her two sons died, she sought admission to the Augustinian convent at Cascia and was received after repeated refusals. She lived there as a nun, noted for penance and prayer. She died in 1457. Veneration of her, as patron of desperate cases, spread widely.",
+      "sources": [
+        {
+          "title": "St. Rita of Cascia",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/13064a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Rita of Cascia",
+      "dates": "c. 1380–1457",
+      "feast": "05-22",
+      "feastNote": "Not on the 1962 General Calendar; listed in the 1962 Missal's supplement of Masses for certain places.",
+      "status": "Canonised by Leo XIII in 1900"
+    },
+    {
+      "name": "St Philip Neri",
+      "slug": "philip-neri",
+      "films": [
+        "saint-philip-neri"
+      ],
+      "bio": "Born at Florence in 1515, Philip came to Rome as a young man and for years worked among the poor and pilgrims as a layman. Ordained priest in 1551, he gathered young men for prayer, spiritual reading and works of charity, from which the Congregation of the Oratory grew. He was known for his cheerful, humorous manner and as a confessor. He died in Rome on 26 May 1595, and the Oratory was approved in 1575.",
+      "sources": [
+        {
+          "title": "St. Philip Romolo Neri",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/12018b.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Philip Neri",
+      "dates": "1515–1595",
+      "feast": "05-26",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Gregory XV in 1622"
+    },
+    {
+      "name": "St Anthony of Padua",
+      "slug": "anthony-of-padua",
+      "films": [
+        "saint-anthony-padua",
+        "antonio-di-padova-1949",
+        "antonio-di-padova-1931"
+      ],
+      "bio": "Born at Lisbon in 1195, Fernando joined the Augustinian canons, then the Franciscans, taking the name Anthony when he went to Morocco, hoping for martyrdom. Illness sent him to Italy, where his learning and preaching were discovered by chance. He taught theology to the friars and preached against heresy in northern Italy and France. He died near Padua on 13 June 1231, and Gregory IX canonised him within a year.",
+      "sources": [
+        {
+          "title": "St. Anthony of Padua",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/01556a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Anthony of Padua",
+      "dates": "1195–1231",
+      "feast": "06-13",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Gregory IX in 1232; declared a Doctor of the Church by Pius XII in 1946"
+    },
+    {
+      "name": "St Joseph",
+      "slug": "joseph",
+      "films": [
+        "joseph-of-nazareth",
+        "the-nativity-story-2006"
+      ],
+      "bio": "Joseph, a carpenter of Nazareth of the house of David, was betrothed to Mary. The Gospel of St Matthew tells that, finding her with child, he was told by an angel in a dream not to fear to take her as his wife. He took her and the Child to Egypt to escape Herod and then back to Nazareth. He is last mentioned when Jesus was twelve. Devotion to him grew greatly from the later Middle Ages.",
+      "sources": [
+        {
+          "title": "St. Joseph",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/08504a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Joseph",
+      "dates": "1st century",
+      "feast": "03-19",
+      "feastNote": "First class on the General Calendar. Pius XII added the feast of St Joseph the Workman, on 1 May, in 1955.",
+      "status": "Spouse of the Blessed Virgin Mary and foster-father of Our Lord; declared Patron of the Universal Church by Pius IX in 1870"
+    },
+    {
+      "name": "Bl Andrew Kim Taegon",
+      "slug": "andrew-kim-taegon",
+      "films": [
+        "a-birth"
+      ],
+      "bio": "Born in 1821 into a Korean Christian family of the nobility, Kim Taegon was baptised at fifteen and sent to the seminary at Macao by the French missionaries. He was ordained priest at Shanghai in 1845, the first Korean priest. Returning secretly, he tried to open a sea route for foreign missionaries and was arrested in 1846. He was beheaded near Seoul on 16 September 1846, aged twenty-five.",
+      "sources": [
+        {
+          "title": "Andrew Kim Taegon",
+          "publisher": "Wikipedia (dates cross-check)",
+          "url": "https://en.wikipedia.org/wiki/Andrew_Kim_Taegon"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "Bl. Andrew Kim Taegon",
+      "dates": "1821–1846",
+      "feastNote": "Not on the 1962 General Calendar; venerated locally in Korea with the beatified Korean martyrs.",
+      "status": "Beatified by Pius XI in 1925"
+    },
+    {
+      "name": "St Jean-Marie Vianney",
+      "slug": "jean-marie-vianney",
+      "films": [
+        "le-sorcier-du-ciel"
+      ],
+      "bio": "Born near Lyons in 1786, Vianney grew up through the Revolution and, with difficulty over his studies, was ordained in 1815. In 1818 he was sent to the small parish of Ars, where he rebuilt the spiritual life of the village by prayer, penance and sermons. From the 1830s pilgrims flocked to him, and he spent many hours daily in the confessional. He died at Ars on 4 August 1859.",
+      "sources": [
+        {
+          "title": "St. Jean-Baptiste-Marie Vianney",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/08326c.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Jean-Marie Vianney",
+      "dates": "1786–1859",
+      "feast": "08-08",
+      "feastNote": "Third class on the General Calendar, as St John Mary Vianney.",
+      "status": "Canonised by Pius XI in 1925"
+    },
+    {
+      "name": "St Catherine of Siena",
+      "slug": "catherine-of-siena",
+      "films": [
+        "caterina-da-siena-1947"
+      ],
+      "bio": "Born at Siena in 1347, the youngest of a large family of a dyer, Catherine became a Dominican tertiary while living at home. She served the sick and the poor, and gathered a circle of disciples. Her letters urged peace among the Italian states and pressed Gregory XI to return the papacy from Avignon, which he did in 1377. She worked for Urban VI during the Western Schism and died in Rome on 29 April 1380.",
+      "sources": [
+        {
+          "title": "St. Catherine of Siena",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/03447a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Catherine of Siena",
+      "dates": "1347–1380",
+      "feast": "04-30",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Pius II in 1461"
+    },
+    {
+      "name": "Bl John Houghton",
+      "slug": "john-houghton",
+      "films": [
+        "saint-john-houghton-marys-dowry"
+      ],
+      "bio": "Born about 1487 in Essex and educated at Cambridge, Houghton was a parish priest before becoming a Carthusian. He was prior of the London Charterhouse from 1531. When Henry VIII required the oath acknowledging him as head of the English Church, he refused, and with other priors was arrested. Tried for treason, he was hanged, drawn and quartered at Tyburn on 4 May 1535, the first of the Carthusian martyrs.",
+      "sources": [
+        {
+          "title": "John Houghton (martyr)",
+          "publisher": "Wikipedia (dates cross-check)",
+          "url": "https://en.wikipedia.org/wiki/John_Houghton_(martyr)"
+        },
+        {
+          "title": "The Carthusian Order",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/03388a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "Bl. John Houghton",
+      "dates": "c. 1487–1535",
+      "feast": "05-04",
+      "feastNote": "Not on the 1962 General Calendar. Commemorated with the Holy Martyrs of England and Wales on 4 May, a feast of the third class in England and Wales.",
+      "status": "Beatified by Leo XIII in 1886"
+    },
+    {
+      "name": "St Paul Miki",
+      "slug": "paul-miki",
+      "films": [
+        "the-26-martyrs-of-japan-1931"
+      ],
+      "bio": "Born near Osaka about 1562 to a Japanese military family, Paul Miki was educated by the Jesuits and joined them. He was an eloquent preacher. When Hideyoshi began persecuting Christians, he was arrested with Franciscans and other Japanese Christians, and the group was marched to Nagasaki. They were crucified on a hill outside the city on 5 February 1597, and he preached from the cross.",
+      "sources": [
+        {
+          "title": "Japanese Martyrs",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/09744a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Paul Miki",
+      "dates": "c. 1562–1597",
+      "feast": "02-05",
+      "feastNote": "Not on the 1962 General Calendar. The Twenty-six Martyrs of Japan, killed at Nagasaki on 5 February 1597, were kept on that day in some national and order calendars, such as that of the Philippines.",
+      "status": "Canonised by Pius IX in 1862, with his companions"
+    },
+    {
+      "name": "St Philip of Jesus",
+      "slug": "philip-of-jesus",
+      "films": [
+        "felipe-de-jesus-1949"
+      ],
+      "bio": "Felipe de las Casas was born at Mexico City about 1572 and, after a restless youth, joined the Franciscans at Manila in the Philippines. Sent to Mexico for ordination, he sailed in 1596, but his ship was wrecked on the coast of Japan. He was arrested with other Christians at Kyoto and Osaka and marched to Nagasaki. He was crucified there on 5 February 1597, the first Mexican saint.",
+      "sources": [
+        {
+          "title": "Philip of Jesus",
+          "publisher": "Wikipedia (dates cross-check)",
+          "url": "https://en.wikipedia.org/wiki/Philip_of_Jesus"
+        },
+        {
+          "title": "Japanese Martyrs",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/09744a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "dates": "1572–1597",
+      "feast": "02-05",
+      "feastNote": "Not on the 1962 General Calendar. Kept on 5 February with the Twenty-six Martyrs of Japan; the date was not on the General Calendar.",
+      "status": "Canonised by Pius IX in 1862, with his companions"
+    },
+    {
+      "name": "St Hildegard of Bingen",
+      "slug": "hildegard-of-bingen",
+      "films": [
+        "vision-2009"
+      ],
+      "bio": "Born in 1098 at Bermersheim in the Rhineland, Hildegard was given as a child to the Benedictine anchoress Jutta and became abbess of the community in 1136. From about 1141 she recorded her visions in the Scivias, and she later wrote on natural science and medicine, composed music and carried on a wide correspondence with popes, emperors and bishops. She founded Rupertsberg near Bingen, and died there on 17 September 1179.",
+      "sources": [
+        {
+          "title": "St. Hildegard",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/07351a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Hildegard of Bingen",
+      "dates": "1098–1179",
+      "feast": "09-17",
+      "feastNote": "Not on the 1962 General Calendar. Kept on 17 September in several German dioceses and at Solesmes; the Roman Martyrology also named her under that date.",
+      "status": "Venerated as a saint since her death and named in the Roman Martyrology; no formal canonisation had been completed"
+    },
+    {
+      "name": "St Augustine of Hippo",
+      "slug": "augustine-of-hippo",
+      "films": [
+        "augustine-of-hippo-1972"
+      ],
+      "bio": "Born at Tagaste in North Africa in 354 to a pagan father and the Christian Monica, Augustine taught rhetoric at Carthage, Rome and Milan and for years followed the Manichees. Moved by Ambrose's preaching and by his mother's prayers, he was baptised at Milan at Easter 387. He became bishop of Hippo in 396. His Confessions and The City of God, and his writings against the Donatists and Pelagians, shaped Western theology. He died in 430.",
+      "sources": [
+        {
+          "title": "St. Augustine of Hippo",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/02084a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Augustine of Hippo",
+      "dates": "354–430",
+      "feast": "08-28",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Bishop and Doctor of the Church, venerated from the earliest times"
+    },
+    {
+      "name": "St Sebastian",
+      "slug": "sebastian",
+      "films": [
+        "fabiola-1918"
+      ],
+      "bio": "Sebastian was a Roman martyr buried on the Appian Way, where a basilica was built over his tomb about 367. His acts, written much later, say that he came from Milan, served as an officer in the imperial guard and secretly helped Christians. Condemned, he was shot with arrows, recovered, and was then beaten to death with clubs. He is invoked against plague. His cult is attested in Rome from the fourth century.",
+      "sources": [
+        {
+          "title": "St. Sebastian",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/13668a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Sebastian",
+      "dates": "died c. 288",
+      "feast": "01-20",
+      "feastNote": "Kept with St Fabian on the General Calendar, a feast of the third class.",
+      "status": "Martyr, venerated from the earliest times"
+    },
+    {
+      "name": "St Agnes",
+      "slug": "agnes",
+      "films": [
+        "fabiola-1918"
+      ],
+      "bio": "Agnes was a young Roman girl, about twelve or thirteen, who suffered martyrdom in the persecution of Diocletian, probably in 304. Her feast on 21 January is recorded in the Roman calendar of 354, and her tomb is on the Via Nomentana, where a basilica was built. Her name appears in the Canon of the Mass. The later Acts describe her refusing marriage to a pagan suitor and being put to death.",
+      "sources": [
+        {
+          "title": "St. Agnes of Rome",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/01214a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Agnes",
+      "dates": "died c. 304",
+      "feast": "01-21",
+      "feastNote": "Third class on the General Calendar; her second commemoration is on 28 January.",
+      "status": "Virgin and martyr, venerated from the earliest times"
+    },
+    {
+      "name": "St Dismas",
+      "slug": "dismas",
+      "films": [
+        "los-jueves-milagro-1957"
+      ],
+      "bio": "Dismas is the name tradition gives to the repentant thief crucified at Christ's right hand. The Gospel of St Luke records that he rebuked his fellow criminal, acknowledged that he and his companion suffered justly, and asked Jesus to remember him in His kingdom. Christ promised him that he would be with Him that day in Paradise. The name Dismas appears in later apocryphal writings, and the thief has been honoured as a saint.",
+      "sources": [
+        {
+          "title": "Penitent thief",
+          "publisher": "Wikipedia (dates cross-check)",
+          "url": "https://en.wikipedia.org/wiki/Penitent_thief"
+        }
+      ],
+      "subject": "St. Dismas",
+      "dates": "1st century",
+      "feastNote": "No feast on the 1962 General Calendar.",
+      "status": "The Good Thief, venerated as a saint from early Christian times"
+    },
+    {
+      "name": "St Mary Magdalene",
+      "slug": "mary-magdalene",
+      "films": [
+        "la-spada-e-la-croce-1958"
+      ],
+      "bio": "Mary of Magdala, a woman from whom Christ cast out seven devils, followed Him and ministered to Him from her means. She stood at the foot of the Cross and was among the women who went to the tomb on Easter morning, where she was the first to see the risen Lord. In the West she was long identified with Mary of Bethany and with the penitent woman of Luke 7, an identification the Church's liturgy followed.",
+      "sources": [
+        {
+          "title": "St. Mary Magdalen",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/09761a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Mary Magdalene",
+      "dates": "1st century",
+      "feast": "07-22",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Disciple of Christ, venerated from the earliest times"
+    },
+    {
+      "name": "St Margaret of Cortona",
+      "slug": "margaret-of-cortona",
+      "films": [
+        "margaret-of-cortona-1950"
+      ],
+      "bio": "Born at Laviano in Tuscany in 1247, Margaret lost her mother young and at about eighteen became the mistress of a nobleman of Montepulciano, by whom she had a son. After he was murdered, she repented publicly and was received as a Franciscan tertiary at Cortona. She lived by penance, cared for the sick and poor and helped found a hospital. She died at Cortona on 22 February 1297.",
+      "sources": [
+        {
+          "title": "St. Margaret of Cortona",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/09653b.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Margaret of Cortona",
+      "dates": "1247–1297",
+      "feast": "02-21",
+      "feastNote": "Not on the 1962 General Calendar; listed in the 1962 Missal's supplement of Masses for certain places. The Roman Martyrology gave 22 February, the day of her death.",
+      "status": "Canonised by Benedict XIII in 1728"
+    },
+    {
+      "name": "St Rose of Lima",
+      "slug": "rose-of-lima",
+      "films": [
+        "rosa-de-lima-1961",
+        "rosa-mistica-2018"
+      ],
+      "bio": "Born at Lima in 1586 and baptised Isabel, Rose was named for her beauty and refused marriage to give herself to prayer. She became a Dominican tertiary and lived in a hut in her parents' garden, practising severe penance and making lace and flowers to support her family. She also cared for the sick poor. She died at Lima on 24 August 1617, in her thirty-second year, the first saint of the Americas.",
+      "sources": [
+        {
+          "title": "St. Rose of Lima",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/13192c.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Rose of Lima",
+      "dates": "1586–1617",
+      "feast": "08-30",
+      "feastNote": "Third class on the General Calendar; principal patroness of Latin America.",
+      "status": "Canonised by Clement X in 1671"
+    },
+    {
+      "name": "St Patrick",
+      "slug": "patrick",
+      "films": [
+        "st-patrick-the-irish-legend"
+      ],
+      "bio": "Born in Roman Britain, Patrick was seized by raiders at about sixteen and taken to Ireland as a slave, where he herded sheep and turned to prayer. He escaped after six years, studied for the priesthood and later returned to Ireland as a bishop. He preached and baptised across the island, ordained clergy and founded churches. His own Confession and Letter to Coroticus survive. The traditional date of death is 17 March.",
+      "sources": [
+        {
+          "title": "St. Patrick",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/11554a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Patrick",
+      "dates": "5th century",
+      "feast": "03-17",
+      "feastNote": "Third class on the General Calendar; first class in Ireland.",
+      "status": "Bishop and apostle of Ireland, venerated since antiquity"
+    },
+    {
+      "name": "St Wenceslas",
+      "slug": "wenceslas",
+      "films": [
+        "st-wenceslas-1930"
+      ],
+      "bio": "Born near Prague and brought up as a Christian by his grandmother Ludmila, Wenceslas became duke of Bohemia in his teens. He supported the clergy, protected the poor, fostered the Church and made peace with Germany. His brother Boleslav, who opposed his policy, invited him to a feast and had him murdered at Stará Boleslav on the way to Mass, probably on 28 September 935. He is patron of Bohemia.",
+      "sources": [
+        {
+          "title": "St. Wenceslaus",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/15587b.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Wenceslas",
+      "dates": "c. 907–935",
+      "feast": "09-28",
+      "feastNote": "Third class on the General Calendar, as St Wenceslaus.",
+      "status": "Martyr, venerated from the tenth century"
+    },
+    {
+      "name": "St Ludmila",
+      "slug": "ludmila",
+      "films": [
+        "st-wenceslas-1930"
+      ],
+      "bio": "Ludmila, wife of Bořivoj, the first Christian duke of Bohemia, was baptised with him and became a patroness of the Church in her country. She brought up her grandson Wenceslas in the faith. After her son's death, a struggle for influence with her daughter-in-law Drahomíra followed. Ludmila was strangled at Tetín castle, near Prague, in September 921, and her body was later moved to St George's Church in Prague.",
+      "sources": [
+        {
+          "title": "Saint Ludmila",
+          "publisher": "Wikipedia (dates cross-check)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Ludmila"
+        },
+        {
+          "title": "St. Wenceslaus",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/15587b.htm"
+        }
+      ],
+      "subject": "St. Ludmila",
+      "dates": "c. 860–921",
+      "feast": "09-16",
+      "feastNote": "Not on the 1962 General Calendar; kept in the Bohemian dioceses.",
+      "status": "Martyr, venerated since her death"
+    },
+    {
+      "name": "St Frances Xavier Cabrini",
+      "slug": "frances-xavier-cabrini",
+      "films": [
+        "mother-cabrini-2019"
+      ],
+      "bio": "Born at Sant'Angelo Lodigiano in Lombardy in 1850, Francesca Cabrini taught school, then in 1880 founded the Missionary Sisters of the Sacred Heart. At Leo XIII's urging she went to the United States in 1889 to serve Italian immigrants, and founded orphanages, schools and hospitals in North and South America and Europe. She became a United States citizen in 1909. She died at Chicago on 22 December 1917.",
+      "sources": [
+        {
+          "title": "Frances Xavier Cabrini",
+          "publisher": "Wikipedia (dates cross-check)",
+          "url": "https://en.wikipedia.org/wiki/Frances_Xavier_Cabrini"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Frances Xavier Cabrini",
+      "dates": "1850–1917",
+      "feast": "11-13",
+      "feastNote": "Kept on 13 November in the United States from 1961; elsewhere on 22 December, the day of her death. Listed in the 1962 Missal's supplement of Masses for certain places.",
+      "status": "Canonised by Pius XII in 1946"
+    },
+    {
+      "name": "St Barbara",
+      "slug": "barbara",
+      "films": [
+        "saint-barbara-2012"
+      ],
+      "bio": "Barbara is an early virgin martyr whose Acts are legendary. They say her pagan father shut her in a tower and, when she became a Christian, handed her to the judge, then beheaded her himself. Her name is in the oldest martyrologies of the Latin Church, and her cult spread widely in the East and West. She is invoked against sudden death and is patroness of artillerymen and miners.",
+      "sources": [
+        {
+          "title": "St. Barbara",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/02284d.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "subject": "St. Barbara",
+      "dates": "3rd or 4th century (traditional)",
+      "feast": "12-04",
+      "feastNote": "On the 1962 General Calendar only as a commemoration on 4 December, in the feast of St Peter Chrysologus.",
+      "status": "Virgin and martyr, venerated from antiquity"
+    },
+    {
+      "name": "St Elizabeth of Portugal",
+      "slug": "elizabeth-of-portugal",
+      "films": [
+        "reina-santa-1947"
+      ],
+      "bio": "Born in 1271, the daughter of Peter III of Aragon, Elizabeth was married at twelve to King Denis of Portugal. She lived a life of prayer and charity at court, founded hospitals and a convent, and more than once made peace between her husband and their son Afonso, and later between Afonso and the king of Castile. Widowed in 1325, she became a Franciscan tertiary. She died at Estremoz in 1336 while on a mission of peace.",
+      "sources": [
+        {
+          "title": "St. Elizabeth of Portugal",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/05391a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "dates": "1271–1336",
+      "feast": "07-08",
+      "feastNote": "Third class on the General Calendar.",
+      "status": "Canonised by Urban VIII in 1625"
+    },
+    {
+      "name": "Bl Teresa of St Augustine and the Martyrs of Compiègne",
+      "slug": "martyrs-of-compiegne",
+      "films": [
+        "le-dialogue-des-carmelites"
+      ],
+      "bio": "Sixteen Carmelite nuns of Compiègne, led by their prioress Mother Teresa of St Augustine, were arrested in 1794 during the French Revolution. They had offered themselves in a vow of sacrifice for the peace of the Church and the nation. Condemned in Paris, they were guillotined at the Place du Trône Renversé on 17 July 1794, singing the Veni Creator and renewing their vows. They were beatified in 1906.",
+      "sources": [
+        {
+          "title": "The Sixteen Blessed Teresian Martyrs of Compiègne",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/14517a.htm"
+        },
+        {
+          "title": "General Roman Calendar of 1960 (tabulates the calendar of the 1962 Missal, with national calendars and Masses for certain places)",
+          "publisher": "Wikipedia (feast dates)",
+          "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1960"
+        }
+      ],
+      "dates": "died 1794",
+      "feastNote": "Not on the 1962 General Calendar. The Carmelite Order keeps their memory on 17 July, the day of their execution.",
+      "status": "Beatified by Pius X in 1906"
+    }
+  ],
+  "feasts": [
+    {
+      "name": "The Epiphany",
+      "slug": "the-epiphany",
+      "feast": "01-06",
+      "films": [
+        "the-life-and-passion-of-jesus-christ-1903",
+        "la-vie-du-christ-1906",
+        "from-the-manger-to-the-cross-1912",
+        "ben-hur-1925",
+        "mater-dei-1950",
+        "reina-de-reinas-1948",
+        "the-greatest-story-ever-told-1965",
+        "the-gospel-according-to-st-matthew",
+        "jesus-el-nino-dios-1971",
+        "the-nativity-story-2006"
+      ],
+      "note": "Keeps the manifestation of Christ to the Gentiles in the adoration of the Magi, with the Baptism and the miracle at Cana; a first-class feast."
+    },
+    {
+      "name": "Our Lady of Lourdes",
+      "slug": "our-lady-of-lourdes",
+      "feast": "02-11",
+      "films": [
+        "the-song-of-bernadette",
+        "bernadette",
+        "the-passion-of-bernadette",
+        "il-suffit-d-aimer-1961",
+        "je-m-appelle-bernadette-2011",
+        "la-vie-merveilleuse-de-bernadette-1929",
+        "lourdes-et-ses-miracles-1955"
+      ],
+      "note": "Keeps the eighteen apparitions of Our Lady to St Bernadette at Massabielle in 1858, which confirmed the dogma of the Immaculate Conception.",
+      "feastNote": "Kept on the General Calendar as the Apparition of the Blessed Virgin Mary Immaculate, a feast of the third class; extended to the whole Church by Pius X in 1907."
+    },
+    {
+      "name": "St Joseph",
+      "slug": "joseph",
+      "feast": "03-19",
+      "films": [
+        "joseph-of-nazareth",
+        "the-nativity-story-2006",
+        "jesus-maria-y-jose-1972",
+        "jesus-el-nino-dios-1971"
+      ],
+      "note": "Keeps St Joseph, spouse of the Blessed Virgin Mary and foster-father of Our Lord, as patron of the universal Church.",
+      "feastNote": "A first-class feast; St Joseph the Workman is a separate first-class feast on 1 May, added by Pius XII in 1955."
+    },
+    {
+      "name": "The Annunciation",
+      "slug": "the-annunciation",
+      "feast": "03-25",
+      "films": [
+        "the-life-and-passion-of-jesus-christ-1903",
+        "la-vie-et-la-passion-de-jesus-christ-1907",
+        "christus-1916",
+        "mater-dei-1950",
+        "marie-de-nazareth-1995",
+        "jesus-el-nino-dios-1971",
+        "the-nativity-story-2006",
+        "mary-of-nazareth"
+      ],
+      "note": "Keeps the message of the Archangel Gabriel to Our Lady and the Incarnation of the Son of God at her consent.",
+      "feastNote": "A first-class feast."
+    },
+    {
+      "name": "Our Lady of Fátima",
+      "slug": "our-lady-of-fatima",
+      "feast": "05-13",
+      "films": [
+        "the-miracle-of-our-lady-of-fatima",
+        "la-senora-de-fatima",
+        "aparicao",
+        "the-13th-day",
+        "day-the-sun-danced",
+        "fatima-terra-de-fe",
+        "fatima-milagrosa-1928"
+      ],
+      "note": "Keeps the first apparition of Our Lady to the three shepherd children of Fátima on 13 May 1917, and her message of prayer and penance.",
+      "feastNote": "Not on the 1962 universal calendar. It was kept as a second-class feast on the national calendar of Portugal."
+    },
+    {
+      "name": "Sts Peter and Paul",
+      "slug": "peter-and-paul",
+      "feast": "06-29",
+      "films": [
+        "saint-peter",
+        "the-big-fisherman-1959",
+        "paul-apostle-of-christ-2018",
+        "saint-paul-2000",
+        "acts-of-the-apostles-1969",
+        "ad-anno-domini-1985"
+      ],
+      "note": "Keeps the two chief apostles, who by tradition were martyred at Rome under Nero and whose tombs the city honours.",
+      "feastNote": "A first-class feast; the Conversion of St Paul is kept on 25 January and the Chair of St Peter on 22 February."
+    },
+    {
+      "name": "The Assumption",
+      "slug": "the-assumption",
+      "feast": "08-15",
+      "films": [
+        "mater-dei-1950"
+      ],
+      "note": "Keeps the taking up of Our Lady, body and soul, into heavenly glory at the end of her earthly life.",
+      "feastNote": "A first-class feast; the dogma was defined by Pius XII in 1950."
+    },
+    {
+      "name": "The Most Holy Rosary",
+      "slug": "the-most-holy-rosary",
+      "feast": "10-07",
+      "films": [
+        "la-senora-de-fatima",
+        "the-13th-day",
+        "day-the-sun-danced",
+        "the-miracle-of-our-lady-of-fatima",
+        "aparicao",
+        "fatima-terra-de-fe",
+        "lourdes-et-ses-miracles-1955"
+      ],
+      "note": "Keeps the Rosary and thanksgiving for the victory over the Turks at Lepanto in 1571; at Fátima Our Lady asked for it daily and named herself its Lady.",
+      "feastNote": "Called Blessed Virgin Mary of the Rosary in the 1960 calendar; a second-class feast."
+    },
+    {
+      "name": "The Immaculate Conception",
+      "slug": "the-immaculate-conception",
+      "feast": "12-08",
+      "films": [
+        "the-song-of-bernadette",
+        "bernadette",
+        "il-suffit-d-aimer-1961"
+      ],
+      "note": "Keeps the preservation of Our Lady from original sin from the first moment of her conception.",
+      "feastNote": "A first-class feast; the dogma was defined by Pius IX in 1854."
+    },
+    {
+      "name": "Our Lady of Guadalupe",
+      "slug": "our-lady-of-guadalupe",
+      "feast": "12-12",
+      "films": [
+        "tepeyac-1917",
+        "la-virgen-morena-1942",
+        "la-virgen-que-forjo-una-patria-1942",
+        "las-rosas-del-milagro-1960",
+        "la-virgen-de-guadalupe-1976",
+        "blood-and-rose"
+      ],
+      "note": "Keeps the apparitions of Our Lady to the Indian Juan Diego on the hill of Tepeyac, near Mexico City, in December 1531.",
+      "feastNote": "Not on the 1962 General Calendar. A first-class feast in Mexico and Latin America, where she is principal patroness, and in the Philippines; in the United States, a feast of the third class."
+    },
+    {
+      "name": "Christmas",
+      "slug": "christmas",
+      "feast": "12-25",
+      "films": [
+        "the-life-and-passion-of-jesus-christ-1903",
+        "la-vie-du-christ-1906",
+        "la-vie-et-la-passion-de-jesus-christ-1907",
+        "from-the-manger-to-the-cross-1912",
+        "inri-1923",
+        "mater-dei-1950",
+        "reina-de-reinas-1948",
+        "king-of-kings-1961",
+        "the-greatest-story-ever-told-1965",
+        "the-gospel-according-to-st-matthew",
+        "jesus-el-nino-dios-1971",
+        "marie-de-nazareth-1995",
+        "joseph-of-nazareth",
+        "the-nativity-story-2006",
+        "mary-of-nazareth",
+        "ben-hur-1925"
+      ],
+      "note": "Keeps the birth of Our Lord at Bethlehem; a first-class feast."
+    },
+    {
+      "name": "Holy Week and Easter",
+      "slug": "holy-week-and-easter",
+      "feast": "movable",
+      "films": [
+        "the-passion-of-the-christ",
+        "mary-of-nazareth",
+        "golgotha",
+        "the-gospel-according-to-st-matthew",
+        "the-king-of-kings-1927",
+        "christus-1916",
+        "from-the-manger-to-the-cross-1912",
+        "king-of-kings-1961",
+        "the-greatest-story-ever-told-1965",
+        "the-life-and-passion-of-jesus-christ-1903",
+        "der-galilaeer-1921",
+        "el-beso-de-judas-1954",
+        "el-judas-1952",
+        "el-martir-del-calvario-1952",
+        "inri-1923",
+        "jesus-de-nazareth-1942",
+        "jesus-nuestro-senor-1971",
+        "la-vie-du-christ-1906",
+        "marie-de-nazareth-1995",
+        "mater-dei-1950",
+        "el-proceso-de-cristo-1966",
+        "la-vie-et-la-passion-de-jesus-christ-1907",
+        "milagro-a-los-cobardes-1962",
+        "pontius-pilate-1962",
+        "proceso-a-jesus-1974",
+        "reina-de-reinas-1948"
+      ],
+      "note": "Keeps the Passion, death and Resurrection of Our Lord, from the entry into Jerusalem to the empty tomb.",
+      "feastNote": "Easter falls between 22 March and 25 April; Holy Week runs from Palm Sunday to Holy Saturday, with Good Friday two days before Easter."
+    }
+  ]
+}

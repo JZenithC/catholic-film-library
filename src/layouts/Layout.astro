@@ -32,7 +32,7 @@ const links = [
   ['collections/', 'Collections'],
   ['saints/', 'Saints'],
   ['grey-area/', 'Grey area'],
-  ['a-z/', 'A–Z'],
+  ['guides/', 'Guides'],
   ['about/', 'About'],
 ];
 const path = Astro.url.pathname;
@@ -140,6 +140,7 @@ const current = (href: string) => {
           <a href={url('grey-area/')}>Grey area</a>
           <a href={url('saints/')}>Saints</a>
           <a href={url('calendar/')}>Calendar</a>
+          <a href={url('guides/')}>Guides</a>
           <a href={url('a-z/')}>A–Z</a>
           <a href={url('not-included/')}>Films not included</a>
         </nav>

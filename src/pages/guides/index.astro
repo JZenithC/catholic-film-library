@@ -1,0 +1,33 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import raw from '../../data/guides.json';
+import { url, plural } from '../../data/catalogue';
+const guides = raw as { slug: string; title: string; lead: string; films: string[] }[];
+---
+
+<Layout
+  title="Guides"
+  description="Short essays comparing the films on one subject, and which to watch first."
+>
+  <div class="wrap">
+    <div class="page-heading">
+      <h1>Guides</h1>
+      <p class="lead">
+        Short essays on the films about one subject: how they differ, what
+        each gets wrong, and which to watch first.
+      </p>
+    </div>
+    <ul class="guide-list">
+      {
+        guides.map((g) => (
+          <li>
+            <a href={url(`guides/${g.slug}/`)}>{g.title}</a>
+            <p>{g.lead}</p>
+            <small>{plural(g.films.length, 'film')}</small>
+          </li>
+        ))
+      }
+    </ul>
+    <div class="section"></div>
+  </div>
+</Layout>
