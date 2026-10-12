@@ -633,3 +633,12 @@ html:not(.js) .library { grid-template-columns: minmax(0, 1fr); }
 .further-reading cite { font-style: italic; }
 .further-reading small { display: block; color: var(--muted); font-size: 13.5px; }
 .print-list .col-age { white-space: nowrap; }
+
+/* Phones: long source strings wrap, and no caption text below 14px */
+.credit p, .sources li, .poster-credit { overflow-wrap: anywhere; }
+@media (max-width: 640px) {
+  .card-meta, .watch .muted, .check-field a { font-size: 14px; }
+  .poster-credit { font-size: 13.5px; }
+  .grey-tag { font-size: 12.5px; }
+  .index-group .grey-tag { font-size: 11.5px; }
+}
