@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import FilmCard from '../../components/FilmCard.astro';
+import ReadingList from '../../components/ReadingList.astro';
 import { people, filmsFor } from '../../data/saints';
 import { url, paragraphs } from '../../data/catalogue';
 export function getStaticPaths() {
@@ -54,6 +55,13 @@ const grey = list.filter((f) => f.grey);
           <div class="film-grid">
             {grey.map((f, i) => <FilmCard film={f} index={i} />)}
           </div>
+        </section>
+      )
+    }
+    {
+      (person.readings?.length ?? 0) > 0 && (
+        <section class="group">
+          <ReadingList readings={person.readings ?? []} />
         </section>
       )
     }

@@ -15,7 +15,8 @@ import {
   legionLabels,
   type Film,
 } from '../../data/catalogue';
-import { saintsFor } from '../../data/saints';
+import { saintsFor, readingsFor } from '../../data/saints';
+import ReadingList from '../../components/ReadingList.astro';
 export function getStaticPaths() {
   return publicFilms.map((film) => ({
     params: { slug: film.slug },
@@ -275,6 +276,7 @@ const claims = (c: string[] | string) => (Array.isArray(c) ? c.join('; ') : c);
           }
           {advisories.map((p) => <p>{p}</p>)}
         </div>
+        <ReadingList readings={readingsFor(film)} />
         <h2>Sources</h2>
         <ol class="sources">
           {

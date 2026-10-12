@@ -1,6 +1,13 @@
 import raw from './saints.json';
 import { publicFilms, type Film } from './catalogue';
 
+export interface Reading {
+  title: string;
+  author?: string;
+  year?: number;
+  url?: string;
+  note: string;
+}
 export interface Person {
   name: string;
   slug: string;
@@ -12,6 +19,7 @@ export interface Person {
   status?: string;
   bio: string;
   sources: { title: string; publisher: string; url: string }[];
+  readings?: Reading[];
 }
 export interface Feast {
   name: string;
@@ -20,6 +28,7 @@ export interface Feast {
   feastNote?: string;
   films: string[];
   note: string;
+  readings?: Reading[];
 }
 const MONTHS = [
   'January',
@@ -64,3 +73,15 @@ export const feasts = data.feasts
 /** The saints a film is about. */
 export const saintsFor = (film: Film) =>
   people.filter((p) => p.films.includes(film.id));
+/**
+ * Further reading for a film: the reading lists of the saints it is about, or,
+ * when it is about no saint, of the feasts it is listed under. Duplicates dropped.
+ */
+export const readingsFor = (film: Film): Reading[] => {
+  const fromPeople = saintsFor(film).flatMap((p) => p.readings ?? []);
+  const list = fromPeople.length
+    ? fromPeople
+    : feasts.filter((f) => f.films.includes(film.id)).flatMap((f) => f.readings ?? []);
+  const seen = new Set<string>();
+  return list.filter((r) => !seen.has(r.title) && seen.add(r.title));
+};

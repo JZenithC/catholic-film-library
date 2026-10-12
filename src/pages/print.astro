@@ -1,0 +1,57 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { films, greyFilms, url } from '../data/catalogue';
+const byTitle = (list: typeof films) =>
+  [...list].sort((a, b) => a.title.localeCompare(b.title, 'en'));
+const tables = [
+  { caption: `Recommended (${films.length})`, list: byTitle(films) },
+  { caption: `Grey area (${greyFilms.length})`, list: byTitle(greyFilms) },
+];
+---
+
+<Layout
+  title="Printable list"
+  description="Every film in the library on one page, with year, director and age, to print or save as a checklist."
+>
+  <div class="wrap">
+    <div class="page-heading">
+      <h1>Printable list</h1>
+      <p class="lead">
+        Every film on one page, with its year, director and the youngest age it
+        suits, to print or save as PDF and tick off. Grey-area films are listed
+        separately; their pages say what to weigh before watching.
+      </p>
+      <p class="print-actions">
+        <button class="button" type="button" onclick="window.print()">Print this list</button>
+      </p>
+    </div>
+    {
+      tables.map((t) => (
+        <table class="print-list">
+          <caption>{t.caption}</caption>
+          <thead>
+            <tr>
+              <th scope="col"><span class="visually-hidden">Seen</span></th>
+              <th scope="col">Film</th>
+              <th scope="col">Year</th>
+              <th scope="col" class="col-dir">Director</th>
+              <th scope="col">Age</th>
+            </tr>
+          </thead>
+          <tbody>
+            {t.list.map((f) => (
+              <tr>
+                <td aria-hidden="true">☐</td>
+                <td><a href={url(`films/${f.slug}/`)}>{f.title}</a></td>
+                <td>{f.year}</td>
+                <td class="col-dir">{f.directors.join(', ')}</td>
+                <td>{f.suitability?.age ?? ''}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      ))
+    }
+    <div class="section"></div>
+  </div>
+</Layout>

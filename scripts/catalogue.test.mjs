@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { mkdtemp, mkdir, writeFile, readFile, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
-import { generateCatalogue, buildCatalogue } from './catalogue.mjs';
+import { generateCatalogue, buildCatalogue, stampAdditions } from './catalogue.mjs';
 
 const record = (id, status, extra = {}) => ({
   id,
@@ -183,4 +183,13 @@ test('generator fails loudly on duplicate inventory ids', () => {
       }),
     /Duplicate inventory ids: a/,
   );
+});
+
+test('stampAdditions keeps dates, stamps new films and drops unpublished ones', () => {
+  const out = stampAdditions(
+    { kept: '2026-10-11', gone: '2026-10-11' },
+    [{ id: 'kept' }, { id: 'fresh' }],
+    '2026-11-01',
+  );
+  assert.deepEqual(out, { kept: '2026-10-11', fresh: '2026-11-01' });
 });

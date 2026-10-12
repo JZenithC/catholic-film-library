@@ -1,0 +1,60 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { publicFilms, url } from '../data/catalogue';
+import added from '../data/additions.json';
+const dates = added as Record<string, string>;
+const launch = Object.values(dates).sort()[0];
+const byDate = new Map<string, typeof publicFilms>();
+for (const f of publicFilms) {
+  const d = dates[f.id];
+  if (!d || d === launch) continue;
+  byDate.set(d, [...(byDate.get(d) ?? []), f]);
+}
+const days = [...byDate.entries()]
+  .sort(([a], [b]) => b.localeCompare(a))
+  .map(([date, list]) => ({
+    date,
+    label: new Date(`${date}T12:00:00Z`).toLocaleDateString('en-GB', {
+      day: 'numeric',
+      month: 'long',
+      year: 'numeric',
+      timeZone: 'UTC',
+    }),
+    films: list.sort((a, b) => a.title.localeCompare(b.title, 'en')),
+  }));
+---
+
+<Layout
+  title="New films"
+  description="Films added to the library since it opened, newest first."
+>
+  <div class="wrap">
+    <div class="page-heading">
+      <h1>New films</h1>
+      <p class="lead">
+        Films added since the library opened, newest first. Follow new
+        additions with the <a href={url('feed.xml')}>RSS feed</a>.
+      </p>
+    </div>
+    {
+      days.map((d) => (
+        <section class="new-day" id={`added-${d.date}`}>
+          <h2>
+            {d.label} <small>{d.films.length} films</small>
+          </h2>
+          <ul>
+            {d.films.map((f) => (
+              <li>
+                <a href={url(`films/${f.slug}/`)}>{f.title}</a>
+                {f.grey && <span class="grey-tag">Grey area</span>}
+                <small>{f.year}</small>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))
+    }
+    {days.length === 0 && <p class="empty">No films have been added since the library opened.</p>}
+    <div class="section"></div>
+  </div>
+</Layout>

@@ -208,6 +208,15 @@ export function buildCatalogue({
 
 const json = (value) => JSON.stringify(value, null, 2) + '\n';
 
+/**
+ * Date each public film was first published (YYYY-MM-DD), for the "New films"
+ * page and feed. Keeps existing dates, stamps new films with `today`, and drops
+ * films that are no longer public. Keys stay in the order of `films`.
+ */
+export function stampAdditions(added, films, today = new Date().toISOString().slice(0, 10)) {
+  return Object.fromEntries(films.map((f) => [f.id, added[f.id] ?? today]));
+}
+
 /** Read inputs under `root`, generate, and (unless write is false) write outputs. */
 export async function generateCatalogue({ root, write = true } = {}) {
   const read = async (rel) =>
@@ -229,6 +238,13 @@ export async function generateCatalogue({ root, write = true } = {}) {
   });
   if (write) {
     const out = (rel, value) => writeFile(path.join(root, rel), json(value));
+    let added = {};
+    try {
+      added = await read('src/data/additions.json');
+    } catch (e) {
+      if (e.code !== 'ENOENT') throw e;
+    }
+    await out('src/data/additions.json', stampAdditions(added, result.films));
     await out('src/data/films.json', result.films);
     await out('research/starting-inventory-crosswalk.json', result.crosswalk);
     await out('src/data/research-summary.json', result.summary);

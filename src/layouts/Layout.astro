@@ -65,6 +65,12 @@ const current = (href: string) => {
     {noindex && <meta name="robots" content="noindex" />}
     {!noindex && <link rel="canonical" href={canonical} />}
     <link rel="icon" type="image/svg+xml" href={url('favicon.svg')} />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="New films"
+      href={url('feed.xml')}
+    />
     <meta property="og:site_name" content={siteName} />
     <meta property="og:title" content={isHome ? siteName : title} />
     <meta property="og:description" content={description} />
@@ -141,7 +147,10 @@ const current = (href: string) => {
           <a href={url('saints/')}>Saints</a>
           <a href={url('calendar/')}>Calendar</a>
           <a href={url('guides/')}>Guides</a>
+          <a href={url('family/')}>Watching with children</a>
+          <a href={url('new/')}>New films</a>
           <a href={url('a-z/')}>A–Z</a>
+          <a href={url('print/')}>Printable list</a>
           <a href={url('not-included/')}>Films not included</a>
         </nav>
         <nav aria-labelledby="footer-about">

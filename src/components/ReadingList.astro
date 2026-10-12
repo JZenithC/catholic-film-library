@@ -1,0 +1,35 @@
+---
+import type { Reading } from '../data/saints';
+interface Props {
+  readings: Reading[];
+}
+const { readings } = Astro.props;
+---
+
+{
+  readings.length > 0 && (
+    <>
+      <h2>Further reading</h2>
+      <ul class="further-reading">
+        {readings.map((r) => (
+          <li>
+            {r.url ? (
+              <a href={r.url} rel="noopener noreferrer">
+                <cite>{r.title}</cite>
+              </a>
+            ) : (
+              <cite>{r.title}</cite>
+            )}
+            {(r.author || r.year) && (
+              <span class="muted">
+                {' '}
+                {[r.author, r.year].filter(Boolean).join(', ')}
+              </span>
+            )}
+            <small>{r.note}</small>
+          </li>
+        ))}
+      </ul>
+    </>
+  )
+}

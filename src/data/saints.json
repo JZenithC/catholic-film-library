@@ -9,7 +9,10 @@
         "the-passion-of-bernadette",
         "il-suffit-d-aimer-1961",
         "je-m-appelle-bernadette-2011",
-        "la-vie-merveilleuse-de-bernadette-1929"
+        "la-vie-merveilleuse-de-bernadette-1929",
+        "l-affaire-lourdes-1967",
+        "lourdes-2000",
+        "our-lady-of-lourdes-2007"
       ],
       "bio": "Born at Lourdes, the eldest child of a ruined miller, Bernadette was a sickly, barely literate girl of fourteen when, in 1858, she saw eighteen apparitions of Our Lady in the grotto of Massabielle. The Lady called herself the Immaculate Conception. Questioned by civil and Church authorities, she held to her account. She entered the Sisters of Charity at Nevers in 1866 and died there, after long illness, in 1879.",
       "sources": [
@@ -49,7 +52,10 @@
         "jeanne-d-arc-1900",
         "jeanne-la-pucelle-1994",
         "jeannette-2017",
-        "joan-of-arc-1999-miniseries"
+        "joan-of-arc-1999-miniseries",
+        "saint-joan-1967",
+        "jeanne-d-arc-le-pouvoir-et-l-innocence-1989",
+        "jeanne-2019"
       ],
       "bio": "A peasant girl of Domrémy, Joan believed that Saints Michael, Catherine and Margaret told her to relieve Orléans and have the Dauphin crowned at Reims. She led French troops in 1429 and was taken by the Burgundians the next year. Tried for heresy at Rouen by a court of pro-English clerics, she was burned on 30 May 1431. A retrial in 1456 declared the sentence void.",
       "sources": [
@@ -80,7 +86,9 @@
         "francesco-2002-soavi",
         "frate-francesco-1927",
         "frate-sole-1918",
-        "il-poverello-di-assisi-1911"
+        "il-poverello-di-assisi-1911",
+        "san-francisco-de-asis-1944",
+        "never-take-no-for-an-answer-1951"
       ],
       "bio": "The son of a wealthy cloth merchant of Assisi, Francis gave up his inheritance about 1206 to live in poverty and rebuild ruined churches. Companions gathered round him, and Innocent III approved his first rule orally in 1209. He preached to the poor, travelled to Egypt and the Holy Land, and received the stigmata at La Verna in 1224. He died at the Portiuncula on 3 October 1226.",
       "sources": [
@@ -237,7 +245,8 @@
         "therese-the-story-of-saint-therese-of-lisieux",
         "therese-1986",
         "proces-au-vatican",
-        "therese-martin-1938"
+        "therese-martin-1938",
+        "la-vie-miraculeuse-de-therese-martin-1929"
       ],
       "bio": "Born at Alençon in 1873, Thérèse Martin was the youngest of nine children of devout parents. She asked Leo XIII's leave to enter the Carmel of Lisieux at fifteen and was admitted in April 1888. Her short religious life was hidden, marked by trust in God and small duties. She died of tuberculosis on 30 September 1897. Her autobiography, Story of a Soul, was published in 1898 and spread her fame quickly.",
       "sources": [
@@ -315,7 +324,8 @@
       "films": [
         "don-bosco",
         "john-bosco-mission-to-love",
-        "don-bosco-1935"
+        "don-bosco-1935",
+        "giovanni-il-ragazzo-del-sogno-1987"
       ],
       "bio": "Born to a poor peasant family at Becchi, near Turin, Bosco was ordained in 1841 and began to gather the young apprentices and street boys of the city on Sundays. He founded oratories, workshops and schools, and in 1859 the Salesian Society, followed by the Sisters of Mary Help of Christians. He placed his work under St Francis de Sales and relied on kindness rather than punishment. He died at Turin on 31 January 1888.",
       "sources": [
@@ -576,7 +586,9 @@
       "films": [
         "teresa-de-jesus",
         "teresa-de-jesus-1962",
-        "john-of-the-cross-1997"
+        "john-of-the-cross-1997",
+        "teresa-2015",
+        "teresa-2023"
       ],
       "bio": "Born at Ávila in 1515, Teresa entered the Carmelite convent of the Incarnation at twenty and spent years in a lax community, suffering poor health and lapses in prayer. About 1560 she resolved on a stricter life and founded St Joseph's at Ávila in 1562, the first house of the Discalced Carmelites. She founded convents across Spain, with John of the Cross as her ally, and wrote the Life and The Interior Castle. She died at Alba de Tormes in 1582.",
       "sources": [
@@ -653,7 +665,8 @@
       "name": "St Philip Neri",
       "slug": "philip-neri",
       "films": [
-        "saint-philip-neri"
+        "saint-philip-neri",
+        "state-buoni-se-potete-1983"
       ],
       "bio": "Born at Florence in 1515, Philip came to Rome as a young man and for years worked among the poor and pilgrims as a layman. Ordained priest in 1551, he gathered young men for prayer, spiritual reading and works of charity, from which the Congregation of the Oratory grew. He was known for his cheerful, humorous manner and as a confessor. He died in Rome on 26 May 1595, and the Oratory was approved in 1575.",
       "sources": [
@@ -755,7 +768,9 @@
       "name": "St Jean-Marie Vianney",
       "slug": "jean-marie-vianney",
       "films": [
-        "le-sorcier-du-ciel"
+        "le-sorcier-du-ciel",
+        "ars-1959",
+        "le-cure-d-ars-mazzeo"
       ],
       "bio": "Born near Lyons in 1786, Vianney grew up through the Revolution and, with difficulty over his studies, was ordained in 1815. In 1818 he was sent to the small parish of Ars, where he rebuilt the spiritual life of the village by prayer, penance and sermons. From the 1830s pilgrims flocked to him, and he spent many hours daily in the confessional. He died at Ars on 4 August 1859.",
       "sources": [
@@ -1283,7 +1298,11 @@
         "il-suffit-d-aimer-1961",
         "je-m-appelle-bernadette-2011",
         "la-vie-merveilleuse-de-bernadette-1929",
-        "lourdes-et-ses-miracles-1955"
+        "lourdes-et-ses-miracles-1955",
+        "l-affaire-lourdes-1967",
+        "lourdes-2000",
+        "our-lady-of-lourdes-2007",
+        "une-femme-nommee-marie-2013"
       ],
       "note": "Keeps the eighteen apparitions of Our Lady to St Bernadette at Massabielle in 1858, which confirmed the dogma of the Immaculate Conception.",
       "feastNote": "Kept on the General Calendar as the Apparition of the Blessed Virgin Mary Immaculate, a feast of the third class; extended to the whole Church by Pius X in 1907."
@@ -1422,7 +1441,8 @@
         "joseph-of-nazareth",
         "the-nativity-story-2006",
         "mary-of-nazareth",
-        "ben-hur-1925"
+        "ben-hur-1925",
+        "joseph-and-mary-2016"
       ],
       "note": "Keeps the birth of Our Lord at Bethlehem; a first-class feast."
     },
@@ -1456,7 +1476,18 @@
         "milagro-a-los-cobardes-1962",
         "pontius-pilate-1962",
         "proceso-a-jesus-1974",
-        "reina-de-reinas-1948"
+        "reina-de-reinas-1948",
+        "the-passion-play-of-oberammergau-1898",
+        "cristo-1954",
+        "day-of-triumph-1954",
+        "la-vie-de-jesus-1951",
+        "jesus-1973",
+        "the-gospel-according-to-matthew-1993",
+        "kristo-1996",
+        "the-gospel-of-john-2003",
+        "the-gospel-of-john-2014",
+        "risen-2016",
+        "une-femme-nommee-marie-2013"
       ],
       "note": "Keeps the Passion, death and Resurrection of Our Lord, from the entry into Jerusalem to the empty tomb.",
       "feastNote": "Easter falls between 22 March and 25 April; Holy Week runs from Palm Sunday to Holy Saturday, with Good Friday two days before Easter."

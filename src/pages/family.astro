@@ -1,0 +1,85 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { films, url, legionLabels } from '../data/catalogue';
+const bands = [
+  {
+    age: 'All ages',
+    id: 'all-ages',
+    note: 'Nothing in these needs explaining away. Very young children may still find a silent or black-and-white film slow.',
+  },
+  {
+    age: '8+',
+    id: 'eight',
+    note: 'Some peril, a death or a martyrdom handled without dwelling on it. Worth watching together the first time.',
+  },
+  {
+    age: '12+',
+    id: 'twelve',
+    note: 'War, persecution, a cruel execution or an adult theme that a younger child would need help with.',
+  },
+] as const;
+const byBand = bands.map((b) => ({
+  ...b,
+  films: films
+    .filter((f) => f.suitability?.age === b.age)
+    .sort((a, c) => a.title.localeCompare(c.title, 'en')),
+}));
+---
+
+<Layout
+  title="Watching with children"
+  description="Recommended films for children and families, by age, with the reason for each age and its Legion of Decency rating."
+>
+  <div class="wrap">
+    <div class="page-heading">
+      <h1>Watching with children</h1>
+      <p class="lead">
+        Recommended films grouped by the youngest age they suit, with the reason
+        for each and, where one exists, the Legion of Decency rating it was
+        given on release.
+      </p>
+      <p>
+        An age is a starting point. Children differ, and the notes say what a
+        parent will want to know: a scourging shown in full, a frightening
+        apparition, a death in the family. Read the film's “Before you watch”
+        notes first. For an evening's choice with a short reason for each, see
+        <a href={url('guides/films-for-a-family-evening/')}>Films for a family evening</a>.
+        Films in the grey area are left out here.
+      </p>
+      <p>
+        Showing a film to a parish, school or club group, outside the home,
+        usually needs a public performance licence unless the film is in the
+        public domain. The film's “Where to watch” list notes free
+        public-domain copies.
+      </p>
+    </div>
+    <nav class="index-nav wide" aria-label="Ages">
+      {byBand.map((b) => <a href={`#${b.id}`}>{b.age}</a>)}
+    </nav>
+    {
+      byBand.map((b) => (
+        <section class="family-band" id={b.id}>
+          <h2>
+            {b.age} <small>{b.films.length} films</small>
+          </h2>
+          <p class="muted">{b.note}</p>
+          <ul>
+            {b.films.map((f) => (
+              <li>
+                <a href={url(`films/${f.slug}/`)}>{f.title}</a>
+                <small>
+                  {f.year}
+                  {f.legion
+                    ? ` · Legion of Decency ${f.legion.rating} (${legionLabels[f.legion.rating]})`
+                    : ''}
+                </small>
+                {f.suitability?.note && <p>{f.suitability.note}</p>}
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))
+    }
+    <div class="section"></div>
+  </div>
+</Layout>
