@@ -1,0 +1,101 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { people, feasts, filmsFor, monthNames } from '../data/saints';
+import { url } from '../data/catalogue';
+type Entry = {
+  day: number;
+  name: string;
+  href?: string;
+  note?: string;
+  films: ReturnType<typeof filmsFor>;
+};
+const months: Entry[][] = monthNames.map(() => []);
+const movable: Entry[] = [];
+const add = (feast: string | undefined, entry: Omit<Entry, 'day'>) => {
+  const m = /^(\d{2})-(\d{2})$/.exec(feast ?? '');
+  if (m) months[Number(m[1]) - 1].push({ ...entry, day: Number(m[2]) });
+  else if (feast === 'movable') movable.push({ ...entry, day: 0 });
+};
+for (const p of people)
+  add(p.feast, { name: p.name, href: url(`saints/${p.slug}/`), films: filmsFor(p.films) });
+for (const f of feasts)
+  add(f.feast, { name: f.name, note: f.feastNote ?? f.note, films: filmsFor(f.films) });
+for (const list of months) list.sort((a, b) => a.day - b.day || a.name.localeCompare(b.name));
+const filmLinks = (e: Entry) => e.films;
+---
+
+<Layout
+  title="Calendar"
+  description="Films for the feasts of the Church's year, month by month, following the Roman calendar of 1962."
+>
+  <div class="wrap">
+    <div class="page-heading">
+      <h1>Calendar</h1>
+      <p class="lead">
+        Films for the feasts of the year, following the Roman calendar of 1962.
+        Some feasts of Our Lady listed here were kept locally rather than by the
+        whole Church; the note says so.
+      </p>
+    </div>
+    <nav class="index-nav wide" aria-label="Months">
+      {monthNames.map((m, i) => months[i].length > 0 && <a href={`#${m.toLowerCase()}`}>{m.slice(0, 3)}</a>)}
+      {movable.length > 0 && <a href="#movable">Easter</a>}
+    </nav>
+    {
+      monthNames.map(
+        (m, i) =>
+          months[i].length > 0 && (
+            <section class="index-group calendar-month" id={m.toLowerCase()}>
+              <h2>{m}</h2>
+              <ul>
+                {months[i].map((e) => (
+                  <li>
+                    <span class="cal-day">{e.day}</span>
+                    <span>
+                      {e.href ? <a href={e.href}>{e.name}</a> : <b>{e.name}</b>}
+                      {e.note && <small>{e.note}</small>}
+                      <span class="cal-films">
+                        {filmLinks(e).map((f, j) => (
+                          <>
+                            {j > 0 && ' · '}
+                            <a href={url(`films/${f.slug}/`)}>{f.title}</a> ({f.year})
+                          </>
+                        ))}
+                      </span>
+                    </span>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ),
+      )
+    }
+    {
+      movable.length > 0 && (
+        <section class="index-group calendar-month" id="movable">
+          <h2>Lent, Holy Week and Easter</h2>
+          <ul>
+            {movable.map((e) => (
+              <li>
+                <span class="cal-day">✠</span>
+                <span>
+                  <b>{e.name}</b>
+                  {e.note && <small>{e.note}</small>}
+                  <span class="cal-films">
+                    {filmLinks(e).map((f, j) => (
+                      <>
+                        {j > 0 && ' · '}
+                        <a href={url(`films/${f.slug}/`)}>{f.title}</a> ({f.year})
+                      </>
+                    ))}
+                  </span>
+                </span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+    <div class="section"></div>
+  </div>
+</Layout>

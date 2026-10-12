@@ -1,0 +1,88 @@
+---
+import Layout from '../layouts/Layout.astro';
+import raw from '../data/not-included.json';
+import { url } from '../data/catalogue';
+interface Entry {
+  title: string;
+  year: number;
+  director: string;
+  group: string;
+  notable: boolean;
+  text: string;
+}
+const entries = raw as Entry[];
+const groups = [
+  {
+    id: 'after-council',
+    heading: 'Saints raised to the altars after the Council',
+    text: 'Films whose subject was canonised or beatified only after 1965. The site does not treat those acts as settled, so it does not present such films as lives of saints.',
+  },
+  {
+    id: 'new-church',
+    heading: 'The Church after the Council',
+    text: 'Films that present the reformed Church, its liturgy, religious life or dialogue with other religions, as the normal shape of Catholic life.',
+  },
+  {
+    id: 'apparitions',
+    heading: 'Apparitions not approved before the Council',
+    text: 'Films about apparitions claimed since the Council or never approved, such as Medjugorje and Garabandal.',
+  },
+  {
+    id: 'not-central',
+    heading: 'Good films where the faith is not the subject',
+    text: 'Some of these are fine films with admirable priests or Catholic settings. They are left out only because the faith is not what they are about.',
+  },
+  {
+    id: 'content',
+    heading: 'Problems of doctrine or treatment',
+    text: 'Films whose own outlook is the problem: a heterodox or anticlerical thesis, irreverence, or a distortion of history or doctrine too serious to leave to the viewer.',
+  },
+].map((g) => ({
+  ...g,
+  entries: entries
+    .filter((e) => e.group === g.id)
+    .sort((a, b) => Number(b.notable) - Number(a.notable) || a.title.localeCompare(b.title, 'en')),
+}));
+---
+
+<Layout
+  title="Films not included"
+  description="Well-known Catholic-themed films that are not on this site, and the reason for each."
+>
+  <div class="wrap">
+    <div class="page-heading">
+      <h1>Films not included</h1>
+      <p class="lead">
+        Films people often expect to find here, and why they are not listed.
+        The reasons follow the rules set out in{' '}
+        <a href={url('principles/')}>How films are chosen</a>. A film missing
+        from this page and from the catalogue has most likely not been
+        researched yet; you can <a href={url('corrections/')}>suggest it</a>.
+      </p>
+    </div>
+    <nav class="index-nav wide" aria-label="Reasons">
+      {groups.filter((g) => g.entries.length).map((g) => <a href={`#${g.id}`}>{g.heading}</a>)}
+    </nav>
+    {
+      groups
+        .filter((g) => g.entries.length)
+        .map((g) => (
+          <section class="group not-included" id={g.id}>
+            <h2>{g.heading}</h2>
+            <p>{g.text}</p>
+            <dl>
+              {g.entries.map((e) => (
+                <div>
+                  <dt>
+                    {e.title} <small>{[e.year, e.director].filter(Boolean).join(', ')}</small>
+                  </dt>
+                  <dd>{e.text}</dd>
+                </div>
+              ))}
+            </dl>
+          </section>
+        ))
+    }
+    <div class="section"></div>
+  </div>
+</Layout>

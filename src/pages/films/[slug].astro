@@ -12,8 +12,10 @@ import {
   paragraphs,
   kindLabel,
   creditShort,
+  legionLabels,
   type Film,
 } from '../../data/catalogue';
+import { saintsFor } from '../../data/saints';
 export function getStaticPaths() {
   return publicFilms.map((film) => ({
     params: { slug: film.slug },
@@ -83,7 +85,16 @@ const facts: [string, string][] = [
   ['Format', film.runtime ? `${film.format}, ${film.runtime} min` : film.format],
   ['Also known as', alsoKnownAs.join('; ')],
   ['Age guidance', film.suitability?.age ?? ''],
+  [
+    'Legion of Decency',
+    film.legion ? `${film.legion.rating} (${legionLabels[film.legion.rating]})` : '',
+  ],
 ];
+const watchLabels = { free: 'Free to watch', disc: 'On disc', stream: 'Streaming' };
+const watchGroups = (['free', 'disc', 'stream'] as const)
+  .map((kind) => ({ kind, items: (film.watch ?? []).filter((w) => w.kind === kind) }))
+  .filter((g) => g.items.length);
+const filmSaints = saintsFor(film);
 
 const alternateName = [
   ...new Set(
@@ -282,6 +293,52 @@ const claims = (c: string[] | string) => (Array.isArray(c) ? c.join('; ') : c);
         </ol>
       </article>
       <aside class="side" aria-label="About this film">
+        {
+          watchGroups.length > 0 && (
+            <div class="watch">
+              <h2>Where to watch</h2>
+              {watchGroups.map((g) => (
+                <>
+                  <h3>{watchLabels[g.kind]}</h3>
+                  <ul>
+                    {g.items.map((w) => (
+                      <li>
+                        {w.url ? (
+                          <a href={w.url} rel="noopener noreferrer">
+                            {w.label}
+                          </a>
+                        ) : (
+                          w.label
+                        )}
+                      </li>
+                    ))}
+                  </ul>
+                </>
+              ))}
+              {film.watchChecked && (
+                <p class="muted">
+                  Checked {film.watchChecked}. Availability changes and may
+                  differ where you live.
+                </p>
+              )}
+            </div>
+          )
+        }
+        {
+          filmSaints.length > 0 && (
+            <div>
+              <h2>{filmSaints.length > 1 ? 'Saints' : 'Saint'}</h2>
+              <ul>
+                {filmSaints.map((s) => (
+                  <li>
+                    <a href={url(`saints/${s.slug}/`)}>{s.name}</a>
+                    {s.feastLabel && <small>Feast: {s.feastLabel}</small>}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
         {
           filmCollections.length > 0 && (
             <div>

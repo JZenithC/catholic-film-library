@@ -8,6 +8,8 @@ export const normalize = (value) =>
     .replace(/[’']/g, '')
     .replace(/[^\p{L}\p{N}]+/gu, ' ')
     .trim();
+/** Age bands from youngest to oldest. */
+export const AGE_ORDER = ['All ages', '8+', '12+', '15+', 'Adults'];
 /** True when every query token is the start of some word in `words`. */
 export const matchesTokens = (words, tokens) =>
   tokens.every((t) => words.some((w) => w.startsWith(t)));
@@ -44,6 +46,13 @@ export function selectFilms(films, query = {}) {
       }
       if (query.decade && Math.floor(f.year / 10) * 10 !== Number(query.decade))
         return false;
+      // An age choice keeps films suitable at that age or younger.
+      if (query.age) {
+        const max = AGE_ORDER.indexOf(query.age);
+        const band = AGE_ORDER.indexOf(f.age ?? '');
+        if (max >= 0 && (band < 0 || band > max)) return false;
+      }
+      if (query.legion && f.legion !== query.legion) return false;
       return Object.entries(fields).every(
         ([q, k]) =>
           !query[q] ||

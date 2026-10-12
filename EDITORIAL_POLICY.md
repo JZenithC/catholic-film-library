@@ -1,6 +1,6 @@
 # Editorial policy
 
-Policy date: 11 October 2026 (revised in the editorial pass of that date). Final editorial authority: the Founder.
+Policy date: 11 October 2026 (revised in the editorial pass of that date). Final editorial authority: the editor.
 
 ## The standard
 
@@ -8,18 +8,18 @@ The Catholic Film Library does not accept the Second Vatican Council or the refo
 
 The standard is not a cut-off date. A film made in 2004 can meet it, and a film made in 1950 can fail it. A modern date neither qualifies nor disqualifies a film.
 
-### Exclusion rules (Founder rulings, 2026-10-11)
+### Exclusion rules (editorial rulings, 2026-10-11)
 
 Two rules follow from the standard. Each excludes a film outright, however good it is otherwise:
 
 - **(a) Saints.** A film is excluded if its subject is recognised as a saint or blessed only through a canonisation or beatification made after 1965.
 - **(b) The post-conciliar Church.** A film is excluded if its Catholic content is the post-conciliar Church presented as normal or exemplary: the new liturgy, religious life as reformed after the Council, or interreligious dialogue.
 
-A record excluded under one of these rules is REJECT, and its decision begins `REJECT: Scope (Founder ruling, 2026-10-11)` and says which rule applies. Where the editor applies the Founder's stated position to a case the two rules do not settle on their own terms, the decision says `Editor ruling under the Founder's position (2026-10-11)`. The Founder can overturn any such ruling.
+A record excluded under one of these rules is REJECT, and its decision begins `REJECT: Scope (editorial ruling, 2026-10-11)` and says which rule applies. Where the editor applies the editorial position to a case the two rules do not settle on their own terms, the decision says `Editor ruling (2026-10-11)`. The editor can overturn any such ruling.
 
 ## Scope
 
-Only Catholic-centred films are included (Founder decision). The faith has to be the subject: the Mass and the sacraments, the life of a saint, a priest's or a religious vocation, Our Lady and her apparitions, or a persecution of the Church. A sympathetic priest in a supporting role, a church wedding or a generally spiritual mood is not enough. On this ground The Sound of Music and On the Waterfront were removed from the site.
+Only Catholic-centred films are included (editorial decision). The faith has to be the subject: the Mass and the sacraments, the life of a saint, a priest's or a religious vocation, Our Lady and her apparitions, or a persecution of the Church. A sympathetic priest in a supporting role, a church wedding or a generally spiritual mood is not enough. On this ground The Sound of Music and On the Waterfront were removed from the site.
 
 ## Evidence and authority
 
@@ -68,7 +68,7 @@ There are three public outcomes, plus two that are not published.
 
 The question must say what evidence would settle it. Grey films are kept out of the default library view, featured films, Start here and the homepage. They can be found through search (with the grey-area toggle), the A–Z page, collection sub-lists and `/grey-area/`. A grey film can never be featured. `scripts/schema.mjs` and `scripts/validate.mjs` enforce these rules, including a 40–120-word question.
 
-**HOLD.** There is not enough reliable evidence to place the film: an unresolved identity, competing cuts, no access to the sources, or no evidence about its treatment. Record what evidence would resolve it. Lack of evidence is not a condemnation. Appearing in the Founder's starting inventory is not approval.
+**HOLD.** There is not enough reliable evidence to place the film: an unresolved identity, competing cuts, no access to the sources, or no evidence about its treatment. Record what evidence would resolve it. Lack of evidence is not a condemnation. Appearing in the starting inventory is not approval.
 
 **REJECT.** This needs a documented reason: one of the two exclusion rules, the scope rule, or a demonstrated problem too grave to leave to the viewer. Rejecting a film from the catalogue does not assert that nobody may watch it. An unverified suspicion belongs on HOLD.
 
@@ -92,4 +92,4 @@ Avoid talk about "the Library", repeated disclaimers and filler piety. The style
 
 ## Review and corrections
 
-Keep the decision, evidence, open questions, review date and changes in version control. New evidence can move any film in either direction. Withdraw a public recommendation while a material concern is being resolved, keep the record's identifier, and redirect a removed film URL to `/library/` (see `astro.config.mjs`). Open verification items are listed in each record's decision and in `research/editorial-notes.json`. Disputed decisions rest with the Founder. Routine work within this policy does not need repeated approval.
+Keep the decision, evidence, open questions, review date and changes in version control. New evidence can move any film in either direction. Withdraw a public recommendation while a material concern is being resolved, keep the record's identifier, and redirect a removed film URL to `/library/` (see `astro.config.mjs`). Open verification items are listed in each record's decision and in `research/editorial-notes.json`. Disputed decisions rest with the editor. Routine work within this policy does not need repeated approval.

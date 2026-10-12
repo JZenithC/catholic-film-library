@@ -59,7 +59,7 @@
     "group": "Histories",
     "title": "The Cristero War",
     "description": "Mexico's persecution of the Church in the 1920s and the Catholic uprising against it.",
-    "gap": "No film yet. For Greater Glory (2012) is not included because its boy martyr, José Sánchez del Río, was canonised after the Council, and no older feature about the war has yet been found with enough criticism behind it."
+    "gap": "For Greater Glory (2012) is not included because its boy martyr, José Sánchez del Río, was canonised after the Council."
   },
   {
     "id": "spanish-civil-war",
@@ -72,8 +72,7 @@
     "id": "english-martyrs",
     "group": "Histories",
     "title": "The English Martyrs",
-    "description": "Catholics put to death under the Tudors and Stuarts, from Thomas More to the seminary priests.",
-    "gap": "Still under review: the documentary Faith of Our Fathers and a film about St John Houghton."
+    "description": "Catholics put to death under the Tudors and Stuarts, from Thomas More to the seminary priests."
   },
   {
     "id": "families",
@@ -92,7 +91,7 @@
     "group": "Kinds of film",
     "title": "Documentaries",
     "description": "Non-fiction films about Catholic history, places and religious life.",
-    "gap": "No film yet. Into Great Silence and No Greater Love show religious life as it is lived after the Council and are not included. The Portuguese Fátima documentaries of the 1940s are still under review."
+    "gap": "Into Great Silence and No Greater Love are not included because they show religious life as it is lived after the Council."
   },
   {
     "id": "television",

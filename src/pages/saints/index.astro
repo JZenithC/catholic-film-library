@@ -1,0 +1,37 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { people, filmsFor } from '../../data/saints';
+import { url, plural } from '../../data/catalogue';
+---
+
+<Layout
+  title="Saints"
+  description="Saints and blessed with films about them: their dates, feast days and the films that tell their lives."
+>
+  <div class="wrap">
+    <div class="page-heading">
+      <h1>Saints</h1>
+      <p class="lead">
+        Saints and blessed who have films about them, with their dates and
+        feast days. Feasts are given as they stood on the Roman calendar of
+        1962. The <a href={url('calendar/')}>calendar</a> lists films for each
+        month's feasts.
+      </p>
+    </div>
+    <ul class="saint-list">
+      {
+        people.map((p) => (
+          <li>
+            <a href={url(`saints/${p.slug}/`)}>{p.name}</a>
+            <small>
+              {[p.dates, p.feastLabel && `feast ${p.feastLabel}`, plural(filmsFor(p.films).length, 'film')]
+                .filter(Boolean)
+                .join(' · ')}
+            </small>
+          </li>
+        ))
+      }
+    </ul>
+    <div class="section"></div>
+  </div>
+</Layout>

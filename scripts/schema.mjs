@@ -31,10 +31,14 @@ export const PUBLIC_STATUSES = ['PUBLISH', 'GREY'];
 export const GREY_KINDS = ['reservations', 'unverified'];
 /** Age bands for the suitability line on each film page. */
 export const AGE_BANDS = ['All ages', '8+', '12+', '15+', 'Adults'];
+/** National Legion of Decency classifications. */
+export const LEGION_RATINGS = ['A-I', 'A-II', 'A-III', 'A-IV', 'B', 'C', 'SC'];
+/** Kinds of where-to-watch entry. */
+export const WATCH_KINDS = ['free', 'disc', 'stream'];
 /** Word range for the public grey-area question. */
 export const GREY_QUESTION_WORDS = { min: 40, max: 120 };
 
-/** Phrases the Founder dislikes. Reported as warnings, never as failures. */
+/** Phrases to avoid. Reported as warnings, never as failures. */
 export const STYLE_PATTERN =
   /the Library|ecclesiastical approval|imprimatur|prepared adult viewers|cautious traditional Catholic audience|invites contemplation|its place here/gi;
 const PLACEHOLDER_PATTERN =
@@ -106,6 +110,22 @@ export const filmSchema = z.object({
     .object({ age: z.enum(AGE_BANDS), note: nonempty })
     .strict()
     .optional(),
+  legion: z.object({ rating: z.enum(LEGION_RATINGS) }).strict().optional(),
+  watch: z
+    .array(
+      z
+        .object({
+          kind: z.enum(WATCH_KINDS),
+          label: nonempty,
+          url: z
+            .url()
+            .refine((v) => new URL(v).protocol === 'https:', 'Watch links must use HTTPS')
+            .optional(),
+        })
+        .strict(),
+    )
+    .optional(),
+  watchChecked: z.iso.date().optional(),
   liberties: z.string().optional(),
   advisories: nonempty,
   sources: z.array(sourceSchema).min(2),

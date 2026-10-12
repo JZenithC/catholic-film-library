@@ -8,6 +8,18 @@ export interface Source {
   claims: string[] | string;
 }
 export type GreyKind = 'reservations' | 'unverified';
+export type LegionRating = 'A-I' | 'A-II' | 'A-III' | 'A-IV' | 'B' | 'C' | 'SC';
+/** What each Legion of Decency classification meant. */
+export const legionLabels: Record<LegionRating, string> = {
+  'A-I': 'morally unobjectionable for general patronage',
+  'A-II': 'morally unobjectionable for adults and adolescents',
+  'A-III': 'morally unobjectionable for adults',
+  'A-IV': 'for adults, with reservations',
+  B: 'morally objectionable in part for all',
+  C: 'condemned',
+  SC: 'separate classification',
+};
+export const ageBands = ['All ages', '8+', '12+', '15+', 'Adults'] as const;
 export interface Grey {
   kind: GreyKind;
   question: string;
@@ -39,6 +51,9 @@ export interface Film {
   cast?: { name: string; role?: string }[];
   crew?: { job: string; names: string[] }[];
   suitability?: { age: 'All ages' | '8+' | '12+' | '15+' | 'Adults'; note: string };
+  legion?: { rating: LegionRating };
+  watch?: { kind: 'free' | 'disc' | 'stream'; label: string; url?: string }[];
+  watchChecked?: string;
   liberties?: string;
   advisories: string;
   sources: Source[];

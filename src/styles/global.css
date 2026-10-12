@@ -565,3 +565,29 @@ html:not(.js) .library { grid-template-columns: minmax(0, 1fr); }
 .cast li { margin-bottom: 6px; }
 .cast small { display: block; color: var(--muted); font-size: 13px; }
 
+
+/* Where to watch, saints, calendar, not included */
+.watch h3 { font: 600 14px/1.4 var(--sans); margin: 10px 0 2px; }
+.watch .muted { font-size: 13px; margin-top: 8px; }
+.side li small { display: block; color: var(--muted); font-size: 13px; }
+.saint-list { list-style: none; padding: 0; margin: 0; columns: 2 320px; column-gap: 40px; }
+.saint-list li { break-inside: avoid; padding: 8px 0; border-top: 1px solid var(--line); }
+.saint-list a { font-weight: 600; }
+.saint-list small { display: block; color: var(--muted); font-size: 14px; }
+.calendar-month { grid-template-columns: 150px minmax(0, 1fr); scroll-margin-top: 16px; }
+.calendar-month h2 { font-size: 30px; }
+.calendar-month ul { columns: 1; }
+.calendar-month li { display: grid; grid-template-columns: 34px minmax(0, 1fr); gap: 10px; padding: 8px 0; }
+.cal-day { font: 600 22px/1.2 var(--serif); color: var(--red); }
+.calendar-month small { display: block; margin: 0; }
+.cal-films { display: block; font-size: 15px; }
+.not-included { scroll-margin-top: 16px; }
+.not-included dl { margin: 0; max-width: 52em; }
+.not-included dl > div { padding: 14px 0; border-top: 1px solid var(--line); }
+.not-included dt { font-weight: 600; }
+.not-included dt small { font-weight: 400; color: var(--muted); margin-left: 6px; }
+.not-included dd { margin: 4px 0 0; }
+.index-nav.wide a { padding: 0 12px; font-weight: 400; }
+@media (max-width: 640px) {
+  .calendar-month { grid-template-columns: minmax(0, 1fr); gap: 8px; }
+}

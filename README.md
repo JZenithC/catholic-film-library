@@ -54,9 +54,9 @@ Code and original design are under MIT. Research data and original editorial tex
 
 ## Editorial integrity
 
-Read `EDITORIAL_POLICY.md` before changing a decision. The film pages are written from published criticism, histories, archive records and release details; no film was watched for this site. A recommendation is an editorial judgment, not ecclesiastical approval. The Founder has the final say.
+Read `EDITORIAL_POLICY.md` before changing a decision. The film pages are written from published criticism, histories, archive records and release details; no film was watched for this site. A recommendation is an editorial judgment, not ecclesiastical approval. The editor has the final say.
 
-The research is selective, not exhaustive. See `RESEARCH_METHODOLOGY.md`, `IMPROVEMENT_REPORT.md` and the gap notes on each collection.
+The research is selective, not exhaustive. See `RESEARCH_METHODOLOGY.md` and the gap notes on each collection.
 
 ## Browser checks
 

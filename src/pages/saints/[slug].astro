@@ -1,0 +1,77 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import FilmCard from '../../components/FilmCard.astro';
+import { people, filmsFor } from '../../data/saints';
+import { url, paragraphs } from '../../data/catalogue';
+export function getStaticPaths() {
+  return people.map((person) => ({ params: { slug: person.slug }, props: { person } }));
+}
+const { person } = Astro.props as { person: (typeof people)[number] };
+const list = filmsFor(person.films);
+const recommended = list.filter((f) => !f.grey);
+const grey = list.filter((f) => f.grey);
+---
+
+<Layout title={person.name} description={paragraphs(person.bio)[0]}>
+  <div class="wrap">
+    <div class="page-heading">
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href={url('saints/')}>Saints</a>
+      </nav>
+      <h1>{person.name}</h1>
+      <dl class="facts">
+        {person.dates && (<div><dt>Lived</dt><dd>{person.dates}</dd></div>)}
+        {
+          (person.feastLabel || person.feastNote) && (
+            <div>
+              <dt>Feast</dt>
+              <dd>
+                {[person.feastLabel, person.feastNote].filter(Boolean).join('. ')}
+              </dd>
+            </div>
+          )
+        }
+        {person.status && (<div><dt>Raised to the altars</dt><dd>{person.status}</dd></div>)}
+      </dl>
+      <div class="prose">
+        {paragraphs(person.bio).map((p) => <p>{p}</p>)}
+      </div>
+    </div>
+    {
+      recommended.length > 0 && (
+        <section class="group">
+          <h2>Films</h2>
+          <div class="film-grid">
+            {recommended.map((f, i) => <FilmCard film={f} index={i} />)}
+          </div>
+        </section>
+      )
+    }
+    {
+      grey.length > 0 && (
+        <section class="group">
+          <h2>In the grey area</h2>
+          <div class="film-grid">
+            {grey.map((f, i) => <FilmCard film={f} index={i} />)}
+          </div>
+        </section>
+      )
+    }
+    {
+      person.sources.length > 0 && (
+        <section class="group">
+          <h2>Sources</h2>
+          <ol class="sources">
+            {person.sources.map((s) => (
+              <li>
+                <a href={s.url} rel="noopener noreferrer">{s.title}</a>
+                <small>{s.publisher}</small>
+              </li>
+            ))}
+          </ol>
+        </section>
+      )
+    }
+    <div class="section"></div>
+  </div>
+</Layout>

@@ -7,6 +7,7 @@ import {
   publicInOrder,
   collections,
   collectionCount,
+  legionLabels,
   url,
 } from '../data/catalogue';
 // Facets cover grey-area films too, so they work when those are included.
@@ -27,6 +28,23 @@ const facets: [string, string, string[][]][] = [
   ['language', 'Language', unique((f) => f.languages).map((v) => [v, v])],
   ['format', 'Format', unique((f) => f.format).map((v) => [v, v])],
   ['period', 'Period', unique((f) => f.historicalPeriod).map((v) => [v, v])],
+  [
+    'age',
+    'Suitable for',
+    [
+      ['All ages', 'All ages'],
+      ['8+', 'Ages 8 and up'],
+      ['12+', 'Ages 12 and up'],
+      ['15+', 'Ages 15 and up'],
+    ],
+  ],
+  [
+    'legion',
+    'Legion of Decency',
+    (['A-I', 'A-II', 'A-III', 'A-IV', 'B', 'C', 'SC'] as const)
+      .filter((r) => publicFilms.some((f) => f.legion?.rating === r))
+      .map((r) => [r, `${r}: ${legionLabels[r]}`]),
+  ],
   [
     'decade',
     'Decade',
@@ -52,7 +70,11 @@ const searchData = publicInOrder.map(
     featured,
     themes,
     grey,
+    suitability,
+    legion,
   }) => ({
+    age: suitability?.age ?? null,
+    legion: legion?.rating ?? null,
     id,
     title,
     originalTitle,

@@ -1,6 +1,6 @@
 # Contributing
 
-Contributions should improve evidence, clarity or access. Read EDITORIAL_POLICY.md before proposing a recommendation, especially the pre-conciliar standard, the scope rule and the two exclusion rules. The Founder has final editorial authority.
+Contributions should improve evidence, clarity or access. Read EDITORIAL_POLICY.md before proposing a recommendation, especially the pre-conciliar standard, the scope rule and the two exclusion rules. The editor has final editorial authority.
 
 ## Report an error or suggest a film
 

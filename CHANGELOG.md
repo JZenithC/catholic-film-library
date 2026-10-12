@@ -22,7 +22,7 @@ See IMPROVEMENT_REPORT.md for the full account, counts and film lists.
 
 ### Editorial
 
-- Stated the Founder's position publicly: the site does not accept the Second Vatican Council or the reforms after it, and judges films by pre-conciliar Catholic teaching. Added two exclusion rules (Founder rulings): (a) subjects recognised as saint or blessed only by a canonisation or beatification after 1965; (b) films whose Catholic content is the post-conciliar Church presented as normal or exemplary.
+- Stated the editorial position publicly: the site does not accept the Second Vatican Council or the reforms after it, and judges films by pre-conciliar Catholic teaching. Added two exclusion rules (editorial rulings): (a) subjects recognised as saint or blessed only by a canonisation or beatification after 1965; (b) films whose Catholic content is the post-conciliar Church presented as normal or exemplary.
 - Restricted post-conciliar bodies and publications (CNS/USCCB, post-1965 Vatican statements, the 1992 Catechism, the 1995 Vatican film list) to factual citation. Legion of Decency and other pre-1965 Catholic film-office ratings are accepted as evidence. Added Mortalium animos and the Roman Catechism to the reference texts.
 - Narrowed scope to Catholic-centred films. Removed The Sound of Music and On the Waterfront.
 - Added the grey-area outcome (status GREY, record field `grey: {kind, question}`, kinds "reservations" and "unverified"), a `/grey-area/` page and a grey-area box on film pages.
