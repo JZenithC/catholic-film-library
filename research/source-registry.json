@@ -1841,6 +1841,46 @@
         "claims": [
           "'Voice of Silence (IFE Releasing Corp.)' A-II. The entry is by title and distributor; the match with Pabst's film is inferred from the 1953-54 US release and distributor."
         ]
+      },
+      {
+        "id": "brighton-rock",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
+        "claims": [
+          "\"Young Scarface (British) (M.K.D. Distributors)\" A-II, 1951-52 (the US title of Brighton Rock)"
+        ]
+      },
+      {
+        "id": "christ-in-bronze",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
+        "claims": [
+          "\"Christ in Bronze (Jap.) (Harpole)\" classified A-II (matched to this film by title and country; no year given in the entry)"
+        ]
+      },
+      {
+        "id": "embezzled-heaven",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
+        "claims": [
+          "\"Embezzled Heaven (Ger. and Eng. Versions) (DeRochemont)\" classified A-I, 1958-59"
+        ]
+      },
+      {
+        "id": "the-eternal-gift",
+        "status": "PUBLISH",
+        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
+        "claims": [
+          "\"Eternal Gift, The (Rev. Hugh Calkins, O.S.M.)\" classified A-I, 1940-41"
+        ]
+      },
+      {
+        "id": "the-heart-of-the-matter-1953",
+        "status": "GREY",
+        "title": "Motion Pictures Classified by National Legion of Decency, 1936-1959",
+        "claims": [
+          "The Heart of the Matter (British, Associated Artists), classification A-II, listed 1954-55"
+        ]
       }
     ]
   },
@@ -7344,6 +7384,15 @@
         "status": "GREY",
         "title": "The Seal of Confession",
         "claims": "Lateran IV canon 21 (1215); absolute obligation; penalty on the confessor; compelled testimony."
+      },
+      {
+        "id": "the-confession-1920",
+        "status": "PUBLISH",
+        "title": "The Law of the Seal of Confession",
+        "claims": [
+          "Lateran IV canon 21 (1215) on betraying a penitent; deposition and perpetual penance",
+          "Lyndwood: no exception for treason; secrecy almost of the essence of the sacrament; priest compellable only on facts known outside confession"
+        ]
       }
     ]
   },
@@ -26841,6 +26890,22 @@
         "claims": [
           "Dated 20 November 1947; paragraph 60 on Latin as a sign of unity and safeguard of doctrine; paragraphs 61-64 on antiquarianism"
         ]
+      },
+      {
+        "id": "mass-of-the-ages-part-2",
+        "status": "GREY",
+        "title": "Mediator Dei",
+        "claims": [
+          "Dated 20 November 1947; paragraph 58: the Sovereign Pontiff alone may establish and modify rites; paragraph 60: Latin a sign of unity and safeguard of doctrine, vernacular only by leave of the Apostolic See; paragraphs 61-63: antiquarianism"
+        ]
+      },
+      {
+        "id": "mass-of-the-ages-part-3",
+        "status": "GREY",
+        "title": "Mediator Dei",
+        "claims": [
+          "Dated 20 November 1947; paragraph 58: the Sovereign Pontiff alone may establish and modify rites; paragraph 60: Latin a sign of unity and safeguard of doctrine, vernacular only by leave of the Apostolic See; paragraphs 61-63: antiquarianism"
+        ]
       }
     ]
   },
@@ -27127,6 +27192,14 @@
         "status": "PUBLISH",
         "title": "Apostasy, Catholic Encyclopedia",
         "claims": "Definition of apostasy; lapsi after the Decian persecution; Carthage 251"
+      },
+      {
+        "id": "christ-in-bronze",
+        "status": "GREY",
+        "title": "Apostasy from the Faith",
+        "claims": [
+          "Definition of apostasy and its gravity; the lapsi after the Decian persecution; Cyprian and the Council of Carthage (251) on forgiveness"
+        ]
       }
     ]
   },
@@ -29274,6 +29347,14 @@
         "status": "GREY",
         "title": "Resurrection of Christ",
         "claims": "Resurrection attested in the Gospels and 1 Corinthians 15; fundamental apologetic argument; Christ rose by his own power"
+      },
+      {
+        "id": "hill-number-one",
+        "status": "GREY",
+        "title": "Resurrection of Jesus Christ",
+        "claims": [
+          "Resurrection as basis of the faith; the guard at the tomb; the authorities' stolen-body claim; appearances of the risen Christ"
+        ]
       }
     ]
   },
@@ -36232,6 +36313,22 @@
         "status": "PUBLISH",
         "title": "Suicide",
         "claims": "Direct suicide a grave wrong; Christian burial denied; derangement and responsibility."
+      },
+      {
+        "id": "brighton-rock",
+        "status": "GREY",
+        "title": "Suicide",
+        "claims": [
+          "Direct suicide a grave injustice against God; Christian burial withheld; despair and anger not usually irresistible"
+        ]
+      },
+      {
+        "id": "the-heart-of-the-matter-1953",
+        "status": "GREY",
+        "title": "Suicide",
+        "claims": [
+          "Deliberate suicide a grave wrong; Christian burial denied; allowance for non-responsibility but not as a general rule"
+        ]
       }
     ]
   },
@@ -39752,6 +39849,14 @@
         "status": "PUBLISH",
         "title": "Holy Year of Jubilee",
         "claims": "Antiquorum fida relatio of 22 February 1300; indulgence conditions; Holy Door at St Peter's opened on Christmas Eve."
+      },
+      {
+        "id": "journey-of-faith-1950",
+        "status": "GREY",
+        "title": "Holy Year of Jubilee",
+        "claims": [
+          "Boniface VIII, Antiquorum fida relatio, 1300; interval of twenty-five years; Holy Door rite; plenary indulgence conditions"
+        ]
       }
     ]
   },
@@ -45066,6 +45171,22 @@
           "He says the new Mass is not simply the old Mass in the vernacular, that the reform involved political agendas, and that the film helps viewers compare the two forms so families can choose",
           "Says some Latin Mass attenders reject the Council but most do not; project began before Traditionis custodes"
         ]
+      },
+      {
+        "id": "mass-of-the-ages-part-2",
+        "status": "GREY",
+        "title": "New 'Mass of the Ages' Film Offers Closer Look at the Traditional Latin Mass",
+        "claims": [
+          "Director O'Hearn says the project began before Traditionis custodes and that most Latin Mass attenders accept the Council; the two forms let families choose"
+        ]
+      },
+      {
+        "id": "mass-of-the-ages-part-3",
+        "status": "GREY",
+        "title": "New Mass of the Ages Film Offers Closer Look at the Traditional Latin Mass",
+        "claims": [
+          "Director says most Latin Mass attenders accept the Council; two forms let families choose"
+        ]
       }
     ]
   },
@@ -45113,6 +45234,24 @@
           "Guardians of Tradition, about 90 minutes, from Horselord Films, on efforts for the Latin Mass after Traditionis custodes",
           "Appearing: Fr Joseph Illo, Bishops Athanasius Schneider and Joseph Strickland, Peter Kwasniewski, Scott Hahn, Timothy Flanders, Timothy J. Gordon, laity in France, Kenya and the United States",
           "Reviewer: cherry-picked, choppy, visually slick; opposes Traditionis custodes without clearly endorsing or rejecting Vatican II"
+        ]
+      },
+      {
+        "id": "mass-of-the-ages-part-2",
+        "status": "GREY",
+        "title": "Mass of the Ages Part 3 review",
+        "claims": [
+          "Independent reviewer calls the series cherry-picked and one-sided (review of Part Three)"
+        ]
+      },
+      {
+        "id": "mass-of-the-ages-part-3",
+        "status": "GREY",
+        "title": "Mass of the Ages Part 3 review (Nate Tinner-Williams)",
+        "claims": [
+          "About 90 minutes; screened in San Francisco; cherry-picked, choppy, visually slick",
+          "Appearing: Fr Joseph Illo, Bishops Schneider and Strickland, Kwasniewski, Hahn, Flanders, Gordon; laity in France, Kenya and the United States",
+          "Rome's reasons for Traditionis custodes given a sentence or two; blame placed on advisers and the survey; Benedict XVI favoured; soft on the SSPX; does not settle whether subjects accept Vatican II"
         ]
       }
     ]
@@ -47180,6 +47319,1244 @@
         "title": "José Mojica",
         "claims": [
           "Born 14 September 1895, died 20 September 1974 in Lima; Chicago Civic Opera; Fox from 1930; joined the Franciscans in Peru after his mother's death in 1942; ordained 13 July 1947; autobiography Yo pecador completed in 1956 and selling over three million copies; no sainthood cause mentioned."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "A New Documentary on Monastic Life",
+    "publisher": "New Liturgical Movement (supporting outlet), 5 October 2017",
+    "url": "https://www.newliturgicalmovement.org/2017/10/a-new-documentary-on-monastic-life.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Documentary \"Benedictine Monks, Ireland\" by Peter Hayden of Wilderland Media about the monastic life at Silverstream Priory; hosted on Vimeo (vimeo.com/217886673)"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "benedictine-monks-ireland",
+        "status": "GREY",
+        "title": "A New Documentary on Monastic Life",
+        "claims": [
+          "Documentary \"Benedictine Monks, Ireland\" by Peter Hayden of Wilderland Media about the monastic life at Silverstream Priory; hosted on Vimeo (vimeo.com/217886673)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Best Monastic Documentaries",
+    "publisher": "Amish Catholic blog, 16 May 2018",
+    "url": "https://amishcatholic.com/2018/05/16/the-best-monastic-documentaries/",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Benedictine Monks, Ireland (2017): promotional profile of Silverstream Priory's adoration and reparation, with Mass, chapter, meals, work, and interviews with the Prior and Subprior; lacks the stillness of the others"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "benedictine-monks-ireland",
+        "status": "GREY",
+        "title": "The Best Monastic Documentaries",
+        "claims": [
+          "Benedictine Monks, Ireland (2017): promotional profile of Silverstream Priory's adoration and reparation, with Mass, chapter, meals, work, and interviews with the Prior and Subprior; lacks the stillness of the others"
+        ]
+      },
+      {
+        "id": "quaerere-deum",
+        "status": "GREY",
+        "title": "The Best Monastic Documentaries",
+        "claims": [
+          "Quaerere Deum, 2011, by Peter Hayden, from the monastery at Norcia; slow day-in-the-life film with little commentary; shows Norcia before the 2016 earthquake",
+          "Compared with Into Great Silence; Vimeo link vimeo.com/217891932"
+        ]
+      },
+      {
+        "id": "veilleurs-dans-la-nuit",
+        "status": "GREY",
+        "title": "The Best Monastic Documentaries",
+        "claims": [
+          "Veilleurs dans la nuit (2011): mixes commentary and interviews; gives more factual information than the meditative films; YouTube link"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Silverstream Priory",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Silverstream_Priory",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Founded in Oklahoma in 2007; moved to Stamullen, County Meath, in 2012; Mark Daniel Kirby first superior until 2020",
+      "Traditional Benedictine liturgy in Latin with Gregorian chant, described as the pre-Vatican II form"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "benedictine-monks-ireland",
+        "status": "GREY",
+        "title": "Silverstream Priory",
+        "claims": [
+          "Founded in Oklahoma in 2007; moved to Stamullen, County Meath, in 2012; Mark Daniel Kirby first superior until 2020",
+          "Traditional Benedictine liturgy in Latin with Gregorian chant, described as the pre-Vatican II form"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "St. Benedict of Nursia",
+    "publisher": "Catholic Encyclopedia (1907), New Advent",
+    "url": "https://www.newadvent.org/cathen/02467b.htm",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Born at Nursia c. 480, died at Monte Cassino 543; wrote the Rule there",
+      "The Rule joins communal life, obedience and work with a fixed round of prayer; the public worship of God is the opus Dei, the monks' central work"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "benedictine-monks-ireland",
+        "status": "GREY",
+        "title": "St. Benedict of Nursia",
+        "claims": [
+          "Born at Nursia c. 480, died at Monte Cassino 543; wrote the Rule there",
+          "The Rule joins communal life, obedience and work with a fixed round of prayer; the public worship of God is the opus Dei, the monks' central work"
+        ]
+      },
+      {
+        "id": "quaerere-deum",
+        "status": "GREY",
+        "title": "St. Benedict of Nursia",
+        "claims": [
+          "Born at Nursia c. 480, died at Monte Cassino 543; wrote the Rule there",
+          "The Rule joins communal life, obedience and work with a fixed round of prayer; the public worship of God is the opus Dei, the monks' central work"
+        ]
+      },
+      {
+        "id": "veilleurs-dans-la-nuit",
+        "status": "GREY",
+        "title": "St. Benedict of Nursia",
+        "claims": [
+          "Born at Nursia c. 480, died at Monte Cassino 543; wrote the Rule there",
+          "The Rule joins communal life, obedience and work with a fixed round of prayer; the public worship of God is the opus Dei, the monks' central work"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Brighton Rock (1948 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Brighton_Rock_(1948_film)",
+    "accessed": "2026-10-12",
+    "claims": [
+      "John Boulting; Greene and Rattigan; novel (1938) and Frank Harvey's 1943 play; Attenborough, Baddeley, Hartnell, Marsh; 92 min",
+      "Premiere 8 January 1948; Pathé; US title Young Scarface; banned in New South Wales",
+      "Catholic doctrines of sin, damnation, forgiveness and mercy; ending changed from the novel; Rose hesitates because of the prohibition on suicide"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "brighton-rock",
+        "status": "GREY",
+        "title": "Brighton Rock (1948 film)",
+        "claims": [
+          "John Boulting; Greene and Rattigan; novel (1938) and Frank Harvey's 1943 play; Attenborough, Baddeley, Hartnell, Marsh; 92 min",
+          "Premiere 8 January 1948; Pathé; US title Young Scarface; banned in New South Wales",
+          "Catholic doctrines of sin, damnation, forgiveness and mercy; ending changed from the novel; Rose hesitates because of the prohibition on suicide"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Brighton Rock (1948)",
+    "publisher": "Classic Film Noir",
+    "url": "https://www.classicfilmnoir.com/2024/07/brighton-rock-1948.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Plot: Hale killed on Palace Pier and reported as a coronary; Pinkie courts and marries Rose; kills Spicer; Ida Arnold pursues; planned double suicide; ending on the pier",
+      "The BBFC objected to a murderer quoting scripture; ending \"toned down from the novel\""
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "brighton-rock",
+        "status": "GREY",
+        "title": "Brighton Rock (1948)",
+        "claims": [
+          "Plot: Hale killed on Palace Pier and reported as a coronary; Pinkie courts and marries Rose; kills Spicer; Ida Arnold pursues; planned double suicide; ending on the pier",
+          "The BBFC objected to a murderer quoting scripture; ending \"toned down from the novel\""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Brighton Rock (1947) English subtitles",
+    "publisher": "Subtitlecat (original English .srt, read as plain text)",
+    "url": "https://www.subtitlecat.com/subs/68/Brighton%20Rock%20(1947).html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Dialogue: \"You're a Catholic?\"; hell, flames, damnations; \"It's a mortal sin\"; \"It's despair\"; Rose went to church to be in a state of grace; \"Not like when the priest says it\"; the priest's \"appalling strangeness of the mercy of God\"",
+      "Subtitles show dialogue, not images; used for content only"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "brighton-rock",
+        "status": "GREY",
+        "title": "Brighton Rock (1947) English subtitles",
+        "claims": [
+          "Dialogue: \"You're a Catholic?\"; hell, flames, damnations; \"It's a mortal sin\"; \"It's despair\"; Rose went to church to be in a state of grace; \"Not like when the priest says it\"; the priest's \"appalling strangeness of the mercy of God\"",
+          "Subtitles show dialogue, not images; used for content only"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Le Christ en bronze",
+    "publisher": "Wikipedia (French)",
+    "url": "https://fr.wikipedia.org/wiki/Le_Christ_en_bronze",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Shochiku, 11 October 1955; Cannes 1956; France 3 December 1958; 126 minutes; screenplay Ryōsuke Saitō after Yoshirō Nagayo's 1923 novel",
+      "Shibuya's only jidai-geki; deals with persecution in Nagasaki but focuses on Ferreira, shown with compassion and a miserable existence, not a glorified martyr",
+      "Cast and technical credits; exteriors at Seto, Aichi; no reception section"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "christ-in-bronze",
+        "status": "GREY",
+        "title": "Le Christ en bronze",
+        "claims": [
+          "Shochiku, 11 October 1955; Cannes 1956; France 3 December 1958; 126 minutes; screenplay Ryōsuke Saitō after Yoshirō Nagayo's 1923 novel",
+          "Shibuya's only jidai-geki; deals with persecution in Nagasaki but focuses on Ferreira, shown with compassion and a miserable existence, not a glorified martyr",
+          "Cast and technical credits; exteriors at Seto, Aichi; no reception section"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "青銅の基督",
+    "publisher": "Wikipedia (Japanese)",
+    "url": "https://ja.wikipedia.org/wiki/青銅の基督",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Opening of the plot: caster Hagiwara Yusuke, Monica of a hidden Christian family, Christmas Mass interrupted by the renegade priest Ferreira",
+      "1955 film credits; 2018 remake; 1962 and 1964 television versions"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "christ-in-bronze",
+        "status": "GREY",
+        "title": "青銅の基督",
+        "claims": [
+          "Opening of the plot: caster Hagiwara Yusuke, Monica of a hidden Christian family, Christmas Mass interrupted by the renegade priest Ferreira",
+          "1955 film credits; 2018 remake; 1962 and 1964 television versions"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Seido no Kirisuto (Le Christ en bronze)",
+    "publisher": "Festival de Cannes",
+    "url": "https://www.festival-cannes.com/fr/films/seido-no-kirisuto",
+    "accessed": "2026-10-12",
+    "claims": [
+      "In competition, Cannes 1956; director Minoru Shibuya; screenplay Yoshiro Nagayo and Ryosuke Saito; music Toshiro Mayuzumi; cinematography Hiroyuki Nagaoka; cast"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "christ-in-bronze",
+        "status": "GREY",
+        "title": "Seido no Kirisuto (Le Christ en bronze)",
+        "claims": [
+          "In competition, Cannes 1956; director Minoru Shibuya; screenplay Yoshiro Nagayo and Ryosuke Saito; music Toshiro Mayuzumi; cinematography Hiroyuki Nagaoka; cast"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "KineJapan list post on Seido no Kirisuto",
+    "publisher": "Yale mailing list archive (Kumiko Saito, November 2009)",
+    "url": "https://mailman.yale.edu/pipermail/kinejapan/2009-November/061254.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Plot outline: a blacksmith is ordered to make a bronze fumie out of love for a Christian girl, is suspected of being Christian because the figure is too beautiful, and is killed",
+      "Informal list post: a second-hand account"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "christ-in-bronze",
+        "status": "GREY",
+        "title": "KineJapan list post on Seido no Kirisuto",
+        "claims": [
+          "Plot outline: a blacksmith is ordered to make a bronze fumie out of love for a Christian girl, is suspected of being Christian because the figure is too beautiful, and is killed",
+          "Informal list post: a second-hand account"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Persecution at Nagasaki",
+    "publisher": "Catholic Encyclopedia (1911), New Advent",
+    "url": "https://www.newadvent.org/cathen/10667c.htm",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Fumie introduced from 1629: paper, wood, then bronze in 1669; penalties for refusal",
+      "Crucifixion of twenty-six at Nagasaki, 1597; Great Martyrdom 1622; four Portuguese envoys put to death in 1640"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "christ-in-bronze",
+        "status": "GREY",
+        "title": "Persecution at Nagasaki",
+        "claims": [
+          "Fumie introduced from 1629: paper, wood, then bronze in 1669; penalties for refusal",
+          "Crucifixion of twenty-six at Nagasaki, 1597; Great Martyrdom 1622; four Portuguese envoys put to death in 1640"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cristóvão Ferreira",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Crist%C3%B3v%C3%A3o_Ferreira",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Portuguese Jesuit in Japan 1609-1633; renounced after five hours of torture in 1633; took the name Sawano Chūan; died 1650; reports of his death vary"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "christ-in-bronze",
+        "status": "GREY",
+        "title": "Cristóvão Ferreira",
+        "claims": [
+          "Portuguese Jesuit in Japan 1609-1633; renounced after five hours of torture in 1633; took the name Sawano Chūan; died 1650; reports of his death vary"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Der veruntreute Himmel",
+    "publisher": "Wikipedia (German-language article, English text)",
+    "url": "https://de.wikipedia.org/wiki/Der_veruntreute_Himmel",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Directed and co-written by Ernst Marischka; 105 min; Rhombus-Film; filmed June-July 1958 at Rosenhügel, Vienna, Altaussee, Rome and Vatican; real footage of Pius XII",
+      "Premiere Cologne 2 October 1958; Wertvoll rating from the Filmbewertungsstelle; Lexikon des internationalen Films: partly faithful, theme and lead remarkable",
+      "Teta dies after collapsing before Pius XII, reconciled with God"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "embezzled-heaven",
+        "status": "PUBLISH",
+        "title": "Der veruntreute Himmel",
+        "claims": [
+          "Directed and co-written by Ernst Marischka; 105 min; Rhombus-Film; filmed June-July 1958 at Rosenhügel, Vienna, Altaussee, Rome and Vatican; real footage of Pius XII",
+          "Premiere Cologne 2 October 1958; Wertvoll rating from the Filmbewertungsstelle; Lexikon des internationalen Films: partly faithful, theme and lead remarkable",
+          "Teta dies after collapsing before Pius XII, reconciled with God"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Le ciel n'est pas à vendre",
+    "publisher": "Wikipedia (French)",
+    "url": "https://fr.wikipedia.org/wiki/Le_ciel_n%27est_pas_%C3%A0_vendre",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Synopsis: funeral flashback, nephew Mojmir, pilgrimage to Rome, young chaplain Seydel, confession, audience, death on Tiber Island",
+      "Full cast and technical credits; released in France 20 June 1962"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "embezzled-heaven",
+        "status": "PUBLISH",
+        "title": "Le ciel n'est pas à vendre",
+        "claims": [
+          "Synopsis: funeral flashback, nephew Mojmir, pilgrimage to Rome, young chaplain Seydel, confession, audience, death on Tiber Island",
+          "Full cast and technical credits; released in France 20 June 1962"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Der veruntreute Himmel",
+    "publisher": "Decine21 (Spanish Catholic film site)",
+    "url": "https://decine21.com/peliculas/el-cielo-a-buen-precio-40613",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Praises Annie Rosar's composition of Teta; Marischka admires Werfel's novel",
+      "Teta's \"plan de vida\" to win heaven through her nephew's studies, presented with some irony",
+      "Present-day Catholic outlet: content only"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "embezzled-heaven",
+        "status": "PUBLISH",
+        "title": "Der veruntreute Himmel",
+        "claims": [
+          "Praises Annie Rosar's composition of Teta; Marischka admires Werfel's novel",
+          "Teta's \"plan de vida\" to win heaven through her nephew's studies, presented with some irony",
+          "Present-day Catholic outlet: content only"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Der veruntreute Himmel",
+    "publisher": "Filmvandaag.nl",
+    "url": "https://www.filmvandaag.nl/film/75313-der-veruntreute-himmel",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Plot: Teta persuades Mojmir to study theology, visits him as parish priest of Hustopec, involved in shady dealings; pilgrimage to Rome and the papal audience",
+      "Cast: Annie Rosar, Kurt Meisel"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "embezzled-heaven",
+        "status": "PUBLISH",
+        "title": "Der veruntreute Himmel",
+        "claims": [
+          "Plot: Teta persuades Mojmir to study theology, visits him as parish priest of Hustopec, involved in shady dealings; pilgrimage to Rome and the papal audience",
+          "Cast: Annie Rosar, Kurt Meisel"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Annie Rosar",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Annie_Rosar",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Best Actor Award, Cork Film Festival 1958, for Embezzled Heaven"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "embezzled-heaven",
+        "status": "PUBLISH",
+        "title": "Annie Rosar",
+        "claims": [
+          "Best Actor Award, Cork Film Festival 1958, for Embezzled Heaven"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Merit",
+    "publisher": "Catholic Encyclopedia (1911), New Advent",
+    "url": "https://www.newadvent.org/cathen/10202b.htm",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Merit rests on grace and God's free promise",
+      "Trent Session VI: nothing before justification merits justification; mortal sin forfeits earlier merit"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "embezzled-heaven",
+        "status": "PUBLISH",
+        "title": "Merit",
+        "claims": [
+          "Merit rests on grace and God's free promise",
+          "Trent Session VI: nothing before justification merits justification; mortal sin forfeits earlier merit"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hill Number One (1951)",
+    "publisher": "Internet Archive (uploaded by k-otic)",
+    "url": "https://archive.org/details/HillNumberOne",
+    "accessed": "2026-10-12",
+    "claims": [
+      "56-minute black-and-white sound film; director Arthur Pierson; Jerry Fairbanks Productions; one of four Family Theatre films",
+      "Depicts the Resurrection and Christ's victory on Golgotha; James Dean's debut",
+      "Public-domain licence stated by the uploader"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "hill-number-one",
+        "status": "GREY",
+        "title": "Hill Number One (1951)",
+        "claims": [
+          "56-minute black-and-white sound film; director Arthur Pierson; Jerry Fairbanks Productions; one of four Family Theatre films",
+          "Depicts the Resurrection and Christ's victory on Golgotha; James Dean's debut",
+          "Public-domain licence stated by the uploader"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Bootleg Files: Hill Number One",
+    "publisher": "Film Threat",
+    "url": "https://filmthreat.com/uncategorized/the-bootleg-files-hill-number-one/",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Plot: chaplain, Calvary as \"Hill Number One\", Joseph of Arimathea, Nicodemus, Claudia, Resurrection, soldiers win",
+      "Staging modest; Peyton appears urging the Rosary; produced for Family Theatre of the Family Rosary Crusade",
+      "Cast incl. Ruth Hussey, Roddy McDowall, Leif Erickson, Michael Ansara, Dean as a disciple",
+      "Secular critic: independent of the producers but concerned with staging, not doctrine"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "hill-number-one",
+        "status": "GREY",
+        "title": "The Bootleg Files: Hill Number One",
+        "claims": [
+          "Plot: chaplain, Calvary as \"Hill Number One\", Joseph of Arimathea, Nicodemus, Claudia, Resurrection, soldiers win",
+          "Staging modest; Peyton appears urging the Rosary; produced for Family Theatre of the Family Rosary Crusade",
+          "Cast incl. Ruth Hussey, Roddy McDowall, Leif Erickson, Michael Ansara, Dean as a disciple",
+          "Secular critic: independent of the producers but concerned with staging, not doctrine"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hill Number One",
+    "publisher": "Encyclopedia.com (VideoHound entry)",
+    "url": "https://encyclopedia.com/arts/culture-magazines/hill-number-one",
+    "accessed": "2026-10-12",
+    "claims": [
+      "57 minutes; \"dramatization of the story of Easter\"; director given as \"Arthur Presson\" (sic)"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "hill-number-one",
+        "status": "GREY",
+        "title": "Hill Number One",
+        "claims": [
+          "57 minutes; \"dramatization of the story of Easter\"; director given as \"Arthur Presson\" (sic)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hill Number One",
+    "publisher": "Melbourne International Film Festival archive",
+    "url": "https://miff.com.au/festival-archive/films/13711/hill-number-one",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Director Arthur Pierson; shown nationally on US television during Easter Week 1951 and 1952 (from search listing; page not opened directly)"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "hill-number-one",
+        "status": "GREY",
+        "title": "Hill Number One",
+        "claims": [
+          "Director Arthur Pierson; shown nationally on US television during Easter Week 1951 and 1952 (from search listing; page not opened directly)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Rosary",
+    "publisher": "Catholic Encyclopedia (1912), New Advent",
+    "url": "https://www.newadvent.org/cathen/13184b.htm",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Fifteen decades of Hail Marys, each recalling a mystery of the Redemption; origin traditionally attributed to St Dominic is questioned"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "hill-number-one",
+        "status": "GREY",
+        "title": "The Rosary",
+        "claims": [
+          "Fifteen decades of Hail Marys, each recalling a mystery of the Redemption; origin traditionally attributed to St Dominic is questioned"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "In Search of Christendom: The Chartres Pilgrimage (DVD)",
+    "publisher": "Latin Mass Society (seller; interested source)",
+    "url": "https://lms.org.uk/node/947",
+    "accessed": "2026-10-12",
+    "claims": [
+      "DVD, 30 minutes, made by Stefano Mazzeo for EWTN; year not stated; product code HDTCP, £9",
+      "Young people attend a Traditional Latin Mass at Notre-Dame on the vigil of Pentecost, then walk three days to Chartres; presented as evidence that Christianity remains alive in Western Europe"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "in-search-of-christendom-chartres",
+        "status": "GREY",
+        "title": "In Search of Christendom: The Chartres Pilgrimage (DVD)",
+        "claims": [
+          "DVD, 30 minutes, made by Stefano Mazzeo for EWTN; year not stated; product code HDTCP, £9",
+          "Young people attend a Traditional Latin Mass at Notre-Dame on the vigil of Pentecost, then walk three days to Chartres; presented as evidence that Christianity remains alive in Western Europe"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "TV Picks 06.09.19",
+    "publisher": "National Catholic Register",
+    "url": "https://www.ncregister.com/features/tv-picks-06-09-19-hd45cy44",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Listed on EWTN on Monday 10 June at 5:30pm as an EWTN original 2015 documentary on young Catholics at a traditional Latin Mass at Notre-Dame and the three-day pilgrimage to Chartres"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "in-search-of-christendom-chartres",
+        "status": "GREY",
+        "title": "TV Picks 06.09.19",
+        "claims": [
+          "Listed on EWTN on Monday 10 June at 5:30pm as an EWTN original 2015 documentary on young Catholics at a traditional Latin Mass at Notre-Dame and the three-day pilgrimage to Chartres"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "\"Journey of Faith\" 1950 Holy Year Pilgrimage of Cardinal Spellman to Italy, Spain & Malta",
+    "publisher": "Periscope Film",
+    "url": "https://stock.periscopefilm.com/66664-journey-of-faith-1950-holy-year-pilgrimage-of-cardinal-spellman-to-italy-spain-malta/",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Timed breakdown of the film: shipboard Masses and Ash Wednesday, Fatima Benediction, Malta, Naples, Rome (Holy Door, Mass at Santi Giovanni e Paolo, Pius XII carried to the bronze altar), Florence, Cannes, Manresa, return",
+      "About 18 minutes; about 500 pilgrims; no credits given",
+      "Stock-footage seller: an interested source"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "journey-of-faith-1950",
+        "status": "GREY",
+        "title": "\"Journey of Faith\" 1950 Holy Year Pilgrimage of Cardinal Spellman to Italy, Spain & Malta",
+        "claims": [
+          "Timed breakdown of the film: shipboard Masses and Ash Wednesday, Fatima Benediction, Malta, Naples, Rome (Holy Door, Mass at Santi Giovanni e Paolo, Pius XII carried to the bronze altar), Florence, Cannes, Manresa, return",
+          "About 18 minutes; about 500 pilgrims; no credits given",
+          "Stock-footage seller: an interested source"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "\"Journey of Faith\" 1950 Holy Year Pilgrimage (66664-journey-of-faith-vwr)",
+    "publisher": "Internet Archive (uploaded by PeriscopeFilm)",
+    "url": "https://archive.org/details/66664-journey-of-faith-vwr",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Description of the film as the official record of the pilgrimage; uploaded 22 July 2020; footage offered for licensing"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "journey-of-faith-1950",
+        "status": "GREY",
+        "title": "\"Journey of Faith\" 1950 Holy Year Pilgrimage (66664-journey-of-faith-vwr)",
+        "claims": [
+          "Description of the film as the official record of the pilgrimage; uploaded 22 July 2020; footage offered for licensing"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "ICS Film Catalog 1959",
+    "publisher": "Internet Archive (scanned distributor catalogue)",
+    "url": "https://archive.org/details/icsfilmcatalog1959inst",
+    "accessed": "2026-10-12",
+    "claims": [
+      "\"Journey of Faith (Color)\", 2 reels, rental $4.95; Cardinal Spellman's voyage to Rome, produced with his cooperation and endorsement; visits many European cities, the Vatican and Pope Pius XII",
+      "Distributor catalogue, so an interested source"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "journey-of-faith-1950",
+        "status": "GREY",
+        "title": "ICS Film Catalog 1959",
+        "claims": [
+          "\"Journey of Faith (Color)\", 2 reels, rental $4.95; Cardinal Spellman's voyage to Rome, produced with his cooperation and endorsement; visits many European cities, the Vatican and Pope Pius XII",
+          "Distributor catalogue, so an interested source"
+        ]
+      },
+      {
+        "id": "the-eternal-gift",
+        "status": "PUBLISH",
+        "title": "ICS Film Catalog 1959",
+        "claims": [
+          "Listed for rental: 10 reels, $15.00, \"progress of the Solemn Mass\", narrated by Rt. Rev. Fulton Sheen",
+          "Distributor catalogue, so an interested source for its praise"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Francis Spellman",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Francis_Spellman",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Archbishop of New York from 1939; cardinal 1946; Cardinal-Priest of Santi Giovanni e Paolo"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "journey-of-faith-1950",
+        "status": "GREY",
+        "title": "Francis Spellman",
+        "claims": [
+          "Archbishop of New York from 1939; cardinal 1946; Cardinal-Priest of Santi Giovanni e Paolo"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mass of Ages, Episode 2",
+    "publisher": "New Liturgical Movement (supporting outlet), 27 May 2022",
+    "url": "https://www.newliturgicalmovement.org/2022/05/mass-of-ages-episode-2.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Premiered Thursday 26 May 2022; second part of the trilogy",
+      "Speakers: Peter Kwasniewski, Matthew Hazell, Dom Alcuin Reid, Joseph Shaw",
+      "Discusses what the Council's liturgy constitution asked and says it was betrayed by Bugnini and the Consilium"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "mass-of-the-ages-part-2",
+        "status": "GREY",
+        "title": "Mass of Ages, Episode 2",
+        "claims": [
+          "Premiered Thursday 26 May 2022; second part of the trilogy",
+          "Speakers: Peter Kwasniewski, Matthew Hazell, Dom Alcuin Reid, Joseph Shaw",
+          "Discusses what the Council's liturgy constitution asked and says it was betrayed by Bugnini and the Consilium"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Episode II: A Perfect Storm",
+    "publisher": "Mass of the Ages (latinmass.com; producers' own site, interested source)",
+    "url": "https://www.latinmass.com/episode-ii",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Investigates how the new Mass was created after Vatican II and Bugnini's role; profiles those who fought to keep the Latin Mass; debates among bishops, cardinals and Paul VI"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "mass-of-the-ages-part-2",
+        "status": "GREY",
+        "title": "Episode II: A Perfect Storm",
+        "claims": [
+          "Investigates how the new Mass was created after Vatican II and Bugnini's role; profiles those who fought to keep the Latin Mass; debates among bishops, cardinals and Paul VI"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Watch the Trilogy",
+    "publisher": "Mass of the Ages (latinmass.com; producers' own site, interested source)",
+    "url": "http://latinmass.com/watch-the-trilogy",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Three episodes: Discover the Latin Mass, A Perfect Storm, Guardians of Tradition; DVD and Blu-ray; uncut interviews sold separately"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "mass-of-the-ages-part-2",
+        "status": "GREY",
+        "title": "Watch the Trilogy",
+        "claims": [
+          "Three episodes: Discover the Latin Mass, A Perfect Storm, Guardians of Tradition; DVD and Blu-ray; uncut interviews sold separately"
+        ]
+      },
+      {
+        "id": "mass-of-the-ages-part-3",
+        "status": "GREY",
+        "title": "Watch the Trilogy",
+        "claims": [
+          "Episode III billed as the climax of the trilogy; DVD and Blu-ray available"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Episode III: Guardians of Tradition",
+    "publisher": "Mass of the Ages (latinmass.com; producers' own site, interested source)",
+    "url": "https://www.latinmass.com/episode-iii",
+    "accessed": "2026-10-12",
+    "claims": [
+      "After Pope Francis restricts the Traditional Latin Mass, a group of mothers walks from Paris to Rome with thousands of letters asking him to reverse the decision; asks how Catholics respond and what happened after Vatican II"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "mass-of-the-ages-part-3",
+        "status": "GREY",
+        "title": "Episode III: Guardians of Tradition",
+        "claims": [
+          "After Pope Francis restricts the Traditional Latin Mass, a group of mothers walks from Paris to Rome with thousands of letters asking him to reverse the decision; asks how Catholics respond and what happened after Vatican II"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Monastery (stockshot excerpt)",
+    "publisher": "National Film Board of Canada Archives",
+    "url": "https://archives.nfb.ca/stockshot/3099/",
+    "accessed": "2026-10-12",
+    "claims": [
+      "1951 NFB footage shot at Saint-Benoît-du-Lac, 35mm fine-grain black and white",
+      "Monks leaving chapel for the fields, bell, haymaking with horse mower and tractor-cutter, shelling peas, gardens, orchards, monastery buildings"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "monastery-1951",
+        "status": "GREY",
+        "title": "Monastery (stockshot excerpt)",
+        "claims": [
+          "1951 NFB footage shot at Saint-Benoît-du-Lac, 35mm fine-grain black and white",
+          "Monks leaving chapel for the fields, bell, haymaking with horse mower and tractor-cutter, shelling peas, gardens, orchards, monastery buildings"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Monastery",
+    "publisher": "NFB Collection (catalogue record, seen through a search listing; the page itself returned a server error)",
+    "url": "https://collection.nfb.ca/film/monastery",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Director Roger Blais; producer Guy Glover; about 19 min 45 s; 1951",
+      "Made with the cooperation of the Benedictine Monastery of Saint-Benoît-du-Lac; monks devoted to prayer, farm work, study, research and artistic work",
+      "Camera Hector Lemieux; script Roger Blais with Daryl Duke",
+      "Producer's own description, so an interested source"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "monastery-1951",
+        "status": "GREY",
+        "title": "Monastery",
+        "claims": [
+          "Director Roger Blais; producer Guy Glover; about 19 min 45 s; 1951",
+          "Made with the cooperation of the Benedictine Monastery of Saint-Benoît-du-Lac; monks devoted to prayer, farm work, study, research and artistic work",
+          "Camera Hector Lemieux; script Roger Blais with Daryl Duke",
+          "Producer's own description, so an interested source"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Benedictine Order",
+    "publisher": "Catholic Encyclopedia (1913), New Advent",
+    "url": "https://www.newadvent.org/cathen/02443a.htm",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Early monks shared agricultural and domestic work; literary and scholarly work later replaced some manual labour",
+      "Choir religious take solemn vows for life; lay brothers not bound to the daily Office",
+      "Houses originally autonomous with elected superiors"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "monastery-1951",
+        "status": "GREY",
+        "title": "The Benedictine Order",
+        "claims": [
+          "Early monks shared agricultural and domestic work; literary and scholarly work later replaced some manual labour",
+          "Choir religious take solemn vows for life; lay brothers not bound to the daily Office",
+          "Houses originally autonomous with elected superiors"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Quaerere Deum",
+    "publisher": "New Liturgical Movement (supporting outlet), 2 March 2012",
+    "url": "https://www.newliturgicalmovement.org/2012/03/qurere-deum.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Documentary on the Benedictine monks of Norcia, showing their prayer and work; made by friends of the monks; just released on YouTube in March 2012",
+      "Title means to seek God; the opus Dei is celebrated with reverence and noble simplicity"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "quaerere-deum",
+        "status": "GREY",
+        "title": "Quaerere Deum",
+        "claims": [
+          "Documentary on the Benedictine monks of Norcia, showing their prayer and work; made by friends of the monks; just released on YouTube in March 2012",
+          "Title means to seek God; the opus Dei is celebrated with reverence and noble simplicity"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Norcia Abbey",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Norcia_Abbey",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Community founded September 1998 in Rome by Cassian Folsom; moved to Norcia December 2000; independent priory 2018, abbey 25 May 2024",
+      "Extraordinary form exclusively used (current description); Office in Latin; relocated after the 2016 earthquake"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "quaerere-deum",
+        "status": "GREY",
+        "title": "Norcia Abbey",
+        "claims": [
+          "Community founded September 1998 in Rome by Cassian Folsom; moved to Norcia December 2000; independent priory 2018, abbey 25 May 2024",
+          "Extraordinary form exclusively used (current description); Office in Latin; relocated after the 2016 earthquake"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Confession (1920 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Confession_(1920_film)",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Directed by Bertram Bracken; Henry B. Walthall as Father Bartlett; 77 minutes; National Film Corporation of America; reissued 1927 as Confession",
+      "Based on Hal Reid's 1911 play; cast and credits"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-confession-1920",
+        "status": "PUBLISH",
+        "title": "The Confession (1920 film)",
+        "claims": [
+          "Directed by Bertram Bracken; Henry B. Walthall as Father Bartlett; 77 minutes; National Film Corporation of America; reissued 1927 as Confession",
+          "Based on Hal Reid's 1911 play; cast and credits"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Confession (1920)",
+    "publisher": "Silent Era (Progressive Silent Film List)",
+    "url": "https://m.silentera.com/PSFL/data/C/Confession1920.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Seven reels, 35mm b/w; released January 1920 by state rights; scenario Franklyn Hall and William H. Clifford; photography Walter L. Griffin",
+      "Print exists; public domain in the USA; DVD listed; cast list"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-confession-1920",
+        "status": "PUBLISH",
+        "title": "The Confession (1920)",
+        "claims": [
+          "Seven reels, 35mm b/w; released January 1920 by state rights; scenario Franklyn Hall and William H. Clifford; photography Walter L. Griffin",
+          "Print exists; public domain in the USA; DVD listed; cast list"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Confession (1920): A Silent Film Review",
+    "publisher": "Movies, Silently (Fritzi Kramer), 12 October 2020",
+    "url": "https://moviessilently.com/2020/10/12/the-confession-1920-a-silent-film-review/",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Full plot and ending; title card explaining the sanctity of confession to non-Catholic viewers; Walthall and Griffin praised; contrived climax; no anti-Catholic content mentioned",
+      "Only 16mm prints survive per the Library of Congress; DVDs from ReelClassicDVD and Grapevine with organ scores"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-confession-1920",
+        "status": "PUBLISH",
+        "title": "The Confession (1920): A Silent Film Review",
+        "claims": [
+          "Full plot and ending; title card explaining the sanctity of confession to non-Catholic viewers; Walthall and Griffin praised; contrived climax; no anti-Catholic content mentioned",
+          "Only 16mm prints survive per the Library of Congress; DVDs from ReelClassicDVD and Grapevine with organ scores"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Eternal Gift: Revisiting An Excellent Resource to Learn the Latin Mass",
+    "publisher": "Liturgical Arts Journal",
+    "url": "https://liturgicalartsjournal.com/2022/01/the-eternal-gift-revisiting-excellent.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Filmed Easter Sunday 1940 at Our Lady of Sorrows, Chicago, with the cooperation of the Servite Fathers",
+      "Narrator Msgr Fulton J. Sheen; celebrant Fr James R. Keane, O.S.M.; deacon Fr Hugh Calkins; subdeacon Fr Frank Calkins",
+      "About 1 hour 40 minutes on ten reels; choir and Schola Cantorum details; shown in cinemas and later on Super 8",
+      "Present-day traditionalist outlet; used for content and identity",
+      "Page does not name a director or producer"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-eternal-gift",
+        "status": "PUBLISH",
+        "title": "The Eternal Gift: Revisiting An Excellent Resource to Learn the Latin Mass",
+        "claims": [
+          "Filmed Easter Sunday 1940 at Our Lady of Sorrows, Chicago, with the cooperation of the Servite Fathers",
+          "Narrator Msgr Fulton J. Sheen; celebrant Fr James R. Keane, O.S.M.; deacon Fr Hugh Calkins; subdeacon Fr Frank Calkins",
+          "About 1 hour 40 minutes on ten reels; choir and Schola Cantorum details; shown in cinemas and later on Super 8",
+          "Present-day traditionalist outlet; used for content and identity",
+          "Page does not name a director or producer"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Liturgy of the Mass",
+    "publisher": "Catholic Encyclopedia (1910), New Advent",
+    "url": "https://www.newadvent.org/cathen/09790b.htm",
+    "accessed": "2026-10-12",
+    "claims": [
+      "The essence of High Mass lies in the deacon and subdeacon, not the music",
+      "Order of the sung parts of High Mass; Mass as the Eucharistic service instituted at the Last Supper; Pius X revised the chant in 1908"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-eternal-gift",
+        "status": "PUBLISH",
+        "title": "Liturgy of the Mass",
+        "claims": [
+          "The essence of High Mass lies in the deacon and subdeacon, not the music",
+          "Order of the sung parts of High Mass; Mass as the Eucharistic service instituted at the Last Supper; Pius X revised the chant in 1908"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Heart of the Matter (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Heart_of_the_Matter_(film)",
+    "accessed": "2026-10-12",
+    "claims": [
+      "1953 British film directed by George More O'Ferrall; London Films, British Lion; Shepperton and Sierra Leone locations",
+      "Screenplay Lesley Storm and Ian Dalrymple; producer Ian Dalrymple; cinematography Jack Hildyard; cast Trevor Howard, Elizabeth Allan, Maria Schell, Denholm Elliott, Peter Finch, Gérard Oury, Earl Cameron",
+      "Released 3 November 1953; Cannes 1953 entrant; ending differs from the novel"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-heart-of-the-matter-1953",
+        "status": "GREY",
+        "title": "The Heart of the Matter (film)",
+        "claims": [
+          "1953 British film directed by George More O'Ferrall; London Films, British Lion; Shepperton and Sierra Leone locations",
+          "Screenplay Lesley Storm and Ian Dalrymple; producer Ian Dalrymple; cinematography Jack Hildyard; cast Trevor Howard, Elizabeth Allan, Maria Schell, Denholm Elliott, Peter Finch, Gérard Oury, Earl Cameron",
+          "Released 3 November 1953; Cannes 1953 entrant; ending differs from the novel"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Heart of the Matter, 1953 (programme note, Stuart Blackburn)",
+    "publisher": "Humanities Institute",
+    "url": "https://humanitiesinstitute.org/__static/dfd632f28d2501658e6dde505a16a2ad/heart-of-the-matter-1953.pdf?dl=1",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Screenplay largely faithful to the novel's religious drama; only important change is the ending; Greene played no part, disowned the film and had tried to have the suicide included",
+      "Scene-by-scene account: Father Rank hears Scobie's confession and urges a promise he cannot give; Scobie goes to Mass; Scobie loads a pistol and is killed in a fight",
+      "Scobie calls suicide the unforgivable sin"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-heart-of-the-matter-1953",
+        "status": "GREY",
+        "title": "The Heart of the Matter, 1953 (programme note, Stuart Blackburn)",
+        "claims": [
+          "Screenplay largely faithful to the novel's religious drama; only important change is the ending; Greene played no part, disowned the film and had tried to have the suicide included",
+          "Scene-by-scene account: Father Rank hears Scobie's confession and urges a promise he cannot give; Scobie goes to Mass; Scobie loads a pistol and is killed in a fight",
+          "Scobie calls suicide the unforgivable sin"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Heart of the Matter (1953) review",
+    "publisher": "Australian Cinema",
+    "url": "https://australiancinema.info/reviews/heartofthematter.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Reviewer notes Scobie takes Communion in mortal sin after adultery and finds the ending ambiguous",
+      "Reviewer is lukewarm about the Catholic framing"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-heart-of-the-matter-1953",
+        "status": "GREY",
+        "title": "The Heart of the Matter (1953) review",
+        "claims": [
+          "Reviewer notes Scobie takes Communion in mortal sin after adultery and finds the ending ambiguous",
+          "Reviewer is lukewarm about the Catholic framing"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Heart Of The Matter 1953 DVDRip, English subtitle text",
+    "publisher": "subtitlecat.com (subtitle site; text read as data)",
+    "url": "https://www.subtitlecat.com/subs/236/The%20Heart%20Of%20The%20Matter%201953%20DVDRip%20x264.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Scobie: Communion in mortal sin is damnation; he takes Communion unconfessed and agrees he has damned himself",
+      "Father Rank: forgiveness depends on state of mind; he does not want to refuse absolution but Scobie ties his hands",
+      "The dialogue ends with Scobie leaving to go on trek and a brief prayer, with no closing priest scene"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-heart-of-the-matter-1953",
+        "status": "GREY",
+        "title": "The Heart Of The Matter 1953 DVDRip, English subtitle text",
+        "claims": [
+          "Scobie: Communion in mortal sin is damnation; he takes Communion unconfessed and agrees he has damned himself",
+          "Father Rank: forgiveness depends on state of mind; he does not want to refuse absolution but Scobie ties his hands",
+          "The dialogue ends with Scobie leaving to go on trek and a brief prayer, with no closing priest scene"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Holy Communion",
+    "publisher": "Catholic Encyclopedia (1910), New Advent",
+    "url": "https://www.newadvent.org/cathen/07402a.htm",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Freedom from mortal sin required; those in grave sin must confess first; 1 Corinthians 11:28"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-heart-of-the-matter-1953",
+        "status": "GREY",
+        "title": "Holy Communion",
+        "claims": [
+          "Freedom from mortal sin required; those in grave sin must confess first; 1 Corinthians 11:28"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Heart of the Matter (novel)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Heart_of_the_Matter",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Novel published by Heinemann in 1948; Scobie's Communion in mortal sin and suicide by pills; closing priest's remark about the human heart"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-heart-of-the-matter-1953",
+        "status": "GREY",
+        "title": "The Heart of the Matter (novel)",
+        "claims": [
+          "Novel published by Heinemann in 1948; Scobie's Communion in mortal sin and suicide by pills; closing priest's remark about the human heart"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Heart of the Matter, DVD",
+    "publisher": "Lenin Imports",
+    "url": "https://leninimports.com/pages/trevor_howard_heart_of_the_matter_dvd.html",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Single-disc DVD, Optimum Home Entertainment, Region 2 (UK), released 25 September 2006"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-heart-of-the-matter-1953",
+        "status": "GREY",
+        "title": "The Heart of the Matter, DVD",
+        "claims": [
+          "Single-disc DVD, Optimum Home Entertainment, Region 2 (UK), released 25 September 2006"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abbaye Sainte-Madeleine du Barroux",
+    "publisher": "Wikipédia (French)",
+    "url": "https://fr.wikipedia.org/wiki/Abbaye_Sainte-Madeleine_du_Barroux",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Veilleurs dans la nuit: 52-minute documentary, 2008, directed by Eddy Vicken",
+      "History of Dom Gérard Calvet: left Tournay 1970; Bédoin; 1978 Le Barroux; 25 July 1988 reconciliation with the Holy See under Ecclesia Dei; resigned 2003; died 28 February 2008; permission for pre-conciliar rites"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "veilleurs-dans-la-nuit",
+        "status": "GREY",
+        "title": "Abbaye Sainte-Madeleine du Barroux",
+        "claims": [
+          "Veilleurs dans la nuit: 52-minute documentary, 2008, directed by Eddy Vicken",
+          "History of Dom Gérard Calvet: left Tournay 1970; Bédoin; 1978 Le Barroux; 25 July 1988 reconciliation with the Holy See under Ecclesia Dei; resigned 2003; died 28 February 2008; permission for pre-conciliar rites"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "New DVD from the Benedictine Monastery of Le Barroux",
+    "publisher": "New Liturgical Movement (supporting outlet), 1 June 2009",
+    "url": "https://www.newliturgicalmovement.org/search?q=Veilleurs+dans+la+nuit",
+    "accessed": "2026-10-12",
+    "claims": [
+      "DVD \"Veilleurs dans la Nuit\", 52 minutes, PAL, French with English, German, Spanish and Italian subtitles; offices, work, and a pontifical Mass by Abbot Dom Louis-Marie; praised cinematography; the monastery uses the usus antiquior"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "veilleurs-dans-la-nuit",
+        "status": "GREY",
+        "title": "New DVD from the Benedictine Monastery of Le Barroux",
+        "claims": [
+          "DVD \"Veilleurs dans la Nuit\", 52 minutes, PAL, French with English, German, Spanish and Italian subtitles; offices, work, and a pontifical Mass by Abbot Dom Louis-Marie; praised cinematography; the monastery uses the usus antiquior"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Veilleurs dans la nuit",
+    "publisher": "TheTVDB",
+    "url": "https://thetvdb.com/movies/veilleurs-dans-la-nuit-une-journee-monastique-a-labbaye-sainte-madeleine-du-barroux",
+    "accessed": "2026-10-12",
+    "claims": [
+      "French television premiere 10 December 2011; narrator Michael Lonsdale; synopsis: liturgical life, community activities and workshops; monks interviewed about flaws and aspiration to holiness"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "veilleurs-dans-la-nuit",
+        "status": "GREY",
+        "title": "Veilleurs dans la nuit",
+        "claims": [
+          "French television premiere 10 December 2011; narrator Michael Lonsdale; synopsis: liturgical life, community activities and workshops; monks interviewed about flaws and aspiration to holiness"
         ]
       }
     ]

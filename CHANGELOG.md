@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-10-12 (third update): new films, posters and rule (a) wording
+
+- 315 public films: 117 recommended and 198 in the grey area.
+- Fifteen films added:
+  - Recommended: The Eternal Gift (1940), a filmed Solemn High Mass with Sheen's commentary; Embezzled Heaven (1958); and the silent The Confession (1920).
+  - Grey area: Hill Number One, Journey of Faith, Christ in Bronze, Brighton Rock, The Heart of the Matter, Mass of the Ages Parts 2 and 3, and films on the monks of Saint-Benoît-du-Lac, Norcia, Silverstream and Le Barroux and on the Chartres pilgrimage.
+- Saint Rita (2004) and Claret (2021) recommended after a reading of their dialogue.
+- Posters for 40 more films (282 in all), and larger copies of 64 small ones.
+- "Where to watch" on 205 film pages.
+- Rule (a) reworded. Beatifications and canonisations by the post-conciliar popes are reported as declarations and not accepted as such, and nobody is called saint or blessed on their strength. Films not included, How films are chosen, the collection notes and the film pages that mention Juan Diego, the Fátima children and the Korean martyrs now say this.
+
 ## 2026-10-12 (second update) — posters, where to watch, saints, reading and new pages
 
 - 300 public films: 112 recommended and 188 in the grey area.
@@ -11,7 +22,6 @@
 - Further reading on every saint's page and on film pages: pre-1965 lives, the saints' own writings, the Douay-Rheims and papal documents, each link opened.
 - Five new guides: the Passion, Mexican and Spanish religious cinema, convents, the apostles, and missionaries.
 - New pages: Watching with children (`/family/`), New films (`/new/`) with an RSS feed (`/feed.xml`), and a printable list (`/print/`).
-- Rule (a) reworded. Beatifications and canonisations by the post-conciliar popes are reported as declarations and not accepted as such, and nobody is called saint or blessed on their strength. Films not included, How films are chosen, the collection notes and the film pages that mention Juan Diego, the Fátima children and the Korean martyrs now say this.
 
 ## 2026-10-12 — catalogue, editorial position and new sections
 
