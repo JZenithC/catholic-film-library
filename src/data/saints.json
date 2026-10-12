@@ -12,7 +12,8 @@
         "la-vie-merveilleuse-de-bernadette-1929",
         "l-affaire-lourdes-1967",
         "lourdes-2000",
-        "our-lady-of-lourdes-2007"
+        "our-lady-of-lourdes-2007",
+        "bernadette-1981"
       ],
       "bio": "Born at Lourdes, the eldest child of a ruined miller, Bernadette was a sickly, barely literate girl of fourteen when, in 1858, she saw eighteen apparitions of Our Lady in the grotto of Massabielle. The Lady called herself the Immaculate Conception. Questioned by civil and Church authorities, she held to her account. She entered the Sisters of Charity at Nevers in 1866 and died there, after long illness, in 1879.",
       "sources": [
@@ -132,7 +133,8 @@
         "frate-sole-1918",
         "il-poverello-di-assisi-1911",
         "san-francisco-de-asis-1944",
-        "never-take-no-for-an-answer-1951"
+        "never-take-no-for-an-answer-1951",
+        "assisi-1932"
       ],
       "bio": "The son of a wealthy cloth merchant of Assisi, Francis gave up his inheritance about 1206 to live in poverty and rebuild ruined churches. Companions gathered round him, and Innocent III approved his first rule orally in 1209. He preached to the poor, travelled to Egypt and the Holy Land, and received the stigmata at La Verna in 1224. He died at the Portiuncula on 3 October 1226.",
       "sources": [
@@ -1830,7 +1832,8 @@
       "name": "St Mary Magdalene",
       "slug": "mary-magdalene",
       "films": [
-        "la-spada-e-la-croce-1958"
+        "la-spada-e-la-croce-1958",
+        "maria-magdalena-pecadora-de-magdala-1946"
       ],
       "bio": "Mary of Magdala, a woman from whom Christ cast out seven devils, followed Him and ministered to Him from her means. She stood at the foot of the Cross and was among the women who went to the tomb on Easter morning, where she was the first to see the risen Lord. In the West she was long identified with Mary of Bethany and with the penitent woman of Luke 7, an identification the Church's liturgy followed.",
       "sources": [
@@ -2767,6 +2770,32 @@
           "note": "Butler's life of the saint, with his sources (1903 edition)."
         }
       ]
+    },
+    {
+      "name": "St Cecilia",
+      "slug": "cecilia",
+      "films": [
+        "santa-cecilia-1911"
+      ],
+      "dates": "d. c. 230",
+      "feast": "11-22",
+      "status": "Venerated as a virgin martyr at Rome from the fourth century",
+      "bio": "A Roman virgin and martyr, buried in the Catacomb of Callistus, whose feast was kept at Rome by the fourth century in the church named for her in Trastevere. Her Acts, a later pious romance, tell how she won her husband Valerian and his brother Tiburtius to the faith, both being martyred, and how she survived the heated bath and three blows of the sword, living three days before she died. She is the patroness of church music.",
+      "sources": [
+        {
+          "title": "St. Cecilia",
+          "publisher": "The Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/03471b.htm"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Catholic Encyclopedia: St Cecilia",
+          "year": 1908,
+          "url": "https://www.newadvent.org/cathen/03471b.htm",
+          "note": "Article in the Catholic Encyclopedia, separating the cult from the legend."
+        }
+      ]
     }
   ],
   "feasts": [
@@ -2824,7 +2853,8 @@
         "l-affaire-lourdes-1967",
         "lourdes-2000",
         "our-lady-of-lourdes-2007",
-        "une-femme-nommee-marie-2013"
+        "une-femme-nommee-marie-2013",
+        "bernadette-1981"
       ],
       "note": "Keeps the eighteen apparitions of Our Lady to St Bernadette at Massabielle in 1858, which confirmed the dogma of the Immaculate Conception.",
       "feastNote": "Kept on the General Calendar as the Apparition of the Blessed Virgin Mary Immaculate, a feast of the third class; extended to the whole Church by Pius X in 1907.",
@@ -3245,7 +3275,8 @@
         "the-gospel-of-john-2003",
         "the-gospel-of-john-2014",
         "risen-2016",
-        "une-femme-nommee-marie-2013"
+        "une-femme-nommee-marie-2013",
+        "la-vie-et-la-passion-de-jesus-christ-1898"
       ],
       "note": "Keeps the Passion, death and Resurrection of Our Lord, from the entry into Jerusalem to the empty tomb.",
       "feastNote": "Easter falls between 22 March and 25 April; Holy Week runs from Palm Sunday to Holy Saturday, with Good Friday two days before Easter.",
