@@ -25,7 +25,7 @@ The public site is generated in `dist/`. No runtime API, database, analytics or 
 - `research/inventory.json` is the canonical record of every candidate. Each has a status (PUBLISH, GREY, HOLD or REJECT) and a decision text.
 - `npm run catalogue` writes `src/data/films.json` (PUBLISH and GREY records only), `src/data/research-summary.json`, `research/source-registry.json` and the status column of `research/starting-inventory-crosswalk.json`. Do not edit those files by hand. The deploy workflow fails if they are stale.
 - `src/data/featured.json` lists the homepage's featured films (recommended films only). `src/data/collections.json` holds the collections, `src/data/grey-area.json` the text of the grey-area page and `src/data/editorial-pages.json` the principles, about, sources and corrections pages.
-- `src/data/saints.json` holds the saints index and the movable-feast entries of the calendar; `src/data/guides.json` the guides; `src/data/not-included.json` the films-not-included page. Film records carry optional `legion` (Legion of Decency rating) and `watch`/`watchChecked` (where to watch) fields.
+- `src/data/saints.json` holds the saints index and the movable-feast entries of the calendar; `src/data/guides.json` the guides; `src/data/not-included.json` the films-not-included page; `src/data/additions.json` the date each film was published, kept by `npm run catalogue` for the New films page and `feed.xml`. Saints and feasts carry optional `readings` (further reading). Film records carry optional `legion` (Legion of Decency rating) and `watch`/`watchChecked` (where to watch) fields.
 - `research/editorial-notes.json` holds evidence notes and poster leads for each record. It is not published on the site.
 - Never copy the research inventory into a client script. HOLD and REJECT records must not reach the build, and `scripts/check-leak.mjs` enforces this.
 
@@ -42,7 +42,7 @@ Current counts are in `src/data/research-summary.json`.
 ## Content and architecture
 
 - Astro 7 static generation, TypeScript and Zod validation (`scripts/schema.mjs`, `scripts/validate.mjs`).
-- Pages: home, library (with sidebar filters), Start here (`/essentials/`), collections in three groups, film pages, A–Z, grey area, saints, calendar, guides, films not included, how films are chosen, about, sources, corrections, image credits and a custom 404. Withdrawn film and collection URLs redirect to `/library/` (see `astro.config.mjs`).
+- Pages: home, library (with sidebar filters), Start here (`/essentials/`), collections in three groups, film pages, A–Z, grey area, saints, calendar, guides, films not included, watching with children (`/family/`), new films (`/new/`, with an RSS feed at `/feed.xml`), a printable list (`/print/`), how films are chosen, about, sources, corrections, image credits and a custom 404. Withdrawn film and collection URLs redirect to `/library/` (see `astro.config.mjs`).
 - Search runs locally in the browser. It ignores accents, folds ß, æ and œ, and matches word prefixes. You can filter by period, decade, country, subject, format, language and collection, and the query URLs can be shared.
 - The schema enforces controlled vocabularies for format, historical period and collection group.
 - There is a public metadata export at `catalogue.json` (recommended and grey-area records only).

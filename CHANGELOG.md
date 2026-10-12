@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-10-12 (second update) — posters, where to watch, saints, reading and new pages
+
+- 300 public films: 112 recommended and 188 in the grey area.
+- Period reviews and Catholic ratings found for grey-area films in Spanish, Uruguayan, Canadian and French Catholic papers: Sor intrépida, Cerca de la ciudad, Un missionnaire, Un traje blanco, El pórtico de la gloria and La vie de Jésus (1951) are now recommended. La voce del silenzio carries a stated reservation from a 1956 review. Several others gained supporting notices and a Legion rating.
+- Films on hold resolved: Santa Cecilia (1911) recommended; seven films to the grey area; the 2025 Compiègne documentary rejected under rule (b); lost and non-Catholic films rejected. Eleven stay on hold, each with what would settle it.
+- Posters for 56 more films (242 in all), each checked against the film's billing.
+- "Where to watch" on 181 film pages, up from 108.
+- Saints: eleven added (Cyril and Methodius, Benedict, Stephen of Hungary, Nicholas of Flüe, Margaret Mary Alacoque, Gabriel of Our Lady of Sorrows, James, Francis Xavier, Dominic, Maxentia and Cecilia), and the new films attached to their saints and feasts.
+- Further reading on every saint's page and on film pages: pre-1965 lives, the saints' own writings, the Douay-Rheims and papal documents, each link opened.
+- Five new guides: the Passion, Mexican and Spanish religious cinema, convents, the apostles, and missionaries.
+- New pages: Watching with children (`/family/`), New films (`/new/`) with an RSS feed (`/feed.xml`), and a printable list (`/print/`).
+
 ## 2026-10-12 — catalogue, editorial position and new sections
 
 ### Catalogue

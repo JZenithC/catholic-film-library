@@ -39,6 +39,8 @@ A passing build does not prove that the research, licensing or accessibility is 
 7. Run `npm run catalogue` to regenerate `src/data/films.json`, `src/data/research-summary.json`, `research/source-registry.json` and the crosswalk statuses. Never edit generated data by hand.
 8. Run the checks above. Look at the rendered film page, its sources, search, collection membership, related films and `catalogue.json` before committing.
 
+When a film becomes public, `npm run catalogue` stamps today's date for it in `src/data/additions.json`, which feeds the New films page and `feed.xml`; commit that file with the film. If the film is about a saint or a feast, add its id to that entry's `films` in `src/data/saints.json` so it appears on the saint's page and in the calendar. A new saint needs dates, the 1962 feast, a status from acts before 1965, a short life, sources, and `readings` whose links have been opened.
+
 For a metadata correction, change only the verified value and record the reason and source. For a new citation, give the exact URL, publisher, title, access date and the claims it supports. Recheck the gate when new evidence affects the decision.
 
 ## Featured films

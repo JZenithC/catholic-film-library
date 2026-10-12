@@ -3983,7 +3983,7 @@
     ],
     "historicalPeriod": "17th century",
     "status": "GREY",
-    "decision": "GREY: Identity is secure (IMDb, Spanish Wikipedia, Cine y Max, DeCine21). Paco Casado's review and DeCine21's short notice assess craft only, and the fullest accounts of content come from the De La Salle Brothers, who co-sponsored the 2010 DVD with Ignatius Press (interested). No contemporary Spanish Catholic classification was found. Settle with a review that addresses the religious content, the 1964 Spanish Catholic rating (published in Ecclesia or Film Ideal), or a recorded viewing; also confirm the runtime (138 v. 109 minutes).",
+    "decision": "GREY: Identity is secure (IMDb, Spanish Wikipedia, Cine y Max, DeCine21). Paco Casado's review and DeCine21's short notice assess craft only, and the fullest accounts of content come from the De La Salle Brothers, who co-sponsored the 2010 DVD with Ignatius Press (interested). No contemporary Spanish Catholic classification was found. Settle with a review that addresses the religious content, the 1964 Spanish Catholic rating (published in Ecclesia or Film Ideal), or a recorded viewing; also confirm the runtime (138 v. 109 minutes). El Adelantado de Segovia (5 February 1966) reviewed it unfavourably: it calls the hagiographic film's saint-biography material rich (persecution, heroism) but the result flat and lacking style and vigour, and Amadori of little cinematic ability. A craft judgment, with no objection to the treatment of the saint; the listing gives the film as 'tolerada para menores'.",
     "grey": {
       "kind": "unverified",
       "question": "Luis César Amadori's 1964 Spanish production, with Mel Ferrer as La Salle and Fernando Rey in support, has no independent review of how it treats the saint and his institute. The reviews that exist judge its craft, not its faith or its history, and the fullest descriptions of its content come from the De La Salle Brothers, who sponsored its DVD release."
@@ -4053,6 +4053,17 @@
         "claims": [
           "1964; 2 h 18 min; Luis César Amadori; English title Saint John Baptist de La Salle; Mel Ferrer, Enrique Diosdado, Manuel Alexandre (seen via search summary; page not opened)"
         ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "El Adelantado (Segovia), 5 February 1966: review 'El señor de La Salle' and cinema listing",
+        "publisher": "El Adelantado de Segovia (Internet Archive)",
+        "url": "https://archive.org/details/ElAdelantado_Segovia_19962_19660205",
+        "claims": [
+          "5 Feb 1966: review argues hagiographic films serve to popularise saints' lives, says La Salle's life has persecution and heroism, but Amadori's film is 'plana, falta de vigor', lacking style; wanted an 'evangélico' film; no complaint about the faith content",
+          "Listing: 'Tolerada para menores' (Cine Victoria)"
+        ],
+        "accessed": "2026-10-12",
         "licensing": "Reference link only; no artwork permission implied."
       }
     ],
@@ -15531,7 +15542,7 @@
     ],
     "historicalPeriod": "20th century",
     "status": "GREY",
-    "decision": "GREY: Identity, outline and production context are established by the Cinemateca Portuguesa and Público's Cinecartaz. The Cinemateca's programme note and the Diário de Notícias comment on its craft and its place in the Estado Novo's official cinema, but no source assesses how it treats the apparitions or the faith. Settle with a 1943 Portuguese Catholic review (e.g. Novidades, Voz da Fátima) or a recorded viewing of the Cinemateca print, checking especially the staged apparition episode and the fictional cure.",
+    "decision": "GREY: Identity, outline and production context are established by the Cinemateca Portuguesa and Público's Cinecartaz. The Cinemateca's programme note and the Diário de Notícias comment on its craft and its place in the Estado Novo's official cinema, but no source assesses how it treats the apparitions or the faith. Settle with a 1943 Portuguese Catholic review (e.g. Novidades, Voz da Fátima) or a recorded viewing of the Cinemateca print, checking especially the staged apparition episode and the fictional cure. Diário de Lisboa (10 July 1943) printed excerpts from the Lisbon dailies' reviews, which describe the professor's passage 'from the darkness of despair to the light of faith' and call the film a work of 'moral and spiritual beauty', with no objection to the treatment. But this digest is publicity put together after the premiere and the original reviews were not opened, and the producer's interview (24 June) says it is not a documentary on Fátima but a human drama using the Fátima idea. Close to publishable; the original Diário de Notícias and O Século reviews would settle it.",
     "grey": {
       "kind": "unverified",
       "question": "The film is well identified as Jorge Brum do Canto's 1943 feature, preserved and screened by the Cinemateca Portuguesa. No independent review of how it treats Fátima exists. Its story of a sceptical doctor converted by his son's cure is fiction, set beside a staged account of the 1917 apparitions, and the only critical comments, from the Cinemateca and the Portuguese press, concern its craft and its official character under the Salazar regime. A contemporary Catholic review or a recorded viewing would settle it."
@@ -15596,6 +15607,26 @@
         "url": "https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima",
         "accessed": "2026-10-12",
         "claims": "Approval of 13 October 1930 by the Bishop of Leiria; Pius XII's consecration of 31 October and 8 December 1942; content of the reported message"
+      },
+      {
+        "title": "Diário de Lisboa, 10 July 1943: 'A crítica de Lisboa acolheu o novo filme português Fátima, terra de fé!' (excerpts from Diário de Notícias and O Século reviews)",
+        "publisher": "Diário de Lisboa (Fundação Mário Soares, via Internet Archive)",
+        "url": "https://archive.org/details/cc_dl_05771.035.08995",
+        "claims": [
+          "10 Jul 1943: digest quotes Diário de Notícias ('F. F.') saying the director's work peaks from the professor's return home to the miracle, and that the transformation of his spirit from despair to the light of faith is rendered with dramatic power; quotes António Lourenço in O Século calling it a work of 'beleza moral e espiritual' that depicts a 'debate das almas e não das doutrinas'. Digest is promotional in form; originals not opened"
+        ],
+        "accessed": "2026-10-12",
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Diário de Lisboa, 24 June 1943: interview with the producer/director before the Porto premiere",
+        "publisher": "Diário de Lisboa (Internet Archive)",
+        "url": "https://archive.org/details/cc_dl_05771.035.08962",
+        "claims": [
+          "24 Jun 1943: interviewee (interested party) says the film is 'not a documentary on the religious life of Fátima' but a human drama of action and passion in which the Fátima idea is the base, and that it evokes one of the extraordinary events of the nation's religious life"
+        ],
+        "accessed": "2026-10-12",
+        "licensing": "Reference link only; no artwork permission implied."
       }
     ],
     "reviewed": "2026-10-11",
@@ -16000,7 +16031,7 @@
     ],
     "historicalPeriod": "19th century",
     "status": "GREY",
-    "decision": "GREY: identity and production history are secure (ANICA visa, Torino Film Festival restoration, Enciclopedia del Cinema in Piemonte). The only independent critical text read is Cinema Illustrazione (1935), which judges craft, not faith. Pre-conciliar Catholic approval (Segnalazioni cinematografiche; L'Osservatore Romano and Rivista del Cinematografo) is known only at second hand, via Salesian ANS and an unpublished essay quoted by Prono. Salesians wrote the treatment, negotiated the script and later owned the negative. Settles with the 1935 Segnalazioni/Rivista del Cinematografo texts or a documented viewing of the 2021 restoration (dreams, Generala episode, Church–State material).",
+    "decision": "GREY: identity and production history are secure (ANICA visa, Torino Film Festival restoration, Enciclopedia del Cinema in Piemonte). The only independent critical text read is Cinema Illustrazione (1935), which judges craft, not faith. Pre-conciliar Catholic approval (Segnalazioni cinematografiche; L'Osservatore Romano and Rivista del Cinematografo) is known only at second hand, via Salesian ANS and an unpublished essay quoted by Prono. Salesians wrote the treatment, negotiated the script and later owned the negative. Settles with the 1935 Segnalazioni/Rivista del Cinematografo texts or a documented viewing of the 2021 restoration (dreams, Generala episode, Church–State material). The Legion of Decency cumulative list classes 'Don Bosco (Italian) (Nuovo Mondo)' A-I (1936-37), confirming a favourable rating for the US release. A rating alone is supporting evidence; no review of the film's treatment (dreams, Generala episode, Church-State material) was found. The 1935 Cinema Illustrazione piece is a pre-release production feature (church ceremonies, Piedmontese cast), not a review.",
     "grey": {
       "kind": "unverified",
       "question": "The film's identity and production history are well documented, but no independent review describes how it treats the faith. Approval from the Catholic film press of 1935 survives only at second hand, in Salesian accounts and an unpublished essay. The Salesians supplied the story, negotiated the script and later owned the film. A reading of the 1935 Catholic reviews, or a documented viewing of the restored version that covers Bosco's dreams, the reshot Generala episode and the Church–State material, would settle it."
@@ -16107,6 +16138,16 @@
         "url": "https://archive.org/stream/motionpicturescl00nati/motionpicturescl00nati_djvu.txt",
         "accessed": "2026-10-12",
         "claims": "Legion of Decency rating A-I (listed as: Don Bosco (Italian) (Nuovo Mondo) A-I 1936-37)"
+      },
+      {
+        "title": "Cinema Illustrazione, 13 March 1935 (pre-release feature on Don Bosco)",
+        "publisher": "Cinema Illustrazione (Internet Archive)",
+        "url": "https://archive.org/details/cinema-illustrazione-1935-11",
+        "claims": [
+          "13 Mar 1935: production feature says liturgical scenes (priestly ordination, departure of the first Patagonia missionaries, giving the Rule to the first Salesian Sisters) are shown, that the focus is on Don Bosco as a man of the people, and that the cast were chosen from Piedmont; promotional, not a critical review"
+        ],
+        "accessed": "2026-10-12",
+        "licensing": "Reference link only; no artwork permission implied."
       }
     ],
     "reviewed": "2026-10-11",
@@ -25339,8 +25380,8 @@
       "priesthood"
     ],
     "historicalPeriod": "20th century",
-    "status": "GREY",
-    "decision": "GREY: Catholic-centred (a young priest's first parish and his catechism of the children). Identity and outline are established (Spanish Wikipedia), and decine21 gives a short descriptive note. No independent or contemporary Catholic assessment of how the film treats the priest and the faith was found. A Spanish Catholic rating (the 1950s Oficina Nacional Permanente de Vigilancia de Espectáculos or Ecclesia listings) or a 1952 review would settle it.",
+    "status": "PUBLISH",
+    "decision": "PUBLISH: El Diario Palentino (11 December 1952) reviewed it as a sainete that 'inculcates the need for charity' while exalting the priest's apostolate, recommended for ordinary audiences, and its listings give the Church film office classification 1 (all, including children). The reviewer finds the script does not probe the subject deeply. Earlier ruling: Catholic-centred (a young priest's first parish and his catechism of the children). Identity and outline are established (Spanish Wikipedia), and decine21 gives a short descriptive note. No independent or contemporary Catholic assessment of how the film treats the priest and the faith was found. A Spanish Catholic rating (the 1950s Oficina Nacional Permanente de Vigilancia de Espectáculos or Ecclesia listings) or a 1952 review would settle it.",
     "summary": "Luis Lucia's modest Spanish social drama of a newly ordained priest who takes charge of a destitute parish on the edge of Madrid and wins it over through its children.",
     "synopsis": "Padre José, newly ordained and the son of a variety ventriloquist, is sent as curate to a poor parish on the outskirts of Madrid. He arrives to find that the parish priest has died, and he must run the church himself until the bishop decides what to do. The district is poor in every sense: bad housing, poor health and moral neglect. Ramón, the old sacristan, explains its troubles to him. Doña Casilda, owner of the best house in the neighbourhood, practises her religion in her own fashion. With the help of the sacristan, a doctor who gives his services, and Pepito, his father's ventriloquist's dummy, the young priest begins to draw the neighbourhood's children to catechism, the first step in reclaiming a parish that has drifted from the Church.",
     "inclusion": "It belongs to a strand of early-1950s Spanish films that put a priest among the urban poor. Adolfo Marsillach, later a leading theatre director, plays the young curate, with the great character actor Pepe Isbert as the sacristan. Decine21 calls it an interesting example of the social cinema of the period, though it rates it only 4 out of 10. The ventriloquist's dummy as an instrument of catechesis is an engaging, unusual idea.",
@@ -25377,13 +25418,29 @@
         "url": "https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_15041905_acerbo-nimis.html",
         "accessed": "2026-10-12",
         "claims": "Sunday catechism hour for children (para 19); preparation for Penance, Confirmation and first Communion (paras 20-21); Confraternity of Christian Doctrine in every parish (para 22)"
+      },
+      {
+        "title": "El Diario Palentino, 11 December 1952 (evening edition): review 'Cerca de la ciudad', Teatro Principal",
+        "publisher": "El Diario Palentino (Palencia daily; Internet Archive)",
+        "url": "https://archive.org/details/ElDiarioPalentino_19521211_04532_tarde",
+        "claims": [
+          "11 Dec 1952: review calls it a 'sainete' with a noble intention worthy of praise, where jokes 'van inculcando una necesidad de caridad' while 'se exalta el apostolado del sacerdote'; says it can be recommended and will please ordinary audiences, though the script does not go deep into its theme; Adolfo Marsillach praised as hesitant in the curate role"
+        ],
+        "accessed": "2026-10-12",
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "El Diario Palentino, 10 December 1952 (evening edition): 'Calificación moral' legend and listing",
+        "publisher": "El Diario Palentino (Internet Archive)",
+        "url": "https://archive.org/details/ElDiarioPalentino_19521210_04531_tarde",
+        "claims": [
+          "10 Dec 1952 listings: 'Cerca de la ciudad (1)'; the paper states the numbers are the classification of the Oficina Nacional Permanente de Vigilancia de Espectáculos under the Episcopal Commission for Orthodoxy and Morality, where 1 = all, including children"
+        ],
+        "accessed": "2026-10-12",
+        "licensing": "Reference link only; no artwork permission implied."
       }
     ],
     "reviewed": "2026-10-11",
-    "grey": {
-      "kind": "unverified",
-      "question": "Cerca de la ciudad is about a priest and his parish. A young curate brings catechism and charity to a poor Madrid suburb. What is not known is how the film treats his mission: whether it shows the Mass, confession or his preaching, and whether his work is presented as spiritual or chiefly social. No independent review exists, only plot outlines and a brief modern note."
-    },
     "cast": [
       {
         "name": "Adolfo Marsillach",
@@ -25443,7 +25500,8 @@
     "doctrine": "The film's centre is a young priest teaching catechism to neglected children. Pius X's Acerbo Nimis (15 April 1905) made this the first duty of a parish priest. Every Sunday and holy day, 'with no exception', pastors were to give boys and girls an hour of catechism (paragraph 19). They were to prepare children for Penance and Confirmation (paragraph 20) and, especially in Lent, for a holy first Communion (paragraph 21). Every parish was to have a Confraternity of Christian Doctrine, whose lay members help the priest where priests are few (paragraph 22).",
     "production": "This is a 90-minute black-and-white Spanish film directed by Luis Lucia. It received a cash prize of 300,000 pesetas from the awards of the Sindicato Nacional del Espectáculo. Spanish Wikipedia says Jaime García-Herranz co-wrote the script with Lucia, while Decine21 names José Luis Colina.",
     "alternateTitles": [],
-    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
+    "grey": null
   },
   {
     "id": "demetrius-and-the-gladiators-1954",
@@ -25991,7 +26049,7 @@
     ],
     "historicalPeriod": "Biblical antiquity",
     "status": "GREY",
-    "decision": "GREY: Catholic-centred Gospel drama of the betrayal, told from Judas's side, with Christ's face kept off screen. Identity is secure (Wikipedia; Venice 1954 competition list). Content comes from decine21 (present-day, content only), Entreletras and viewers' reviews; none examines the film's account of Judas's motive and end, and an OCIC mention at Venice claimed by decine21 could not be confirmed (the 1954 OCIC prize went to On the Waterfront). A contemporary review or Catholic rating would settle it.",
+    "decision": "GREY: Catholic-centred Gospel drama of the betrayal, told from Judas's side, with Christ's face kept off screen. Identity is secure (Wikipedia; Venice 1954 competition list). Content comes from decine21 (present-day, content only), Entreletras and viewers' reviews; none examines the film's account of Judas's motive and end, and an OCIC mention at Venice claimed by decine21 could not be confirmed (the 1954 OCIC prize went to On the Waterfront). A contemporary review or Catholic rating would settle it. El Diario Palentino (27 March 1954) prints the Church film office classification 1 (suitable for all, including children) and the Venice festival press called its screening a 'clamoroso' success, but no review found says how it treats Judas's betrayal. A rating and festival news are supporting evidence only.",
     "summary": "Rafael Gil's large-scale Spanish Passion drama tells the story of the betrayal through Judas Iscariot, played by Rafael Rivelles, with Christ seen only from behind or in part.",
     "synopsis": "The film follows the public life and Passion of Jesus as Judas Iscariot lives it. Judas joins the disciples driven by ambition, and over time his ambition and greed harden into betrayal. He sells Jesus to the priests for thirty pieces of silver and identifies Him with a kiss. A young Roman soldier, Quinto Licinio, comes to plead for clemency for the man he recognises as the Son of God, and Pilate, under pressure, gives Jesus up to be crucified. Judas lives on to see the suffering he has caused.",
     "inclusion": "This was the most ambitious production of the religious cycle Rafael Gil made with Vicente Escrivá for their company Aspa: 82 sets by Enrique Alarcón, Holy Land exteriors and dramatic black-and-white photography by Alfredo Fraile, which viewers still single out. The press of the day was dazzled by its scale. It was shown in competition at Venice in 1954 and declared of National Interest. Rafael Rivelles gives Judas an intense, brooding presence, and Francisco Rabal, as the Roman soldier, tends to overact. Viewers note that the film is at its best when it stays close to Judas in a dark, almost noir mood, and weaker when it retells the Gospel at a distance. Entreletras calls it monumental and dogmatic, and finds it has aged into a curiosity.",
@@ -26059,6 +26117,27 @@
         "url": "https://www.newadvent.org/cathen/08539a.htm",
         "accessed": "2026-10-12",
         "claims": "Gospel facts on Judas's motive, kiss, silver and death; fall as a warning"
+      },
+      {
+        "title": "El Diario Palentino, 27 March 1954: cinema listings with 'Calificación moral' and notice of the Palencia premiere",
+        "publisher": "El Diario Palentino (Internet Archive)",
+        "url": "https://archive.org/details/ElDiarioPalentino_19540327_05223",
+        "claims": [
+          "27 Mar 1954: 'El beso de Judas (1)' under the Oficina Nacional Permanente classification (1 = all, including children)",
+          "Same issue: promotional notice of its premiere at the Gran Teatro Ortega on Saturday 27 March (promotional, not a review)"
+        ],
+        "accessed": "2026-10-12",
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "El Adelantado (Segovia), 4 September 1954: Efe report from Venice",
+        "publisher": "El Adelantado (Segovia daily; Internet Archive)",
+        "url": "https://archive.org/details/ElAdelantado_Segovia_16718_19540904",
+        "claims": [
+          "4 Sep 1954: Efe report that the official screening at the Venice festival was a 'éxito clamoroso' and that the festival president Croze telegraphed Madrid calling it an extraordinary success with the international public and press (festival news; says nothing on the treatment of Judas)"
+        ],
+        "accessed": "2026-10-12",
+        "licensing": "Reference link only; no artwork permission implied."
       }
     ],
     "reviewed": "2026-10-11",
@@ -26318,7 +26397,7 @@
     ],
     "historicalPeriod": "20th century",
     "status": "GREY",
-    "decision": "GREY: Catholic-centred (a village Passion play as the means of a sinner's conversion; a monk of Montserrat as counsellor). Identity and outline are established by independent Spanish reviews (Alberto Mateos at Camino de Emaús; DQVlapeli; Entreletras). None describes the ending in detail, and no contemporary Catholic assessment was found; Entreletras reports that Catholic critics of the time argued over it. The ending and the period Catholic verdict would settle it.",
+    "decision": "GREY: Catholic-centred (a village Passion play as the means of a sinner's conversion; a monk of Montserrat as counsellor). Identity and outline are established by independent Spanish reviews (Alberto Mateos at Camino de Emaús; DQVlapeli; Entreletras). None describes the ending in detail, and no contemporary Catholic assessment was found; Entreletras reports that Catholic critics of the time argued over it. The ending and the period Catholic verdict would settle it. El Diario Palentino (30 January 1953) reviewed it as a success: Antonio Vilar's performance expresses the man's passage 'de Judas a Cristo' with atonement, the Esparraguera Passion-play villagers play the Passion, and the paper recommends it to all audiences. The Church film office classification printed with it is 2 (young people). So the story does end in repentance and expiation, and Catholic opinion of the time was favourable.",
     "summary": "Ignacio Iquino's drama, shot at the Esparreguera Passion play with its villagers, about a grasping man who schemes his way into the role of Christ and is changed by it.",
     "synopsis": "In Esparreguera, a Catalan town famous for its Holy Week Passion play, Mariano Torné is cast as Judas, and in life he resembles him: proud, envious, a usurer who has ruined neighbours and cheated his own brother Fermín of his inheritance. He wants the part of Christ for his vanity, not from any belief. He frames Jaime Soler, the man cast as Jesus, for thefts at the textile mill where Jaime works, and takes over the role. Rehearsing the Passion begins to work on him. A conversation with a monk of Montserrat shakes him, and the people he has wronged, the children he drove off, a shopkeeper he meant to evict, relatives he cheated, return to confront him. The performance of the Way of the Cross becomes his own Calvary.",
     "inclusion": "Iquino, a prolific Barcelona genre director, made this in 1952, the year of the International Eucharistic Congress in Barcelona, and filmed it in Esparreguera with the town's own Passion company as cast and extras; only Antonio Vilar and Manuel Gas were professionals. Reviewers single out Vilar's embittered Mariano and Iquino's skill in weaving rehearsals into the story without trying to stage the whole Passion. Alberto Mateos compares the use of non-actors to Italian neorealism. Entreletras finds it the more lasting of the two Spanish Judas films of the period, against Rafael Gil's monumental Judas' Kiss, and notes the expressionist chiaroscuro of Pablo Ripoll's photography.",
@@ -26374,6 +26453,17 @@
         "url": "https://www.newadvent.org/cathen/08539a.htm",
         "accessed": "2026-10-12",
         "claims": "Gospel facts on Judas, repentance and death, Cainites rejected, moral lesson"
+      },
+      {
+        "title": "El Diario Palentino, 30 January 1953: 'Estrenos cinematográficos en Palencia', review of 'El Judas' (Gran Teatro Ortega), with 'Calificación moral' listing",
+        "publisher": "El Diario Palentino (Palencia daily; Internet Archive)",
+        "url": "https://archive.org/details/ElDiarioPalentino_19530130_04571",
+        "claims": [
+          "30 Jan 1953: review of the film, premiered in Palencia 25 January 1953, calls Vilar's performance among the best, says he expresses the passage 'de Judas a Cristo' with delicacy and truth, with expiation; notes the Passion is acted by villagers of the Patronato La Passió of Esparraguera under Iquino's direction; concludes it moves and is recommended to every class of public",
+          "Listings: 'El Judas (2)'; paper explains the numbers as the classification of the Oficina Nacional Permanente de Vigilancia de Espectáculos under the Episcopal Commission for Orthodoxy and Morality (1 = all incl. children, 2 = young people, 3 = adults, 3R = adults with reservations, 4 = gravely dangerous, 5 = unclassified; issued by the Oficina Nacional Permanente de Vigilancia de Espectáculos under the Episcopal Commission for Orthodoxy and Morality)"
+        ],
+        "accessed": "2026-10-12",
+        "licensing": "Reference link only; no artwork permission implied."
       }
     ],
     "reviewed": "2026-10-11",
@@ -26944,7 +27034,7 @@
     ],
     "historicalPeriod": "20th century",
     "status": "GREY",
-    "decision": "GREY: Identity is established by the contemporary trade advertisement and news item in Cine – Revista Mensal (October 1928) and the Cinemateca Portuguesa's 2017 Fátima cycle as reported by Diário de Notícias. Content is known only in outline (Time Out Lisboa): an impoverished noblewoman serving incognito in Lisbon goes on pilgrimage to Fátima to obtain the cure of a paralysed girl, with footage of the 1927 pilgrimage. Time Out calls it melodrama, devotion and propaganda. No independent assessment of its treatment; survival in full not confirmed.",
+    "decision": "GREY: Identity is established by the contemporary trade advertisement and news item in Cine – Revista Mensal (October 1928) and the Cinemateca Portuguesa's 2017 Fátima cycle as reported by Diário de Notícias. Content is known only in outline (Time Out Lisboa): an impoverished noblewoman serving incognito in Lisbon goes on pilgrimage to Fátima to obtain the cure of a paralysed girl, with footage of the 1927 pilgrimage. Time Out calls it melodrama, devotion and propaganda. No independent assessment of its treatment; survival in full not confirmed. Diário de Lisboa (16 May 1928) carried a full review by Alberto Armando Pereira that judges it as an over-long 'super-production', would be acceptable cut to five or six parts, and notes some good views of the Cova da Iria; it says nothing about how the cure or Our Lady is presented. A craft review does not settle the question.",
     "summary": "The first fiction feature about Fátima: Rino Lupo's melodrama of a ruined noblewoman's pilgrimage for a paralysed girl's cure, built round footage of the 1927 pilgrimage.",
     "synopsis": "Maria Helena, a noblewoman from an impoverished provincial family, takes work as a servant in the house of a Lisbon aristocrat without revealing who she is. The butler's young daughter is paralysed. Maria Helena first asks Our Lady of Lourdes for help, but the girl does not recover. She then goes on pilgrimage to Fátima, joining the crowds that travel to the Cova da Iria, and the girl is cured.",
     "inclusion": "Fátima Milagrosa is the oldest fiction feature about Fátima, made only eleven years after the apparitions and two years before the bishop of Leiria declared them worthy of belief. Rino Lupo, an Italian who had founded an acting school in Porto, brought the realist method of his Mulheres da Beira and Os Lobos to a popular melodrama, and he worked in footage of the 1927 pilgrimage, the oldest known film of the subject. Manoel de Oliveira made his screen debut in a small part. It was a provincial hit: in October 1928 the magazine Cine reported bookings across the country until the end of the year. Time Out Lisboa sums it up as melodrama, devotion and propaganda.",
@@ -27013,6 +27103,26 @@
         "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Fátima",
         "accessed": "2026-10-12",
         "claims": "Declaration of Bishop Correia da Silva, 13 October 1930; Pius XII's consecration (1942), coronation (1946) and basilica (1954); beatification and canonisation of Francisco and Jacinta."
+      },
+      {
+        "title": "Diário de Lisboa, 16 May 1928: A. Armando Pereira, review of 'Fátima Milagrosa'",
+        "publisher": "Diário de Lisboa (Internet Archive)",
+        "url": "https://archive.org/details/cc_dl_05745.009.02542",
+        "claims": [
+          "16 May 1928: review says the idea and effort are considerable but the film is excessive in length and prologues for a modest production, that Rino Lupo is solely responsible as director and author of the story, and that cut to five or six parts it would be a very acceptable Portuguese production; mentions the car journey to Fátima and some shots of the Cova da Iria as successful"
+        ],
+        "accessed": "2026-10-12",
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Diário de Lisboa, 7 May 1928: premiere notice at the Politeama",
+        "publisher": "Diário de Lisboa (Internet Archive)",
+        "url": "https://archive.org/details/cc_dl_05745.009.02534",
+        "claims": [
+          "7 May 1928: film opens at the Politeama; has a prologue and 12 parts, directed by Rino Lupo with Portuguese actors"
+        ],
+        "accessed": "2026-10-12",
+        "licensing": "Reference link only; no artwork permission implied."
       }
     ],
     "reviewed": "2026-10-11",
@@ -32873,7 +32983,7 @@
     ],
     "historicalPeriod": "Middle Ages",
     "status": "GREY",
-    "decision": "GREY: Catholic-centred: a life of St Elizabeth of Portugal, the Aragonese princess who became Queen of Portugal, canonised in 1625, made by Rafael Gil in a Spanish-Portuguese co-production. Identity is established by the Spanish and English encyclopaedia entries; the Spanish entry records good reviews and commercial success. But the sources give only an outline, centred on the queen's troubled marriage to King Dinis and a court intrigue, and no contemporary review describing its religious content, nor any Catholic rating, was found. Unverified until the content is checked.",
+    "decision": "GREY: Catholic-centred: a life of St Elizabeth of Portugal, the Aragonese princess who became Queen of Portugal, canonised in 1625, made by Rafael Gil in a Spanish-Portuguese co-production. Identity is established by the Spanish and English encyclopaedia entries; the Spanish entry records good reviews and commercial success. But the sources give only an outline, centred on the queen's troubled marriage to King Dinis and a court intrigue, and no contemporary review describing its religious content, nor any Catholic rating, was found. Unverified until the content is checked. El Diario Palentino (28 February 1953) lists the film with the Church film office classification 3 (adults) and calls it a 'magnífica producción nacional' only in a theatre notice; a 1961 listing shows it unclassified (5). No review of how it treats St Elizabeth's faith turned up. Rating alone is supporting evidence only.",
     "summary": "Rafael Gil's Spanish-Portuguese costume picture about St Elizabeth of Portugal, patient wife of an unfaithful king and peacemaker of her kingdom, with Maruchi Fresno.",
     "synopsis": "Elizabeth, daughter of the King of Aragon, is married as a girl to King Dinis of Portugal. At the Portuguese court she meets coldness and intrigue, led by the ambitious Nuño de Lara, and she bears with patience the infidelities of her husband, while devoting herself to prayer and to the poor. The film follows her through the troubles of her marriage and of the kingdom, in which she works to make peace within the royal family. Whether it includes the miracle of the roses, her intervention between her husband and their rebellious son Afonso, or her last years as a Poor Clare tertiary at Coimbra is not known.",
     "inclusion": "Reina santa was one of the prestige productions of Spanish cinema in 1947, made by Rafael Gil, who released La fe the same year, for Cesáreo González's Suevia Films, in co-production with Portugal and in separate Spanish and Portuguese versions. Maruchi Fresno played the queen, with the Portuguese star António Vilar as King Dinis, Luis Peña as Nuño de Lara and the young Fernando Rey. The Spanish encyclopaedia entry, citing Diego Galán, records good reviews and strong takings. Few films have taken up its subject, a married saint who was also a queen and a peacemaker.",
@@ -32914,6 +33024,26 @@
         "url": "https://www.newadvent.org/cathen/05391a.htm",
         "accessed": "2026-10-12",
         "claims": "Birth 1271, war of 1323, Diniz d. 1325, Poor Clares at Coimbra, death 1336, canonisation by Urban VIII 1625"
+      },
+      {
+        "title": "El Diario Palentino, 28 February 1953: cinema notice and 'Calificación moral' listing",
+        "publisher": "El Diario Palentino (Internet Archive)",
+        "url": "https://archive.org/details/ElDiarioPalentino_19530228_04596",
+        "claims": [
+          "28 Feb 1953: 'Reina santa (3)' (3 = adults) under the classification of the Oficina Nacional Permanente de Vigilancia de Espectáculos; theatre notice (promotional) for its showing at Cine Proyecciones"
+        ],
+        "accessed": "2026-10-12",
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "El Diario Palentino, 11 March 1961: cinema listing",
+        "publisher": "El Diario Palentino (Internet Archive)",
+        "url": "https://archive.org/details/ElDiarioPalentino_19610311_06188_tarde",
+        "claims": [
+          "11 Mar 1961: 'Reina Santa (5)' (5 = unclassified) at Cine Proyecciones"
+        ],
+        "accessed": "2026-10-12",
+        "licensing": "Reference link only; no artwork permission implied."
       }
     ],
     "reviewed": "2026-10-11",
@@ -33157,7 +33287,7 @@
     ],
     "historicalPeriod": "17th century",
     "status": "GREY",
-    "decision": "GREY: Identity is established (UC3M Cine de movilidad catalogue; Decine21 credits), and the subject, canonised in 1671, raises no hard rule. The only treatment source is Decine21, a present-day Catholic-oriented Spanish site, which cannot make it PUBLISH. A 1962–63 Spanish review or Catholic classification (Hemeroteca Digital BNE, ABC hemeroteca) would settle it.",
+    "decision": "GREY: Identity is established (UC3M Cine de movilidad catalogue; Decine21 credits), and the subject, canonised in 1671, raises no hard rule. The only treatment source is Decine21, a present-day Catholic-oriented Spanish site, which cannot make it PUBLISH. A 1962–63 Spanish review or Catholic classification (Hemeroteca Digital BNE, ABC hemeroteca) would settle it. El Diario Palentino (11 February 1964) gives the Church classification 2 (young people) and a short review that grants 'loable intención' but says the film is only a series of facile, conventional tableaux from the saint's miraculous life; it is a craft judgment and says little about the treatment of Rose's sanctity. A rating plus a craft-only review does not settle the question.",
     "summary": "José María Elorrieta's modest Spanish biography of St Rose of Lima, with María Mahor as the girl who refuses marriage to give her life to God and the poor.",
     "synopsis": "The film opens with the arrival in Peru of a Spanish arquebusier in the service of Philip III, and follows the life of his daughter Isabel, called Rosa, born in Lima in the late sixteenth century to him and María de Oliva. Her parents intend her for marriage, but Rosa has privately vowed her virginity to God. She refuses the match and gives herself instead to prayer and to the care of the poor and sick of the city, against the wishes of her family. The film follows her to her early death in Lima in 1617, at about thirty-one, after which the city took her as its patron.",
     "inclusion": "Few films have been made about St Rose, and this is the main screen biography of the saint. It was a Spanish production made for the Spanish-speaking world, with a script credited to Juan Antonio Verdugo, Elorrieta, Manuel Sebares and César González Ruano, and it made María Mahor's name. Decine21, a Spanish site that reviews films from a Catholic standpoint, gives it 4 out of 10 and calls the production humble but dignified. It suits viewers who want a straightforward, devotional life of a saint little known outside Latin America, and who can accept the conventions of a low-budget Spanish religious film of its time.",
@@ -33209,6 +33339,17 @@
         "url": "https://flicklist.tv/movies/rosa-de-lima-1961",
         "accessed": "2026-10-12",
         "claims": "Full cast with roles; screenplay Manuel Sebares and Juan Antonio Verdugo; photography Alfonso Nieva; 1h38m; production manager Victoriano García Giraldo"
+      },
+      {
+        "title": "El Diario Palentino, 11 February 1964 (evening edition): review 'Rosa de Lima', Cine Ortega, and 'Calificación moral' listing",
+        "publisher": "El Diario Palentino (Internet Archive)",
+        "url": "https://archive.org/details/ElDiarioPalentino_19640211_07081_tarde",
+        "claims": [
+          "11 Feb 1964: review (signed Doña Muñoz) says Elorrieta made it 'con loable intención' from 'pasajes de la milagrosa vida de Santa Rosa de Lima' but results are facile, conventional images; praises María Mahor's performance",
+          "Listings: 'Rosa de Lima (2)' under the Oficina Nacional Permanente classification (2 = young people), and 'Autorizadas para todos públicos'"
+        ],
+        "accessed": "2026-10-12",
+        "licensing": "Reference link only; no artwork permission implied."
       }
     ],
     "reviewed": "2026-10-11",
@@ -33969,8 +34110,8 @@
       "conversion"
     ],
     "historicalPeriod": "20th century",
-    "status": "GREY",
-    "decision": "GREY: Catholic-centred (a singer's vocation, convent hospital work and death on the missions). Identity is established (Wikipedia, Cervantes Virtual Rabal archive) and the plot by an independent Spanish review (DQVlapeli, which judges it one of the weakest of Gil's religious films) and decine21 (present-day, content only). No contemporary Catholic rating or substantive independent assessment of its religious treatment was found; the 'clandestine recordings' episode raises an unanswered question about obedience. A 1952 Spanish Catholic rating or review would settle it.",
+    "status": "PUBLISH",
+    "decision": "PUBLISH: El Diario Palentino (13 March 1953) reviewed it as an exemplary Catholic film, 'sin gazmoñería ni sermoneo', for all audiences, praising the Communion shot taken from inside the tabernacle and describing the nun as combining prayer with action in God's service; the same paper's listings carry the Church moral classification '2' and the heading 'Cine católico'. The reviewer sees no disobedience problem; the nun's initiative is read as zeal. Earlier ruling: Catholic-centred (a singer's vocation, convent hospital work and death on the missions). Identity is established (Wikipedia, Cervantes Virtual Rabal archive) and the plot by an independent Spanish review (DQVlapeli, which judges it one of the weakest of Gil's religious films) and decine21 (present-day, content only). No contemporary Catholic rating or substantive independent assessment of its religious treatment was found; the 'clandestine recordings' episode raises an unanswered question about obedience. A 1952 Spanish Catholic rating or review would settle it.",
     "summary": "Rafael Gil's comedy-drama of a famous singer who becomes a nursing sister, cheerfully bends convent ways to save its hospital, and gives her life on the missions in India.",
     "synopsis": "Soledad, a celebrated singer, astonishes her family, the press and the public by giving up her career to enter a convent, where she becomes Sor María de la Asunción. She works in the order's hospital, whose finances are failing, and her unconventional, high-spirited methods at first disconcert her superiors. She brings about a conversion and wins half a million pesetas from a television impresario in exchange for recordings of her voice, which save the hospital. Her goal is a leper settlement in India. There, a local couple are expecting a child; bandits threaten their lives, and Sor María gives her own life so that the newborn can be baptised.",
     "inclusion": "It belongs to the cycle of religious films Rafael Gil made with the writer Vicente Escrivá for their company Aspa, alongside La señora de Fátima, La guerra de Dios and Judas' Kiss. The French actress Dominique Blanchar plays the singer-nun. It received the state's National Interest classification and the first prize of the Sindicato Nacional del Espectáculo. The DQVlapeli reviewer admires Gil's handling of the early comic and pathetic scenes, a false Christmas and the cure of a crippled boy in a wheatfield among them, but finds the Indian third act rushed, under-financed and poorly motivated. Decine21 praises its restraint, Alfredo Fraile's photography and Blanchar.",
@@ -34030,13 +34171,31 @@
         "url": "https://www.newadvent.org/cathen/02258b.htm",
         "accessed": "2026-10-12",
         "claims": "Necessity of baptism, Trent Session 7 canon 5, lay baptism in necessity per Florence, form of baptism"
+      },
+      {
+        "title": "El Diario Palentino, 13 March 1953 (afternoon edition), film review 'Sor Intrépida' signed R. de G. Ortega, with 'Calificación moral' listing",
+        "publisher": "El Diario Palentino (Palencia daily; digitised on Internet Archive)",
+        "url": "https://archive.org/details/ElDiarioPalentino_19530313_04608",
+        "accessed": "2026-10-12",
+        "claims": [
+          "13 March 1953 issue, review: praises Aspa Films for creating a 'Cine católico', calls Sor Intrépida 'ejemplar' and made 'con plena dignidad'; calls the nun a Spanish religious who alternates prayer and piety with action in God's service, and who renounced a worldly life out of obedience to a deep vocation",
+          "Same review: praises a Communion shot taken from inside the tabernacle; concludes the film is Catholic 'sin gazmoñería ni sermoneo pero con humanidad' and 'película para todos'",
+          "Same issue listings: 'Calificación moral: Sor Intrépida (2)'"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "El Diario Palentino, 12 March 1953, cinema listing 'Cine católico: Sor Intrépida'",
+        "publisher": "El Diario Palentino (digitised on Internet Archive)",
+        "url": "https://archive.org/details/ElDiarioPalentino_19530312_04606_tarde",
+        "accessed": "2026-10-12",
+        "claims": [
+          "12 March 1953 issue: theatre notice describes the film as 'Cine católico' held over for a second week at the Gran Teatro Ortega"
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
       }
     ],
     "reviewed": "2026-10-11",
-    "grey": {
-      "kind": "unverified",
-      "question": "Sor Intrépida is a popular Spanish vocation story that ends with a nun giving her life on the missions so that a child can be baptised. Its outline is clear, but no critic or contemporary Catholic body has assessed its picture of religious life. One episode needs checking: she saves the order's hospital with recordings made in secret, and her superiors are at first disconcerted by her ways. Whether the film treats this as disobedience rewarded or as permitted initiative is not yet known."
-    },
     "cast": [
       {
         "name": "Dominique Blanchar",
@@ -34090,7 +34249,8 @@
     },
     "doctrine": "The climax turns on baptism, which the Church teaches is necessary for salvation. Trent, Session 7, canon 5, anathematises anyone who denies it, and the Catholic Encyclopedia reads John 3 as admitting no exception for infants. In danger of death anyone may baptise, as the Council of Florence's Decree for the Armenians allows, 'not only a priest or deacon, but even a layman or woman', using water and the form 'I baptize thee in the name of the Father and of the Son and of the Holy Ghost' with the intention of doing what the Church does. Sor María's death for the sake of a child's baptism also fits the Church's teaching on martyrdom, though the film does not present her as a martyr in the strict sense.",
     "production": "Sor intrépida was made in 1952 by Aspa Producciones Cinematográficas. Mercurio Films distributed it, and it opened in Spain on 10 November 1952 at about 85 minutes. It was known abroad as The Song of Sister Maria or Path to the Kingdom.",
-    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
+    "grey": null
   },
   {
     "id": "st-patrick-the-irish-legend",
@@ -38331,8 +38491,8 @@
       "priesthood"
     ],
     "historicalPeriod": "20th century",
-    "status": "GREY",
-    "decision": "GREY: Identity is secure (French visa 16734; Wikipedia citing Crisp's critical filmography; cinefiches). Content is known only in outline: a young priest's disillusion at a West African mission, from a script credited to a priest, Father Bernier (an interested source). No contemporary review or Catholic rating has been opened. Unverified; a Radio-Cinéma or Centrale Catholique notice, or the Credic study in Mission et Cinéma, would settle it.",
+    "status": "PUBLISH",
+    "decision": "PUBLISH: A Catholic press-agency item in La Survivance (Edmonton, 31 October 1956) on the Canadian premiere under Cardinal Léger describes the plot (a worn-out missionary tempted to bury himself in a convent is sent back to his work by his superior general, who recognises Satan's temptation) and calls the ideal it proposes 'plus estimé après la vue d'un si grand film'. It was conceived and scripted by Spiritan priests, so the praise is not fully independent, but it shows a sound, favourable Catholic reading. Earlier ruling: Identity is secure (French visa 16734; Wikipedia citing Crisp's critical filmography; cinefiches). Content is known only in outline: a young priest's disillusion at a West African mission, from a script credited to a priest, Father Bernier (an interested source). No contemporary review or Catholic rating has been opened. Unverified; a Radio-Cinéma or Centrale Catholique notice, or the Credic study in Mission et Cinéma, would settle it.",
     "summary": "Maurice Cloche's colour drama, written with a missionary priest and shot in West Africa, follows a young missionary whose dreams of heroism give way to hard daily work.",
     "synopsis": "Père Jean Maurel (Yves Massard), a young priest, arrives at a mission in French Guinea expecting a heroic destiny. He finds routine instead: thankless daily work, slow results and the difficulty of building a relationship with the people he has come to serve. He works under an older missionary, Père Gauthier, played by Charles Vanel, alongside a lay brother, Brother Timothée (Albert Préjean), and another priest, Père Duval (Jacques Berthier). The film follows his disillusion and his effort to understand the place; how it ends is not recorded.",
     "inclusion": "Cloche made Monsieur Vincent (1947) and, in Aristide Leucate's phrase, was saddled with an absurd reputation as the official Catholic director. Politique Magazine cites this among the films that earned it. A priest is credited with part of the screenplay, so the film comes from inside the missionary world. Unusually for a mission film, it is about a young priest's disappointment at how small and slow the work is, not martyrdom or adventure. Claude Renoir's colour location photography is a draw, and Vanel and Préjean head a strong supporting cast. A commenter on the French reference site cinefiches calls it a beautiful film for a religious audience, now hard to find.",
@@ -38392,13 +38552,20 @@
         "url": "https://www.newadvent.org/library/docs_pi12ep.htm",
         "accessed": "2026-10-12",
         "claims": "Missionary as lover of the adopted country; aim of a native hierarchy; respect for good native customs; no need to transplant European civilisation"
+      },
+      {
+        "title": "La Survivance (Edmonton), 31 October 1956: 'La première canadienne de Au service de l'amour' (CCC news item on Un missionnaire)",
+        "publisher": "La Survivance (Franco-Albertan Catholic weekly; Internet Archive)",
+        "url": "https://archive.org/details/LSV_1956103101",
+        "claims": [
+          "31 Oct 1956: premiere at the Université de Montréal on 3 October under Cardinal Léger; film arose from the Spiritan Fathers (Congrégation du Saint-Esprit; interested source) and was scripted by Fr Bernier, with Maurice Cloche directing and Charles Vanel in the lead",
+          "Plot as given: a zealous missionary suffers in Africa, falls ill, returns to France and wants to bury himself in a convent; his superior general discerns Satan's temptation and returns him to his vocation; the item says the film's idea is that the missionary does not go to exploit Africans but answers a call, that God must act through him, and that the ideal is 'plus estimé' after seeing 'un si grand film'"
+        ],
+        "accessed": "2026-10-12",
+        "licensing": "Reference link only; no artwork permission implied."
       }
     ],
     "reviewed": "2026-10-11",
-    "grey": {
-      "kind": "unverified",
-      "question": "Maurice Cloche's film follows a young priest whose hopes of heroism at a West African mission give way to hard, unglamorous work. The outline comes from French film references and a script credited to a missionary priest. No independent review exists, so how it treats the mission, the sacraments and the African people is unknown. A period notice from the French Catholic film office or Radio-Cinéma would settle it."
-    },
     "cast": [
       {
         "name": "Yves Massard",
@@ -38459,7 +38626,8 @@
     "doctrine": "The Church's missions rest on Christ's command to teach all nations. Pius XII's encyclical Evangelii Praecones (2 June 1951) was written a few years before the film. It tells missionaries to regard the country they evangelise as a second fatherland and to seek the salvation of souls, not earthly advantage. It asks them to prepare by learning the language and useful subjects, and it names the aim as a Church established on firm foundations under its own native hierarchy. It adds that the Gospel should not destroy what a people possesses that is naturally good, and that missionaries are not required to transplant European civilisation. A 1955 film about a young priest's first years in Africa can fairly be measured against these standards.",
     "production": "Maurice Cloche's company Les Films Maurice Cloche made it with UGC, Cloche producing with André Halley des Fontaines. Cinefiches credits the screenplay partly to a missionary priest, 'Révérend Père Bernier'. It was shot on location in Guinea and Cameroon in Eastmancolor. It was released in France on 2 December 1955 and runs 98 minutes (some listings give 102).",
     "alternateTitles": [],
-    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
+    "grey": null
   },
   {
     "id": "un-traje-blanco-1956",
@@ -38490,8 +38658,8 @@
       "families"
     ],
     "historicalPeriod": "20th century",
-    "status": "GREY",
-    "decision": "GREY: Identity (Wikipedia citing Bentley and Carlos Aguilar's Guía del cine español; CEC medal) and plot (Santiago Aguilar's account; Decine21) are established. No contemporary Catholic rating or detailed assessment of the treatment of the First Communion has been found. Unverified.",
+    "status": "PUBLISH",
+    "decision": "PUBLISH: El Bien Publico, the Catholic daily of Montevideo, reviewed the film on 25 September 1957 in a film column that gave moral ratings. The critic (M. A. Q.) calls it a 'simpatico, limpio' film for all audiences, praises Rafael Gil's restraint and says that restraint keeps it from Latin-American melodrama; his one criticism is a script that piles fatalism on a sentimental anecdote, ending in the boy's amputation. He treats the First Communion as the real subject and does not see the suit as replacing the sacrament. Earlier ruling: Identity (Wikipedia citing Bentley and Carlos Aguilar's Guía del cine español; CEC medal) and plot (Santiago Aguilar's account; Decine21) are established. No contemporary Catholic rating or detailed assessment of the treatment of the First Communion has been found. Unverified.",
     "summary": "Rafael Gil's melodrama of a poor Castilian boy who will not make his First Communion without the white suit his dying mother promised him.",
     "synopsis": "In a village in Castile, Polonio tries on the white suit he will wear for his First Communion, and his poor friend Marcos looks on with envy. Marcos's mother promised him such a suit as she was dying, and he will not make his Communion without one. His campaign to get it takes him down a crooked road: he lies to his father, betrays his schoolmaster's trust, runs away to Madrid and even wishes for the death of the richest woman in the village. Betrayed by his brother, he takes clandestine work on the slag heap of a foundry and loses an arm in an accident. Only then does the press take up his story, and public sympathy gets him his suit.",
     "inclusion": "Rafael Gil and the producer-writer Vicente Escrivá were the leading makers of Catholic films in 1950s Spain, and this co-production with Italy's Lux Film is typical of their work: a child, a sacrament and a good deal of pathos. Cecilio Paniagua's black-and-white photography won the Círculo de Escritores Cinematográficos medal, and the Basque composer Jesús Guridi wrote the score. Decine21, a present-day Spanish review site, gives it 4/10 and calls it a social drama with a child's sensibility. Santiago Aguilar's retelling suggests the climax is staged as a spectacle of public compassion. It is little seen today.",
@@ -38551,13 +38719,32 @@
         "url": "https://www.newadvent.org/cathen/12590b.htm",
         "accessed": "2026-10-12",
         "claims": "Pius X decree of 8 August 1910 on the age and dispositions for First Communion"
+      },
+      {
+        "title": "El Bien Publico (Montevideo), no. 24189, 25 September 1957: film column 'Opinan nuestros Criticos de Cine', review of 'Un traje blanco' (signed M. A. Q.)",
+        "publisher": "El Bien Publico (Catholic daily, Montevideo); digitised on the Internet Archive",
+        "url": "https://archive.org/details/ElBienPublico_24189-1957-09-25",
+        "accessed": "2026-10-12",
+        "claims": [
+          "25 Sep 1957: headed 'simpatico film espanol'; the column gives a 'Calificacion moral' (OCR reads 1A / 'Admisible para todo publico') and ends 'un film simpatico, limpio, para todo publico'.",
+          "25 Sep 1957: the first Communion in a white suit is the film's base; the critic remarks that the state's anticlerical education council withheld school tickets because of that subject.",
+          "25 Sep 1957: praises Gil's sober direction and Miguelito Gil's natural performance; the weak point is the script, which adds 'cierto fatalismo' ending in the amputation of the boy's arm and the brother gambling away the suit money.",
+          "Same page discusses the new papal encyclical on cinema, radio and television in relation to Vigilanti cura, showing the paper's Catholic frame."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Diario La Nacion (Santiago de Chile), 13 November 1957: cinema listing for 'Un traje blanco'",
+        "publisher": "Diario La Nacion (Chile); digitised on the Internet Archive",
+        "url": "https://archive.org/details/DiarioLaNacionSantiago_19571113",
+        "accessed": "2026-10-12",
+        "claims": [
+          "13 Nov 1957: listing calls it a simple, human, direct story with a Spanish national prize of 1956 and tears that come from a poem of childhood; supporting only (secular daily)."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
       }
     ],
     "reviewed": "2026-10-11",
-    "grey": {
-      "kind": "unverified",
-      "question": "A poor village boy refuses to make his First Communion without the white suit his dying mother promised him, and lies, betrays trust and finally loses an arm in a foundry before public sympathy gets him the suit. The film comes from Spain's leading Catholic film team and is plainly Catholic in intention. No independent review exists, so it is unknown whether it treats the boy's fixation as vanity corrected by grace or makes the suit the reward instead of the sacrament."
-    },
     "cast": [
       {
         "name": "Miguel Gil",
@@ -38617,7 +38804,8 @@
     },
     "doctrine": "The decree Quam singulari (8 August 1910) of Pius X's Sacred Congregation of the Sacraments set no fixed age for First Communion: the child is to be admitted when he reaches the use of reason and can tell right from wrong, with seven mentioned as the usual age. The child needs only a basic grasp of God as rewarder and punisher, the Trinity and the Incarnation, and must know that the Eucharistic bread differs from common bread and is the Body and Blood of Christ. He must fast from midnight. Admission rests with the father (or his substitute) and the confessor together. The decree's requirements concern age, instruction and the fast; the white suit is a custom, and the sacrament does not depend on it.",
     "production": "Rafael Gil directed it for Aspa Producciones Cinematográficas, with Lux Film of Italy as co-producer. It runs 93 minutes and was released in Spain on 26 November 1956, distributed by As Films. In Italy it was released as Il grande giorno and in English as Miracle of the White Suit.",
-    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
+    "grey": null
   },
   {
     "id": "antonio-di-padova-1931",
@@ -39037,13 +39225,13 @@
       "religious-life"
     ],
     "historicalPeriod": "20th century",
-    "status": "GREY",
-    "decision": "GREY: Catholic-centred (a Franciscan friar leads a boys' choir on pilgrimage to Compostela for the Holy Year). Identity: Wikipedia (citing Castro de Paz and Cerdán) and Decine21 credits; content and an independent, sceptical reading from the Dqvlapeli review. A scholarly article, 'El pórtico de la Gloria: catequesis, melodrama y propaganda' (Biblioteca Virtual Miguel de Cervantes), returned 403 and was not read; it is the next source. Unverified.",
+    "status": "PUBLISH",
+    "decision": "PUBLISH: El Bien Publico, the Catholic daily of Montevideo, classified the film 1A (all audiences) in its weekly list of 14 March 1954 and named it the 'pelicula recomendable de la semana'. A review in the Rosario daily Democracia (13 April 1954) says the film, produced for Mojica's return to the screen as a Franciscan, offers 'un ejemplo de fe y de paz', praises his sober playing and the Mexican boys' choir, and calls Salvia's direction correct. Together these show a sound, devotional film with no objection on faith or morals; the Republican-side mother's story is not discussed. Earlier ruling: Catholic-centred (a Franciscan friar leads a boys' choir on pilgrimage to Compostela for the Holy Year). Identity: Wikipedia (citing Castro de Paz and Cerdán) and Decine21 credits; content and an independent, sceptical reading from the Dqvlapeli review. A scholarly article, 'El pórtico de la Gloria: catequesis, melodrama y propaganda' (Biblioteca Virtual Miguel de Cervantes), returned 403 and was not read; it is the next source. Unverified.",
     "summary": "José Mojica, the Mexican singing star turned Franciscan, plays a friar who brings a boys' choir to Compostela for the Holy Year and reunites a mother with her lost son.",
     "synopsis": "Padre José (José Mojica), a Mexican Franciscan, travels to Spain with the Orfeón Infantil Mexicano, a boys' choir, for the Holy Year at Santiago de Compostela. The choir's success brings engagements across the country, and the middle of the film follows the tour from city to city. On the way the friar and the boys meet a wealthy, elegant woman with a troubled past (Lina Rosales), who takes them under her protection. She is an unbeliever from the side defeated in the Civil War, and she lost a son who was carried into exile in Mexico. The friar's care for the people around him draws the threads together, and at the end, at the altar of the Apostle in the cathedral, as the bells ring, mother and son recognise each other.",
     "inclusion": "José Mojica was a Mexican tenor and Hollywood musical star of the 1930s who became a Franciscan after his mother's death, and here he plays a friar much like himself; he also wrote the story. Suevia Films, Cesáreo González's company, made the film to catch the Compostela Holy Year, and the Dqvlapeli review credits González with business shrewdness in seizing the moment. The same review is sceptical. It finds the coincidences arranged so that nothing is left to chance, the central section a travelogue of Spanish cities, the Civil War approached on tiptoe while a montage celebrates the 1939 victory, and the whole in service of the National-Catholic message of the year of the Concordat. Its interest lies in Mojica himself, the boys' choir and its singing, and the pilgrimage to St James, which few fiction films have taken as a subject.",
     "themes": "Pilgrimage gives the film its shape. A friar leads children to the tomb of the Apostle for the Holy Year, and the journey ends at St James's altar. Along the way Padre José catechises the people he meets, and the climax reunites an unbelieving mother from the defeated side with her son, a reunion placed at the altar as if granted by the saint. Whether the recognition is also a return to the faith, and how the friar's preaching is handled, is unclear. The political framing sits alongside the religious one throughout.",
-    "advisories": "Nothing objectionable is reported. Suitable for all ages.\n\nThe Civil War and a montage celebrating the Nationalist victory form part of the background.\n\nHow the film treats the mother's unbelief and the friar's catechesis is unverified.",
+    "advisories": "Nothing objectionable is reported. Suitable for all ages.\n\nThe Civil War and a montage celebrating the Nationalist victory form part of the background.",
     "sources": [
       {
         "title": "The Portico of Glory",
@@ -39080,13 +39268,41 @@
           "All content categories scored 0"
         ],
         "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "El Bien Publico (Montevideo), no. 23364, 13/14 March 1954: weekly film classification list",
+        "publisher": "El Bien Publico (Catholic daily, Montevideo); digitised on the Internet Archive",
+        "url": "https://archive.org/details/ElBienPublico_23364-1954-03-13",
+        "accessed": "2026-10-12",
+        "claims": [
+          "14 Mar 1954 list: 'En el Portico de la Gloria' (Spanish) classed 1A, 'Admisible para todo publico'.",
+          "Same list: named 'Pelicula recomendable de la semana', 1A."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Diario Democracia (Rosario, Argentina), 13 April 1954: review 'Hay musica de calidad y buen cantar en el film El Portico de la Gloria'",
+        "publisher": "Diario Democracia; digitised on the Internet Archive",
+        "url": "https://archive.org/details/DiarioDemocraciaRosario19540413",
+        "accessed": "2026-10-12",
+        "claims": [
+          "13 Apr 1954: Suevia Films-Cesareo Gonzalez chose this story for the return to the screen of the Franciscan Fray Jose Mojica; the 'condiciones morales' of the subject allowed him sober, well-judged work.",
+          "13 Apr 1954: describes the story as a model of faith and peace; praises the Mexican children's choir as singers and actors; direction by Rafael J. Salvia is correct. Secular daily."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "El Diario Palentino, 12 November 1954: cinema listing with 'Calificacion moral'",
+        "publisher": "El Diario Palentino; digitised on the Internet Archive",
+        "url": "https://archive.org/details/ElDiarioPalentino_19541112_05415_tarde",
+        "accessed": "2026-10-12",
+        "claims": [
+          "12 Nov 1954: 'El Portico de la Gloria' listed with moral classification (1); supporting only."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
       }
     ],
     "reviewed": "2026-10-11",
-    "grey": {
-      "kind": "unverified",
-      "question": "José Mojica, the singing star who became a Franciscan, plays a friar who leads a Mexican boys' choir to Compostela for the Holy Year, and the film ends with an unbelieving mother from the defeated Republican side recognising her lost son at the Apostle's altar. The one Spanish review is mainly concerned with the film's politics, and nothing says how it presents the friar's catechesis and the mother's unbelief. A period review or the film would settle it."
-    },
     "cast": [
       {
         "name": "José Mojica",
@@ -39136,7 +39352,8 @@
     },
     "production": "Rafael J. Salvia directed, and Suevia Films produced and distributed it. Wikipedia credits the screenplay to José Mojica and Salvia; Decine21 credits Salvia with the screenplay and Mojica with the story. The choir appears as the Orfeón Infantil Mejicano. Wikipedia gives a release date of 26 October 1953 and a running time of 92 minutes.",
     "alternateTitles": [],
-    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits."
+    "imageRights": "Poster or release-cover artwork; individual source and editorial-use assessment in image credits.",
+    "grey": null
   },
   {
     "id": "el-proceso-de-cristo-1966",
@@ -40285,7 +40502,7 @@
     ],
     "historicalPeriod": "19th century",
     "status": "GREY",
-    "decision": "GREY: Identity is established (Wikipedia's list of French films of 1929; TheTVDB with full cast, ISIS Films, 96 minutes, release 25 October 1929; The Irish Catholic's survey). Content is known only in outline: a reconstruction of Bernadette's life and the apparitions, with an actress as the Virgin and a paralysed child in the cast. No review found; survival uncertain (a 1929 French Bernadette documentary with a surviving 16mm print is listed by Silent Era, possibly the same film). Settled by a review, archive record or viewing.",
+    "decision": "GREY: Identity is established (Wikipedia's list of French films of 1929; TheTVDB with full cast, ISIS Films, 96 minutes, release 25 October 1929; The Irish Catholic's survey). Content is known only in outline: a reconstruction of Bernadette's life and the apparitions, with an actress as the Virgin and a paralysed child in the cast. No review found; survival uncertain (a 1929 French Bernadette documentary with a surviving 16mm print is listed by Silent Era, possibly the same film). Settled by a review, archive record or viewing. A Polish Catholic periodical (Nasz Przyjaciel, 1931, no. 14) describes the film and praises it as one of the French religious films that does that cinema credit: scenario by G. Moriaud, a story of a paralysed child cured at Lourdes wrapped around the apparitions to Bernadette, her life and holy death, and present-day Lourdes, played by Comedie-Francaise actors under Georges Pallu. A Pathe-Baby advertisement of 1935 adds that the film was made with an abbe's collaboration. The Catholic notice is brief and partly promotional (it announces a Catholic film lending library), so the editor may wish to weigh it.",
     "grey": {
       "kind": "unverified",
       "question": "Georges Pallu's 1929 life of Bernadette is securely identified, with its cast and a 96-minute running time, but its treatment is unknown. Listings describe it only as a reconstruction of her life and the eighteen apparitions; one classes it as a documentary, others as a drama, and no independent review exists. It is also unclear whether a complete print survives. A contemporary review, a Catholic film-office rating or an archive description of a surviving copy would settle it."
@@ -40363,6 +40580,27 @@
         "url": "https://en.wikipedia.org/wiki/Ineffabilis_Deus",
         "accessed": "2026-10-12",
         "claims": "Dogma promulgated 8 December 1854."
+      },
+      {
+        "title": "Nasz Przyjaciel, 1931, vol. 8, no. 14: notice on the film 'Przedziwny zywot Bernadetty' (La vie merveilleuse de Bernadette)",
+        "publisher": "Nasz Przyjaciel (Polish Catholic periodical); digitised by the Kujawsko-Pomorska Digital Library on the Internet Archive",
+        "url": "https://archive.org/details/kpbc.umk.pl.KM_01046_1931_NP_14_214168",
+        "accessed": "2026-10-12",
+        "claims": [
+          "1931: announces that Rudolf Kappel of Krakow has opened Poland's first lending library of good Catholic films, and holds up French religious films as the leading, carefully made and artistically sensitive examples.",
+          "1931: names this film as one that does French production credit; scenario by G. Moriaud built on a true cure of a paralysed child, joined to the apparitions of Our Lady to Bernadette Soubirous, her life and holy death, and present-day Lourdes; actors of the Comedie-Francaise under Georges Pallu."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "L'Ami du Clerge, 28 November 1935: Pathe-Baby advertisement listing the film among religious titles for parish use",
+        "publisher": "L'Ami du Clerge (French clergy review); digitised on the Internet Archive",
+        "url": "https://archive.org/details/per_esprit-et-vie_lami-du-clerge_1935-11-28_52_48",
+        "accessed": "2026-10-12",
+        "claims": [
+          "28 Nov 1935: advertisement for the Pathe-Baby film library lists 'La Vie merveilleuse de Bernadette Soubirous' beside Christus, made with the collaboration of an abbe; advertiser's claim, an interested source."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
       }
     ],
     "reviewed": "2026-10-11",
@@ -41031,7 +41269,7 @@
     ],
     "historicalPeriod": "Biblical antiquity",
     "status": "GREY",
-    "decision": "GREY: Identity from decine21 (opened; dates it 1961) and a SuperStock poster caption (1961); FilmAffinity and IMDb give 1962 (FilmAffinity page returned 403; its synopsis was read only in search-result text). Catholic-centred (the Passion) and nothing contrary to the faith is reported, but there is no treatment source beyond a one-sentence decine21 note, so it cannot be PUBLISH. What would settle it: a Spanish review of 1961-62, the Filmoteca Española record, or the dialogue.",
+    "decision": "GREY: Identity from decine21 (opened; dates it 1961) and a SuperStock poster caption (1961); FilmAffinity and IMDb give 1962 (FilmAffinity page returned 403; its synopsis was read only in search-result text). Catholic-centred (the Passion) and nothing contrary to the faith is reported, but there is no treatment source beyond a one-sentence decine21 note, so it cannot be PUBLISH. What would settle it: a Spanish review of 1961-62, the Filmoteca Española record, or the dialogue. A festival-time notice in a Spanish provincial daily (El Diario Palentino, 14 July 1961) is favourable and describes the film: it covers the last hours of the Passion, Christ never appears except in a vision granted to the healed man Ruben, and it is staged on a single set with seven characters. A second item (21 April 1961) quotes the director on the film's meaning. Neither is a Catholic review of the Gospel treatment, and a bare Spanish moral-rating number in a 1965 listing is supporting evidence only.",
     "summary": "Manuel Mur Oti's Spanish drama runs parallel to the Passion, following people healed by Christ who plot to free him from the cross, more from fear than from faith.",
     "synopsis": "Jerusalem, the days of the Passion. Ana and Rubén, followers of Christ, gather a group of men and women he has healed, among them a leper and a paralytic. When Jesus is condemned they plan to take him down from the cross. A Spanish database summary says selfishness weighs more than faith with the conspirators: they want him freed because they fear their afflictions will return once he is dead. The film follows the plotters as the day of the Crucifixion approaches. Its title points to a change of heart in these frightened people, but how the story ends, and how the Crucifixion itself is shown, is not described. Ruth Roman plays Ana and Javier Escrivá plays Rubén.",
     "inclusion": "The idea is unusual for a Passion film. The story is told from the side of the people Christ had cured, who are shown as frightened and self-interested. That is a searching reading of discipleship, and it gives a Spanish black-and-white production an interest beyond its modest means. Manuel Mur Oti wrote and directed, and the American actress Ruth Roman is billed beside Javier Escrivá. Its quality, tone and handling of Christ himself remain untested.",
@@ -41069,6 +41307,37 @@
         "accessed": "2026-10-11",
         "claims": [
           "Page returned 403 when opened; per its search-result text: 1962, 80 min, synopsis of followers healed by Christ plotting to free him, motivated by self-interest and fear that their ailments return; black and white."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "El Diario Palentino, 14 July 1961: 'San Sebastian, meca del cine: Milagro a los cobardes, posible Concha de Oro' (Argos special correspondent)",
+        "publisher": "El Diario Palentino (provincial daily, Palencia); digitised on the Internet Archive",
+        "url": "https://archive.org/details/ElDiarioPalentino_19610714_06292_tarde",
+        "accessed": "2026-10-12",
+        "claims": [
+          "14 Jul 1961: reviewer after a private screening in Madrid calls the film 'un autentico milagro' of Spanish cinema; says it tells the last hours of the Passion and death of Christ without Christ appearing except in the vision of Ruben de Judea (Javier Escriva), who is bound by the cowardice of those who think Jesus's death will end his miracles.",
+          "14 Jul 1961: praises the pictorial black-and-white photography, the ensemble acting and Mur Oti's direction, and tips it for the San Sebastian prizes. Secular daily; no comment on doctrinal fidelity."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "El Diario Palentino, 21 April 1961: news item on the end of shooting, with Mur Oti on the film's meaning",
+        "publisher": "El Diario Palentino; digitised on the Internet Archive",
+        "url": "https://archive.org/details/ElDiarioPalentino_19610421_06222",
+        "accessed": "2026-10-12",
+        "claims": [
+          "21 Apr 1961 (Europa Press): shooting finished, last scenes at the Valle de los Caidos basilica and La Guardia; Mur Oti says the film answers why Christ, who gave health and life to so many, died alone. Interested source (director)."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "El Diario Palentino, 20 June 1965: cinema listing with 'Calificacion moral' numbers",
+        "publisher": "El Diario Palentino; digitised on the Internet Archive",
+        "url": "https://archive.org/details/ElDiarioPalentino_19650620_07495",
+        "accessed": "2026-10-12",
+        "claims": [
+          "20 Jun 1965: 'Milagro a los cobardes' listed with moral classification (3) in the paper's calificacion moral line; the issuing body is not named in the listing, so treat as supporting only."
         ],
         "licensing": "Reference link only; no artwork permission implied."
       }
@@ -45171,12 +45440,8 @@
       "documentaries"
     ],
     "historicalPeriod": "Biblical antiquity",
-    "status": "GREY",
-    "decision": "GREY: Unverified. Identity from French Wikipedia and the Cannes 1952 page. Catholic-centred (the life of Christ is the whole subject) and honoured with a special mention by the OCIC jury, but no description of the commentary or review of its treatment has been opened. A copy or the commentary text would settle it; it could then be PUBLISH on the OCIC mention.",
-    "grey": {
-      "kind": "unverified",
-      "question": "Gibaud's documentary tells the life of Christ through old-master paintings and won a special mention from the Catholic OCIC jury at Cannes in 1952. No independent review exists, so it is unclear which Gospel episodes it uses or what the spoken text says about them, including the figure of Our Lady."
-    },
+    "status": "PUBLISH",
+    "decision": "PUBLISH: La Vie intellectuelle, the Dominican review published by Cerf, reviewed the film in May 1952 (J.-L. Tallenay). He judges it far above earlier screen Lives of Christ for respect toward the subject and religious value, praises the framing, camera movement and rhythm, and finds the commentary, read by Maria Casares, remarkably sober. His reservation is formal: joining so many styles into one continuous narrative sometimes breaks the religious effect, and he would have preferred a history of successive painted visions of Christ. Together with the OCIC jury's special mention at Cannes 1952 this settles the treatment as reverent. Earlier ruling: Unverified. Identity from French Wikipedia and the Cannes 1952 page. Catholic-centred (the life of Christ is the whole subject) and honoured with a special mention by the OCIC jury, but no description of the commentary or review of its treatment has been opened. A copy or the commentary text would settle it; it could then be PUBLISH on the OCIC mention.",
     "summary": "A 70-minute French documentary that tells the life of Christ through paintings by Rembrandt, Holbein, Raphael and others, with Maria Casarès as the voice.",
     "synopsis": "Marcel Gibaud's black-and-white documentary retells the life of Christ in sequence through works by European painters, among them Rembrandt, Holbein and Raphael. It runs 70 minutes and also circulated under the title En souvenir de moi. It was made for Panthéon Productions, a company linked to Pierre Braunberger.",
     "inclusion": "It belongs to a small line of films that tell the life of Christ from the old masters instead of with actors. Gibaud's film won a special mention from the OCIC, the international Catholic film organisation, at the 1952 Cannes festival, where the main OCIC prize went to Renato Castellani's Two Cents Worth of Hope. That is a contemporary Catholic judgment in its favour. Maria Casarès, one of the great voices of French stage and screen, speaks the commentary. Its interest is the combination of painting and narration, though only specialist archives seem to hold prints.",
@@ -45233,10 +45498,23 @@
           "OCIC Award to Two Cents Worth of Hope; Special Mention to La Vie de Jésus by Marcel Gibaud."
         ],
         "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "La Vie intellectuelle, vol. 20, May 1952, pp. 129-131: 'Cinema: La Vie de Jesus' (J.-L. Tallenay)",
+        "publisher": "La Vie intellectuelle (Dominican review, Editions du Cerf, Paris); digitised on the Internet Archive",
+        "url": "https://archive.org/details/vie-intellectuelle_1952-05_20",
+        "accessed": "2026-10-12",
+        "claims": [
+          "May 1952: Gibaud's film is the first feature composed wholly of filmed paintings; for the respect owed the subject and its religious value it stands well above earlier 'sacred cinema' attempts, including Duvivier's Golgotha.",
+          "May 1952: praises the choice of framing, camera movement, montage and rhythm; the commentary is 'd'une remarquable sobriete' and spoken by Maria Casares with discretion, and at its best the film lifts the viewer to the level of the sacred.",
+          "May 1952: reservations: the sudden switch between painterly styles breaks the narrative and the religious sense, some music and text feel artificial, and an unbroken ninety-minute narrative from such varied works was an impossible wager."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
       }
     ],
     "reviewed": "2026-10-12",
-    "imageRights": "Original Library typographic artwork; no film imagery reproduced."
+    "imageRights": "Original Library typographic artwork; no film imagery reproduced.",
+    "grey": null
   },
   {
     "id": "la-vie-miraculeuse-de-therese-martin-1929",
@@ -45403,10 +45681,10 @@
     ],
     "historicalPeriod": "20th century",
     "status": "GREY",
-    "decision": "GREY: Legion of Decency A-II (US release by IFE Releasing Corp., Legion list 1936-1959) is contemporary evidence that no moral objection was found. Identity is established (Wikipedia, AlloCiné, Legion list). But the film's religious conclusion (what becomes of the priest's doubt, what the retreat house offers) is not described by any critic traced; only a short synopsis and user comments exist. Needs subtitles or a script to settle it.",
+    "decision": "GREY: Legion of Decency A-II (US release by IFE Releasing Corp., Legion list 1936-1959) is contemporary evidence that no moral objection was found. Identity is established (Wikipedia, AlloCiné, Legion list). But the film's religious conclusion (what becomes of the priest's doubt, what the retreat house offers) is not described by any critic traced; only a short synopsis and user comments exist. Needs subtitles or a script to settle it. A Catholic review is now on record, and it is hostile. The Furrow (Maynooth, October 1956, pp. 621-622) calls the film 'the most bogus film I have ever seen on a religious subject': it finds no dramatic or religious idea, stale flashbacks, and Jesuit directors who 'dither and waffle', one of them being brought back from leaving the priesthood by a street accident. It sets the film against Delannoy's Isle of Sinners and Le Defroque as the standard. The Legion of Decency rated it A-II, which concerns morals, not quality; the reservation is that the Catholic treatment is reported to be superficial and unconvincing.",
     "grey": {
-      "kind": "unverified",
-      "question": "A Pabst ensemble drama about men on retreat in a religious house, with a young priest who begins to doubt his vocation. The Legion of Decency rated it A-II on its American release, which suggests no moral objection. No independent review exists, so it is unclear what the film concludes about the priest's doubt, the confidences he hears or what the retreat house offers, or whether faith is its answer, and how it treats confession, grace and the priesthood."
+      "kind": "reservations",
+      "question": "A Pabst ensemble drama about laymen on a Jesuit retreat in Rome, with a young priest who begins to doubt his vocation. The Legion of Decency rated it A-II, which found no moral objection. The Furrow, the Maynooth review, saw it in 1956 and called it the most bogus film it had seen on a religious subject: the retreat directors dither, the flashbacks are trite, and a priest about to leave the priesthood is brought back by a street accident. Viewers must weigh whether its treatment of vocation and grace is serious enough to be worth the time."
     },
     "summary": "G. W. Pabst's 1953 Italian-French drama gathers troubled men at a religious retreat house, among them a young priest who begins to doubt his vocation.",
     "synopsis": "Several men come to a religious retreat house in search of peace. A former partisan is haunted by deaths he caused in a sabotage action. A prisoner of war, presumed dead, returns to find that his wife has married again. A votive-candle seller is too selfish to do his job well. A writer accused of corrupting the young also comes. The young priest who receives their confidences begins to doubt his own vocation. By the end everyone leaves, some strengthened in their convictions and some back to their former lives unchanged. Aldo Fabrizi, Jean Marais and Daniel Gélin lead the cast.",
@@ -45476,6 +45754,18 @@
         "accessed": "2026-10-12",
         "claims": [
           "'Voice of Silence (IFE Releasing Corp.)' A-II. The entry is by title and distributor; the match with Pabst's film is inferred from the 1953-54 US release and distributor."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "The Furrow, vol. 7 no. 10, October 1956, 'Chronicle' (film notes), pp. 621-622: on 'The Voice of Silence'",
+        "publisher": "The Furrow (pastoral monthly, Maynooth); digitised on the Internet Archive",
+        "url": "https://archive.org/details/sim_furrow-ie_1956-10_7_10",
+        "accessed": "2026-10-12",
+        "claims": [
+          "Oct 1956, p. 622: reviewer saw it at the New Corinthian, Dublin, in August 1956 and calls it the most bogus film on a religious subject he has seen; says it purports to show a Jesuit retreat for laymen in Rome.",
+          "Oct 1956, p. 622: says Fabrizi, Gelin and Marais are made to look foolish; the flashbacks are trite and inconclusive; the Jesuit directors dither; one priest in the act of leaving the cloth is recalled by a street accident, a superficial treatment compared with Le Defroque.",
+          "Same column, p. 621: praises Delannoy's Isle of Sinners as a film that shows the sacraments rooted in real people, as the contrast."
         ],
         "licensing": "Reference link only; no artwork permission implied."
       }
@@ -49075,7 +49365,7 @@
     ],
     "historicalPeriod": "Early Church",
     "status": "GREY",
-    "decision": "GREY: Survives (35mm positive at EYE Filmmuseum; a copy is on archive.org; US public domain). Famous Players film of Wilson Barrett's 1895 play, a different and far earlier film than the 1932 DeMille version (already REJECT for impurity). The 1914 film's content appears unobjectionable (martyrdom of the Christian Mercia, conversion of the prefect Marcus; contemporary reviews praised the final cross on a hill), but the Christianity is generic and nothing independent assesses its religious treatment. Intertitles not read.",
+    "decision": "GREY: Survives (35mm positive at EYE Filmmuseum; a copy is on archive.org; US public domain). Famous Players film of Wilson Barrett's 1895 play, a different and far earlier film than the 1932 DeMille version (already REJECT for impurity). The 1914 film's content appears unobjectionable (martyrdom of the Christian Mercia, conversion of the prefect Marcus; contemporary reviews praised the final cross on a hill), but the Christianity is generic and nothing independent assesses its religious treatment. Intertitles not read. Two trade reviews of December 1914 and January 1915 now establish the content: Famous Players' film follows Barrett's play, with William Farnum as Marcus Superbus and Rosina Henley as Mercia, the Christian girl who repels his advances, and he goes with her to death as a Christian. Moving Picture World (George Blaisdell, 2 January 1915) found it well staged and reverent in tone, saying it should move believers; Variety praised the cast and the arena finish. Neither is a Catholic review, and both treat the faith as plain Christianity, so the Catholic-centred question remains open.",
     "grey": {
       "kind": "unverified",
       "question": "This 1914 silent from Wilson Barrett's play is a different film from DeMille's 1932 version. Christian Mercia refuses to deny her faith and converts the prefect Marcus, who dies with her in the arena. No independent review exists, and the faith is presented simply as Christianity, so whether it is Catholic in more than its early-Rome setting is unconfirmed. The intertitles and the print would settle it."
@@ -49209,6 +49499,28 @@
         "accessed": "2026-10-12",
         "claims": [
           "A martyr is a witness to the truth; those who die spreading or maintaining the Gospel are God's witnesses."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "The Moving Picture World, vol. 23, 2 January 1915, p. 82: 'The Sign of the Cross' (reviewed by George Blaisdell)",
+        "publisher": "The Moving Picture World (trade weekly, New York); digitised on the Internet Archive",
+        "url": "https://archive.org/details/movingpicturewor23newy",
+        "accessed": "2026-10-12",
+        "claims": [
+          "2 Jan 1915, p. 82: calls it an elaborately staged four-part adaptation of Wilson Barrett's play that keeps to the central theme; says it should appeal strongly to men and women of religious conviction.",
+          "2 Jan 1915, p. 82: Farnum plays Marcus with restraint; Mercia, a woman of faith, repels his passion; the action turns on Nero's persecution and ends with Marcus going to his death with Mercia as a Christian, which the reviewer finds impressive."
+        ],
+        "licensing": "Reference link only; no artwork permission implied."
+      },
+      {
+        "title": "Variety, 25 December 1914, vol. 37 no. 4: review of 'The Sign of the Cross' (Famous Players, at the Strand)",
+        "publisher": "Variety; digitised on the Internet Archive",
+        "url": "https://archive.org/details/sim_variety_1914-12-25_37_4",
+        "accessed": "2026-10-12",
+        "claims": [
+          "25 Dec 1914: released by Famous Players as a Paramount Christmas picture and chosen for the Strand; Marcus Superbus turns from Rome and takes up Christianity for love of Mercia and dies with other Christians in the lions' den.",
+          "25 Dec 1914: well cast and well played, five reels, the banquet and arena scenes the only costly-looking sets; the Sunday audience applauded. Secular trade review."
         ],
         "licensing": "Reference link only; no artwork permission implied."
       }

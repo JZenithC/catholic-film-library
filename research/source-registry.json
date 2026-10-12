@@ -3798,6 +3798,28 @@
     ]
   },
   {
+    "title": "El Adelantado (Segovia), 5 February 1966: review 'El señor de La Salle' and cinema listing",
+    "publisher": "El Adelantado de Segovia (Internet Archive)",
+    "url": "https://archive.org/details/ElAdelantado_Segovia_19962_19660205",
+    "claims": [
+      "5 Feb 1966: review argues hagiographic films serve to popularise saints' lives, says La Salle's life has persecution and heroism, but Amadori's film is 'plana, falta de vigor', lacking style; wanted an 'evangélico' film; no complaint about the faith content",
+      "Listing: 'Tolerada para menores' (Cine Victoria)"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "st-john-baptist-de-la-salle",
+        "status": "GREY",
+        "title": "El Adelantado (Segovia), 5 February 1966: review 'El señor de La Salle' and cinema listing",
+        "claims": [
+          "5 Feb 1966: review argues hagiographic films serve to popularise saints' lives, says La Salle's life has persecution and heroism, but Amadori's film is 'plana, falta de vigor', lacking style; wanted an 'evangélico' film; no complaint about the faith content",
+          "Listing: 'Tolerada para menores' (Cine Victoria)"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Don Bosco (1988)",
     "publisher": "ACMI (Australian Centre for the Moving Image) collection record",
     "url": "https://www.acmi.net.au/works/86127",
@@ -17053,6 +17075,46 @@
     ]
   },
   {
+    "title": "Diário de Lisboa, 10 July 1943: 'A crítica de Lisboa acolheu o novo filme português Fátima, terra de fé!' (excerpts from Diário de Notícias and O Século reviews)",
+    "publisher": "Diário de Lisboa (Fundação Mário Soares, via Internet Archive)",
+    "url": "https://archive.org/details/cc_dl_05771.035.08995",
+    "claims": [
+      "10 Jul 1943: digest quotes Diário de Notícias ('F. F.') saying the director's work peaks from the professor's return home to the miracle, and that the transformation of his spirit from despair to the light of faith is rendered with dramatic power; quotes António Lourenço in O Século calling it a work of 'beleza moral e espiritual' that depicts a 'debate das almas e não das doutrinas'. Digest is promotional in form; originals not opened"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "fatima-terra-de-fe",
+        "status": "GREY",
+        "title": "Diário de Lisboa, 10 July 1943: 'A crítica de Lisboa acolheu o novo filme português Fátima, terra de fé!' (excerpts from Diário de Notícias and O Século reviews)",
+        "claims": [
+          "10 Jul 1943: digest quotes Diário de Notícias ('F. F.') saying the director's work peaks from the professor's return home to the miracle, and that the transformation of his spirit from despair to the light of faith is rendered with dramatic power; quotes António Lourenço in O Século calling it a work of 'beleza moral e espiritual' that depicts a 'debate das almas e não das doutrinas'. Digest is promotional in form; originals not opened"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Diário de Lisboa, 24 June 1943: interview with the producer/director before the Porto premiere",
+    "publisher": "Diário de Lisboa (Internet Archive)",
+    "url": "https://archive.org/details/cc_dl_05771.035.08962",
+    "claims": [
+      "24 Jun 1943: interviewee (interested party) says the film is 'not a documentary on the religious life of Fátima' but a human drama of action and passion in which the Fátima idea is the base, and that it evokes one of the extraordinary events of the nation's religious life"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "fatima-terra-de-fe",
+        "status": "GREY",
+        "title": "Diário de Lisboa, 24 June 1943: interview with the producer/director before the Porto premiere",
+        "claims": [
+          "24 Jun 1943: interviewee (interested party) says the film is 'not a documentary on the religious life of Fátima' but a human drama of action and passion in which the Fátima idea is the base, and that it evokes one of the extraordinary events of the nation's religious life"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Fátima no cinema: um século em três filmes / Fátima vista pelo cinema em seis filmes",
     "publisher": "timeout.pt",
     "url": "https://www.timeout.pt/lisboa/pt/filmes/fatima-vista-pelo-cinema-em-seis-filmes",
@@ -17855,6 +17917,26 @@
         "status": "GREY",
         "title": "Don Bosco (film 1935)",
         "claims": "Story credit to Castellino and Uguccioni, music by Ghedini and Malipiero, Lux Film, restoration from Salesian negative at Ivrea 2016, Torino Film Festival 2021"
+      }
+    ]
+  },
+  {
+    "title": "Cinema Illustrazione, 13 March 1935 (pre-release feature on Don Bosco)",
+    "publisher": "Cinema Illustrazione (Internet Archive)",
+    "url": "https://archive.org/details/cinema-illustrazione-1935-11",
+    "claims": [
+      "13 Mar 1935: production feature says liturgical scenes (priestly ordination, departure of the first Patagonia missionaries, giving the Rule to the first Salesian Sisters) are shown, that the focus is on Don Bosco as a man of the people, and that the cast were chosen from Piedmont; promotional, not a critical review"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "don-bosco-1935",
+        "status": "GREY",
+        "title": "Cinema Illustrazione, 13 March 1935 (pre-release feature on Don Bosco)",
+        "claims": [
+          "13 Mar 1935: production feature says liturgical scenes (priestly ordination, departure of the first Patagonia missionaries, giving the Rule to the first Salesian Sisters) are shown, that the focus is on Don Bosco as a man of the people, and that the cast were chosen from Piedmont; promotional, not a critical review"
+        ]
       }
     ]
   },
@@ -25198,7 +25280,7 @@
       },
       {
         "id": "sor-intrepida-1952",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Baptism",
         "claims": "Necessity of baptism, Trent Session 7 canon 5, lay baptism in necessity per Florence, form of baptism"
       },
@@ -25889,7 +25971,7 @@
     "films": [
       {
         "id": "cerca-de-la-ciudad-1952",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Cerca de la ciudad",
         "claims": [
           "Spain 1952; director Luis Lucia; producer Alejandro Arias-Salgado; photography Alfredo Fraile; 90 minutes, black and white",
@@ -25913,7 +25995,7 @@
     "films": [
       {
         "id": "cerca-de-la-ciudad-1952",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Cerca de la ciudad",
         "claims": [
           "Padre José takes over a humble parish in a Madrid suburb after the previous priest's death; residents in poor material conditions",
@@ -25932,9 +26014,49 @@
     "films": [
       {
         "id": "cerca-de-la-ciudad-1952",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Acerbo Nimis",
         "claims": "Sunday catechism hour for children (para 19); preparation for Penance, Confirmation and first Communion (paras 20-21); Confraternity of Christian Doctrine in every parish (para 22)"
+      }
+    ]
+  },
+  {
+    "title": "El Diario Palentino, 11 December 1952 (evening edition): review 'Cerca de la ciudad', Teatro Principal",
+    "publisher": "El Diario Palentino (Palencia daily; Internet Archive)",
+    "url": "https://archive.org/details/ElDiarioPalentino_19521211_04532_tarde",
+    "claims": [
+      "11 Dec 1952: review calls it a 'sainete' with a noble intention worthy of praise, where jokes 'van inculcando una necesidad de caridad' while 'se exalta el apostolado del sacerdote'; says it can be recommended and will please ordinary audiences, though the script does not go deep into its theme; Adolfo Marsillach praised as hesitant in the curate role"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "cerca-de-la-ciudad-1952",
+        "status": "PUBLISH",
+        "title": "El Diario Palentino, 11 December 1952 (evening edition): review 'Cerca de la ciudad', Teatro Principal",
+        "claims": [
+          "11 Dec 1952: review calls it a 'sainete' with a noble intention worthy of praise, where jokes 'van inculcando una necesidad de caridad' while 'se exalta el apostolado del sacerdote'; says it can be recommended and will please ordinary audiences, though the script does not go deep into its theme; Adolfo Marsillach praised as hesitant in the curate role"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "El Diario Palentino, 10 December 1952 (evening edition): 'Calificación moral' legend and listing",
+    "publisher": "El Diario Palentino (Internet Archive)",
+    "url": "https://archive.org/details/ElDiarioPalentino_19521210_04531_tarde",
+    "claims": [
+      "10 Dec 1952 listings: 'Cerca de la ciudad (1)'; the paper states the numbers are the classification of the Oficina Nacional Permanente de Vigilancia de Espectáculos under the Episcopal Commission for Orthodoxy and Morality, where 1 = all, including children"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "cerca-de-la-ciudad-1952",
+        "status": "PUBLISH",
+        "title": "El Diario Palentino, 10 December 1952 (evening edition): 'Calificación moral' legend and listing",
+        "claims": [
+          "10 Dec 1952 listings: 'Cerca de la ciudad (1)'; the paper states the numbers are the classification of the Oficina Nacional Permanente de Vigilancia de Espectáculos under the Episcopal Commission for Orthodoxy and Morality, where 1 = all, including children"
+        ]
       }
     ]
   },
@@ -26781,6 +26903,48 @@
     ]
   },
   {
+    "title": "El Diario Palentino, 27 March 1954: cinema listings with 'Calificación moral' and notice of the Palencia premiere",
+    "publisher": "El Diario Palentino (Internet Archive)",
+    "url": "https://archive.org/details/ElDiarioPalentino_19540327_05223",
+    "claims": [
+      "27 Mar 1954: 'El beso de Judas (1)' under the Oficina Nacional Permanente classification (1 = all, including children)",
+      "Same issue: promotional notice of its premiere at the Gran Teatro Ortega on Saturday 27 March (promotional, not a review)"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "el-beso-de-judas-1954",
+        "status": "GREY",
+        "title": "El Diario Palentino, 27 March 1954: cinema listings with 'Calificación moral' and notice of the Palencia premiere",
+        "claims": [
+          "27 Mar 1954: 'El beso de Judas (1)' under the Oficina Nacional Permanente classification (1 = all, including children)",
+          "Same issue: promotional notice of its premiere at the Gran Teatro Ortega on Saturday 27 March (promotional, not a review)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "El Adelantado (Segovia), 4 September 1954: Efe report from Venice",
+    "publisher": "El Adelantado (Segovia daily; Internet Archive)",
+    "url": "https://archive.org/details/ElAdelantado_Segovia_16718_19540904",
+    "claims": [
+      "4 Sep 1954: Efe report that the official screening at the Venice festival was a 'éxito clamoroso' and that the festival president Croze telegraphed Madrid calling it an extraordinary success with the international public and press (festival news; says nothing on the treatment of Judas)"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "el-beso-de-judas-1954",
+        "status": "GREY",
+        "title": "El Adelantado (Segovia), 4 September 1954: Efe report from Venice",
+        "claims": [
+          "4 Sep 1954: Efe report that the official screening at the Venice festival was a 'éxito clamoroso' and that the festival president Croze telegraphed Madrid calling it an extraordinary success with the international public and press (festival news; says nothing on the treatment of Judas)"
+        ]
+      }
+    ]
+  },
+  {
     "title": "El canto del gallo",
     "publisher": "Wikipedia (citing Bentley, A Companion to Spanish Cinema, 2008, and Santiago Aguilar)",
     "url": "https://en.wikipedia.org/wiki/El_canto_del_gallo",
@@ -27007,6 +27171,28 @@
         "status": "GREY",
         "title": "El Judas",
         "claims": "Cast, screenplay credit, Salvia's medal, music, Catalan version blocked by censorship"
+      }
+    ]
+  },
+  {
+    "title": "El Diario Palentino, 30 January 1953: 'Estrenos cinematográficos en Palencia', review of 'El Judas' (Gran Teatro Ortega), with 'Calificación moral' listing",
+    "publisher": "El Diario Palentino (Palencia daily; Internet Archive)",
+    "url": "https://archive.org/details/ElDiarioPalentino_19530130_04571",
+    "claims": [
+      "30 Jan 1953: review of the film, premiered in Palencia 25 January 1953, calls Vilar's performance among the best, says he expresses the passage 'de Judas a Cristo' with delicacy and truth, with expiation; notes the Passion is acted by villagers of the Patronato La Passió of Esparraguera under Iquino's direction; concludes it moves and is recommended to every class of public",
+      "Listings: 'El Judas (2)'; paper explains the numbers as the classification of the Oficina Nacional Permanente de Vigilancia de Espectáculos under the Episcopal Commission for Orthodoxy and Morality (1 = all incl. children, 2 = young people, 3 = adults, 3R = adults with reservations, 4 = gravely dangerous, 5 = unclassified; issued by the Oficina Nacional Permanente de Vigilancia de Espectáculos under the Episcopal Commission for Orthodoxy and Morality)"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "el-judas-1952",
+        "status": "GREY",
+        "title": "El Diario Palentino, 30 January 1953: 'Estrenos cinematográficos en Palencia', review of 'El Judas' (Gran Teatro Ortega), with 'Calificación moral' listing",
+        "claims": [
+          "30 Jan 1953: review of the film, premiered in Palencia 25 January 1953, calls Vilar's performance among the best, says he expresses the passage 'de Judas a Cristo' with delicacy and truth, with expiation; notes the Passion is acted by villagers of the Patronato La Passió of Esparraguera under Iquino's direction; concludes it moves and is recommended to every class of public",
+          "Listings: 'El Judas (2)'; paper explains the numbers as the classification of the Oficina Nacional Permanente de Vigilancia de Espectáculos under the Episcopal Commission for Orthodoxy and Morality (1 = all incl. children, 2 = young people, 3 = adults, 3R = adults with reservations, 4 = gravely dangerous, 5 = unclassified; issued by the Oficina Nacional Permanente de Vigilancia de Espectáculos under the Episcopal Commission for Orthodoxy and Morality)"
+        ]
       }
     ]
   },
@@ -27652,6 +27838,46 @@
           "Apparitions 1916-17; approval by the Bishop of Leiria on 13 October 1930; Pius XII's 1946 coronation and 1954 basilica",
           "Lúcia said in 1985 that the 1984 consecration did not fulfil the request; in 1989 and 1990 letters she said it was complete",
           "Francisco and Jacinta beatified 13 May 2000; Lúcia died 13 February 2005"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Diário de Lisboa, 16 May 1928: A. Armando Pereira, review of 'Fátima Milagrosa'",
+    "publisher": "Diário de Lisboa (Internet Archive)",
+    "url": "https://archive.org/details/cc_dl_05745.009.02542",
+    "claims": [
+      "16 May 1928: review says the idea and effort are considerable but the film is excessive in length and prologues for a modest production, that Rino Lupo is solely responsible as director and author of the story, and that cut to five or six parts it would be a very acceptable Portuguese production; mentions the car journey to Fátima and some shots of the Cova da Iria as successful"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "fatima-milagrosa-1928",
+        "status": "GREY",
+        "title": "Diário de Lisboa, 16 May 1928: A. Armando Pereira, review of 'Fátima Milagrosa'",
+        "claims": [
+          "16 May 1928: review says the idea and effort are considerable but the film is excessive in length and prologues for a modest production, that Rino Lupo is solely responsible as director and author of the story, and that cut to five or six parts it would be a very acceptable Portuguese production; mentions the car journey to Fátima and some shots of the Cova da Iria as successful"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Diário de Lisboa, 7 May 1928: premiere notice at the Politeama",
+    "publisher": "Diário de Lisboa (Internet Archive)",
+    "url": "https://archive.org/details/cc_dl_05745.009.02534",
+    "claims": [
+      "7 May 1928: film opens at the Politeama; has a prologue and 12 parts, directed by Rino Lupo with Portuguese actors"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "fatima-milagrosa-1928",
+        "status": "GREY",
+        "title": "Diário de Lisboa, 7 May 1928: premiere notice at the Politeama",
+        "claims": [
+          "7 May 1928: film opens at the Politeama; has a prologue and 12 parts, directed by Rino Lupo with Portuguese actors"
         ]
       }
     ]
@@ -33543,6 +33769,46 @@
     ]
   },
   {
+    "title": "El Diario Palentino, 28 February 1953: cinema notice and 'Calificación moral' listing",
+    "publisher": "El Diario Palentino (Internet Archive)",
+    "url": "https://archive.org/details/ElDiarioPalentino_19530228_04596",
+    "claims": [
+      "28 Feb 1953: 'Reina santa (3)' (3 = adults) under the classification of the Oficina Nacional Permanente de Vigilancia de Espectáculos; theatre notice (promotional) for its showing at Cine Proyecciones"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "reina-santa-1947",
+        "status": "GREY",
+        "title": "El Diario Palentino, 28 February 1953: cinema notice and 'Calificación moral' listing",
+        "claims": [
+          "28 Feb 1953: 'Reina santa (3)' (3 = adults) under the classification of the Oficina Nacional Permanente de Vigilancia de Espectáculos; theatre notice (promotional) for its showing at Cine Proyecciones"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "El Diario Palentino, 11 March 1961: cinema listing",
+    "publisher": "El Diario Palentino (Internet Archive)",
+    "url": "https://archive.org/details/ElDiarioPalentino_19610311_06188_tarde",
+    "claims": [
+      "11 Mar 1961: 'Reina Santa (5)' (5 = unclassified) at Cine Proyecciones"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "reina-santa-1947",
+        "status": "GREY",
+        "title": "El Diario Palentino, 11 March 1961: cinema listing",
+        "claims": [
+          "11 Mar 1961: 'Reina Santa (5)' (5 = unclassified) at Cine Proyecciones"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Rita da Cascia (film)",
     "publisher": "Wikipedia (Italian; supplementary)",
     "url": "https://it.wikipedia.org/wiki/Rita_da_Cascia_(film)",
@@ -33741,6 +34007,28 @@
         "status": "GREY",
         "title": "Rosa de Lima (1961)",
         "claims": "Full cast with roles; screenplay Manuel Sebares and Juan Antonio Verdugo; photography Alfonso Nieva; 1h38m; production manager Victoriano García Giraldo"
+      }
+    ]
+  },
+  {
+    "title": "El Diario Palentino, 11 February 1964 (evening edition): review 'Rosa de Lima', Cine Ortega, and 'Calificación moral' listing",
+    "publisher": "El Diario Palentino (Internet Archive)",
+    "url": "https://archive.org/details/ElDiarioPalentino_19640211_07081_tarde",
+    "claims": [
+      "11 Feb 1964: review (signed Doña Muñoz) says Elorrieta made it 'con loable intención' from 'pasajes de la milagrosa vida de Santa Rosa de Lima' but results are facile, conventional images; praises María Mahor's performance",
+      "Listings: 'Rosa de Lima (2)' under the Oficina Nacional Permanente classification (2 = young people), and 'Autorizadas para todos públicos'"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "rosa-de-lima-1961",
+        "status": "GREY",
+        "title": "El Diario Palentino, 11 February 1964 (evening edition): review 'Rosa de Lima', Cine Ortega, and 'Calificación moral' listing",
+        "claims": [
+          "11 Feb 1964: review (signed Doña Muñoz) says Elorrieta made it 'con loable intención' from 'pasajes de la milagrosa vida de Santa Rosa de Lima' but results are facile, conventional images; praises María Mahor's performance",
+          "Listings: 'Rosa de Lima (2)' under the Oficina Nacional Permanente classification (2 = young people), and 'Autorizadas para todos públicos'"
+        ]
       }
     ]
   },
@@ -34257,7 +34545,7 @@
     "films": [
       {
         "id": "sor-intrepida-1952",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "The Song of Sister Maria",
         "claims": [
           "Sor intrépida, Spain, released 10 November 1952; director Rafael Gil; writers Vicente Escrivá and Ramón D. Faraldo; Aspa Producciones; 85 minutes",
@@ -34279,7 +34567,7 @@
     "films": [
       {
         "id": "sor-intrepida-1952",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "«Sor intrépida» (1952)",
         "claims": [
           "Credits: Rafael Gil; screenplay Faraldo and Escrivá; photography Alfredo Fraile; sets Enrique Alarcón; Aspa Producciones Cinematográficas; cast list"
@@ -34302,7 +34590,7 @@
     "films": [
       {
         "id": "sor-intrepida-1952",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Sor Intrépida de Rafael Gil (1952)",
         "claims": [
           "A conversion and half a million pesetas from a television impresario in exchange for clandestine recordings that save the hospital",
@@ -34327,12 +34615,56 @@
     "films": [
       {
         "id": "sor-intrepida-1952",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Sor Intrépida",
         "claims": [
           "A tribute to nuns who keep working through hardship, at home and on the missions, here in the Indies; avoids excessive melodrama; wit gets the sister out of compromising situations",
           "Praises Alfredo Fraile's photography and Dominique Blanchar; 6/10",
           "Declared of National Interest; CEC award for art direction (Enrique Alarcón); Sindicato Nacional del Espectáculo best film of the year"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "El Diario Palentino, 13 March 1953 (afternoon edition), film review 'Sor Intrépida' signed R. de G. Ortega, with 'Calificación moral' listing",
+    "publisher": "El Diario Palentino (Palencia daily; digitised on Internet Archive)",
+    "url": "https://archive.org/details/ElDiarioPalentino_19530313_04608",
+    "accessed": "2026-10-12",
+    "claims": [
+      "13 March 1953 issue, review: praises Aspa Films for creating a 'Cine católico', calls Sor Intrépida 'ejemplar' and made 'con plena dignidad'; calls the nun a Spanish religious who alternates prayer and piety with action in God's service, and who renounced a worldly life out of obedience to a deep vocation",
+      "Same review: praises a Communion shot taken from inside the tabernacle; concludes the film is Catholic 'sin gazmoñería ni sermoneo pero con humanidad' and 'película para todos'",
+      "Same issue listings: 'Calificación moral: Sor Intrépida (2)'"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "sor-intrepida-1952",
+        "status": "PUBLISH",
+        "title": "El Diario Palentino, 13 March 1953 (afternoon edition), film review 'Sor Intrépida' signed R. de G. Ortega, with 'Calificación moral' listing",
+        "claims": [
+          "13 March 1953 issue, review: praises Aspa Films for creating a 'Cine católico', calls Sor Intrépida 'ejemplar' and made 'con plena dignidad'; calls the nun a Spanish religious who alternates prayer and piety with action in God's service, and who renounced a worldly life out of obedience to a deep vocation",
+          "Same review: praises a Communion shot taken from inside the tabernacle; concludes the film is Catholic 'sin gazmoñería ni sermoneo pero con humanidad' and 'película para todos'",
+          "Same issue listings: 'Calificación moral: Sor Intrépida (2)'"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "El Diario Palentino, 12 March 1953, cinema listing 'Cine católico: Sor Intrépida'",
+    "publisher": "El Diario Palentino (digitised on Internet Archive)",
+    "url": "https://archive.org/details/ElDiarioPalentino_19530312_04606_tarde",
+    "accessed": "2026-10-12",
+    "claims": [
+      "12 March 1953 issue: theatre notice describes the film as 'Cine católico' held over for a second week at the Gran Teatro Ortega"
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "sor-intrepida-1952",
+        "status": "PUBLISH",
+        "title": "El Diario Palentino, 12 March 1953, cinema listing 'Cine católico: Sor Intrépida'",
+        "claims": [
+          "12 March 1953 issue: theatre notice describes the film as 'Cine católico' held over for a second week at the Gran Teatro Ortega"
         ]
       }
     ]
@@ -37509,7 +37841,7 @@
     "films": [
       {
         "id": "un-missionnaire-1955",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "A Missionary",
         "claims": [
           "1955 French drama directed and written by Maurice Cloche; released 2 December 1955; 98 minutes; Eastmancolor",
@@ -37535,7 +37867,7 @@
     "films": [
       {
         "id": "un-missionnaire-1955",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Fiche film: Un missionnaire",
         "claims": [
           "French release 2 December 1955; 1h38; visa 16734; distributor AGDC",
@@ -37559,7 +37891,7 @@
     "films": [
       {
         "id": "un-missionnaire-1955",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Un Missionnaire (1955)",
         "claims": [
           "French religious drama, 102 minutes; Cloche; Massard, Vanel, Préjean",
@@ -37580,7 +37912,7 @@
     "films": [
       {
         "id": "un-missionnaire-1955",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Monsieur Vincent, de Maurice Cloche",
         "claims": [
           "critics and profession confined Cloche to an absurd reputation as official Catholic director, citing Un missionnaire among the films behind it"
@@ -37598,9 +37930,31 @@
     "films": [
       {
         "id": "un-missionnaire-1955",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Evangelii Praecones",
         "claims": "Missionary as lover of the adopted country; aim of a native hierarchy; respect for good native customs; no need to transplant European civilisation"
+      }
+    ]
+  },
+  {
+    "title": "La Survivance (Edmonton), 31 October 1956: 'La première canadienne de Au service de l'amour' (CCC news item on Un missionnaire)",
+    "publisher": "La Survivance (Franco-Albertan Catholic weekly; Internet Archive)",
+    "url": "https://archive.org/details/LSV_1956103101",
+    "claims": [
+      "31 Oct 1956: premiere at the Université de Montréal on 3 October under Cardinal Léger; film arose from the Spiritan Fathers (Congrégation du Saint-Esprit; interested source) and was scripted by Fr Bernier, with Maurice Cloche directing and Charles Vanel in the lead",
+      "Plot as given: a zealous missionary suffers in Africa, falls ill, returns to France and wants to bury himself in a convent; his superior general discerns Satan's temptation and returns him to his vocation; the item says the film's idea is that the missionary does not go to exploit Africans but answers a call, that God must act through him, and that the ideal is 'plus estimé' after seeing 'un si grand film'"
+    ],
+    "accessed": "2026-10-12",
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "un-missionnaire-1955",
+        "status": "PUBLISH",
+        "title": "La Survivance (Edmonton), 31 October 1956: 'La première canadienne de Au service de l'amour' (CCC news item on Un missionnaire)",
+        "claims": [
+          "31 Oct 1956: premiere at the Université de Montréal on 3 October under Cardinal Léger; film arose from the Spiritan Fathers (Congrégation du Saint-Esprit; interested source) and was scripted by Fr Bernier, with Maurice Cloche directing and Charles Vanel in the lead",
+          "Plot as given: a zealous missionary suffers in Africa, falls ill, returns to France and wants to bury himself in a convent; his superior general discerns Satan's temptation and returns him to his vocation; the item says the film's idea is that the missionary does not go to exploit Africans but answers a call, that God must act through him, and that the ideal is 'plus estimé' after seeing 'un si grand film'"
+        ]
       }
     ]
   },
@@ -37618,7 +37972,7 @@
     "films": [
       {
         "id": "un-traje-blanco-1956",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Miracle of the White Suit",
         "claims": [
           "Spanish title Un traje blanco, Italian Il grande giorno; Italian-Spanish co-production; released 26 November 1956; 93 minutes",
@@ -37642,7 +37996,7 @@
     "films": [
       {
         "id": "un-traje-blanco-1956",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Un traje blanco de Rafael Gil (1956) contada por Santiago Aguilar",
         "claims": [
           "Marcos wants a suit like Polonio's; lies to his father, betrays his teacher, runs away to Madrid, wishes for the death of the richest woman in town",
@@ -37666,7 +38020,7 @@
     "films": [
       {
         "id": "un-traje-blanco-1956",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Un traje blanco (crítica)",
         "claims": [
           "4/10; social drama with a childlike spirit and sensitive tone; set in a Castilian town",
@@ -37689,7 +38043,7 @@
     "films": [
       {
         "id": "un-traje-blanco-1956",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Un traje blanco",
         "claims": [
           "CEC medal for best black-and-white photography (Cecilio Paniagua), 12th CEC medals for 1956 productions",
@@ -37708,9 +38062,55 @@
     "films": [
       {
         "id": "un-traje-blanco-1956",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "Quam singulari, Catholic Encyclopedia",
         "claims": "Pius X decree of 8 August 1910 on the age and dispositions for First Communion"
+      }
+    ]
+  },
+  {
+    "title": "El Bien Publico (Montevideo), no. 24189, 25 September 1957: film column 'Opinan nuestros Criticos de Cine', review of 'Un traje blanco' (signed M. A. Q.)",
+    "publisher": "El Bien Publico (Catholic daily, Montevideo); digitised on the Internet Archive",
+    "url": "https://archive.org/details/ElBienPublico_24189-1957-09-25",
+    "accessed": "2026-10-12",
+    "claims": [
+      "25 Sep 1957: headed 'simpatico film espanol'; the column gives a 'Calificacion moral' (OCR reads 1A / 'Admisible para todo publico') and ends 'un film simpatico, limpio, para todo publico'.",
+      "25 Sep 1957: the first Communion in a white suit is the film's base; the critic remarks that the state's anticlerical education council withheld school tickets because of that subject.",
+      "25 Sep 1957: praises Gil's sober direction and Miguelito Gil's natural performance; the weak point is the script, which adds 'cierto fatalismo' ending in the amputation of the boy's arm and the brother gambling away the suit money.",
+      "Same page discusses the new papal encyclical on cinema, radio and television in relation to Vigilanti cura, showing the paper's Catholic frame."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "un-traje-blanco-1956",
+        "status": "PUBLISH",
+        "title": "El Bien Publico (Montevideo), no. 24189, 25 September 1957: film column 'Opinan nuestros Criticos de Cine', review of 'Un traje blanco' (signed M. A. Q.)",
+        "claims": [
+          "25 Sep 1957: headed 'simpatico film espanol'; the column gives a 'Calificacion moral' (OCR reads 1A / 'Admisible para todo publico') and ends 'un film simpatico, limpio, para todo publico'.",
+          "25 Sep 1957: the first Communion in a white suit is the film's base; the critic remarks that the state's anticlerical education council withheld school tickets because of that subject.",
+          "25 Sep 1957: praises Gil's sober direction and Miguelito Gil's natural performance; the weak point is the script, which adds 'cierto fatalismo' ending in the amputation of the boy's arm and the brother gambling away the suit money.",
+          "Same page discusses the new papal encyclical on cinema, radio and television in relation to Vigilanti cura, showing the paper's Catholic frame."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Diario La Nacion (Santiago de Chile), 13 November 1957: cinema listing for 'Un traje blanco'",
+    "publisher": "Diario La Nacion (Chile); digitised on the Internet Archive",
+    "url": "https://archive.org/details/DiarioLaNacionSantiago_19571113",
+    "accessed": "2026-10-12",
+    "claims": [
+      "13 Nov 1957: listing calls it a simple, human, direct story with a Spanish national prize of 1956 and tears that come from a poem of childhood; supporting only (secular daily)."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "un-traje-blanco-1956",
+        "status": "PUBLISH",
+        "title": "Diario La Nacion (Santiago de Chile), 13 November 1957: cinema listing for 'Un traje blanco'",
+        "claims": [
+          "13 Nov 1957: listing calls it a simple, human, direct story with a Spanish national prize of 1956 and tears that come from a poem of childhood; supporting only (secular daily)."
+        ]
       }
     ]
   },
@@ -38630,7 +39030,7 @@
     "films": [
       {
         "id": "el-portico-de-la-gloria-1953",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "The Portico of Glory",
         "claims": [
           "El pórtico de la gloria; Spain; released 26 October 1953; 92 minutes; director Rafael J. Salvia; writers José Mojica and Rafael J. Salvia; Suevia Films",
@@ -38654,7 +39054,7 @@
     "films": [
       {
         "id": "el-portico-de-la-gloria-1953",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "El pórtico de la gloria de Rafael J. Salvia (1953)",
         "claims": [
           "Mojica, former star of 1930s Hispanic musicals, became a Franciscan after his mother died; travels from Mexico to Spain with the Orfeón Infantil Mexicano",
@@ -38679,12 +39079,76 @@
     "films": [
       {
         "id": "el-portico-de-la-gloria-1953",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "El pórtico de la gloria",
         "claims": [
           "Story José Mojica; screenplay Rafael J. Salvia; 92 minutes; melodrama",
           "Children of the Orfeón Infantil Mejicano travel to Compostela for the Holy Year and meet a wealthy, elegant woman with a troubled past who offers them her protection",
           "All content categories scored 0"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "El Bien Publico (Montevideo), no. 23364, 13/14 March 1954: weekly film classification list",
+    "publisher": "El Bien Publico (Catholic daily, Montevideo); digitised on the Internet Archive",
+    "url": "https://archive.org/details/ElBienPublico_23364-1954-03-13",
+    "accessed": "2026-10-12",
+    "claims": [
+      "14 Mar 1954 list: 'En el Portico de la Gloria' (Spanish) classed 1A, 'Admisible para todo publico'.",
+      "Same list: named 'Pelicula recomendable de la semana', 1A."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "el-portico-de-la-gloria-1953",
+        "status": "PUBLISH",
+        "title": "El Bien Publico (Montevideo), no. 23364, 13/14 March 1954: weekly film classification list",
+        "claims": [
+          "14 Mar 1954 list: 'En el Portico de la Gloria' (Spanish) classed 1A, 'Admisible para todo publico'.",
+          "Same list: named 'Pelicula recomendable de la semana', 1A."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Diario Democracia (Rosario, Argentina), 13 April 1954: review 'Hay musica de calidad y buen cantar en el film El Portico de la Gloria'",
+    "publisher": "Diario Democracia; digitised on the Internet Archive",
+    "url": "https://archive.org/details/DiarioDemocraciaRosario19540413",
+    "accessed": "2026-10-12",
+    "claims": [
+      "13 Apr 1954: Suevia Films-Cesareo Gonzalez chose this story for the return to the screen of the Franciscan Fray Jose Mojica; the 'condiciones morales' of the subject allowed him sober, well-judged work.",
+      "13 Apr 1954: describes the story as a model of faith and peace; praises the Mexican children's choir as singers and actors; direction by Rafael J. Salvia is correct. Secular daily."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "el-portico-de-la-gloria-1953",
+        "status": "PUBLISH",
+        "title": "Diario Democracia (Rosario, Argentina), 13 April 1954: review 'Hay musica de calidad y buen cantar en el film El Portico de la Gloria'",
+        "claims": [
+          "13 Apr 1954: Suevia Films-Cesareo Gonzalez chose this story for the return to the screen of the Franciscan Fray Jose Mojica; the 'condiciones morales' of the subject allowed him sober, well-judged work.",
+          "13 Apr 1954: describes the story as a model of faith and peace; praises the Mexican children's choir as singers and actors; direction by Rafael J. Salvia is correct. Secular daily."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "El Diario Palentino, 12 November 1954: cinema listing with 'Calificacion moral'",
+    "publisher": "El Diario Palentino; digitised on the Internet Archive",
+    "url": "https://archive.org/details/ElDiarioPalentino_19541112_05415_tarde",
+    "accessed": "2026-10-12",
+    "claims": [
+      "12 Nov 1954: 'El Portico de la Gloria' listed with moral classification (1); supporting only."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "el-portico-de-la-gloria-1953",
+        "status": "PUBLISH",
+        "title": "El Diario Palentino, 12 November 1954: cinema listing with 'Calificacion moral'",
+        "claims": [
+          "12 Nov 1954: 'El Portico de la Gloria' listed with moral classification (1); supporting only."
         ]
       }
     ]
@@ -40394,6 +40858,48 @@
     ]
   },
   {
+    "title": "Nasz Przyjaciel, 1931, vol. 8, no. 14: notice on the film 'Przedziwny zywot Bernadetty' (La vie merveilleuse de Bernadette)",
+    "publisher": "Nasz Przyjaciel (Polish Catholic periodical); digitised by the Kujawsko-Pomorska Digital Library on the Internet Archive",
+    "url": "https://archive.org/details/kpbc.umk.pl.KM_01046_1931_NP_14_214168",
+    "accessed": "2026-10-12",
+    "claims": [
+      "1931: announces that Rudolf Kappel of Krakow has opened Poland's first lending library of good Catholic films, and holds up French religious films as the leading, carefully made and artistically sensitive examples.",
+      "1931: names this film as one that does French production credit; scenario by G. Moriaud built on a true cure of a paralysed child, joined to the apparitions of Our Lady to Bernadette Soubirous, her life and holy death, and present-day Lourdes; actors of the Comedie-Francaise under Georges Pallu."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "la-vie-merveilleuse-de-bernadette-1929",
+        "status": "GREY",
+        "title": "Nasz Przyjaciel, 1931, vol. 8, no. 14: notice on the film 'Przedziwny zywot Bernadetty' (La vie merveilleuse de Bernadette)",
+        "claims": [
+          "1931: announces that Rudolf Kappel of Krakow has opened Poland's first lending library of good Catholic films, and holds up French religious films as the leading, carefully made and artistically sensitive examples.",
+          "1931: names this film as one that does French production credit; scenario by G. Moriaud built on a true cure of a paralysed child, joined to the apparitions of Our Lady to Bernadette Soubirous, her life and holy death, and present-day Lourdes; actors of the Comedie-Francaise under Georges Pallu."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "L'Ami du Clerge, 28 November 1935: Pathe-Baby advertisement listing the film among religious titles for parish use",
+    "publisher": "L'Ami du Clerge (French clergy review); digitised on the Internet Archive",
+    "url": "https://archive.org/details/per_esprit-et-vie_lami-du-clerge_1935-11-28_52_48",
+    "accessed": "2026-10-12",
+    "claims": [
+      "28 Nov 1935: advertisement for the Pathe-Baby film library lists 'La Vie merveilleuse de Bernadette Soubirous' beside Christus, made with the collaboration of an abbe; advertiser's claim, an interested source."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "la-vie-merveilleuse-de-bernadette-1929",
+        "status": "GREY",
+        "title": "L'Ami du Clerge, 28 November 1935: Pathe-Baby advertisement listing the film among religious titles for parish use",
+        "claims": [
+          "28 Nov 1935: advertisement for the Pathe-Baby film library lists 'La Vie merveilleuse de Bernadette Soubirous' beside Christus, made with the collaboration of an abbe; advertiser's claim, an interested source."
+        ]
+      }
+    ]
+  },
+  {
     "title": "List of Mexican films of 1976",
     "publisher": "Wikipedia (supplementary)",
     "url": "https://en.wikipedia.org/wiki/List_of_Mexican_films_of_1976",
@@ -41021,6 +41527,68 @@
         "title": "Milagro a los cobardes",
         "claims": [
           "Page returned 403 when opened; per its search-result text: 1962, 80 min, synopsis of followers healed by Christ plotting to free him, motivated by self-interest and fear that their ailments return; black and white."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "El Diario Palentino, 14 July 1961: 'San Sebastian, meca del cine: Milagro a los cobardes, posible Concha de Oro' (Argos special correspondent)",
+    "publisher": "El Diario Palentino (provincial daily, Palencia); digitised on the Internet Archive",
+    "url": "https://archive.org/details/ElDiarioPalentino_19610714_06292_tarde",
+    "accessed": "2026-10-12",
+    "claims": [
+      "14 Jul 1961: reviewer after a private screening in Madrid calls the film 'un autentico milagro' of Spanish cinema; says it tells the last hours of the Passion and death of Christ without Christ appearing except in the vision of Ruben de Judea (Javier Escriva), who is bound by the cowardice of those who think Jesus's death will end his miracles.",
+      "14 Jul 1961: praises the pictorial black-and-white photography, the ensemble acting and Mur Oti's direction, and tips it for the San Sebastian prizes. Secular daily; no comment on doctrinal fidelity."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "milagro-a-los-cobardes-1962",
+        "status": "GREY",
+        "title": "El Diario Palentino, 14 July 1961: 'San Sebastian, meca del cine: Milagro a los cobardes, posible Concha de Oro' (Argos special correspondent)",
+        "claims": [
+          "14 Jul 1961: reviewer after a private screening in Madrid calls the film 'un autentico milagro' of Spanish cinema; says it tells the last hours of the Passion and death of Christ without Christ appearing except in the vision of Ruben de Judea (Javier Escriva), who is bound by the cowardice of those who think Jesus's death will end his miracles.",
+          "14 Jul 1961: praises the pictorial black-and-white photography, the ensemble acting and Mur Oti's direction, and tips it for the San Sebastian prizes. Secular daily; no comment on doctrinal fidelity."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "El Diario Palentino, 21 April 1961: news item on the end of shooting, with Mur Oti on the film's meaning",
+    "publisher": "El Diario Palentino; digitised on the Internet Archive",
+    "url": "https://archive.org/details/ElDiarioPalentino_19610421_06222",
+    "accessed": "2026-10-12",
+    "claims": [
+      "21 Apr 1961 (Europa Press): shooting finished, last scenes at the Valle de los Caidos basilica and La Guardia; Mur Oti says the film answers why Christ, who gave health and life to so many, died alone. Interested source (director)."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "milagro-a-los-cobardes-1962",
+        "status": "GREY",
+        "title": "El Diario Palentino, 21 April 1961: news item on the end of shooting, with Mur Oti on the film's meaning",
+        "claims": [
+          "21 Apr 1961 (Europa Press): shooting finished, last scenes at the Valle de los Caidos basilica and La Guardia; Mur Oti says the film answers why Christ, who gave health and life to so many, died alone. Interested source (director)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "El Diario Palentino, 20 June 1965: cinema listing with 'Calificacion moral' numbers",
+    "publisher": "El Diario Palentino; digitised on the Internet Archive",
+    "url": "https://archive.org/details/ElDiarioPalentino_19650620_07495",
+    "accessed": "2026-10-12",
+    "claims": [
+      "20 Jun 1965: 'Milagro a los cobardes' listed with moral classification (3) in the paper's calificacion moral line; the issuing body is not named in the listing, so treat as supporting only."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "milagro-a-los-cobardes-1962",
+        "status": "GREY",
+        "title": "El Diario Palentino, 20 June 1965: cinema listing with 'Calificacion moral' numbers",
+        "claims": [
+          "20 Jun 1965: 'Milagro a los cobardes' listed with moral classification (3) in the paper's calificacion moral line; the issuing body is not named in the listing, so treat as supporting only."
         ]
       }
     ]
@@ -43951,7 +44519,7 @@
     "films": [
       {
         "id": "la-vie-de-jesus-1951",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "La Vie de Jésus (film, 1951)",
         "claims": [
           "French documentary by Marcel Gibaud, 70 minutes, black and white, 35 mm; life of Christ through paintings by Rembrandt, Holbein, Raphael and others; Maria Casarès credited as voice; music Marcel Landowski; photography Pierre Petit; Panthéon Productions; released 11 April 1952; Prix OCIC special mention at Cannes 1952; also titled En souvenir de moi; Les Films du jeudi catalogue."
@@ -43971,10 +44539,34 @@
     "films": [
       {
         "id": "la-vie-de-jesus-1951",
-        "status": "GREY",
+        "status": "PUBLISH",
         "title": "1952 Cannes Film Festival",
         "claims": [
           "OCIC Award to Two Cents Worth of Hope; Special Mention to La Vie de Jésus by Marcel Gibaud."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "La Vie intellectuelle, vol. 20, May 1952, pp. 129-131: 'Cinema: La Vie de Jesus' (J.-L. Tallenay)",
+    "publisher": "La Vie intellectuelle (Dominican review, Editions du Cerf, Paris); digitised on the Internet Archive",
+    "url": "https://archive.org/details/vie-intellectuelle_1952-05_20",
+    "accessed": "2026-10-12",
+    "claims": [
+      "May 1952: Gibaud's film is the first feature composed wholly of filmed paintings; for the respect owed the subject and its religious value it stands well above earlier 'sacred cinema' attempts, including Duvivier's Golgotha.",
+      "May 1952: praises the choice of framing, camera movement, montage and rhythm; the commentary is 'd'une remarquable sobriete' and spoken by Maria Casares with discretion, and at its best the film lifts the viewer to the level of the sacred.",
+      "May 1952: reservations: the sudden switch between painterly styles breaks the narrative and the religious sense, some music and text feel artificial, and an unbroken ninety-minute narrative from such varied works was an impossible wager."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "la-vie-de-jesus-1951",
+        "status": "PUBLISH",
+        "title": "La Vie intellectuelle, vol. 20, May 1952, pp. 129-131: 'Cinema: La Vie de Jesus' (J.-L. Tallenay)",
+        "claims": [
+          "May 1952: Gibaud's film is the first feature composed wholly of filmed paintings; for the respect owed the subject and its religious value it stands well above earlier 'sacred cinema' attempts, including Duvivier's Golgotha.",
+          "May 1952: praises the choice of framing, camera movement, montage and rhythm; the commentary is 'd'une remarquable sobriete' and spoken by Maria Casares with discretion, and at its best the film lifts the viewer to the level of the sacred.",
+          "May 1952: reservations: the sudden switch between painterly styles breaks the narrative and the religious sense, some music and text feel artificial, and an unbroken ninety-minute narrative from such varied works was an impossible wager."
         ]
       }
     ]
@@ -44075,6 +44667,30 @@
         "title": "La Maison du silence",
         "claims": [
           "Synopsis: a religious retreat house for men; the young priest who hears their confidences begins to doubt his mission; cast Aldo Fabrizi (Pio Fabiani), Jean Marais, Daniel Gélin, Cosetta Greco; screenplay Giuseppe Berto and Oreste Biancoli; 1h50. No press reviews; user ratings only."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Furrow, vol. 7 no. 10, October 1956, 'Chronicle' (film notes), pp. 621-622: on 'The Voice of Silence'",
+    "publisher": "The Furrow (pastoral monthly, Maynooth); digitised on the Internet Archive",
+    "url": "https://archive.org/details/sim_furrow-ie_1956-10_7_10",
+    "accessed": "2026-10-12",
+    "claims": [
+      "Oct 1956, p. 622: reviewer saw it at the New Corinthian, Dublin, in August 1956 and calls it the most bogus film on a religious subject he has seen; says it purports to show a Jesuit retreat for laymen in Rome.",
+      "Oct 1956, p. 622: says Fabrizi, Gelin and Marais are made to look foolish; the flashbacks are trite and inconclusive; the Jesuit directors dither; one priest in the act of leaving the cloth is recalled by a street accident, a superficial treatment compared with Le Defroque.",
+      "Same column, p. 621: praises Delannoy's Isle of Sinners as a film that shows the sacraments rooted in real people, as the contrast."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "la-voce-del-silenzio-1953",
+        "status": "GREY",
+        "title": "The Furrow, vol. 7 no. 10, October 1956, 'Chronicle' (film notes), pp. 621-622: on 'The Voice of Silence'",
+        "claims": [
+          "Oct 1956, p. 622: reviewer saw it at the New Corinthian, Dublin, in August 1956 and calls it the most bogus film on a religious subject he has seen; says it purports to show a Jesuit retreat for laymen in Rome.",
+          "Oct 1956, p. 622: says Fabrizi, Gelin and Marais are made to look foolish; the flashbacks are trite and inconclusive; the Jesuit directors dither; one priest in the act of leaving the cloth is recalled by a street accident, a superficial treatment compared with Le Defroque.",
+          "Same column, p. 621: praises Delannoy's Isle of Sinners as a film that shows the sacraments rooted in real people, as the contrast."
         ]
       }
     ]
@@ -46196,6 +46812,50 @@
         "title": "Persecution",
         "claims": [
           "A martyr is a witness to the truth; those who die spreading or maintaining the Gospel are God's witnesses."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Moving Picture World, vol. 23, 2 January 1915, p. 82: 'The Sign of the Cross' (reviewed by George Blaisdell)",
+    "publisher": "The Moving Picture World (trade weekly, New York); digitised on the Internet Archive",
+    "url": "https://archive.org/details/movingpicturewor23newy",
+    "accessed": "2026-10-12",
+    "claims": [
+      "2 Jan 1915, p. 82: calls it an elaborately staged four-part adaptation of Wilson Barrett's play that keeps to the central theme; says it should appeal strongly to men and women of religious conviction.",
+      "2 Jan 1915, p. 82: Farnum plays Marcus with restraint; Mercia, a woman of faith, repels his passion; the action turns on Nero's persecution and ends with Marcus going to his death with Mercia as a Christian, which the reviewer finds impressive."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-sign-of-the-cross-1914",
+        "status": "GREY",
+        "title": "The Moving Picture World, vol. 23, 2 January 1915, p. 82: 'The Sign of the Cross' (reviewed by George Blaisdell)",
+        "claims": [
+          "2 Jan 1915, p. 82: calls it an elaborately staged four-part adaptation of Wilson Barrett's play that keeps to the central theme; says it should appeal strongly to men and women of religious conviction.",
+          "2 Jan 1915, p. 82: Farnum plays Marcus with restraint; Mercia, a woman of faith, repels his passion; the action turns on Nero's persecution and ends with Marcus going to his death with Mercia as a Christian, which the reviewer finds impressive."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Variety, 25 December 1914, vol. 37 no. 4: review of 'The Sign of the Cross' (Famous Players, at the Strand)",
+    "publisher": "Variety; digitised on the Internet Archive",
+    "url": "https://archive.org/details/sim_variety_1914-12-25_37_4",
+    "accessed": "2026-10-12",
+    "claims": [
+      "25 Dec 1914: released by Famous Players as a Paramount Christmas picture and chosen for the Strand; Marcus Superbus turns from Rome and takes up Christianity for love of Mercia and dies with other Christians in the lions' den.",
+      "25 Dec 1914: well cast and well played, five reels, the banquet and arena scenes the only costly-looking sets; the Sunday audience applauded. Secular trade review."
+    ],
+    "licensing": "Reference link only; no artwork permission implied.",
+    "films": [
+      {
+        "id": "the-sign-of-the-cross-1914",
+        "status": "GREY",
+        "title": "Variety, 25 December 1914, vol. 37 no. 4: review of 'The Sign of the Cross' (Famous Players, at the Strand)",
+        "claims": [
+          "25 Dec 1914: released by Famous Players as a Paramount Christmas picture and chosen for the Strand; Marcus Superbus turns from Rome and takes up Christianity for love of Mercia and dies with other Christians in the lions' den.",
+          "25 Dec 1914: well cast and well played, five reels, the banquet and arena scenes the only costly-looking sets; the Sunday audience applauded. Secular trade review."
         ]
       }
     ]
