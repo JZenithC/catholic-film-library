@@ -4,6 +4,46 @@ Date: 11 October 2026. Branch: `improve/editorial-pass`. Status: **committed on 
 
 This report is for the Founder. It covers what changed and why, before and after counts, the films added, removed and moved to the grey area, the rulings made, and what remains open. All figures come from the data files: "before" is the last commit (`2997caf`), "after" is the working tree on this branch.
 
+## Update, 12 October: second pass
+
+The figures in the sections below describe the first pass (deployed as `0b45cd1`). This update supersedes them.
+
+**Catalogue now:** 417 researched films. 97 recommended and 141 grey area are public, which makes 238 public film pages. The grey area holds 79 with reservations and 62 unverified. 165 films are rejected and 14 are on hold. The first pass had 38 public films.
+
+**Where the new films came from:** a discovery list of about 210 candidates, researched in three waves. Each film was ruled under the Founder's position. Old held films were resolved using:
+- the Legion of Decency lists and *Motion Picture Exhibitor* volumes on archive.org;
+- published scripts and reviews;
+- subtitle files, read line by line where a question turned on dialogue.
+
+Rulings and precedents are kept with the research notes.
+
+**New rules applied in this pass:**
+- Lost films are rejected.
+- Entries with no evidence that the film exists are rejected.
+- Apparitions count only if the Church approved them before the Council; films about modern or unapproved apparitions are rejected.
+- A pre-conciliar bishop's prohibition of a film outweighs a more lenient rating.
+
+**Film pages:** every public film now has an age band with reasons. The bands are All ages 35, 8+ 65, 12+ 92, 15+ 30 and Adults 16. Most pages also have:
+- principal cast with roles (225) and key crew (223);
+- "Theological notes" (228), citing only pre-conciliar authorities: Trent, the Roman Catechism, pre-1965 popes, the 1917 Code and the Catholic Encyclopedia;
+- "The history behind it" (185);
+- "Making the film" (236), covering production, release and contemporary Catholic reception.
+
+Each of these was fact-checked against opened sources before merging. Claims that could not be confirmed were cut.
+
+**Posters:** 186 of 238 public films have a poster or release cover:
+- 144 non-free source images, each no more than 400 px wide;
+- 23 distributor covers;
+- 16 public domain;
+- 3 openly licensed.
+
+The rest show the title card. The homepage, collections index and collection headings now show linked poster thumbnails.
+
+**Still open:**
+- About 40 grey-area films have a specific question that their dialogue would settle. These are listed in the research notes and are the next job.
+- Rossellini's *Acts of the Apostles* needs the correct subtitle file.
+- 14 films are on hold for identity or content.
+
 ## Why
 
 The first delivery had four problems:

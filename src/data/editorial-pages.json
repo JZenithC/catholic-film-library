@@ -5,7 +5,7 @@
     "sections": [
       {
         "heading": "The standard",
-        "text": "This site does not accept the Second Vatican Council or the reforms that followed it. Films are judged by Catholic doctrine and moral teaching as the Church taught them before the Council.\n\nThat is a standard, not a cut-off date. A film made in 2004 can meet it, and a film made in 1950 can fail it. Two rules follow from it:",
+        "text": "This site does not accept the Second Vatican Council or the reforms that followed it. Films are judged by Catholic doctrine and moral teaching as the Church taught them before the Council.\n\nThat is a standard, not a cut-off date. A film made in 2004 can meet it, and a film made in 1950 can fail it. Three rules follow from it:",
         "items": [
           {
             "term": "Saints",
@@ -14,6 +14,10 @@
           {
             "term": "The Church after the Council",
             "text": "A film is not included if its Catholic content is the post-conciliar Church presented as normal or exemplary: the new liturgy, religious life as reformed after the Council, or interreligious dialogue."
+          },
+          {
+            "term": "Apparitions",
+            "text": "A film about an apparition is included only if the Church approved the apparition before the Council, as with Guadalupe, Lourdes, La Salette or Fátima. Films about apparitions claimed since then, or never approved, such as Medjugorje or Garabandal, are not included."
           }
         ]
       },
@@ -56,6 +60,10 @@
           {
             "term": "Audience",
             "text": "Who is it for? Violence, sexual content and frightening scenes are noted separately, and a film that suits adults is not assumed to suit children."
+          },
+          {
+            "term": "Suitability",
+            "text": "Which ages is it suitable for, and why? Each page gives an age band (All ages, 8+, 12+, 15+ or Adults) with the reasons a parent would want to know."
           }
         ]
       },
@@ -81,7 +89,10 @@
           }
         ],
         "after": "New evidence can move a film either way. A grey-area film can become a recommendation, and any recommendation can be withdrawn.",
-        "link": { "href": "grey-area/", "label": "The grey-area films" }
+        "link": {
+          "href": "grey-area/",
+          "label": "The grey-area films"
+        }
       },
       {
         "heading": "Reference texts",
@@ -95,7 +106,10 @@
       {
         "heading": "Who decides",
         "text": "The Founder has the final say on what is included. Corrections and suggestions are always welcome.",
-        "link": { "href": "corrections/", "label": "Send a correction or suggestion" }
+        "link": {
+          "href": "corrections/",
+          "label": "Send a correction or suggestion"
+        }
       }
     ]
   },
@@ -114,7 +128,10 @@
       {
         "heading": "The point of view",
         "text": "Films are judged from a traditional Catholic standpoint. The site does not accept the Second Vatican Council or its reforms, and judges films by the Church's teaching as it stood before the Council. How that works in practice is set out on a separate page.",
-        "link": { "href": "principles/", "label": "How films are chosen" }
+        "link": {
+          "href": "principles/",
+          "label": "How films are chosen"
+        }
       },
       {
         "heading": "What it isn't",
@@ -123,7 +140,10 @@
       {
         "heading": "No ads, no tracking",
         "text": "There is no advertising, no affiliate links, no sign-up and no tracking. The site is a set of static pages. The research behind it and the full catalogue data are public.",
-        "link": { "href": "sources/", "label": "Sources and research" }
+        "link": {
+          "href": "sources/",
+          "label": "Sources and research"
+        }
       }
     ]
   },
